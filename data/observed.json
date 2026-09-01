@@ -356,6 +356,19 @@
     }
    }
   },
+  "bluecross blueshield of nebraska": {
+   "name": "BlueCross BlueShield of Nebraska",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:nebraskablue:/job/Omaha-NE/Cyber-Intern--Summer-2027_JR101407",
+      "workday:nebraskablue:/job/Omaha-NE/IS-Intern--Summer-2027_JR101411"
+     ],
+     "count": 2
+    }
+   }
+  },
   "bny": {
    "name": "BNY",
    "cycles": {
@@ -539,6 +552,18 @@
       "greenhouse:ctccampusboard:4708188005",
       "greenhouse:ctccampusboard:4708230005"
      ]
+    }
+   }
+  },
+  "clarios": {
+   "name": "Clarios",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:clarios:/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910"
+     ],
+     "count": 1
     }
    }
   },
@@ -772,6 +797,19 @@
      "role_ids": [
       "greenhouse:figureai:4691070006"
      ]
+    }
+   }
+  },
+  "first national bank": {
+   "name": "First National Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:fnbcorp:/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811",
+      "workday:fnbcorp:/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016"
+     ],
+     "count": 2
     }
    }
   },
@@ -1235,9 +1273,10 @@
      "role_ids": [
       "workday:mastercard:/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284869",
       "workday:mastercard:/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284879",
+      "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284868",
       "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1344,17 +1383,30 @@
     }
    }
   },
+  "newrez": {
+   "name": "Newrez",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:newrez:/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390"
+     ],
+     "count": 1
+    }
+   }
+  },
   "northrop grumman": {
    "name": "Northrop Grumman",
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 9,
+     "count": 10,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487",
+      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
@@ -1945,10 +1997,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-13",
      "role_ids": [
+      "workday:flir:/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667",
       "workday:flir:/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
       "workday:flir:/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1982,6 +2035,20 @@
       "lever:tevora:fe730e76-b19c-4026-97d6-f4b6120b299e"
      ],
      "count": 8
+    }
+   }
+  },
+  "texas instruments": {
+   "name": "Texas Instruments",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "oracle:ebgj.fa.us2.oraclecloud.com:253297",
+      "oracle:ebgj.fa.us2.oraclecloud.com:253299",
+      "oracle:ebgj.fa.us2.oraclecloud.com:253304"
+     ],
+     "count": 3
     }
    }
   },
@@ -2034,6 +2101,18 @@
      "role_ids": [
       "greenhouse:thetradedesk:5187605007"
      ]
+    }
+   }
+  },
+  "trumpf": {
+   "name": "TRUMPF",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:trumpf:/job/Farmington-CT/CNC-Programming-Intern_R00042595"
+     ],
+     "count": 1
     }
    }
   },
@@ -2318,5 +2397,5 @@
    }
   }
  },
- "updated_at": "2026-09-01T11:51:48Z"
+ "updated_at": "2026-09-01T15:48:01Z"
 }
