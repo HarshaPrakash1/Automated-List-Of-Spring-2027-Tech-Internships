@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-01T15:48:01Z",
- "data_as_of": "2026-09-01T15:48:01Z",
- "rendered_at": "2026-09-01T15:48:01Z",
+ "generated_at": "2026-09-01T19:05:53Z",
+ "data_as_of": "2026-09-01T19:05:53Z",
+ "rendered_at": "2026-09-01T19:05:53Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -776,7 +776,7 @@
    "expected": "2026-08-13",
    "days_until": -19,
    "status": "open",
-   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
+   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1640,6 +1640,25 @@
    }
   },
   {
+   "company": "CACI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
    "company": "DraftKings",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -1811,6 +1830,44 @@
    }
   },
   {
+   "company": "Hermeus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Johnson & Johnson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
    "company": "Newrez",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -1830,6 +1887,25 @@
    }
   },
   {
+   "company": "Stanley Black & Decker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
    "company": "Texas Instruments",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -1840,7 +1916,7 @@
    "expected": "2026-09-01",
    "days_until": 0,
    "status": "open",
-   "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253304",
+   "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253297",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4642,5 +4718,5 @@
    }
   }
  ],
- "count": 244
+ "count": 248
 }
