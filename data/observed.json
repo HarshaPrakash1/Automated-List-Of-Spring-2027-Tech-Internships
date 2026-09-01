@@ -159,6 +159,8 @@
       "oracle:egug.fa.us2.oraclecloud.com:26011781",
       "oracle:egug.fa.us2.oraclecloud.com:26011784",
       "oracle:egug.fa.us2.oraclecloud.com:26011796",
+      "oracle:egug.fa.us2.oraclecloud.com:26011828",
+      "oracle:egug.fa.us2.oraclecloud.com:26011831",
       "oracle:egug.fa.us2.oraclecloud.com:26011878",
       "oracle:egug.fa.us2.oraclecloud.com:26011893",
       "oracle:egug.fa.us2.oraclecloud.com:26011908",
@@ -168,13 +170,19 @@
       "oracle:egug.fa.us2.oraclecloud.com:26011991",
       "oracle:egug.fa.us2.oraclecloud.com:26011999",
       "oracle:egug.fa.us2.oraclecloud.com:26012000",
+      "oracle:egug.fa.us2.oraclecloud.com:26012333",
+      "oracle:egug.fa.us2.oraclecloud.com:26012339",
       "oracle:egug.fa.us2.oraclecloud.com:26012375",
       "oracle:egug.fa.us2.oraclecloud.com:26012392",
       "oracle:egug.fa.us2.oraclecloud.com:26012444",
       "oracle:egug.fa.us2.oraclecloud.com:26012460",
-      "oracle:egug.fa.us2.oraclecloud.com:26012462"
+      "oracle:egug.fa.us2.oraclecloud.com:26012462",
+      "oracle:egug.fa.us2.oraclecloud.com:26012764",
+      "oracle:egug.fa.us2.oraclecloud.com:26012781",
+      "oracle:egug.fa.us2.oraclecloud.com:26013190",
+      "oracle:egug.fa.us2.oraclecloud.com:26013191"
      ],
-     "count": 24
+     "count": 32
     }
    }
   },
@@ -2116,6 +2124,18 @@
     }
    }
   },
+  "vermeer": {
+   "name": "Vermeer",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165"
+     ],
+     "count": 1
+    }
+   }
+  },
   "vertex pharmaceuticals": {
    "name": "Vertex Pharmaceuticals",
    "cycles": {
@@ -2297,5 +2317,5 @@
    }
   }
  },
- "updated_at": "2026-09-01T00:52:19Z"
+ "updated_at": "2026-09-01T05:56:51Z"
 }
