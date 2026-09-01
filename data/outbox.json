@@ -1,26 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:egug.fa.us2.oraclecloud.com:26013190",
-      "oracle:egug.fa.us2.oraclecloud.com:26013191",
-      "oracle:egug.fa.us2.oraclecloud.com:26011828",
-      "oracle:egug.fa.us2.oraclecloud.com:26011831",
-      "oracle:egug.fa.us2.oraclecloud.com:26012333",
-      "oracle:egug.fa.us2.oraclecloud.com:26012339",
-      "oracle:egug.fa.us2.oraclecloud.com:26012764",
-      "oracle:egug.fa.us2.oraclecloud.com:26012781",
-      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165"
-    ],
-    "telegram": [
-      "oracle:egug.fa.us2.oraclecloud.com:26013190",
-      "oracle:egug.fa.us2.oraclecloud.com:26013191",
-      "oracle:egug.fa.us2.oraclecloud.com:26011828",
-      "oracle:egug.fa.us2.oraclecloud.com:26011831",
-      "oracle:egug.fa.us2.oraclecloud.com:26012333",
-      "oracle:egug.fa.us2.oraclecloud.com:26012339",
-      "oracle:egug.fa.us2.oraclecloud.com:26012764",
-      "oracle:egug.fa.us2.oraclecloud.com:26012781",
-      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
