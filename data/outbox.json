@@ -1,54 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:genpt:/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141",
-      "workday:genpt:/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140",
-      "workday:genpt:/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137",
-      "workday:genpt:/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135",
-      "workday:genpt:/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
-      "workday:genpt:/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133",
-      "lever:hermeus:d87ed913-affc-475e-b721-c5b5f11c3c7b",
-      "ashby:valon:b5a62c0c-823c-42dd-8cb5-e4b1455bcc64",
-      "workday:clearwateranalytics:/job/Office---New-York/Quant-Developer-Intern_R12185",
-      "workday:clearwateranalytics:/job/Office---New-York/Quant-Developer-Intern_R12184",
-      "workday:clearwateranalytics:/job/Office---New-York/Quant-Developer-Intern_R12182",
-      "workday:clearwateranalytics:/job/Office---New-York/Quant-Developer-Intern_R12183",
-      "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern-Referral--Summer-2027-_JR14932",
-      "workday:draftkings:/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960",
-      "greenhouse:eulerity:4709040006",
-      "workday:ntrs:/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1",
-      "workday:ntrs:/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1",
-      "workday:ntrs:/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1",
-      "workday:ntrs:/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442",
-      "workday:stryker:/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
-      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178"
-    ],
-    "telegram": [
-      "workday:genpt:/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141",
-      "workday:genpt:/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140",
-      "workday:genpt:/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137",
-      "workday:genpt:/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135",
-      "workday:genpt:/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
-      "workday:genpt:/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133",
-      "lever:hermeus:d87ed913-affc-475e-b721-c5b5f11c3c7b",
-      "ashby:valon:b5a62c0c-823c-42dd-8cb5-e4b1455bcc64",
-      "workday:clearwateranalytics:/job/Office---New-York/Quant-Developer-Intern_R12185",
-      "workday:clearwateranalytics:/job/Office---New-York/Quant-Developer-Intern_R12184",
-      "workday:clearwateranalytics:/job/Office---New-York/Quant-Developer-Intern_R12182",
-      "workday:clearwateranalytics:/job/Office---New-York/Quant-Developer-Intern_R12183",
-      "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern-Referral--Summer-2027-_JR14932",
-      "workday:draftkings:/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960",
-      "greenhouse:eulerity:4709040006",
-      "workday:ntrs:/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1",
-      "workday:ntrs:/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1",
-      "workday:ntrs:/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1",
-      "workday:ntrs:/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442",
-      "workday:stryker:/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
-      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
