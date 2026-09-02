@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-02T20:20:43Z",
- "data_as_of": "2026-09-02T20:20:43Z",
- "rendered_at": "2026-09-02T20:20:44Z",
+ "generated_at": "2026-09-02T22:48:52Z",
+ "data_as_of": "2026-09-02T22:48:52Z",
+ "rendered_at": "2026-09-02T22:48:52Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -3329,7 +3329,26 @@
     "cycle": "Spring 2027",
     "observed_on": "2026-08-28"
    }
+  },
+  {
+   "company": "Hadrian",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-02",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-02"
+   }
   }
  ],
- "count": 175
+ "count": 176
 }
