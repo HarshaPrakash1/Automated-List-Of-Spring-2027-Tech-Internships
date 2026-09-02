@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2",
+      "workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2",
+      "workday:stryker:/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769"
+    ],
+    "telegram": [
+      "workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2",
+      "workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2",
+      "workday:stryker:/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769"
+    ]
   }
 }
