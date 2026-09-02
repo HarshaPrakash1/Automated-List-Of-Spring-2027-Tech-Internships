@@ -534,6 +534,14 @@
       "workday:caci:/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359"
      ],
      "count": 4
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:caci:/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368",
+      "workday:caci:/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1"
+     ],
+     "count": 2
     }
    }
   },
@@ -1363,6 +1371,13 @@
      "role_ids": [
       "workday:lego:/job/Boston-Hub/Firmware-Engineering-Intern_0000031568"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "workday:lego:/job/Boston-Hub/Firmware-Engineering-Co-Op---Spring-2027_0000037765"
+     ],
+     "count": 1
     }
    }
   },
@@ -1588,6 +1603,14 @@
       "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520"
      ],
      "count": 1
+    },
+    "Spring 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
+      "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
+     ],
+     "count": 2
     }
    }
   },
@@ -2669,5 +2692,5 @@
    }
   }
  },
- "updated_at": "2026-09-02T05:26:29Z"
+ "updated_at": "2026-09-02T17:34:18Z"
 }

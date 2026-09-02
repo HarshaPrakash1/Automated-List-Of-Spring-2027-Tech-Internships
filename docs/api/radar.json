@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-02T05:26:29Z",
- "data_as_of": "2026-09-02T05:26:29Z",
- "rendered_at": "2026-09-02T05:26:29Z",
+ "generated_at": "2026-09-02T17:34:18Z",
+ "data_as_of": "2026-09-02T17:34:18Z",
+ "rendered_at": "2026-09-02T17:34:18Z",
  "cycle": "Spring 2027",
- "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Fall-2027-Tech-Internships",
+ "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
   {
    "company": "Virtu Financial",
@@ -16,7 +16,7 @@
    "expected": "2025-09-12",
    "days_until": -355,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+   "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
    "note": "trading cycle opens very early",
    "provenance": {
     "type": "engine-observed",
@@ -206,7 +206,7 @@
    "expected": "2026-08-07",
    "days_until": -26,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008",
+   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -263,7 +263,7 @@
    "expected": "2026-08-20",
    "days_until": -13,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014900536",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -282,7 +282,7 @@
    "expected": "2026-08-20",
    "days_until": -13,
    "status": "open",
-   "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Spring-2027_R71590",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Code-Security---Spring-2027_R71575",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -320,7 +320,7 @@
    "expected": "2026-08-24",
    "days_until": -9,
    "status": "open",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
    "note": "fall opening, many programs",
    "provenance": {
     "type": "engine-observed",
@@ -339,7 +339,7 @@
    "expected": "2026-08-25",
    "days_until": -8,
    "status": "open",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214487",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -443,6 +443,25 @@
    }
   },
   {
+   "company": "CACI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -2,
+   "status": "open",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
    "company": "CIBC",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -472,12 +491,50 @@
    "expected": "2026-09-01",
    "days_until": -1,
    "status": "open",
-   "url": "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b",
+   "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936",
    "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Northrop Grumman",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
+   "note": "fall opening, many roles need clearance",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
+   "company": "Lego",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://lego.wd103.myworkdayjobs.com/lego_executive/job/Boston-Hub/Firmware-Engineering-Co-Op---Spring-2027_0000037765",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-02"
    }
   },
   {
@@ -2400,25 +2457,6 @@
    }
   },
   {
-   "company": "Northrop Grumman",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2027-09-01",
-   "days_until": 364,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening, many roles need clearance",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://www.northropgrumman.com/careers",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Notion",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3293,5 +3331,5 @@
    }
   }
  ],
- "count": 173
+ "count": 175
 }
