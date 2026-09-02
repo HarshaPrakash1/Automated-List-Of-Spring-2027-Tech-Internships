@@ -2020,6 +2020,13 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324"
      ],
      "count": 13
+    },
+    "Spring 2027": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Winter-Spring-2027-_01870191"
+     ],
+     "count": 1
     }
    }
   },
@@ -2692,5 +2699,5 @@
    }
   }
  },
- "updated_at": "2026-09-02T17:34:18Z"
+ "updated_at": "2026-09-02T20:20:43Z"
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-02T17:34:18Z",
- "data_as_of": "2026-09-02T17:34:18Z",
- "rendered_at": "2026-09-02T17:34:18Z",
+ "generated_at": "2026-09-02T20:20:43Z",
+ "data_as_of": "2026-09-02T20:20:43Z",
+ "rendered_at": "2026-09-02T20:20:44Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -424,25 +424,6 @@
    }
   },
   {
-   "company": "Motorola",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-28",
-   "days_until": -5,
-   "status": "open",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-08-28"
-   }
-  },
-  {
    "company": "CACI",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -510,7 +491,7 @@
    "expected": "2026-09-01",
    "days_until": -1,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -531,6 +512,25 @@
    "status": "open",
    "url": "https://lego.wd103.myworkdayjobs.com/lego_executive/job/Boston-Hub/Firmware-Engineering-Co-Op---Spring-2027_0000037765",
    "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-02"
+   }
+  },
+  {
+   "company": "RTX",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Winter-Spring-2027-_01870191",
+   "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Spring 2027",
@@ -2723,25 +2723,6 @@
    }
   },
   {
-   "company": "RTX",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2027-09-01",
-   "days_until": 364,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening, many roles need clearance",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://careers.rtx.com/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Samsara",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3328,6 +3309,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-08-20"
+   }
+  },
+  {
+   "company": "Motorola",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-28",
+   "days_until": -5,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-08-28"
    }
   }
  ],
