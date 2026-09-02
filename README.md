@@ -21,9 +21,6 @@ _52 have a cycle the employer stated · 105 are recent postings whose cycle isn'
 
 Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list — newest roles on top, refreshed automatically throughout the day.
 
-**🔔 New roles in your inbox:** [subscribe by email](https://harshaprakash1.github.io/Automated-List-Of-Fall-2027-Tech-Internships/#subscribe) - one email a day, only when new internships actually appeared, unsubscribe from any email in two clicks. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FHarshaPrakash1%2FAutomated-List-Of-Fall-2027-Tech-Internships%2Fmain%2Fdocs%2Ffeed.xml).)
-
----
 
 ## What this is
 
