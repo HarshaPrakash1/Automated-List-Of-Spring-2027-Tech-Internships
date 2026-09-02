@@ -44,6 +44,21 @@
       "smartrecruiters:AbbVie:3743990014900536"
      ],
      "count": 9
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-20",
+     "role_ids": [
+      "smartrecruiters:AbbVie:3743990014697918",
+      "smartrecruiters:AbbVie:3743990014860211",
+      "smartrecruiters:AbbVie:3743990014860306",
+      "smartrecruiters:AbbVie:3743990014860386",
+      "smartrecruiters:AbbVie:3743990014860391",
+      "smartrecruiters:AbbVie:3743990014860456",
+      "smartrecruiters:AbbVie:3743990014896329",
+      "smartrecruiters:AbbVie:3743990014900496",
+      "smartrecruiters:AbbVie:3743990014900536"
+     ],
+     "count": 9
     }
    }
   },
@@ -140,6 +155,25 @@
       "amazon:amazon:10459543",
       "amazon:amazon:10517567"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "amazon:amazon:10517567"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "ameren": {
+   "name": "Ameren",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-08-10",
+     "role_ids": [
+      "workday:ameren:/job/St-Louis-MO/Cybersecurity-Co-Op_033868-1"
+     ],
+     "count": 1
     }
    }
   },
@@ -207,6 +241,13 @@
      "role_ids": [
       "greenhouse:andurilindustries:5148079007"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-06-10",
+     "role_ids": [
+      "greenhouse:andurilindustries:5148079007"
+     ],
+     "count": 1
     }
    }
   },
@@ -318,6 +359,13 @@
       "greenhouse:axontalentcommunity:7800617003",
       "greenhouse:axontalentcommunity:7800628003"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-07",
+     "role_ids": [
+      "greenhouse:axontalentcommunity:7837246003"
+     ],
+     "count": 1
     }
    }
   },
@@ -443,6 +491,13 @@
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212"
      ],
      "count": 1
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-28",
+     "role_ids": [
+      "workday:brunswick:/job/Champaign-IL/Software-Engineering-Intern_JR-051449"
+     ],
+     "count": 1
     }
    }
   },
@@ -565,6 +620,18 @@
     }
    }
   },
+  "cibc": {
+   "name": "CIBC",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:cibc:/job/Chicago-IL/XMLNAME-2027-Spring-Term-Software-Engineer-Co-op---Chicago--Northeastern-University-_2617782-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "clarios": {
    "name": "Clarios",
    "cycles": {
@@ -587,6 +654,13 @@
       "workday:cnoinc:/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419"
      ],
      "count": 2
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "workday:cnoinc:/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389"
+     ],
+     "count": 1
     }
    }
   },
@@ -711,6 +785,16 @@
       "oracle:ebxr.fa.us2.oraclecloud.com:214487"
      ],
      "count": 4
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "oracle:ebxr.fa.us2.oraclecloud.com:214459",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214473",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214476",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214487"
+     ],
+     "count": 4
     }
    }
   },
@@ -747,6 +831,13 @@
      "role_ids": [
       "ashby:ellipsislabs:02136b22-35b1-4b3d-8bef-567c3380a849"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-03-26",
+     "role_ids": [
+      "ashby:ellipsislabs:02136b22-35b1-4b3d-8bef-567c3380a849"
+     ],
+     "count": 1
     }
    }
   },
@@ -796,6 +887,15 @@
       "workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582",
       "workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591",
       "workday:fifththird:/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
+     ],
+     "count": 3
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-20",
+     "role_ids": [
+      "workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Code-Security---Spring-2027_R71575",
+      "workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Spring-2027_R71590",
+      "workday:fifththird:/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587"
      ],
      "count": 3
     }
@@ -1002,6 +1102,13 @@
       "ashby:heliux:ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef"
      ],
      "count": 1
+    },
+    "Spring 2027": {
+     "first_posted": "2026-07-31",
+     "role_ids": [
+      "ashby:heliux:c71c0650-b6f7-491f-b291-6b280f58ee9c"
+     ],
+     "count": 1
     }
    }
   },
@@ -1019,6 +1126,14 @@
      ]
     },
     "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "lever:hermeus:445db430-6f81-41cf-847a-56a947afb936",
+      "lever:hermeus:d87ed913-affc-475e-b721-c5b5f11c3c7b"
+     ],
+     "count": 2
+    },
+    "Spring 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
       "lever:hermeus:445db430-6f81-41cf-847a-56a947afb936",
@@ -1340,6 +1455,13 @@
       "ashby:melius:b61f063a-4f94-4e50-a4ef-05aaab552280"
      ],
      "count": 1
+    },
+    "Spring 2027": {
+     "first_posted": "2026-07-31",
+     "role_ids": [
+      "ashby:melius:b61f063a-4f94-4e50-a4ef-05aaab552280"
+     ],
+     "count": 1
     }
    }
   },
@@ -1377,6 +1499,13 @@
       "workday:mosaic:/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1"
      ],
      "count": 1
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-20",
+     "role_ids": [
+      "workday:mosaic:/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Spring-2027_64729"
+     ],
+     "count": 1
     }
    }
   },
@@ -1399,6 +1528,13 @@
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
      ],
      "count": 3
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-28",
+     "role_ids": [
+      "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
+     ],
+     "count": 1
     }
    }
   },
@@ -1519,6 +1655,16 @@
       "greenhouse:thenuclearcompany:5391923008"
      ],
      "count": 4
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-07",
+     "role_ids": [
+      "greenhouse:thenuclearcompany:5383171008",
+      "greenhouse:thenuclearcompany:5383212008",
+      "greenhouse:thenuclearcompany:5383218008",
+      "greenhouse:thenuclearcompany:5391888008"
+     ],
+     "count": 4
     }
    }
   },
@@ -1546,6 +1692,13 @@
    "name": "Old Mission Capital",
    "cycles": {
     "Summer 2027": {
+     "first_posted": "2026-07-15",
+     "role_ids": [
+      "greenhouse:oldmissioncapital:7796180003"
+     ],
+     "count": 1
+    },
+    "Spring 2027": {
      "first_posted": "2026-07-15",
      "role_ids": [
       "greenhouse:oldmissioncapital:7796180003"
@@ -1644,6 +1797,13 @@
    "name": "Phoebe",
    "cycles": {
     "Fall 2026": {
+     "first_posted": "2026-08-20",
+     "role_ids": [
+      "ashby:phoebe-work:1ffe3e63-2163-447e-a8b0-1fff8b87e0ca"
+     ],
+     "count": 1
+    },
+    "Spring 2027": {
      "first_posted": "2026-08-20",
      "role_ids": [
       "ashby:phoebe-work:1ffe3e63-2163-447e-a8b0-1fff8b87e0ca"
@@ -1756,6 +1916,13 @@
      "first_posted": "2026-07-22",
      "role_ids": [
       "greenhouse:rendezvousrobotics:4328555009"
+     ],
+     "count": 1
+    },
+    "Spring 2027": {
+     "first_posted": "2026-07-22",
+     "role_ids": [
+      "greenhouse:rendezvousrobotics:4329122009"
      ],
      "count": 1
     }
@@ -2148,6 +2315,13 @@
      "role_ids": [
       "greenhouse:thetradedesk:5187605007"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-07-15",
+     "role_ids": [
+      "greenhouse:thetradedesk:5187605007"
+     ],
+     "count": 1
     }
    }
   },
@@ -2213,6 +2387,15 @@
      "role_ids": [
       "greenhouse:vardaspace:7676465003"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-07",
+     "role_ids": [
+      "greenhouse:vardaspace:7824766003",
+      "greenhouse:vardaspace:7824814003",
+      "greenhouse:vardaspace:7824815003"
+     ],
+     "count": 3
     }
    }
   },
@@ -2239,6 +2422,17 @@
      ]
     },
     "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "greenhouse:verkada:5210813007",
+      "greenhouse:verkada:5210942007",
+      "greenhouse:verkada:5211595007",
+      "greenhouse:verkada:5213881007",
+      "greenhouse:verkada:5219131007"
+     ],
+     "count": 5
+    },
+    "Spring 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
       "greenhouse:verkada:5210813007",
@@ -2285,8 +2479,17 @@
      "role_ids": [
       "greenhouse:virtu:8142539002",
       "greenhouse:virtu:8624408002",
-      "greenhouse:virtu:8624410002"
+      "greenhouse:virtu:8657500002"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2025-09-12",
+     "role_ids": [
+      "greenhouse:virtu:8142539002",
+      "greenhouse:virtu:8624408002",
+      "greenhouse:virtu:8657500002"
+     ],
+     "count": 3
     }
    }
   },
@@ -2312,6 +2515,14 @@
       "greenhouse:voloridgeinvestmentmanagement:4224862009",
       "greenhouse:voloridgeinvestmentmanagement:4226247009"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-06-11",
+     "role_ids": [
+      "greenhouse:voloridgeinvestmentmanagement:4224862009",
+      "greenhouse:voloridgeinvestmentmanagement:4226247009"
+     ],
+     "count": 2
     }
    }
   },
@@ -2340,6 +2551,19 @@
       "greenhouse:walleyecapital-external-students:4679168006",
       "greenhouse:walleyecapital-external-students:4679434006"
      ]
+    }
+   }
+  },
+  "walt disney": {
+   "name": "The Walt Disney Company",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-08-24",
+     "role_ids": [
+      "workday:disney:/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
+      "workday:disney:/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1"
+     ],
+     "count": 2
     }
    }
   },
@@ -2445,5 +2669,5 @@
    }
   }
  },
- "updated_at": "2026-09-02T00:21:49Z"
+ "updated_at": "2026-09-02T05:26:29Z"
 }
