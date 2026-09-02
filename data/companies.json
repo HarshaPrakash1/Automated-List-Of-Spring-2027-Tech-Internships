@@ -2043,6 +2043,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Armadin",
+    "slug": "armadin",
+    "ats": "ashby"
+  },
+  {
     "name": "Armanino",
     "slug": "armaninollp",
     "ats": "workday",
@@ -5145,6 +5150,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "Chegg"
+  },
+  {
+    "name": "Cheiron",
+    "slug": "cheiron",
+    "ats": "ashby"
   },
   {
     "name": "Chemours",
