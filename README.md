@@ -60,9 +60,8 @@ Use it to spot roles early and apply before they fill up. Being first genuinely 
 
 I'm building this in the open and adding to it as it grows.
 
-**Recently shipped:** email alerts · the Drop Radar · auto-detected sponsorship flags · the live dashboard
+**Recently shipped:** Rewrote the filters to filter out the Spring 2027 roles specifically
 
-**Next up:** personalized alerts (pick your categories) · per-company hiring pages · a ghost-posting detector
 
 If it helps you, a star means a lot and tells me to keep going.
 
