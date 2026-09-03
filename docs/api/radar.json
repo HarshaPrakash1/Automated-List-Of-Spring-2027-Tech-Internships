@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-03T18:17:16Z",
- "data_as_of": "2026-09-03T18:17:16Z",
- "rendered_at": "2026-09-03T18:17:17Z",
+ "generated_at": "2026-09-03T21:13:58Z",
+ "data_as_of": "2026-09-03T21:13:58Z",
+ "rendered_at": "2026-09-03T21:13:58Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -535,6 +535,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-02"
+   }
+  },
+  {
+   "company": "The Exploration Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/the-exploration-company/e23f19f1-b5fa-408a-822c-c6c37631a2fe",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-03"
    }
   },
   {
@@ -3350,5 +3369,5 @@
    }
   }
  ],
- "count": 176
+ "count": 177
 }

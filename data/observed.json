@@ -873,6 +873,18 @@
     }
    }
   },
+  "exploration": {
+   "name": "The Exploration Company",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "ashby:the-exploration-company:e23f19f1-b5fa-408a-822c-c6c37631a2fe"
+     ],
+     "count": 1
+    }
+   }
+  },
   "fannie mae": {
    "name": "Fannie Mae",
    "cycles": {
@@ -1158,10 +1170,11 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "lever:hermeus:445db430-6f81-41cf-847a-56a947afb936",
+      "lever:hermeus:555263f6-c5ec-4489-ab07-1aea546b70e7",
       "lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796",
       "lever:hermeus:d87ed913-affc-475e-b721-c5b5f11c3c7b"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2713,5 +2726,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T18:17:16Z"
+ "updated_at": "2026-09-03T21:13:58Z"
 }

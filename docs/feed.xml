@@ -5,23 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-03T18:17:16Z</updated>
+  <updated>2026-09-03T21:13:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Eurofins:744000147214369</id>
-    <title>Eurofins: AI &amp; Automation Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Eurofins/744000147214369"/>
-    <updated>2026-09-03T18:17:16Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Barcelona, CT, International (ES) · Python, SQL · status: closed</summary>
+    <id>urn:intern-engine:lever:hermeus:555263f6-c5ec-4489-ab07-1aea546b70e7</id>
+    <title>Hermeus: GNC &amp; Flight Software Intern - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7"/>
+    <updated>2026-09-03T21:13:58Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Atlanta, GA · 25–33 USD/hr · Python, C++, TypeScript, JavaScript, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Skyward1:744000147320799</id>
-    <title>Skyward: Software Engineer - Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Skyward1/744000147320799"/>
-    <updated>2026-09-03T18:17:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Stevens Point, WI, United States · status: closed</summary>
+    <id>urn:intern-engine:ashby:the-exploration-company:e23f19f1-b5fa-408a-822c-c6c37631a2fe</id>
+    <title>The Exploration Company: Spring 2027 Internship (Software) 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/the-exploration-company/e23f19f1-b5fa-408a-822c-c6c37631a2fe"/>
+    <updated>2026-09-03T21:13:58Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · California · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:corteva:/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W</id>
+    <title>Corteva: R&amp;D Internship – Computer &amp; Data Science</title>
+    <link href="https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W"/>
+    <updated>2026-09-03T21:13:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Indianapolis, Indiana, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:premierinc:/job/Charlotte-NC/Software-Engineer-Intern_R0008480</id>
+    <title>Premier: Software Engineer Intern</title>
+    <link href="https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480"/>
+    <updated>2026-09-03T21:13:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Charlotte, NC · JavaScript, React · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:premierinc:/job/Charlotte-NC/Data-Science-Intern_R0008481</id>
+    <title>Premier: Data Science Intern</title>
+    <link href="https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Data-Science-Intern_R0008481"/>
+    <updated>2026-09-03T21:13:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Charlotte, NC · H-1B track record: ~24 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:dynamiccatholic:603f082e-07c8-4b1c-ac09-8963c51229ad</id>
@@ -48,12 +72,20 @@
     <summary>Not stated · Data &amp; ML/AI · Bellevue, WA, United States (Remote) · $20/hr · Python, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:corteva:/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W</id>
-    <title>Corteva: R &amp; D Intern - Computer &amp; Data Science</title>
-    <link href="https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W"/>
+    <id>urn:intern-engine:smartrecruiters:Eurofins:744000147214369</id>
+    <title>Eurofins: AI &amp; Automation Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Eurofins/744000147214369"/>
     <updated>2026-09-03T18:17:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Indianapolis, Indiana, United States · Python, AWS, GCP, Azure</summary>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Barcelona, CT, International (ES) · Python, SQL · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Skyward1:744000147320799</id>
+    <title>Skyward: Software Engineer - Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Skyward1/744000147320799"/>
+    <updated>2026-09-03T18:17:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Stevens Point, WI, United States · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015046116</id>
@@ -62,6 +94,14 @@
     <updated>2026-09-03T18:17:16Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Moraine, OH, United States · H-1B track record: ~13 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:corteva:/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W</id>
+    <title>Corteva: R &amp; D Intern - Computer &amp; Data Science</title>
+    <link href="https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W"/>
+    <updated>2026-09-03T18:17:16Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · Indianapolis, Indiana, United States · Python, AWS, GCP, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869</id>
@@ -283,17 +323,17 @@
     <id>urn:intern-engine:workday:dairynet:/job/La-Crosse-Wisconsin/Intern--Energy-Data-Analyst_JR101052</id>
     <title>Dairyland Power Cooperative: Intern, Energy Data Analyst</title>
     <link href="https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Energy-Data-Analyst_JR101052"/>
-    <updated>2026-09-02T17:34:18Z</updated>
+    <updated>2026-09-03T21:13:58Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · La Crosse, Wisconsin · SQL</summary>
+    <summary>Not stated · Data &amp; ML/AI · La Crosse, Wisconsin · SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:dairynet:/job/La-Crosse-Wisconsin/Intern--Energy-Data-Science_JR101053</id>
     <title>Dairyland Power Cooperative: Intern, Energy Data Science</title>
     <link href="https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Energy-Data-Science_JR101053"/>
-    <updated>2026-09-02T17:34:18Z</updated>
+    <updated>2026-09-03T21:13:58Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · La Crosse, Wisconsin · Python, SQL, AWS, Git</summary>
+    <summary>Not stated · Data &amp; ML/AI · La Crosse, Wisconsin · Python, SQL, AWS, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ingredion:/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-02T05:26:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Cambridge, MA, Arlington, VA, Seattle, WA · Python, AWS, Azure, Docker, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968605003</id>
-    <title>Meridian Partners: Embedded Software Engineer Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA · Python, C++, Rust · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:oldmissioncapital:7796180003</id>
-    <title>Old Mission Capital: Software Engineer – 2027 Internship Program (June Start)</title>
-    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7796180003"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Chicago, IL, United States · Python, C++, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:olsson:5396116008</id>
-    <title>Olsson: Civil Engineering Internship - Federal Infrastructure Site Design</title>
-    <link href="https://job-boards.greenhouse.io/olsson/jobs/5396116008"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · North Kansas City, MO · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:point72:8721562002</id>
-    <title>Point72: Quantitative Developer Intern</title>
-    <link href="https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Quant · New York · Java, SQL, Bash, Docker, Linux · status: closed · H-1B track record: ~48 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rendezvousrobotics:4329122009</id>
-    <title>Rendezvous Robotics: Software Engineering Intern (Spring 2027)</title>
-    <link href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Golden, CO · Python, C++, Linux</summary>
   </entry>
 </feed>
