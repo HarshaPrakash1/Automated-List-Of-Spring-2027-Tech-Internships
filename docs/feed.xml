@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-03T00:50:41Z</updated>
+  <updated>2026-09-03T05:15:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796</id>
+    <title>Hermeus: Software Engineering Intern (Command &amp; Control) - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796"/>
+    <updated>2026-09-03T05:15:39Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Atlanta, GA · 25–33 USD/hr · C++, TypeScript, JavaScript, React, Angular · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1</id>
     <title>Intel: Software Development Graduate Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-02T05:26:29Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Security · El Segundo, California, United States · Python, Bash · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:vardaspace:7824814003</id>
-    <title>Varda Space: Site Reliability Internship - Spring 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/7824814003"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Other · El Segundo, California, United States · Python, AWS, GCP, Azure, Kubernetes · sponsorship: citizens-only</summary>
   </entry>
 </feed>
