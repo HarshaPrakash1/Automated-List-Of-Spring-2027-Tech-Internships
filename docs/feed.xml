@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-03T05:15:39Z</updated>
+  <updated>2026-09-03T09:53:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115</id>
+    <title>Booz Allen: AI Software Developer Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115"/>
+    <updated>2026-09-03T09:53:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Diego, CA · $141k/yr · Python, PyTorch, TensorFlow, scikit-learn, LLMs · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869</id>
+    <title>Booz Allen: AI RAN Telecommunications Engineer Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869"/>
+    <updated>2026-09-03T09:53:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · Python, C++, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214</id>
+    <title>Booz Allen: University – Summer 27, Cybersecurity Analyst Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214"/>
+    <updated>2026-09-03T09:53:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · McLean, VA · $108k/yr · Python, Java, C++, JavaScript, Bash · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796</id>
     <title>Hermeus: Software Engineering Intern (Command &amp; Control) - Spring/Summer 2027 🇺🇸</title>
@@ -251,9 +275,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677</id>
     <title>Northrop Grumman: 2027 Cybersecurity Analyst Intern -  Boulder CO 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677"/>
-    <updated>2026-09-02T17:34:18Z</updated>
+    <updated>2026-09-03T09:37:29Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · United States-Colorado-Boulder · $22.25–$27.25/hr · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Security · United States-Colorado-Boulder · $22.25–$27.25/hr · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-02T05:26:29Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · Washington, DC · Python, SQL, scikit-learn, Pandas, AWS · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thetradedesk:5187605007</id>
-    <title>The Trade Desk: 2027 North America Software Engineering Internship</title>
-    <link href="https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Bellevue; Boulder; Denver; Irvine; New York; Seattle · H-1B track record: ~43 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:transmarketgroup:5212335007</id>
-    <title>TransMarket Group: Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Chicago, Illinois, United States · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:vardaspace:7824766003</id>
-    <title>Varda Space: Cybersecurity Internship - Spring 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/7824766003"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · El Segundo, California, United States · Python, Bash · sponsorship: citizens-only</summary>
   </entry>
 </feed>

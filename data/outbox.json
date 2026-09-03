@@ -197,7 +197,10 @@
       "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1",
       "smartrecruiters:LLNL:3743990015035697",
       "workday:intel:/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1",
-      "lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796"
+      "lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796",
+      "workday:bah:/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115",
+      "workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+      "workday:bah:/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -396,7 +399,10 @@
       "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1",
       "smartrecruiters:LLNL:3743990015035697",
       "workday:intel:/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1",
-      "lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796"
+      "lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796",
+      "workday:bah:/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115",
+      "workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+      "workday:bah:/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214"
     ]
   }
 }
