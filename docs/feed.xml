@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-03T21:13:58Z</updated>
+  <updated>2026-09-03T23:29:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:555263f6-c5ec-4489-ab07-1aea546b70e7</id>
-    <title>Hermeus: GNC &amp; Flight Software Intern - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7"/>
-    <updated>2026-09-03T21:13:58Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Atlanta, GA · 25–33 USD/hr · Python, C++, TypeScript, JavaScript, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:ashby:the-exploration-company:e23f19f1-b5fa-408a-822c-c6c37631a2fe</id>
     <title>The Exploration Company: Spring 2027 Internship (Software) 🇺🇸</title>
@@ -22,6 +14,14 @@
     <updated>2026-09-03T21:13:58Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · California · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:555263f6-c5ec-4489-ab07-1aea546b70e7</id>
+    <title>Hermeus: GNC &amp; Flight Software Intern - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7"/>
+    <updated>2026-09-03T21:13:58Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Atlanta, GA · 25–33 USD/hr · Python, C++, TypeScript, JavaScript, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:corteva:/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W</id>
@@ -32,20 +32,20 @@
     <summary>Not stated · Data &amp; ML/AI · Indianapolis, Indiana, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:premierinc:/job/Charlotte-NC/Software-Engineer-Intern_R0008480</id>
-    <title>Premier: Software Engineer Intern</title>
-    <link href="https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480"/>
-    <updated>2026-09-03T21:13:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Charlotte, NC · JavaScript, React · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:premierinc:/job/Charlotte-NC/Data-Science-Intern_R0008481</id>
     <title>Premier: Data Science Intern</title>
     <link href="https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Data-Science-Intern_R0008481"/>
     <updated>2026-09-03T21:13:58Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Charlotte, NC · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:premierinc:/job/Charlotte-NC/Software-Engineer-Intern_R0008480</id>
+    <title>Premier: Software Engineer Intern</title>
+    <link href="https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480"/>
+    <updated>2026-09-03T21:13:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Charlotte, NC · JavaScript, React · H-1B track record: ~24 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:dynamiccatholic:603f082e-07c8-4b1c-ac09-8963c51229ad</id>

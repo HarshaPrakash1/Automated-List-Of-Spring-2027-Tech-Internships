@@ -8,7 +8,7 @@
 
 ### 205 open roles (165 listed below) · 205 new this week
 
-4,414 employers tracked · data as of Sep 03, 2026 at 21:13 UTC
+4,414 employers tracked · data as of Sep 03, 2026 at 23:29 UTC
 
 _59 have a cycle the employer stated · 146 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -89,8 +89,8 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Hermeus | GNC & Flight Software Intern - Spring/Summer 2027 🇺🇸 🆕 | Software | Atlanta, GA | Python, C++, TypeScript, JavaScript | Sep 03, 2026 | [Apply](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) |
 | The Exploration Company | Spring 2027 Internship (Software) 🇺🇸 🆕 | Software | California | No skills listed | Sep 03, 2026 | [Apply](https://jobs.ashbyhq.com/the-exploration-company/e23f19f1-b5fa-408a-822c-c6c37631a2fe) |
+| Hermeus | GNC & Flight Software Intern - Spring/Summer 2027 🇺🇸 🆕 | Software | Atlanta, GA | Python, C++, TypeScript, JavaScript | Sep 03, 2026 | [Apply](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) |
 | Hermeus | Software Engineering Intern (Command & Control) - Spring/Summer 2027 🇺🇸 🆕 | Software | Atlanta, GA | C++, TypeScript, JavaScript, React | Sep 03, 2026 | [Apply](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796) |
 | RTX | Software Engineering Co-op (Winter/Spring 2027) 🛂 🆕 | Software | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd… | Python, C++ | Sep 02, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Winter-Spring-2027-_01870191) |
 | Lego | Firmware Engineering Co-Op - Spring 2027 🆕 | Hardware | United States of America | Python | Sep 02, 2026 | [Apply](https://lego.wd103.myworkdayjobs.com/lego_executive/job/Boston-Hub/Firmware-Engineering-Co-Op---Spring-2027_0000037765) |
@@ -145,8 +145,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Corteva | R&D Internship – Computer & Data Science 🆕 | Data & ML/AI | Indianapolis, Indiana, United States | No skills listed | Sep 03, 2026 | [Apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W) |
-| Premier ✓ | Software Engineer Intern 🆕 | Software | Charlotte, NC | JavaScript, React | Sep 03, 2026 | [Apply](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480) |
 | Premier ✓ | Data Science Intern 🆕 | Data & ML/AI | Charlotte, NC | No skills listed | Sep 03, 2026 | [Apply](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Data-Science-Intern_R0008481) |
+| Premier ✓ | Software Engineer Intern 🆕 | Software | Charlotte, NC | JavaScript, React | Sep 03, 2026 | [Apply](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480) |
 | Winsupply ✓ | Data Analyst Intern 🆕 | Data & ML/AI | Moraine, OH, United States | No skills listed | Sep 03, 2026 | [Apply](https://jobs.smartrecruiters.com/Winsupply1/3743990015046116) |
 | Corteva | R & D Intern - Computer & Data Science 🆕 _(2 openings)_ | Data & ML/AI | Indianapolis, Indiana, United States | Python, AWS, GCP, Azure | Sep 03, 2026 | [Apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W) [#2](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W) |
 | Dynamic Catholic | Internship - Front-End UX Intern 🛂 🆕 | Other | Erlanger, Kentucky | JavaScript, HTML/CSS | Sep 02, 2026 | [Apply](https://jobs.lever.co/dynamiccatholic/603f082e-07c8-4b1c-ac09-8963c51229ad) |
@@ -324,7 +324,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,291 of 4,661 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 92% of the full registry) · completed in 1142.5s · 580 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,245 of 4,661 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1025.7s · 558 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
