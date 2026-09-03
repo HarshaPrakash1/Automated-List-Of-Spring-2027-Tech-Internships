@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-02T22:48:52Z</updated>
+  <updated>2026-09-03T00:50:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1</id>
+    <title>Intel: Software Development Graduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1"/>
+    <updated>2026-09-03T00:50:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US, California, Folsom · Python, C++, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:hadrian-automation:2b0423c6-947d-4226-8d23-90743bd5e63e</id>
     <title>Hadrian: Software Engineer Intern 🇺🇸</title>
@@ -24,14 +32,6 @@
     <summary>Fall 2026 · Data &amp; ML/AI · Los Angeles, CA · Python, SQL · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:reflect-orbital:d5ade048-5555-4a77-b002-d117254b6e6b</id>
-    <title>Reflect Orbital: Embedded Firmware Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b"/>
-    <updated>2026-09-02T22:48:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Hawthorne, CA · $27 – $31 per hour · Python, C++</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:reflect-orbital:d2ad1427-89aa-404d-8678-7b8e6dace5e2</id>
     <title>Reflect Orbital: Flight Software Engineering Intern</title>
     <link href="https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2"/>
@@ -40,12 +40,12 @@
     <summary>Not stated · Software · Hawthorne, CA · $27 – $31 per hour</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1</id>
-    <title>Hewlett Packard (HP): Software Product Security Engineer Intern 🛂</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1"/>
+    <id>urn:intern-engine:ashby:reflect-orbital:d5ade048-5555-4a77-b002-d117254b6e6b</id>
+    <title>Reflect Orbital: Embedded Firmware Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b"/>
     <updated>2026-09-02T22:48:52Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · Spring, Texas, United States of America · $35–$40/hr · Python, C++, C#, TypeScript · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Hardware · Hawthorne, CA · $27 – $31 per hour · Python, C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:LLNL:3743990015035697</id>
@@ -54,6 +54,14 @@
     <updated>2026-09-02T22:48:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Livermore, CA, United States (Remote) · LLMs · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1</id>
+    <title>Hewlett Packard (HP): Software Product Security Engineer Intern 🛂</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1"/>
+    <updated>2026-09-02T22:48:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Spring, Texas, United States of America · $35–$40/hr · Python, C++, C#, TypeScript · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/AI-Solutions-Intern_R-011074</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-02T05:26:29Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Other · El Segundo, California, United States · Python, AWS, GCP, Azure, Kubernetes · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:vardaspace:7824815003</id>
-    <title>Varda Space: Flight Software Internship - Spring 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/7824815003"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · El Segundo, California, United States · Python, C++, Linux · sponsorship: citizens-only</summary>
   </entry>
 </feed>
