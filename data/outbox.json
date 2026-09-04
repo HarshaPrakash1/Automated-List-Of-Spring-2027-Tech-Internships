@@ -212,7 +212,13 @@
       "workday:corteva:/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W",
       "workday:premierinc:/job/Charlotte-NC/Software-Engineer-Intern_R0008480",
       "workday:premierinc:/job/Charlotte-NC/Data-Science-Intern_R0008481",
-      "amazon:amazon:10529525"
+      "amazon:amazon:10529525",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007589",
+      "oracle:edbz.fa.us2.oraclecloud.com:25017705",
+      "workday:directsupply:/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553",
+      "workday:jci:/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1",
+      "workday:stryker:/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734",
+      "workday:disney:/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -426,7 +432,13 @@
       "workday:corteva:/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W",
       "workday:premierinc:/job/Charlotte-NC/Software-Engineer-Intern_R0008480",
       "workday:premierinc:/job/Charlotte-NC/Data-Science-Intern_R0008481",
-      "amazon:amazon:10529525"
+      "amazon:amazon:10529525",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007589",
+      "oracle:edbz.fa.us2.oraclecloud.com:25017705",
+      "workday:directsupply:/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553",
+      "workday:jci:/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1",
+      "workday:stryker:/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734",
+      "workday:disney:/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1"
     ]
   }
 }

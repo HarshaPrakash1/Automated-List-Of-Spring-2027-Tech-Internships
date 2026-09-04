@@ -1438,6 +1438,13 @@
       "workday:bcbsla:/job/Corporate---Baton-Rouge-LA/Healthcare-Price-and-Transparency-Data-Analyst-Intern_R11903"
      ],
      "count": 1
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-28",
+     "role_ids": [
+      "workday:bcbsla:/job/Corporate---Baton-Rouge-LA/Healthcare-Price-and-Transparency-Data-Analyst-Intern_R11903"
+     ],
+     "count": 1
     }
    }
   },
@@ -2219,6 +2226,13 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007361"
      ],
      "count": 1
+    },
+    "Spring 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007589"
+     ],
+     "count": 1
     }
    }
   },
@@ -2618,10 +2632,11 @@
     "Spring 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "workday:disney:/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1",
       "workday:disney:/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
       "workday:disney:/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2727,5 +2742,5 @@
    }
   }
  },
- "updated_at": "2026-09-04T11:55:48Z"
+ "updated_at": "2026-09-04T16:33:04Z"
 }

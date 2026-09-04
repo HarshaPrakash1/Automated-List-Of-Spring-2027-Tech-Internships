@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-04T11:55:48Z</updated>
+  <updated>2026-09-04T16:33:04Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:skillzinc:8168006</id>
+    <title>skillz: Co-op, Software Engineer</title>
+    <link href="https://job-boards.greenhouse.io/skillzinc/jobs/8168006"/>
+    <updated>2026-09-04T16:33:04Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Las Vegas, Nevada, United States · $32/hr · Java, AWS, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007589</id>
+    <title>Stantec: Digital Practice Co-op/Intern - Infrastructure (Spring/Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589"/>
+    <updated>2026-09-04T16:33:04Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Washington, DC, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017705</id>
+    <title>Texas Instruments: Systems Engineering Intern - Machine Learning Expert</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017705"/>
+    <updated>2026-09-04T16:33:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Dallas, TX, United States · Python, C++, PyTorch, LLMs · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:directsupply:/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553</id>
+    <title>Direct Supply: AI Engineer Intern</title>
+    <link href="https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553"/>
+    <updated>2026-09-04T16:33:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Milwaukee, WI · Python, React, Node.js, AWS · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jci:/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1</id>
+    <title>Johnson Controls: Software/Controls Engineering Grad Intern</title>
+    <link href="https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1"/>
+    <updated>2026-09-04T16:33:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Salem-Virginia-United States of America · C++ · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:stryker:/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734</id>
+    <title>Stryker: Customer One Intern (Data Analyst) - Cary, IL</title>
+    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734"/>
+    <updated>2026-09-04T16:33:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Cary, Illinois · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:disney:/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1</id>
+    <title>The Walt Disney Company: Commercial Data Science Intern, Spring 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1"/>
+    <updated>2026-09-04T16:33:04Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Celebration, FL, USA · $43/hr · Python, SQL, Git, Tableau</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10529525</id>
     <title>Amazon: Software Development Engineer Intern, ROBOTICS - 2027</title>
@@ -750,61 +806,5 @@
     <updated>2026-09-02T05:26:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Austin, Texas · Python, SQL · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:katalyst:6176711004</id>
-    <title>Katalyst Space Technologies: Engineering Intern (Electrical / Mechanical / GNC / Software)</title>
-    <link href="https://job-boards.greenhouse.io/katalyst/jobs/6176711004"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Broomfield, Colorado, United States · Python, C++, MATLAB, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7967400003</id>
-    <title>Meridian Partners: Flight Software Engineer Co-op</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA · Python, C++, Rust, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7967614003</id>
-    <title>Meridian Partners: Cloud Software Engineer Co-op</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA · Python, AWS, GCP, Azure, Kubernetes</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7967886003</id>
-    <title>Meridian Partners: Data Scientist Graduate Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967886003"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cambridge, MA, Arlington, VA · Python, scikit-learn, Pandas, LLMs, Computer Vision · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968076003</id>
-    <title>Meridian Partners: Front End Software Engineer Graduate Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA · Python, React, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968100003</id>
-    <title>Meridian Partners: Full Stack Software Engineer Graduate Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968100003"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA, Arlington, VA, Seattle, WA · Python, JavaScript, AWS, Azure, Docker · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968308003</id>
-    <title>Meridian Partners: Machine Learning Engineer Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cambridge, MA, Arlington, VA, Seattle, WA · Python, LLMs, Computer Vision, AWS, Azure · sponsorship: citizens-only</summary>
   </entry>
 </feed>
