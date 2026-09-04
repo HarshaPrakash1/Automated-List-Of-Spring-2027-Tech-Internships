@@ -2116,6 +2116,20 @@
     }
    }
   },
+  "schonfeld": {
+   "name": "Schonfeld",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "greenhouse:schonfeld:8171692",
+      "greenhouse:schonfeld:8171696",
+      "greenhouse:schonfeld:8180089"
+     ],
+     "count": 3
+    }
+   }
+  },
   "sentara health": {
    "name": "Sentara Health",
    "cycles": {
@@ -2347,6 +2361,13 @@
      "role_ids": [
       "workable:tmeic-corporation-americas:FD4C9770FF"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-08-12",
+     "role_ids": [
+      "workable:tmeic-corporation-americas:6FDBF2FD32"
+     ],
+     "count": 1
     }
    }
   },
@@ -2742,5 +2763,5 @@
    }
   }
  },
- "updated_at": "2026-09-04T16:33:04Z"
+ "updated_at": "2026-09-04T19:19:19Z"
 }

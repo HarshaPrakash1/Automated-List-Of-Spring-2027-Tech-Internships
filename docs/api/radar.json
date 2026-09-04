@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-04T16:33:04Z",
- "data_as_of": "2026-09-04T16:33:04Z",
- "rendered_at": "2026-09-04T16:33:05Z",
+ "generated_at": "2026-09-04T19:19:19Z",
+ "data_as_of": "2026-09-04T19:19:19Z",
+ "rendered_at": "2026-09-04T19:19:19Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -234,6 +234,25 @@
    }
   },
   {
+   "company": "TMEIC",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-12",
+   "days_until": -23,
+   "status": "open",
+   "url": "https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-08-12"
+   }
+  },
+  {
    "company": "AbbVie",
    "last_cycle_posted": "",
    "posted_on": "2026-08-20",
@@ -301,7 +320,7 @@
    "expected": "2026-08-24",
    "days_until": -11,
    "status": "open",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1",
    "note": "fall opening, many programs",
    "provenance": {
     "type": "engine-observed",
@@ -481,25 +500,6 @@
    }
   },
   {
-   "company": "Northrop Grumman",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
-   "note": "fall opening, many roles need clearance",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-01"
-   }
-  },
-  {
    "company": "Lego",
    "last_cycle_posted": "",
    "posted_on": "2026-09-02",
@@ -554,6 +554,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-03"
+   }
+  },
+  {
+   "company": "Schonfeld",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171696",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-04"
    }
   },
   {
@@ -3388,6 +3407,25 @@
    }
   },
   {
+   "company": "Northrop Grumman",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "fall opening, many roles need clearance",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-01"
+   }
+  },
+  {
    "company": "Hadrian",
    "last_cycle_posted": "",
    "posted_on": "2026-09-02",
@@ -3407,5 +3445,5 @@
    }
   }
  ],
- "count": 179
+ "count": 181
 }
