@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-04T21:42:34Z</updated>
+  <updated>2026-09-04T23:30:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:cna:/job/Chicago-IL-USA/Technology-Internship-Program--AI-Strategy-_R-8127-1</id>
+    <title>CNA Insurance: Technology Internship Program (AI Strategy) 🛂</title>
+    <link href="https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-Strategy-_R-8127-1"/>
+    <updated>2026-09-04T23:30:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago, IL, USA · $35k–$65k/yr · LLMs · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cna:/job/Chicago-IL-USA/Technology-Internship-Program--AI-Engineering-_R-8126</id>
+    <title>CNA Insurance: Technology Internship Program (AI Engineering) 🛂</title>
+    <link href="https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-Engineering-_R-8126"/>
+    <updated>2026-09-04T23:30:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago, IL, USA · $35k–$65k/yr · Python, SQL, Terraform · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:garnerhealth:6164698004</id>
+    <title>Garner Health: Software Engineering Intern 🛂</title>
+    <link href="https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004"/>
+    <updated>2026-09-04T23:30:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York City, New York · Python, TypeScript, JavaScript, React, Node.js · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:cna:/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107</id>
     <title>CNA Insurance: Technology Internship Program (Software Engineering) 🛂</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-02T05:26:29Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Data &amp; ML/AI · Boston, MA · Python, Java, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:audaxgroup:4722801005</id>
-    <title>Audax Group: AI Engineer Co-Op</title>
-    <link href="https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Boston, MA · Python, SQL, Azure, Git, Snowflake · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:awetomaton:5394046008</id>
-    <title>Awetomaton: Platform Engineering Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/awetomaton/jobs/5394046008"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Beavercreek, OH · Python, Java, AWS, GCP, Azure · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:axontalentcommunity:7837246003</id>
-    <title>Axon: 2027 US Firmware Engineering Internship</title>
-    <link href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Hardware · Seattle, Washington, United States · Python, C++, Go, Rust, Linux</summary>
   </entry>
 </feed>
