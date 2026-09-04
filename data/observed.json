@@ -159,9 +159,10 @@
     "Spring 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
-      "amazon:amazon:10517567"
+      "amazon:amazon:10517567",
+      "amazon:amazon:10529525"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2726,5 +2727,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T23:29:54Z"
+ "updated_at": "2026-09-04T01:32:03Z"
 }

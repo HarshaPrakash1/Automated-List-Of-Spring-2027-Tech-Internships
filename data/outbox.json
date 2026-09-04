@@ -211,7 +211,8 @@
       "workday:corteva:/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
       "workday:corteva:/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W",
       "workday:premierinc:/job/Charlotte-NC/Software-Engineer-Intern_R0008480",
-      "workday:premierinc:/job/Charlotte-NC/Data-Science-Intern_R0008481"
+      "workday:premierinc:/job/Charlotte-NC/Data-Science-Intern_R0008481",
+      "amazon:amazon:10529525"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -424,7 +425,8 @@
       "workday:corteva:/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
       "workday:corteva:/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W",
       "workday:premierinc:/job/Charlotte-NC/Software-Engineer-Intern_R0008480",
-      "workday:premierinc:/job/Charlotte-NC/Data-Science-Intern_R0008481"
+      "workday:premierinc:/job/Charlotte-NC/Data-Science-Intern_R0008481",
+      "amazon:amazon:10529525"
     ]
   }
 }

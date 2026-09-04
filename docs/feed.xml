@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-03T23:29:54Z</updated>
+  <updated>2026-09-04T01:32:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10529525</id>
+    <title>Amazon: Software Development Engineer Intern, ROBOTICS - 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"/>
+    <updated>2026-09-04T01:32:03Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Hardware · North Reading, Massachusetts, USA · Python, Java, C++, C#, Rust · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:the-exploration-company:e23f19f1-b5fa-408a-822c-c6c37631a2fe</id>
     <title>The Exploration Company: Spring 2027 Internship (Software) 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-02T05:26:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Cambridge, MA, Arlington, VA, Seattle, WA · Python, LLMs, Computer Vision, AWS, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968485003</id>
-    <title>Meridian Partners: Python Software Engineer Graduate Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968485003"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA, Arlington, VA, Seattle, WA · Python, AWS, Azure, Docker, Git · sponsorship: citizens-only</summary>
   </entry>
 </feed>
