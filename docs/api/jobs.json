@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-04T06:44:34Z",
- "data_as_of": "2026-09-04T06:44:34Z",
- "rendered_at": "2026-09-04T06:44:34Z",
+ "generated_at": "2026-09-04T11:55:48Z",
+ "data_as_of": "2026-09-04T11:55:48Z",
+ "rendered_at": "2026-09-04T11:55:48Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 205,
+ "count": 204,
  "jobs": [
   {
    "id": "amazon:amazon:10529525",
@@ -4801,30 +4801,6 @@
     "AWS"
    ],
    "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:draper:/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718",
-   "company": "Draper",
-   "title": "Embedded Quality & Fielded Systems Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Cambridge, MA",
-   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718",
-   "posted_at": "2026-08-05T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-02T05:26:29Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C#"
-   ],
-   "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
