@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-05T11:11:26Z</updated>
+  <updated>2026-09-05T14:01:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:simon:/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976</id>
+    <title>Simon Property Group: Intern - Data Engineering (Data Analytics, Information Sciences, Computer Science Majors)</title>
+    <link href="https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976"/>
+    <updated>2026-09-05T14:01:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Indianapolis, IN · Python, SQL, Snowflake, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:simon:/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975</id>
+    <title>Simon Property Group: Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors)</title>
+    <link href="https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975"/>
+    <updated>2026-09-05T14:01:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Indianapolis, IN · JavaScript, HTML/CSS, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:simon:/job/Indianapolis-IN/Intern---Project-Delivery--Information-Services---Computer-Science-Majors-_R13947</id>
+    <title>Simon Property Group: Intern - Project Delivery (Information Services / Computer Science Majors)</title>
+    <link href="https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Project-Delivery--Information-Services---Computer-Science-Majors-_R13947"/>
+    <updated>2026-09-05T14:01:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Indianapolis, IN</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:cna:/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1</id>
     <title>CNA Insurance: Technology Internship Program (Cybersecurity) 🛂</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-02T05:26:29Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States · Python, Java, C++, Rust, Computer Vision · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:appian:8041237</id>
-    <title>Appian: Software Engineering Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/appian/jobs/8041237"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · McLean, Virginia · $50/hr · LLMs · sponsorship: no-sponsorship · status: closed · H-1B track record: ~44 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:appian:8088496</id>
-    <title>Appian: Information Security Engineer Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/appian/jobs/8088496"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · McLean, Virginia · $50/hr · LLMs · sponsorship: no-sponsorship · status: closed · H-1B track record: ~44 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:audaxgroup:4722770005</id>
-    <title>Audax Group: Data Engineer Co-Op</title>
-    <link href="https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Boston, Massachusetts · Python, Java, SQL · status: closed</summary>
   </entry>
 </feed>
