@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-06T01:06:18Z</updated>
+  <updated>2026-09-06T06:02:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:harbingermotors:5231842007</id>
+    <title>Harbinger Motors: Intern, Cybersecurity</title>
+    <link href="https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007"/>
+    <updated>2026-09-06T06:02:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Garden Grove, CA · Python, Bash</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:simon:/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976</id>
     <title>Simon Property Group: Intern - Data Engineering (Data Analytics, Information Sciences, Computer Science Majors)</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-02T05:26:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · United States · Python, C++, PyTorch, LLMs, CUDA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:andurilindustries:5148079007</id>
-    <title>Anduril: 2027 Software Engineer Intern 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States · Python, Java, C++, Rust, Computer Vision · sponsorship: citizens-only</summary>
   </entry>
 </feed>

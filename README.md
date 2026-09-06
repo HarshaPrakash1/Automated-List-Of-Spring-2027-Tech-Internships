@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fharshaprakash1.github.io%2FAutomated-List-Of-Spring-2027-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml)
 
-### 221 open roles (180 listed below) · 221 new this week
+### 222 open roles (181 listed below) · 222 new this week
 
-4,477 employers tracked · data as of Sep 06, 2026 at 01:06 UTC
+4,477 employers tracked · data as of Sep 06, 2026 at 06:02 UTC
 
-_65 have a cycle the employer stated · 156 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_65 have a cycle the employer stated · 157 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/)** · **[📡 RSS](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/#subscribe)**
 
@@ -94,7 +94,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Schonfeld | 2027 Software Engineering Intern 🆕 | Software | New York, New York, United States | Python, Java, C++, Git | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) |
 | Stantec | Digital Practice Co-op/Intern - Infrastructure (Spring/Summer 2027) 🆕 | Software | Washington, DC, United States | No skills listed | Sep 04, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589) |
 | The Walt Disney Company | Commercial Data Science Intern, Spring 2027 🆕 | Data & ML/AI | Celebration, FL, USA | Python, SQL, Git, Tableau | Sep 04, 2026 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1) |
-| Amazon ✓ | Software Development Engineer Intern, ROBOTICS - 2027 🆕 | Hardware | North Reading, Massachusetts, USA | Python, Java, C++, C# | Sep 04, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
+| Amazon ✓ | Software Development Engineer Intern, ROBOTICS - 2027 | Hardware | North Reading, Massachusetts, USA | Python, Java, C++, C# | Sep 04, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
 | The Exploration Company | Spring 2027 Internship (Software) 🇺🇸 | Software | California | No skills listed | Sep 03, 2026 | [Apply](https://jobs.ashbyhq.com/the-exploration-company/e23f19f1-b5fa-408a-822c-c6c37631a2fe) |
 | Hermeus | GNC & Flight Software Intern - Spring/Summer 2027 🇺🇸 | Software | Atlanta, GA | Python, C++, TypeScript, JavaScript | Sep 03, 2026 | [Apply](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) |
 | Hermeus | Software Engineering Intern (Command & Control) - Spring/Summer 2027 🇺🇸 | Software | Atlanta, GA | C++, TypeScript, JavaScript, React | Sep 03, 2026 | [Apply](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796) |
@@ -144,12 +144,13 @@ If it helps you, a star means a lot and tells me to keep going.
 | Ellipsis Labs | Software Engineer - 2027 Interns | Software | New York, New York | Python, Java, C++, Rust | Mar 26, 2026 | [Apply](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) |
 | Virtu Financial | 2027 Internship - Quantitative Researcher (Undergrad) | Quant | New York | Python, C++, Pandas | Sep 12, 2025 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) |
 
-## Recently posted — cycle not stated  (117 roles)
+## Recently posted — cycle not stated  (118 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Harbinger Motors | Intern, Cybersecurity 🆕 | Security | Garden Grove, CA | Python, Bash | Sep 05, 2026 | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007) |
 | Simon Property Group | Intern - Data Engineering (Data Analytics, Information Sciences, Computer Science Majors) 🆕 | Data & ML/AI | Indianapolis, IN | Python, SQL, Snowflake, Tableau | Sep 04, 2026 | [Apply](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976) |
 | Simon Property Group | Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors) 🆕 | Software | Indianapolis, IN | JavaScript, HTML/CSS, Git | Sep 04, 2026 | [Apply](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975) |
 | Simon Property Group | Intern - Project Delivery (Information Services / Computer Science Majors) 🆕 | Software | Indianapolis, IN | No skills listed | Sep 04, 2026 | [Apply](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Project-Delivery--Information-Services---Computer-Science-Majors-_R13947) |
@@ -340,7 +341,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,313 of 4,726 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 91% of the full registry) · completed in 1026.8s · 566 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,275 of 4,726 registered boards returned successfully across 12 ATS platforms (95% of boards attempted, 90% of the full registry) · completed in 918.4s · 556 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
