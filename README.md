@@ -8,7 +8,7 @@
 
 ### 219 open roles (178 listed below) · 219 new this week
 
-4,479 employers tracked · data as of Sep 06, 2026 at 14:24 UTC
+4,479 employers tracked · data as of Sep 06, 2026 at 17:13 UTC
 
 _65 have a cycle the employer stated · 154 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -92,8 +92,8 @@ If it helps you, a star means a lot and tells me to keep going.
 | Schonfeld | 2027 Data Science Intern 🆕 | Data & ML/AI | New York, New York, United States | Python, SQL, Docker, Kafka | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
 | Schonfeld | 2027 Cybersecurity Operations Intern 🆕 | Security | New York, New York, United States | No skills listed | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) |
 | Schonfeld | 2027 Software Engineering Intern 🆕 | Software | New York, New York, United States | Python, Java, C++, Git | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) |
-| Stantec | Digital Practice Co-op/Intern - Infrastructure (Spring/Summer 2027) 🆕 | Software | Washington, DC, United States | No skills listed | Sep 04, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589) |
-| The Walt Disney Company | Commercial Data Science Intern, Spring 2027 🆕 | Data & ML/AI | Celebration, FL, USA | Python, SQL, Git, Tableau | Sep 04, 2026 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1) |
+| Stantec | Digital Practice Co-op/Intern - Infrastructure (Spring/Summer 2027) | Software | Washington, DC, United States | No skills listed | Sep 04, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589) |
+| The Walt Disney Company | Commercial Data Science Intern, Spring 2027 | Data & ML/AI | Celebration, FL, USA | Python, SQL, Git, Tableau | Sep 04, 2026 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1) |
 | Amazon ✓ | Software Development Engineer Intern, ROBOTICS - 2027 | Hardware | North Reading, Massachusetts, USA | Python, Java, C++, C# | Sep 04, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
 | The Exploration Company | Spring 2027 Internship (Software) 🇺🇸 | Software | California | No skills listed | Sep 03, 2026 | [Apply](https://jobs.ashbyhq.com/the-exploration-company/e23f19f1-b5fa-408a-822c-c6c37631a2fe) |
 | Hermeus | GNC & Flight Software Intern - Spring/Summer 2027 🇺🇸 | Software | Atlanta, GA | Python, C++, TypeScript, JavaScript | Sep 03, 2026 | [Apply](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) |
@@ -161,9 +161,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Microchip Technology ✓ | Intern - Engineering (Device Software and Test) 🆕 | Software | AZ - Chandler | Python, Java, C#, Linux | Sep 04, 2026 | [Apply](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26) |
 | Nokia | AI-Agent Development Co-op 🆕 | Data & ML/AI | United States | Python, LLMs, Git | Sep 04, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978) |
 | Loram | Machine Learning / Artificial Intelligence (AI) Intern 🆕 | Data & ML/AI | Hamel, MN, United States | Python, C#, SQL, PyTorch | Sep 04, 2026 | [Apply](https://jobs.smartrecruiters.com/Loram1/3743990015082845) |
-| Texas Instruments ✓ | Systems Engineering Intern - Machine Learning Expert 🆕 | Data & ML/AI | Dallas, TX, United States | Python, C++, PyTorch, LLMs | Sep 04, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017705) |
-| Johnson Controls ✓ | Software/Controls Engineering Grad Intern 🆕 | Software | Salem-Virginia-United States of America | C++ | Sep 04, 2026 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1) |
-| Stryker ✓ | Customer One Intern (Data Analyst) - Cary, IL 🆕 | Data & ML/AI | Cary, Illinois | No skills listed | Sep 04, 2026 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734) |
+| Texas Instruments ✓ | Systems Engineering Intern - Machine Learning Expert | Data & ML/AI | Dallas, TX, United States | Python, C++, PyTorch, LLMs | Sep 04, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017705) |
+| Johnson Controls ✓ | Software/Controls Engineering Grad Intern | Software | Salem-Virginia-United States of America | C++ | Sep 04, 2026 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1) |
+| Stryker ✓ | Customer One Intern (Data Analyst) - Cary, IL | Data & ML/AI | Cary, Illinois | No skills listed | Sep 04, 2026 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734) |
 | Corteva | R&D Internship – Computer & Data Science | Data & ML/AI | Indianapolis, Indiana, United States | No skills listed | Sep 03, 2026 | [Apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W) |
 | Premier ✓ | Data Science Intern | Data & ML/AI | Charlotte, NC | No skills listed | Sep 03, 2026 | [Apply](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Data-Science-Intern_R0008481) |
 | Premier ✓ | Software Engineer Intern | Software | Charlotte, NC | JavaScript, React | Sep 03, 2026 | [Apply](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480) |
@@ -340,7 +340,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,349 of 4,728 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1093.2s · 579 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,282 of 4,728 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 954.7s · 546 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
