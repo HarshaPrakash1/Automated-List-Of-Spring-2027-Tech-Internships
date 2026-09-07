@@ -1,11 +1,38 @@
 {
- "generated_at": "2026-09-07T01:10:11Z",
- "data_as_of": "2026-09-07T01:10:11Z",
- "rendered_at": "2026-09-07T01:10:11Z",
+ "generated_at": "2026-09-07T06:14:02Z",
+ "data_as_of": "2026-09-07T06:14:02Z",
+ "rendered_at": "2026-09-07T06:14:02Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 218,
+ "count": 219,
  "jobs": [
+  {
+   "id": "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396",
+   "company": "Hewlett Packard Enterprise",
+   "title": "HPC AI Systems Administrator Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bloomington, Minnesota, United States of America",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396",
+   "posted_at": "2026-09-06T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-07T06:14:02Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Bash",
+    "HTML/CSS",
+    "Linux",
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": 499,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:harbingermotors:5231842007",
    "company": "Harbinger Motors",
