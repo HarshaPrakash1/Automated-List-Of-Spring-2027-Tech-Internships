@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-09-08T00:00:36Z",
- "data_as_of": "2026-09-08T00:00:36Z",
- "rendered_at": "2026-09-08T00:00:36Z",
+ "generated_at": "2026-09-08T04:39:15Z",
+ "data_as_of": "2026-09-08T04:39:15Z",
+ "rendered_at": "2026-09-08T04:39:15Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 221,
+ "count": 222,
  "jobs": [
+  {
+   "id": "workday:gilead:/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744",
+   "company": "Gilead Sciences",
+   "title": "Intern - CFO - IT (AI Engineer)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "United States - North Carolina - Raleigh",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744",
+   "posted_at": "2026-09-08T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-08T04:39:15Z",
+   "sponsorship": "no-sponsorship",
+   "salary": null,
+   "skills": [
+    "LLMs",
+    "AWS",
+    "Databricks"
+   ],
+   "source": "workday",
+   "h1b_approvals": 272,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:hp:/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1",
    "company": "Hewlett Packard (HP)",

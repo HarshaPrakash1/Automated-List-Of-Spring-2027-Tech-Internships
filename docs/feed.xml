@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-08T00:00:36Z</updated>
+  <updated>2026-09-08T04:39:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744</id>
+    <title>Gilead Sciences: Intern - CFO - IT (AI Engineer) 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744"/>
+    <updated>2026-09-08T04:39:15Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States - North Carolina - Raleigh · LLMs, AWS, Databricks · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1</id>
     <title>Hewlett Packard (HP): Business Intelligence and Infrastructure Analysts  Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-02T05:26:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York City · Rust, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:phoebe-work:1ffe3e63-2163-447e-a8b0-1fff8b87e0ca</id>
-    <title>Phoebe: Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · New York City · Python, TypeScript, LLMs, React, AWS · status: closed</summary>
   </entry>
 </feed>
