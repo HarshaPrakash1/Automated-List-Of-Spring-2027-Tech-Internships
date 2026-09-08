@@ -248,7 +248,14 @@
       "workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403",
       "workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939",
-      "workday:micron:/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550"
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550",
+      "workday:bah:/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0248854",
+      "workday:bah:/job/Washington-DC/University--Applied-AI-Intern_R0248853",
+      "workday:deluxe:/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD",
+      "greenhouse:fspco-op012325:8783960002",
+      "smartrecruiters:LLNL:3743990015112846",
+      "smartrecruiters:M3USA:744000148244649",
+      "greenhouse:syskahennessy:8177938"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -498,7 +505,14 @@
       "workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403",
       "workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939",
-      "workday:micron:/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550"
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550",
+      "workday:bah:/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0248854",
+      "workday:bah:/job/Washington-DC/University--Applied-AI-Intern_R0248853",
+      "workday:deluxe:/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD",
+      "greenhouse:fspco-op012325:8783960002",
+      "smartrecruiters:LLNL:3743990015112846",
+      "smartrecruiters:M3USA:744000148244649",
+      "greenhouse:syskahennessy:8177938"
     ]
   }
 }
