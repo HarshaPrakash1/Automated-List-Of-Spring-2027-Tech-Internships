@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-08T04:39:15Z</updated>
+  <updated>2026-09-08T09:19:33Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054625</id>
+    <title>Gilead Sciences: Intern - Development - CDS AI Research Center 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054625"/>
+    <updated>2026-09-08T09:19:33Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · United States - California - Foster City · PyTorch, scikit-learn · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772</id>
+    <title>Gilead Sciences: Intern - Development - DevOps Business Strategy Leader 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772"/>
+    <updated>2026-09-08T09:19:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States - California - Foster City · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871</id>
+    <title>Merck: 2027 Future Talent Program - AI/ML Computational Toxicology - Intern 🛂</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871"/>
+    <updated>2026-09-08T09:19:33Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · Python, SQL, PyTorch, TensorFlow, scikit-learn · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048</id>
+    <title>Merck: 2027 Future Talent Program – Laboratory Operations AI &amp; Digital Transformation – Intern 🛂</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048"/>
+    <updated>2026-09-08T09:19:33Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403</id>
+    <title>Merck: 2027 Future Talent Program - Medical Data Scientist - Intern 🛂</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403"/>
+    <updated>2026-09-08T09:19:33Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - North Wales (Upper Gwynedd) · Python, SQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861</id>
+    <title>Merck: 2027 Future Talent Program - Nonclinical Drug Safety Data Scientist - Intern 🛂</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861"/>
+    <updated>2026-09-08T09:19:33Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · USA - Massachusetts - Boston (MA Parcel B Laboratory) · Python, scikit-learn, Pandas · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939</id>
+    <title>Merck: 2027 Future Talent Program - Standardizing Automation Scripting Practices Through AI-Enabled Knowledge Repository - Intern</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939"/>
+    <updated>2026-09-08T09:19:33Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · Python, C++, C#, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550</id>
+    <title>Micron Technology: Intern - Software Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550"/>
+    <updated>2026-09-08T09:19:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Boise, ID - Main Site · Python, C#, JavaScript, SQL, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:gilead:/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744</id>
     <title>Gilead Sciences: Intern - CFO - IT (AI Engineer) 🛂</title>
@@ -742,69 +806,5 @@
     <updated>2026-09-02T05:26:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Los Angeles, California · $30 per hour · Java, TypeScript, JavaScript, React, Next.js</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:ellipsislabs:02136b22-35b1-4b3d-8bef-567c3380a849</id>
-    <title>Ellipsis Labs: Software Engineer - 2027 Interns</title>
-    <link href="https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · New York, New York · $10K per month · Python, Java, C++, Rust, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:exa:a9e01521-66f1-481b-89da-ec01d4620f16</id>
-    <title>Exa Labs: Software Engineer, Intern</title>
-    <link href="https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, California · $100K – $200K · C++, Rust · sponsorship: offers</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:h3x-technologies:d406e4b4-9b48-438c-a2af-b7feb8563a40</id>
-    <title>H3X Technologies: Embedded Controls Intern (Spring)</title>
-    <link href="https://jobs.ashbyhq.com/h3x-technologies/d406e4b4-9b48-438c-a2af-b7feb8563a40"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Louisville, Colorado · $23–$37/hr · Python, C++, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:heliux:c71c0650-b6f7-491f-b291-6b280f58ee9c</id>
-    <title>Heliux: Software Engineer (Internship, Spring 2027)</title>
-    <link href="https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · HQ (San Francisco, CA) · Python, Java, Rust, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:maximor:3ff6e57d-5430-4836-b6f0-19044d8ee6d8</id>
-    <title>Maximor AI: Software engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York City · Python, TypeScript, JavaScript, LLMs, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:melius:b61f063a-4f94-4e50-a4ef-05aaab552280</id>
-    <title>Melius: Software Engineering Intern [Spring/Summer 2027]</title>
-    <link href="https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · New York City · $11K per month · TypeScript, LLMs, React, Next.js, PostgreSQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a</id>
-    <title>Modal: ML Research Intern</title>
-    <link href="https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York · $15K per month · Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:n1:afe7deb5-9cfd-4926-bcb4-058d418592a6</id>
-    <title>N1: Software Engineer Intern (Backend, Rust)</title>
-    <link href="https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6"/>
-    <updated>2026-09-02T05:26:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York City · Rust, C++</summary>
   </entry>
 </feed>
