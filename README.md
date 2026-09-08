@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fharshaprakash1.github.io%2FAutomated-List-Of-Spring-2027-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml)
 
-### 231 open roles (188 listed below) · 231 new this week
+### 228 open roles (185 listed below) · 228 new this week
 
-4,479 employers tracked · data as of Sep 08, 2026 at 09:19 UTC
+4,484 employers tracked · data as of Sep 08, 2026 at 13:47 UTC
 
-_70 have a cycle the employer stated · 161 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_70 have a cycle the employer stated · 158 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/)** · **[📡 RSS](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/#subscribe)**
 
@@ -40,7 +40,7 @@ Every link comes straight from the source — so it's real and current, not a st
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the stack it wants (Python, C++, PyTorch, …) and the pay it states — searchable on the [dashboard](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/), and included in the CSV and API. |
 | 🔔 **Alerts your way** | [Email digests](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/#subscribe) or [RSS](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml) — point any reader, or a Slack/Discord RSS integration, at it. Plus a [live dashboard](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/) with search, filters, and a saved-roles list that never leaves your browser. |
-| ⚙️ **An engine, not a spreadsheet** | 4,728 job-board endpoints (4,479 distinct employers; some run more than one board) polled every 30 minutes across 12 ATS platforms. Full source and tests in this repo. |
+| ⚙️ **An engine, not a spreadsheet** | 4,733 job-board endpoints (4,484 distinct employers; some run more than one board) polled every 30 minutes across 12 ATS platforms. Full source and tests in this repo. |
 
 ## Scope
 
@@ -89,9 +89,9 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Merck | 2027 Future Talent Program - AI/ML Computational Toxicology - Intern 🛂 🆕 | Data & ML/AI | USA - Pennsylvania - West Point | Python, SQL, PyTorch, TensorFlow | Sep 08, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871) |
-| Merck | 2027 Future Talent Program – Laboratory Operations AI & Digital Transformation – Intern 🛂 🆕 | Data & ML/AI | USA - Pennsylvania - West Point | No skills listed | Sep 08, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048) |
+| Merck | 2027 Future Talent Program - Nonclinical Drug Safety Data Scientist - Intern 🛂 🆕 | Data & ML/AI | USA - Massachusetts - Boston (MA Parcel… | Python, scikit-learn, Pandas | Sep 08, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861) |
 | Merck | 2027 Future Talent Program - Medical Data Scientist - Intern 🛂 🆕 | Data & ML/AI | USA - Pennsylvania - North Wales (Upper… | Python, SQL | Sep 08, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403) |
+| Merck | 2027 Future Talent Program - AI/ML Computational Toxicology - Intern 🛂 🆕 | Data & ML/AI | USA - Pennsylvania - West Point | Python, SQL, PyTorch, TensorFlow | Sep 08, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871) |
 | Schonfeld | 2027 Data Science Intern | Data & ML/AI | New York, New York, United States | Python, SQL, Docker, Kafka | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
 | Schonfeld | 2027 Cybersecurity Operations Intern | Security | New York, New York, United States | No skills listed | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) |
 | Schonfeld | 2027 Software Engineering Intern | Software | New York, New York, United States | Python, Java, C++, Git | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) |
@@ -147,7 +147,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Ellipsis Labs | Software Engineer - 2027 Interns | Software | New York, New York | Python, Java, C++, Rust | Mar 26, 2026 | [Apply](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) |
 | Virtu Financial | 2027 Internship - Quantitative Researcher (Undergrad) | Quant | New York | Python, C++, Pandas | Sep 12, 2025 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) |
 
-## Recently posted — cycle not stated  (122 roles)
+## Recently posted — cycle not stated  (119 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -172,7 +172,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Loram | Machine Learning / Artificial Intelligence (AI) Intern | Data & ML/AI | Hamel, MN, United States | Python, C#, SQL, PyTorch | Sep 04, 2026 | [Apply](https://jobs.smartrecruiters.com/Loram1/3743990015082845) |
 | Texas Instruments ✓ | Systems Engineering Intern - Machine Learning Expert | Data & ML/AI | Dallas, TX, United States | Python, C++, PyTorch, LLMs | Sep 04, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017705) |
 | Johnson Controls ✓ | Software/Controls Engineering Grad Intern | Software | Salem-Virginia-United States of America | C++ | Sep 04, 2026 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1) |
-| Stryker ✓ | Customer One Intern (Data Analyst) - Cary, IL | Data & ML/AI | Cary, Illinois | No skills listed | Sep 04, 2026 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734) |
 | Corteva | R&D Internship – Computer & Data Science | Data & ML/AI | Indianapolis, Indiana, United States | No skills listed | Sep 03, 2026 | [Apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W) |
 | Premier ✓ | Data Science Intern | Data & ML/AI | Charlotte, NC | No skills listed | Sep 03, 2026 | [Apply](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Data-Science-Intern_R0008481) |
 | Premier ✓ | Software Engineer Intern | Software | Charlotte, NC | JavaScript, React | Sep 03, 2026 | [Apply](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480) |
@@ -193,12 +192,10 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Sherwin-Williams ✓ | Year-Round IT Co-op, Cybersecurity | Security | Cleveland, OH, United States | No skills listed | Sep 02, 2026 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622615) |
 | Winsupply ✓ | Software Developer Intern | Software | Moraine, OH, United States | Python, Java, Angular | Sep 02, 2026 | [Apply](https://jobs.smartrecruiters.com/Winsupply1/3743990015014717) |
 | Magna International ✓ | Intern - Engineering Software | Software | Southfield, Michigan, US | Python, C++, Bash, Linux | Sep 02, 2026 | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617) |
-| Stryker ✓ | Commercial Operations Software Engineering Intern - Flower Mound, TX | Software | Flower Mound, Texas | No skills listed | Sep 02, 2026 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941) |
 | Acumatica 🆁 | AI & Automation Intern, Office of the CFO | Data & ML/AI | Bellevue, WA, United States (Remote) | Python, LLMs | Sep 01, 2026 | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000146749696) |
 | Ingredion | AI & Data Scientist Intern _(2 openings)_ | Data & ML/AI | Westchester, IL | SQL, PyTorch, TensorFlow, scikit-learn | Sep 01, 2026 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1) [#2](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40220) |
 | Nike ✓ | NIKE, Inc. Artificial Intelligence, Data, & Machine Learning Engineering Undergraduate Internship | Data & ML/AI | Beaverton, Oregon | Python, SQL, LLMs, Computer Vision | Sep 01, 2026 | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Artificial-Intelligence--Data----Machine-Learning-Engineering-Undergraduate-Internship_R-91110) |
 | Nike ✓ | NIKE, Inc. Software Engineering Undergraduate Internship | Software | Beaverton, Oregon | Python, Java, C#, JavaScript | Sep 01, 2026 | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111) |
-| Stryker ✓ 🆁 | Data Science Intern - Remote | Data & ML/AI | Florida, Virtual Address | Python, SQL | Sep 01, 2026 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731) |
 | Tencent | AI Business Analyst Intern | Data & ML/AI | US-California-Palo Alto | No skills listed | Sep 01, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Business-Analyst-Intern_R108039-1) |
 | US Foods ✓ 🆁 | Intern – AI Automation (Hybrid: Onsite & Remote) 🛂 | Data & ML/AI | Rosemont IL | LLMs | Sep 01, 2026 | [Apply](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---AI-Automation--Hybrid--Onsite---Remote-_R282109) |
 | US Foods ✓ 🆁 | Intern – Cybersecurity Operations (Hybrid: Onsite & Remote) 🛂 | Security | Rosemont IL | Python, Bash, Linux | Sep 01, 2026 | [Apply](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Cybersecurity-Operations--Hybrid--Onsite---Remote-_R282117) |
@@ -348,7 +345,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,350 of 4,728 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 92% of the full registry) · completed in 1081.3s · 571 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,362 of 4,733 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1075.7s · 604 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

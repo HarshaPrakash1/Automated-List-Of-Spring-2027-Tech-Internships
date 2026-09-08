@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-08T09:19:33Z</updated>
+  <updated>2026-09-08T13:47:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054625</id>
@@ -24,6 +24,30 @@
     <summary>Not stated · Software · United States - California - Foster City · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550</id>
+    <title>Micron Technology: Intern - Software Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550"/>
+    <updated>2026-09-08T09:19:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Boise, ID - Main Site · Python, C#, JavaScript, SQL, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861</id>
+    <title>Merck: 2027 Future Talent Program - Nonclinical Drug Safety Data Scientist - Intern 🛂</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861"/>
+    <updated>2026-09-08T09:19:33Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · USA - Massachusetts - Boston (MA Parcel B Laboratory) · Python, scikit-learn, Pandas · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403</id>
+    <title>Merck: 2027 Future Talent Program - Medical Data Scientist - Intern 🛂</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403"/>
+    <updated>2026-09-08T09:19:33Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - North Wales (Upper Gwynedd) · Python, SQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871</id>
     <title>Merck: 2027 Future Talent Program - AI/ML Computational Toxicology - Intern 🛂</title>
     <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871"/>
@@ -40,36 +64,12 @@
     <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403</id>
-    <title>Merck: 2027 Future Talent Program - Medical Data Scientist - Intern 🛂</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403"/>
-    <updated>2026-09-08T09:19:33Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - North Wales (Upper Gwynedd) · Python, SQL · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861</id>
-    <title>Merck: 2027 Future Talent Program - Nonclinical Drug Safety Data Scientist - Intern 🛂</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861"/>
-    <updated>2026-09-08T09:19:33Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · USA - Massachusetts - Boston (MA Parcel B Laboratory) · Python, scikit-learn, Pandas · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939</id>
     <title>Merck: 2027 Future Talent Program - Standardizing Automation Scripting Practices Through AI-Enabled Knowledge Repository - Intern</title>
     <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939"/>
     <updated>2026-09-08T09:19:33Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · Python, C++, C#, SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550</id>
-    <title>Micron Technology: Intern - Software Engineer</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550"/>
-    <updated>2026-09-08T09:19:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Boise, ID - Main Site · Python, C#, JavaScript, SQL, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gilead:/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744</id>
@@ -291,9 +291,9 @@
     <id>urn:intern-engine:workday:stryker:/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734</id>
     <title>Stryker: Customer One Intern (Data Analyst) - Cary, IL</title>
     <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734"/>
-    <updated>2026-09-04T16:33:04Z</updated>
+    <updated>2026-09-08T13:47:41Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cary, Illinois · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Cary, Illinois · status: closed · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10529525</id>
@@ -699,17 +699,17 @@
     <id>urn:intern-engine:workday:stryker:/job/Florida-Virtual-Address/Data-Science-Intern_R572731</id>
     <title>Stryker: Data Science Intern - Remote</title>
     <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731"/>
-    <updated>2026-09-02T17:34:18Z</updated>
+    <updated>2026-09-08T13:47:41Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Florida, Virtual Address · Python, SQL · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Florida, Virtual Address · Python, SQL · status: closed · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:stryker:/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941</id>
     <title>Stryker: Commercial Operations Software Engineering Intern - Flower Mound, TX</title>
     <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941"/>
-    <updated>2026-09-02T17:34:18Z</updated>
+    <updated>2026-09-08T13:47:41Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Flower Mound, Texas · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Flower Mound, Texas · status: closed · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/AI-Business-Analyst-Intern_R108039-1</id>
