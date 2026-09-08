@@ -514,6 +514,18 @@
     }
    }
   },
+  "c h robinson": {
+   "name": "C.H. Robinson",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323"
+     ],
+     "count": 1
+    }
+   }
+  },
   "caci": {
    "name": "CACI",
    "cycles": {
@@ -1659,9 +1671,10 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
-      "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
+      "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2779,5 +2792,5 @@
    }
   }
  },
- "updated_at": "2026-09-08T17:42:56Z"
+ "updated_at": "2026-09-08T20:27:59Z"
 }
