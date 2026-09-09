@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-09T06:53:40Z",
- "data_as_of": "2026-09-09T06:53:40Z",
- "rendered_at": "2026-09-09T06:53:40Z",
+ "generated_at": "2026-09-09T12:06:40Z",
+ "data_as_of": "2026-09-09T12:06:40Z",
+ "rendered_at": "2026-09-09T12:06:41Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -386,25 +386,6 @@
    }
   },
   {
-   "company": "CNO Financial Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -13,
-   "status": "open",
-   "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-08-27"
-   }
-  },
-  {
    "company": "Louisiana Blue",
    "last_cycle_posted": "",
    "posted_on": "2026-08-28",
@@ -633,25 +614,6 @@
    }
   },
   {
-   "company": "C.H. Robinson",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -1,
-   "status": "open",
-   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
    "company": "Devon Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -681,7 +643,7 @@
    "expected": "2026-09-08",
    "days_until": -1,
    "status": "open",
-   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
+   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3483,6 +3445,25 @@
    }
   },
   {
+   "company": "CNO Financial Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -13,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-08-27"
+   }
+  },
+  {
    "company": "Brunswick",
    "last_cycle_posted": "",
    "posted_on": "2026-08-28",
@@ -3537,6 +3518,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-02"
+   }
+  },
+  {
+   "company": "C.H. Robinson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -1,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
    }
   }
  ],

@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-09T06:53:40Z</updated>
+  <updated>2026-09-09T12:06:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:15624</id>
+    <title>Zachry Group: Cyber Security Specialist I - Intern</title>
+    <link href="https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15624"/>
+    <updated>2026-09-09T12:06:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Stonington, CT, United States; Charlotte, NC, United States · HTML/CSS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1</id>
     <title>Moog: Intern, Software Engineering</title>
@@ -187,9 +195,9 @@
     <id>urn:intern-engine:workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323</id>
     <title>C.H. Robinson: Software Engineering Internship 2027</title>
     <link href="https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323"/>
-    <updated>2026-09-08T20:27:59Z</updated>
+    <updated>2026-09-09T11:48:13Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Eden Prairie, MN United States of America · $15–$30/hr · C#, JavaScript, SQL, React, HTML/CSS</summary>
+    <summary>Spring 2027 · Software · Eden Prairie, MN United States of America · $15–$30/hr · C#, JavaScript, SQL, React, HTML/CSS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842</id>
@@ -307,17 +315,17 @@
     <id>urn:intern-engine:workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861</id>
     <title>Merck: 2027 Future Talent Program - Nonclinical Drug Safety Data Scientist - Intern 🛂</title>
     <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861"/>
-    <updated>2026-09-08T09:19:33Z</updated>
+    <updated>2026-09-09T11:48:13Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · USA - Massachusetts - Boston (MA Parcel B Laboratory) · Python, scikit-learn, Pandas · sponsorship: no-sponsorship</summary>
+    <summary>Spring 2027 · Data &amp; ML/AI · USA - Massachusetts - Boston (MA Parcel B Laboratory) · Python, scikit-learn, Pandas · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403</id>
     <title>Merck: 2027 Future Talent Program - Medical Data Scientist - Intern 🛂</title>
     <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403"/>
-    <updated>2026-09-08T09:19:33Z</updated>
+    <updated>2026-09-09T11:48:13Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - North Wales (Upper Gwynedd) · Python, SQL · sponsorship: no-sponsorship</summary>
+    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - North Wales (Upper Gwynedd) · Python, SQL · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-02T20:20:43Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · NC, Raleigh, 701 Corporate Center Dr STE 200 · $25–$27/hr · Python, SQL, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235</id>
-    <title>Genuine Parts Company: Software Engineer - QA Analyst Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235"/>
-    <updated>2026-09-02T20:20:43Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Birmingham, AL, USA · Java, SQL, Selenium · H-1B track record: ~63 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

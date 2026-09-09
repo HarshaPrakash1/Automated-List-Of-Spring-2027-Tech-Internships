@@ -272,7 +272,8 @@
       "workday:swbc:/job/San-Antonio-TX/DevOps-Intern_R0015484-2",
       "workday:swbc:/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2",
       "workday:boeing:/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687",
-      "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c"
+      "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c",
+      "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:15624"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -546,7 +547,8 @@
       "workday:swbc:/job/San-Antonio-TX/DevOps-Intern_R0015484-2",
       "workday:swbc:/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2",
       "workday:boeing:/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687",
-      "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c"
+      "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c",
+      "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:15624"
     ]
   }
 }
