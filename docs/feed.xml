@@ -5,8 +5,80 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-09T12:06:40Z</updated>
+  <updated>2026-09-09T16:48:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:countryfinancial:/job/Bloomington-IL/Automation-Developer-Intern_R26_0000001000</id>
+    <title>COUNTRY Financial: Automation Developer Intern</title>
+    <link href="https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Automation-Developer-Intern_R26_0000001000"/>
+    <updated>2026-09-09T16:48:30Z</updated>
+    <category term="Fall 2027"/>
+    <summary>Fall 2027 · Software · Bloomington, IL · Python, Java, C#, JavaScript, SQL · status: closed · H-1B track record: ~45 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713</id>
+    <title>Leidos: Software Developer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713"/>
+    <updated>2026-09-09T16:48:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Annapolis Junction, MD · Python, Java, C++, JavaScript, HTML/CSS · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lexingtonmedical:5400236008</id>
+    <title>Lexington Medical: Electrical/Embedded Software Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008"/>
+    <updated>2026-09-09T16:48:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Bedford, MA · C++ · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:coretek-services:8D69C6C871</id>
+    <title>Coretek Services: AI &amp; Automation Development Intern</title>
+    <link href="https://apply.workable.com/coretek-services/j/8D69C6C871/"/>
+    <updated>2026-09-09T16:48:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Farmington Hills, Michigan, United States · Python, Java, C#, LLMs, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:oneapp:ba18d004-3212-44e4-8a0c-bd1215bae770</id>
+    <title>ONE Finance: Software Engineer, Intern</title>
+    <link href="https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770"/>
+    <updated>2026-09-09T16:48:30Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · United States (Remote) · $32 per hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:oneapp:7cc2fdfb-a186-4a58-af1b-8255c173244a</id>
+    <title>ONE Finance: AI Research, Intern</title>
+    <link href="https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a"/>
+    <updated>2026-09-09T16:48:30Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · United States (Remote) · $32 per hour · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:syntiant:113F994B7B</id>
+    <title>Syntiant: Machine Learning Intern - KWS/AED</title>
+    <link href="https://apply.workable.com/syntiant/j/113F994B7B/"/>
+    <updated>2026-09-09T16:48:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Redwood City, California, United States · Python, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:buildertrend:/job/Omaha-NE/Software-Engineering-Inter_JR-000467</id>
+    <title>Buildertrend: Software Engineering Intern</title>
+    <link href="https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Software-Engineering-Inter_JR-000467"/>
+    <updated>2026-09-09T16:48:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Omaha, NE · $28/hr · Java, C#, React, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:myhrhome:/job/Evansville-IN/Software-Developer-Intern---Document-Shared-Services--Part-Time-_R2608-52284</id>
+    <title>OneMain Financial: Software Developer Intern – Document Shared Services (Part-Time)</title>
+    <link href="https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Evansville-IN/Software-Developer-Intern---Document-Shared-Services--Part-Time-_R2608-52284"/>
+    <updated>2026-09-09T16:48:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Evansville, IN</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:15624</id>
     <title>Zachry Group: Cyber Security Specialist I - Intern</title>
@@ -339,9 +411,9 @@
     <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048</id>
     <title>Merck: 2027 Future Talent Program – Laboratory Operations AI &amp; Digital Transformation – Intern 🛂</title>
     <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048"/>
-    <updated>2026-09-08T09:19:33Z</updated>
+    <updated>2026-09-09T16:30:10Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · sponsorship: no-sponsorship</summary>
+    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939</id>
@@ -653,7 +725,7 @@
     <link href="https://jobs.smartrecruiters.com/Eurofins/744000147214369"/>
     <updated>2026-09-03T18:17:16Z</updated>
     <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Barcelona, CT, International (ES) · Python, SQL · status: closed</summary>
+    <summary>2 openings · Fall 2026 · Data &amp; ML/AI · Barcelona, CT, International (ES) · Python, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Skyward1:744000147320799</id>
@@ -734,77 +806,5 @@
     <updated>2026-09-02T22:48:52Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Los Angeles, CA · Python, SQL · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reflect-orbital:d2ad1427-89aa-404d-8678-7b8e6dace5e2</id>
-    <title>Reflect Orbital: Flight Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2"/>
-    <updated>2026-09-02T22:48:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Hawthorne, CA · $27 – $31 per hour</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reflect-orbital:d5ade048-5555-4a77-b002-d117254b6e6b</id>
-    <title>Reflect Orbital: Embedded Firmware Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b"/>
-    <updated>2026-09-02T22:48:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Hawthorne, CA · $27 – $31 per hour · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015035697</id>
-    <title>Lawrence Livermore National Laboratory (LLNL): Protocol and Special Events Undergraduate AI and Digital Solutions Intern 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015035697"/>
-    <updated>2026-09-08T20:27:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Livermore, CA, United States (Remote) · LLMs · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1</id>
-    <title>Hewlett Packard (HP): Software Product Security Engineer Intern 🛂</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1"/>
-    <updated>2026-09-02T22:48:52Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Security · Spring, Texas, United States of America · $35–$40/hr · Python, C++, C#, TypeScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/AI-Solutions-Intern_R-011074</id>
-    <title>Allied Solutions: AI Solutions Intern</title>
-    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074"/>
-    <updated>2026-09-02T20:20:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Carmel, IN · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/Data-Science-Intern_R-011077</id>
-    <title>Allied Solutions: Data Science Intern</title>
-    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077"/>
-    <updated>2026-09-02T20:20:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Carmel, IN · Python, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086</id>
-    <title>Allied Solutions: Software Delivery Management Intern</title>
-    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086"/>
-    <updated>2026-09-02T20:20:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Carmel, IN · Azure · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/Software-Engineering-Intern_R-011087</id>
-    <title>Allied Solutions: Software Engineering Intern</title>
-    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087"/>
-    <updated>2026-09-02T20:20:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Carmel, IN · Python, Java, C#, JavaScript, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cigna:/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712</id>
-    <title>Cigna Group: Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship</title>
-    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712"/>
-    <updated>2026-09-02T20:20:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · NC, Raleigh, 701 Corporate Center Dr STE 200 · $25–$27/hr · Python, SQL, LLMs · status: closed</summary>
   </entry>
 </feed>

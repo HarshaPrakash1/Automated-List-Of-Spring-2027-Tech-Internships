@@ -273,7 +273,13 @@
       "workday:swbc:/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2",
       "workday:boeing:/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687",
       "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c",
-      "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:15624"
+      "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:15624",
+      "workable:coretek-services:8D69C6C871",
+      "ashby:oneapp:ba18d004-3212-44e4-8a0c-bd1215bae770",
+      "ashby:oneapp:7cc2fdfb-a186-4a58-af1b-8255c173244a",
+      "workable:syntiant:113F994B7B",
+      "workday:buildertrend:/job/Omaha-NE/Software-Engineering-Inter_JR-000467",
+      "workday:myhrhome:/job/Evansville-IN/Software-Developer-Intern---Document-Shared-Services--Part-Time-_R2608-52284"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -548,7 +554,13 @@
       "workday:swbc:/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2",
       "workday:boeing:/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687",
       "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c",
-      "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:15624"
+      "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:15624",
+      "workable:coretek-services:8D69C6C871",
+      "ashby:oneapp:ba18d004-3212-44e4-8a0c-bd1215bae770",
+      "ashby:oneapp:7cc2fdfb-a186-4a58-af1b-8255c173244a",
+      "workable:syntiant:113F994B7B",
+      "workday:buildertrend:/job/Omaha-NE/Software-Engineering-Inter_JR-000467",
+      "workday:myhrhome:/job/Evansville-IN/Software-Developer-Intern---Document-Shared-Services--Part-Time-_R2608-52284"
     ]
   }
 }
