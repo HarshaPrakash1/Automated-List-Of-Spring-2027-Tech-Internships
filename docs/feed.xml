@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-08T23:13:14Z</updated>
+  <updated>2026-09-09T01:28:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:coinbase:8175471</id>
-    <title>Coinbase: Analytics Engineer Intern</title>
-    <link href="https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471"/>
+    <id>urn:intern-engine:ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c</id>
+    <title>Allen Control Systems: Software Engineering Intern, 2027</title>
+    <link href="https://jobs.ashbyhq.com/allen-control-systems/ed5c58a7-6a3c-474b-aa07-43ff2051cb5c"/>
+    <updated>2026-09-09T01:28:48Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Austin, TX · Python, Java, C++, Kotlin, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:allen-control-systems:a7831fef-7125-4c03-b828-5f0472989037</id>
+    <title>Allen Control Systems: Computer Vision/Machine Learning Intern, 2027</title>
+    <link href="https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037"/>
+    <updated>2026-09-08T23:13:14Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Austin, TX · Computer Vision, Python, C++, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:coinbase:8168315</id>
+    <title>Coinbase: Software Engineer Intern</title>
+    <link href="https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"/>
     <updated>2026-09-08T23:13:14Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, SQL, LLMs · status: closed · H-1B track record: ~291 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Hybrid - San Francisco, CA · LLMs · status: closed · H-1B track record: ~291 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:coinbase:8175441</id>
+    <title>Coinbase: Machine Learning Engineer Intern</title>
+    <link href="https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441"/>
+    <updated>2026-09-08T23:13:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, PyTorch, TensorFlow, LLMs · status: closed · H-1B track record: ~291 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:coinbase:8175459</id>
@@ -32,36 +56,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, SQL, LLMs · status: closed · H-1B track record: ~291 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:coinbase:8175441</id>
-    <title>Coinbase: Machine Learning Engineer Intern</title>
-    <link href="https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441"/>
+    <id>urn:intern-engine:greenhouse:coinbase:8175471</id>
+    <title>Coinbase: Analytics Engineer Intern</title>
+    <link href="https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471"/>
     <updated>2026-09-08T23:13:14Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, PyTorch, TensorFlow, LLMs · status: closed · H-1B track record: ~291 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:coinbase:8168315</id>
-    <title>Coinbase: Software Engineer Intern</title>
-    <link href="https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"/>
-    <updated>2026-09-08T23:13:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hybrid - San Francisco, CA · LLMs · status: closed · H-1B track record: ~291 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:allen-control-systems:a7831fef-7125-4c03-b828-5f0472989037</id>
-    <title>Allen Control Systems: Computer Vision/Machine Learning Intern, 2027</title>
-    <link href="https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037"/>
-    <updated>2026-09-08T23:13:14Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Austin, TX · Computer Vision, Python, C++, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010396</id>
-    <title>Emerson Electric: Software Development Intern</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010396"/>
-    <updated>2026-09-08T23:13:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Austin, TX, United States · Python, Java, C++, C#, JavaScript</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, SQL, LLMs · status: closed · H-1B track record: ~291 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:neighbor:7d66629f-3f4b-41ee-a324-fe0154e13c46</id>
@@ -72,12 +72,28 @@
     <summary>Spring 2027 · Software · Lehi, UT · Python, Java, C++, Go, TypeScript</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010396</id>
+    <title>Emerson Electric: Software Development Intern</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010396"/>
+    <updated>2026-09-08T23:13:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, TX, United States · Python, Java, C++, C#, JavaScript</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:allegion:/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1</id>
     <title>Allegion: Summer Intern - Firmware Engineer</title>
     <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1"/>
     <updated>2026-09-08T23:13:14Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Farmington, CT · $25–$26/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:boeing:/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687</id>
+    <title>The Boeing Company: Boeing Engineering &amp; Technology Innovation Graduate Researcher Program, Software Engineering Artificial Intelligence Intern 🇺🇸</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687"/>
+    <updated>2026-09-08T23:13:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · USA - Tukwila, WA · Python, Java, C++, SQL, MATLAB · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cisco:/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180</id>
@@ -96,20 +112,20 @@
     <summary>Spring 2027 · Security · Oklahoma City, OK</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872</id>
-    <title>RTX: Electrical Firmware (Winter/Spring Co-op)(Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872"/>
-    <updated>2026-09-08T23:13:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · Python, C++, Linux, Verilog · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683</id>
     <title>RTX: Software Engineering Co-op (Fall/Spring 2027)</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683"/>
     <updated>2026-09-08T23:13:14Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107 · Python, C++, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872</id>
+    <title>RTX: Electrical Firmware (Winter/Spring Co-op)(Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872"/>
+    <updated>2026-09-08T23:13:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · Python, C++, Linux, Verilog · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:swbc:/job/San-Antonio-TX/DevOps-Intern_R0015484-2</id>
@@ -126,14 +142,6 @@
     <updated>2026-09-08T23:13:14Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Antonio, TX · C#, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:boeing:/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687</id>
-    <title>The Boeing Company: Boeing Engineering &amp; Technology Innovation Graduate Researcher Program, Software Engineering Artificial Intelligence Intern 🇺🇸</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687"/>
-    <updated>2026-09-08T23:13:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · USA - Tukwila, WA · Python, Java, C++, SQL, MATLAB · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:3117694</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-02T20:20:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Birmingham, AL, USA · Java, React, Next.js, Angular, GCP · H-1B track record: ~63 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Winter-Spring-2027-_01870191</id>
-    <title>RTX: Software Engineering Co-op (Winter/Spring 2027) 🛂</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Winter-Spring-2027-_01870191"/>
-    <updated>2026-09-02T20:20:43Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, C++ · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
