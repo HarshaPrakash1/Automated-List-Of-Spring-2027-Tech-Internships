@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-09T01:28:48Z</updated>
+  <updated>2026-09-09T06:53:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1</id>
+    <title>Moog: Intern, Software Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1"/>
+    <updated>2026-09-09T06:53:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mineral Wells, TX · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c</id>
     <title>Allen Control Systems: Software Engineering Intern, 2027</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-02T20:20:43Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · Software · Birmingham, AL, USA · Java, SQL, Selenium · H-1B track record: ~63 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238</id>
-    <title>Genuine Parts Company: Web Developer Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238"/>
-    <updated>2026-09-02T20:20:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Birmingham, AL, USA · Java, React, Next.js, Angular, GCP · H-1B track record: ~63 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
