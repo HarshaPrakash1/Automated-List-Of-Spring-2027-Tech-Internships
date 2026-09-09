@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-09T19:45:14Z</updated>
+  <updated>2026-09-09T22:12:04Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:lever:crestoperations:e012721c-e731-483d-a4e3-1a240c48bfbd</id>
-    <title>Crest Industries: Developer Intern</title>
-    <link href="https://jobs.lever.co/crestoperations/e012721c-e731-483d-a4e3-1a240c48bfbd"/>
-    <updated>2026-09-09T19:45:14Z</updated>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071</id>
+    <title>Booz Allen: Enterprise Cybersecurity Education and Execution Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071"/>
+    <updated>2026-09-09T22:12:04Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Pineville, Louisiana</summary>
+    <summary>Not stated · Security · McLean, VA · $108k/yr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085</id>
+    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Vulnerability Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085"/>
+    <updated>2026-09-09T22:12:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · McLean, VA · $126k/yr · Python, SQL, AWS, GCP, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077</id>
+    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity IT Policy Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077"/>
+    <updated>2026-09-09T22:12:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · McLean, VA · $108k/yr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083</id>
+    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Data Loss Prevention Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083"/>
+    <updated>2026-09-09T22:12:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · AWS, GCP, Azure · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:interplay:bdf67758-1f20-4a01-8bb3-ccebfa79e9ac</id>
@@ -22,6 +46,14 @@
     <updated>2026-09-09T19:45:14Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · New York · Python, TypeScript, JavaScript, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:crestoperations:e012721c-e731-483d-a4e3-1a240c48bfbd</id>
+    <title>Crest Industries: Developer Intern</title>
+    <link href="https://jobs.lever.co/crestoperations/e012721c-e731-483d-a4e3-1a240c48bfbd"/>
+    <updated>2026-09-09T19:45:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Pineville, Louisiana</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017573</id>
@@ -323,9 +355,9 @@
     <id>urn:intern-engine:workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323</id>
     <title>C.H. Robinson: Software Engineering Internship 2027</title>
     <link href="https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323"/>
-    <updated>2026-09-08T20:27:59Z</updated>
+    <updated>2026-09-09T21:54:18Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Eden Prairie, MN United States of America · $15–$30/hr · C#, JavaScript, SQL, React, HTML/CSS</summary>
+    <summary>Spring 2027 · Software · Eden Prairie, MN United States of America · $15–$30/hr · C#, JavaScript, SQL, React, HTML/CSS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842</id>
@@ -705,8 +737,8 @@
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10529525</id>
-    <title>Amazon: Software Development Engineer Intern, ROBOTICS - 2027</title>
-    <link href="https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"/>
+    <title>Amazon: Software Development Engineer Intern/Co-Op, ROBOTICS -  2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027"/>
     <updated>2026-09-04T01:32:03Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Hardware · North Reading, Massachusetts, USA · Python, Java, C++, C#, Rust · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
@@ -774,37 +806,5 @@
     <updated>2026-09-03T18:17:16Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Bellevue, WA, United States (Remote) · $20/hr · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Eurofins:744000147214369</id>
-    <title>Eurofins: AI &amp; Automation Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Eurofins/744000147214369"/>
-    <updated>2026-09-03T18:17:16Z</updated>
-    <category term="Fall 2026"/>
-    <summary>2 openings · Fall 2026 · Data &amp; ML/AI · Barcelona, CT, International (ES) · Python, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Skyward1:744000147320799</id>
-    <title>Skyward: Software Engineer - Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Skyward1/744000147320799"/>
-    <updated>2026-09-03T18:17:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Stevens Point, WI, United States · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015046116</id>
-    <title>Winsupply: Data Analyst Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015046116"/>
-    <updated>2026-09-03T18:17:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Moraine, OH, United States · H-1B track record: ~13 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:corteva:/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W</id>
-    <title>Corteva: R &amp; D Intern - Computer &amp; Data Science</title>
-    <link href="https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W"/>
-    <updated>2026-09-09T19:45:14Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Data &amp; ML/AI · Indianapolis, Indiana, United States · Python, AWS, GCP, Azure · status: closed</summary>
   </entry>
 </feed>

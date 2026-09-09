@@ -287,7 +287,11 @@
       "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
       "workday:entegris:/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509",
       "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/AI-Intern_R0023511-1",
-      "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/AI-intern_R0023512"
+      "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/AI-intern_R0023512",
+      "workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071",
+      "workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085",
+      "workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077",
+      "workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -576,7 +580,11 @@
       "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
       "workday:entegris:/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509",
       "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/AI-Intern_R0023511-1",
-      "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/AI-intern_R0023512"
+      "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/AI-intern_R0023512",
+      "workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071",
+      "workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085",
+      "workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077",
+      "workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083"
     ]
   }
 }
