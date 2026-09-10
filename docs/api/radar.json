@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-10T17:26:33Z",
- "data_as_of": "2026-09-10T17:26:33Z",
- "rendered_at": "2026-09-10T17:26:33Z",
+ "generated_at": "2026-09-10T20:17:02Z",
+ "data_as_of": "2026-09-10T20:17:02Z",
+ "rendered_at": "2026-09-10T20:17:02Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -472,7 +472,7 @@
    "expected": "2026-09-01",
    "days_until": -9,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -652,7 +652,7 @@
    }
   },
   {
-   "company": "Merck",
+   "company": "Smartflower Solar Llc",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
    "precision": "day",
@@ -662,7 +662,7 @@
    "expected": "2026-09-08",
    "days_until": -2,
    "status": "open",
-   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871",
+   "url": "https://apply.workable.com/smartflower-solar-llc/j/240CCDA520/",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -706,6 +706,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-09"
+   }
+  },
+  {
+   "company": "Sanofi",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854604",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-10"
    }
   },
   {
@@ -3578,6 +3597,25 @@
    }
   },
   {
+   "company": "Merck",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "ONE Finance",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -3597,5 +3635,5 @@
    }
   }
  ],
- "count": 189
+ "count": 191
 }

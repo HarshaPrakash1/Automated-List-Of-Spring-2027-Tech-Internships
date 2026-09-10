@@ -2215,6 +2215,18 @@
     }
    }
   },
+  "sanofi": {
+   "name": "Sanofi",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854604"
+     ],
+     "count": 1
+    }
+   }
+  },
   "saronic": {
    "name": "Saronic",
    "cycles": {
@@ -2290,6 +2302,18 @@
       "ashby:skydio:7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915",
       "ashby:skydio:f6320e9b-4eed-408d-8d37-d509fb0406ee"
      ]
+    }
+   }
+  },
+  "smartflower solar": {
+   "name": "Smartflower Solar Llc",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workable:smartflower-solar-llc:240CCDA520"
+     ],
+     "count": 1
     }
    }
   },
@@ -2876,5 +2900,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T17:26:33Z"
+ "updated_at": "2026-09-10T20:17:02Z"
 }
