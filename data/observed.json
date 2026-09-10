@@ -2134,6 +2134,13 @@
      "role_ids": [
       "greenhouse:rocketlab:7736776003"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "greenhouse:rocketlab:7989724003"
+     ],
+     "count": 1
     }
    }
   },
@@ -2867,5 +2874,5 @@
    }
   }
  },
- "updated_at": "2026-09-09T22:12:04Z"
+ "updated_at": "2026-09-10T00:20:23Z"
 }
