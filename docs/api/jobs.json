@@ -1,35 +1,11 @@
 {
- "generated_at": "2026-09-10T04:45:25Z",
- "data_as_of": "2026-09-10T04:45:25Z",
- "rendered_at": "2026-09-10T04:45:25Z",
+ "generated_at": "2026-09-10T09:25:00Z",
+ "data_as_of": "2026-09-10T09:25:00Z",
+ "rendered_at": "2026-09-10T09:25:00Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
  "count": 258,
  "jobs": [
-  {
-   "id": "workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1",
-   "company": "Allegion",
-   "title": "Summer Intern - Firmware Engineer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "Indianapolis, IN - Hague Rd",
-   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1",
-   "posted_at": "2026-09-09T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-10T04:45:24Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C#"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
   {
    "id": "greenhouse:epicgames:6183293004",
    "company": "Epic Games",
@@ -52,6 +28,30 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": 28,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1",
+   "company": "Allegion",
+   "title": "Summer Intern - Firmware Engineer",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Hardware",
+   "location": "Indianapolis, IN - Hague Rd",
+   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1",
+   "posted_at": "2026-09-09T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-10T04:45:24Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C#"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
