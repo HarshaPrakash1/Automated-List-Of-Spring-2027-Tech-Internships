@@ -312,7 +312,10 @@
       "workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
       "workday:magna:/job/Southfield-Michigan-US/Intern---Engineering-Software_R00260232",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-Co-Op---Onsite_01871478",
-      "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854604"
+      "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854604",
+      "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+      "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1",
+      "greenhouse:rfsmart:5407206008"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -626,7 +629,10 @@
       "workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
       "workday:magna:/job/Southfield-Michigan-US/Intern---Engineering-Software_R00260232",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-Co-Op---Onsite_01871478",
-      "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854604"
+      "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854604",
+      "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+      "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1",
+      "greenhouse:rfsmart:5407206008"
     ]
   }
 }

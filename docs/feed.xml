@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-10T20:17:02Z</updated>
+  <updated>2026-09-10T22:42:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ameriprise:/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595</id>
-    <title>Ameriprise Financial: Data Analytics &amp; AI Intern - RiverSource</title>
-    <link href="https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595"/>
-    <updated>2026-09-10T20:17:02Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Minneapolis, Minnesota · $27.5/hr · status: closed · H-1B track record: ~116 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:ttc:/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183</id>
+    <title>The Toro Company: Hardware and Software Engineering Intern - Ditch Witch 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183"/>
+    <updated>2026-09-10T22:42:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Perry, OK · Python, Java, C++, C#, Linux · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8</id>
+    <title>Bedrock Robotics: Internship 2027 Onboard Infrastructure Engineer, ML Inference</title>
+    <link href="https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8"/>
+    <updated>2026-09-10T22:42:52Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · San Francisco, CA · C++, Rust, PyTorch, LLMs, CUDA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1</id>
+    <title>Bedrock Robotics: Internship 2027 Behavior Machine Learning Engineer, World Models</title>
+    <link href="https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1"/>
+    <updated>2026-09-10T22:42:52Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · San Francisco, CA · Python, PyTorch</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rfsmart:5407206008</id>
+    <title>RF-SMART: Product Engineering Software Developer Internship - Spring &amp; Summer 2027 🛂</title>
+    <link href="https://job-boards.greenhouse.io/rfsmart/jobs/5407206008"/>
+    <updated>2026-09-10T22:42:52Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Jacksonville, Florida, United States · $25/hr · C#, TypeScript · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:testnisc:8191898</id>
@@ -46,6 +70,14 @@
     <updated>2026-09-10T20:17:02Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · Woburn, Massachusetts, United States · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ameriprise:/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595</id>
+    <title>Ameriprise Financial: Data Analytics &amp; AI Intern - RiverSource</title>
+    <link href="https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595"/>
+    <updated>2026-09-10T20:17:02Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Minneapolis, Minnesota · $27.5/hr · status: closed · H-1B track record: ~116 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:avav:/job/Centreville-VA/Software-Engineering-Intern_8593</id>
@@ -656,6 +688,14 @@
     <summary>Not stated · Data &amp; ML/AI · McLean, VA · $126k/yr · Python, Java, C++, JavaScript, SQL · sponsorship: citizens-only</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:bah:/job/Washington-DC/University--Applied-AI-Intern_R0248853</id>
+    <title>Booz Allen: University, Applied AI Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/Washington-DC/University--Applied-AI-Intern_R0248853"/>
+    <updated>2026-09-08T17:42:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Washington, DC · $158k/yr · Python, Java, C++, JavaScript, SQL · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:deluxe:/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD</id>
     <title>Deluxe: Software Engineer - Intern</title>
     <link href="https://deluxe.wd5.myworkdayjobs.com/USA_CAN/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD"/>
@@ -766,45 +806,5 @@
     <updated>2026-09-07T06:14:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Denver, CO, 80205 · $20.9–$22.1/hr · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:xcelenergy:/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833</id>
-    <title>Xcel Energy: Reliability Data Analyst Intern- CO</title>
-    <link href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833"/>
-    <updated>2026-09-07T06:14:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Denver, CO, 80223 · $19–$20.9/hr · Python, SQL, Databricks · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:harbingermotors:5231842007</id>
-    <title>Harbinger Motors: Intern, Cybersecurity</title>
-    <link href="https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007"/>
-    <updated>2026-09-06T06:02:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Garden Grove, CA · Python, Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:simon:/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976</id>
-    <title>Simon Property Group: Intern - Data Engineering (Data Analytics, Information Sciences, Computer Science Majors)</title>
-    <link href="https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976"/>
-    <updated>2026-09-05T14:01:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Indianapolis, IN · Python, SQL, Snowflake, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:simon:/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975</id>
-    <title>Simon Property Group: Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors)</title>
-    <link href="https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975"/>
-    <updated>2026-09-05T14:01:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Indianapolis, IN · JavaScript, HTML/CSS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:simon:/job/Indianapolis-IN/Intern---Project-Delivery--Information-Services---Computer-Science-Majors-_R13947</id>
-    <title>Simon Property Group: Intern - Project Delivery (Information Services / Computer Science Majors)</title>
-    <link href="https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Project-Delivery--Information-Services---Computer-Science-Majors-_R13947"/>
-    <updated>2026-09-05T14:01:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Indianapolis, IN</summary>
   </entry>
 </feed>
