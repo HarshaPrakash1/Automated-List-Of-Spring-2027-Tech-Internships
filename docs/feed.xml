@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-10T09:25:00Z</updated>
+  <updated>2026-09-10T13:50:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/Software-Engineering-Intern_JR102384</id>
+    <title>HMH: Software Engineering Intern</title>
+    <link href="https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Software-Engineering-Intern_JR102384"/>
+    <updated>2026-09-10T13:50:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Houston, TX · Python, JavaScript, Angular, PostgreSQL · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148577368</id>
+    <title>Pilot Company: Program Intern, Infrastructure Support</title>
+    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148577368"/>
+    <updated>2026-09-10T13:50:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Knoxville, TN, United States · AWS · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:cimgroup:06e2dc38-9e3c-4f08-996a-b3df6711ab0b</id>
+    <title>CIM Group: Data Science Intern</title>
+    <link href="https://jobs.lever.co/cimgroup/06e2dc38-9e3c-4f08-996a-b3df6711ab0b"/>
+    <updated>2026-09-10T13:50:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · $20/hr · Python, SQL, scikit-learn, Pandas, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:seqholdings:9dc9a7f3-198a-43c0-be75-a3aba228bf2c</id>
+    <title>Sequence Holdings: Software Engineer (Intern)</title>
+    <link href="https://jobs.ashbyhq.com/seqholdings/9dc9a7f3-198a-43c0-be75-a3aba228bf2c"/>
+    <updated>2026-09-10T13:50:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York City</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:amperesand:4381214009</id>
+    <title>Amperesand: Intern, Software</title>
+    <link href="https://job-boards.greenhouse.io/amperesand/jobs/4381214009"/>
+    <updated>2026-09-10T13:50:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Reno, Nevada, United States; San Francisco, California, United States · C++, Go, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:greatamerica:/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221</id>
+    <title>GreatAmerica Financial Services: Software Engineer Intern</title>
+    <link href="https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221"/>
+    <updated>2026-09-10T13:50:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cedar Rapids, IA · SQL, .NET</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000148712379</id>
     <title>Eurofins: 6-month paid internship - AI &amp; Automation</title>
@@ -440,14 +488,6 @@
     <summary>Not stated · Software · New York, NY · Python, Java, JavaScript, Swift, Kotlin</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015112846</id>
-    <title>Lawrence Livermore National Laboratory (LLNL): Protocol and Special Events Undergraduate AI and Digital Solutions Intern 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015112846"/>
-    <updated>2026-09-08T17:42:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Livermore, CA, United States (Remote) · LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:M3USA:744000148244649</id>
     <title>M3USA: AI Engineering Intern (Remote)</title>
     <link href="https://jobs.smartrecruiters.com/M3USA/744000148244649"/>
@@ -766,45 +806,5 @@
     <updated>2026-09-08T13:47:41Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Cary, Illinois · status: closed · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10529525</id>
-    <title>Amazon: Software Development Engineer Intern/Co-Op, ROBOTICS -  2027</title>
-    <link href="https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027"/>
-    <updated>2026-09-04T01:32:03Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Hardware · North Reading, Massachusetts, USA · Python, Java, C++, C#, Rust · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:the-exploration-company:e23f19f1-b5fa-408a-822c-c6c37631a2fe</id>
-    <title>The Exploration Company: Spring 2027 Internship (Software) 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/the-exploration-company/e23f19f1-b5fa-408a-822c-c6c37631a2fe"/>
-    <updated>2026-09-03T21:13:58Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · California · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:555263f6-c5ec-4489-ab07-1aea546b70e7</id>
-    <title>Hermeus: GNC &amp; Flight Software Intern - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7"/>
-    <updated>2026-09-03T21:13:58Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Atlanta, GA · 25–33 USD/hr · Python, C++, TypeScript, JavaScript, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:corteva:/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W</id>
-    <title>Corteva: R&amp;D Internship – Computer &amp; Data Science</title>
-    <link href="https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W"/>
-    <updated>2026-09-03T21:13:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Indianapolis, Indiana, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:premierinc:/job/Charlotte-NC/Data-Science-Intern_R0008481</id>
-    <title>Premier: Data Science Intern</title>
-    <link href="https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Data-Science-Intern_R0008481"/>
-    <updated>2026-09-03T21:13:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Charlotte, NC · H-1B track record: ~24 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
