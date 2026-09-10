@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-10T00:20:23Z</updated>
+  <updated>2026-09-10T04:45:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1</id>
+    <title>Allegion: Summer Intern - Firmware Engineer</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1"/>
+    <updated>2026-09-10T04:45:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Indianapolis, IN - Hague Rd · Python, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:epicgames:6183293004</id>
+    <title>Epic Games: Backend Services Programmer Intern</title>
+    <link href="https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004"/>
+    <updated>2026-09-10T04:45:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cary,North Carolina,United States · Java, AWS, Unreal · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7989724003</id>
     <title>Rocket Lab: Flight Software Intern Spring 2027 🇺🇸</title>
@@ -107,17 +123,17 @@
     <id>urn:intern-engine:ashby:oneapp:7cc2fdfb-a186-4a58-af1b-8255c173244a</id>
     <title>ONE Finance: AI Research, Intern</title>
     <link href="https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a"/>
-    <updated>2026-09-09T16:48:30Z</updated>
+    <updated>2026-09-10T04:45:24Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · United States (Remote) · $32 per hour · LLMs</summary>
+    <summary>Spring 2027 · Data &amp; ML/AI · United States (Remote) · $32 per hour · LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:oneapp:ba18d004-3212-44e4-8a0c-bd1215bae770</id>
     <title>ONE Finance: Software Engineer, Intern</title>
     <link href="https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770"/>
-    <updated>2026-09-09T16:48:30Z</updated>
+    <updated>2026-09-10T04:45:24Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States (Remote) · $32 per hour</summary>
+    <summary>Spring 2027 · Software · United States (Remote) · $32 per hour · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lexingtonmedical:5400236008</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-03T21:13:58Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Charlotte, NC · JavaScript, React · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:dynamiccatholic:603f082e-07c8-4b1c-ac09-8963c51229ad</id>
-    <title>Dynamic Catholic: Internship - Front-End UX Intern 🛂</title>
-    <link href="https://jobs.lever.co/dynamiccatholic/603f082e-07c8-4b1c-ac09-8963c51229ad"/>
-    <updated>2026-09-03T18:17:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Other · Erlanger, Kentucky · JavaScript, HTML/CSS · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:dynamiccatholic:e94fa581-892c-4958-9515-0221f862ce57</id>
-    <title>Dynamic Catholic: Internship - Software Developer - Commerce Cloud</title>
-    <link href="https://jobs.lever.co/dynamiccatholic/e94fa581-892c-4958-9515-0221f862ce57"/>
-    <updated>2026-09-03T18:17:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Erlanger, Kentucky · JavaScript, HTML/CSS</summary>
   </entry>
 </feed>

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-10T00:20:23Z",
- "data_as_of": "2026-09-10T00:20:23Z",
- "rendered_at": "2026-09-10T00:20:23Z",
+ "generated_at": "2026-09-10T04:45:25Z",
+ "data_as_of": "2026-09-10T04:45:25Z",
+ "rendered_at": "2026-09-10T04:45:25Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -663,25 +663,6 @@
    "days_until": -2,
    "status": "open",
    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
-   "company": "ONE Finance",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3579,6 +3560,25 @@
   },
   {
    "company": "Applied Materials",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "ONE Finance",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
    "precision": "day",
