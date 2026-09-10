@@ -1733,9 +1733,10 @@
      "role_ids": [
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
+      "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2235,9 +2236,10 @@
      "role_ids": [
       "greenhouse:schonfeld:8171692",
       "greenhouse:schonfeld:8171696",
+      "greenhouse:schonfeld:8171699",
       "greenhouse:schonfeld:8180089"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2874,5 +2876,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T13:50:41Z"
+ "updated_at": "2026-09-10T17:26:33Z"
 }

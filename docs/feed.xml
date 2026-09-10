@@ -5,31 +5,79 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-10T13:50:41Z</updated>
+  <updated>2026-09-10T17:26:33Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/Software-Engineering-Intern_JR102384</id>
-    <title>HMH: Software Engineering Intern</title>
-    <link href="https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Software-Engineering-Intern_JR102384"/>
-    <updated>2026-09-10T13:50:41Z</updated>
+    <id>urn:intern-engine:workday:cigna:/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535</id>
+    <title>Cigna Group: The Cigna Group's Technology Development Program - AI Engineering Track Summer Internship</title>
+    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535"/>
+    <updated>2026-09-10T17:26:33Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Houston, TX · Python, JavaScript, Angular, PostgreSQL · status: closed</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · TX, Austin, 11501 Alterra Pkwy STE 500 · $25–$33/hr · Python, PyTorch, TensorFlow, scikit-learn, Pandas · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148577368</id>
-    <title>Pilot Company: Program Intern, Infrastructure Support</title>
-    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148577368"/>
-    <updated>2026-09-10T13:50:41Z</updated>
+    <id>urn:intern-engine:workday:cigna:/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529</id>
+    <title>Cigna Group: The Cigna Group's Technology Development Program  -  Infrastructure &amp; Cloud Engineering Track Summer Internship</title>
+    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529"/>
+    <updated>2026-09-10T17:26:33Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Knoxville, TN, United States · AWS · status: closed</summary>
+    <summary>Summer 2027 · Software · CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg · $25–$33/hr · Python, Java, JavaScript, Bash, AWS · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:cimgroup:06e2dc38-9e3c-4f08-996a-b3df6711ab0b</id>
-    <title>CIM Group: Data Science Intern</title>
-    <link href="https://jobs.lever.co/cimgroup/06e2dc38-9e3c-4f08-996a-b3df6711ab0b"/>
-    <updated>2026-09-10T13:50:41Z</updated>
+    <id>urn:intern-engine:greenhouse:hudl:8114314</id>
+    <title>Hudl: Software Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/hudl/jobs/8114314"/>
+    <updated>2026-09-10T17:26:33Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Lincoln, NE, United States · C#, JavaScript, React · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:labcorp:/job/Baltimore-MD/Intern---Data-Science---Oncology_2630590</id>
+    <title>LabCorp: Intern - Data Science - Oncology 🛂</title>
+    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Data-Science---Oncology_2630590"/>
+    <updated>2026-09-10T17:26:33Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Baltimore MD · $30–$33/hr · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:eevd.fa.us6.oraclecloud.com:2027455</id>
+    <title>Hearst: Software Engineering Intern</title>
+    <link href="https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455"/>
+    <updated>2026-09-10T17:26:33Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · $20/hr · Python, SQL, scikit-learn, Pandas, LLMs</summary>
+    <summary>Not stated · Software · Indianapolis, IN, United States · AWS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017625</id>
+    <title>Texas Instruments: Information Technology Intern – Software 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017625"/>
+    <updated>2026-09-10T17:26:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Dallas, TX, United States · Python, Java, C++, JavaScript, SQL · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1</id>
+    <title>Northrop Grumman: 2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1"/>
+    <updated>2026-09-10T17:26:33Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · United States-Ohio-Cincinnati · $19.5–$35.5/hr · Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298</id>
+    <title>RTX: Co-Op, Software Engineer- Onsite 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298"/>
+    <updated>2026-09-10T17:26:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-109 ~ 400 Collins Rd NE ~ BLDG 109 · Python, C#, SQL, Angular, Flask · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:schonfeld:8171699</id>
+    <title>Schonfeld: 2027 Platform Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699"/>
+    <updated>2026-09-10T17:26:33Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · New York, New York, United States · Python, Bash, AWS, Kubernetes, Terraform</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:seqholdings:9dc9a7f3-198a-43c0-be75-a3aba228bf2c</id>
@@ -48,12 +96,36 @@
     <summary>Not stated · Software · Reno, Nevada, United States; San Francisco, California, United States · C++, Go, Rust</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:lever:cimgroup:06e2dc38-9e3c-4f08-996a-b3df6711ab0b</id>
+    <title>CIM Group: Data Science Intern</title>
+    <link href="https://jobs.lever.co/cimgroup/06e2dc38-9e3c-4f08-996a-b3df6711ab0b"/>
+    <updated>2026-09-10T13:50:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · $20/hr · Python, SQL, scikit-learn, Pandas, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148577368</id>
+    <title>Pilot Company: Program Intern, Infrastructure Support</title>
+    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148577368"/>
+    <updated>2026-09-10T13:50:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Knoxville, TN, United States · AWS · status: closed</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:greatamerica:/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221</id>
     <title>GreatAmerica Financial Services: Software Engineer Intern</title>
     <link href="https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221"/>
     <updated>2026-09-10T13:50:41Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Cedar Rapids, IA · SQL, .NET</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/Software-Engineering-Intern_JR102384</id>
+    <title>HMH: Software Engineering Intern</title>
+    <link href="https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Software-Engineering-Intern_JR102384"/>
+    <updated>2026-09-10T13:50:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Houston, TX · Python, JavaScript, Angular, PostgreSQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000148712379</id>
@@ -734,77 +806,5 @@
     <updated>2026-09-04T19:19:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · United States · Python, LLMs, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Loram1:3743990015082845</id>
-    <title>Loram: Machine Learning / Artificial Intelligence (AI) Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Loram1/3743990015082845"/>
-    <updated>2026-09-04T19:19:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Hamel, MN, United States · Python, C#, SQL, PyTorch, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:tmeic-corporation-americas:6FDBF2FD32</id>
-    <title>TMEIC: Intern - Applications, AI and Machine Learning (Spring 2027) (ET26075) 🛂</title>
-    <link href="https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/"/>
-    <updated>2026-09-04T19:19:19Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Roanoke, Virginia, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:skillzinc:8168006</id>
-    <title>skillz: Co-op, Software Engineer</title>
-    <link href="https://job-boards.greenhouse.io/skillzinc/jobs/8168006"/>
-    <updated>2026-09-04T16:33:04Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Las Vegas, Nevada, United States · $32/hr · Java, AWS, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017705</id>
-    <title>Texas Instruments: Systems Engineering Intern - Machine Learning Expert</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017705"/>
-    <updated>2026-09-04T16:33:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Dallas, TX, United States · Python, C++, PyTorch, LLMs · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007589</id>
-    <title>Stantec: Digital Practice Co-op/Intern - Infrastructure (Spring/Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589"/>
-    <updated>2026-09-04T16:33:04Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Washington, DC, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:directsupply:/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553</id>
-    <title>Direct Supply: AI Engineer Intern</title>
-    <link href="https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553"/>
-    <updated>2026-09-04T21:42:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Milwaukee, WI · Python, React, Node.js, AWS · status: closed · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:disney:/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1</id>
-    <title>The Walt Disney Company: Commercial Data Science Intern, Spring 2027</title>
-    <link href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1"/>
-    <updated>2026-09-04T16:33:04Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Celebration, FL, USA · $43/hr · Python, SQL, Git, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jci:/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1</id>
-    <title>Johnson Controls: Software/Controls Engineering Grad Intern</title>
-    <link href="https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1"/>
-    <updated>2026-09-04T16:33:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Salem-Virginia-United States of America · C++ · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734</id>
-    <title>Stryker: Customer One Intern (Data Analyst) - Cary, IL</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734"/>
-    <updated>2026-09-08T13:47:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cary, Illinois · status: closed · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

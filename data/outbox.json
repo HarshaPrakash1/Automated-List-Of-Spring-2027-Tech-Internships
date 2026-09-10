@@ -298,7 +298,12 @@
       "lever:cimgroup:06e2dc38-9e3c-4f08-996a-b3df6711ab0b",
       "ashby:seqholdings:9dc9a7f3-198a-43c0-be75-a3aba228bf2c",
       "greenhouse:amperesand:4381214009",
-      "workday:greatamerica:/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221"
+      "workday:greatamerica:/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221",
+      "oracle:eevd.fa.us6.oraclecloud.com:2027455",
+      "oracle:edbz.fa.us2.oraclecloud.com:25017625",
+      "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298",
+      "greenhouse:schonfeld:8171699"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -598,7 +603,12 @@
       "lever:cimgroup:06e2dc38-9e3c-4f08-996a-b3df6711ab0b",
       "ashby:seqholdings:9dc9a7f3-198a-43c0-be75-a3aba228bf2c",
       "greenhouse:amperesand:4381214009",
-      "workday:greatamerica:/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221"
+      "workday:greatamerica:/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221",
+      "oracle:eevd.fa.us6.oraclecloud.com:2027455",
+      "oracle:edbz.fa.us2.oraclecloud.com:25017625",
+      "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298",
+      "greenhouse:schonfeld:8171699"
     ]
   }
 }
