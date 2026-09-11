@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-11T14:04:36Z",
- "data_as_of": "2026-09-11T14:04:36Z",
- "rendered_at": "2026-09-11T14:04:36Z",
+ "generated_at": "2026-09-11T18:02:31Z",
+ "data_as_of": "2026-09-11T18:02:31Z",
+ "rendered_at": "2026-09-11T18:02:32Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -320,7 +320,7 @@
    "expected": "2026-08-24",
    "days_until": -18,
    "status": "open",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2",
    "note": "fall opening, many programs",
    "provenance": {
     "type": "engine-observed",
@@ -614,25 +614,6 @@
    }
   },
   {
-   "company": "Applied Materials",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
    "company": "C.H. Robinson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -700,7 +681,7 @@
    "expected": "2026-09-09",
    "days_until": -2,
    "status": "open",
-   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509",
+   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3651,6 +3632,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-02"
+   }
+  },
+  {
+   "company": "Applied Materials",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
    }
   },
   {

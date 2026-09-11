@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-11T14:04:36Z</updated>
+  <updated>2026-09-11T18:02:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:hudl:8155102</id>
+    <title>Hudl: Software Quality Assurance Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/hudl/jobs/8155102"/>
+    <updated>2026-09-11T18:02:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Lincoln, NE, United States · Python, JavaScript, Selenium · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868</id>
+    <title>Oshkosh: Data Engineer Intern</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868"/>
+    <updated>2026-09-11T18:02:31Z</updated>
+    <category term="Summer 2026"/>
+    <summary>Summer 2026 · Data &amp; ML/AI · Oshkosh, Wisconsin, United States · Python, SQL, Azure, Databricks · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:crowe:/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-71039</id>
+    <title>Crowe: MSFT AI Business Solutions Technical Intern</title>
+    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-71039"/>
+    <updated>2026-09-11T18:02:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago IL USA · $27–$42/hr · Azure · H-1B track record: ~37 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267</id>
+    <title>Oshkosh: Cyber Security Intern</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267"/>
+    <updated>2026-09-11T18:02:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Oshkosh, Wisconsin, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49280</id>
     <title>Citizens Financial Group: Data Science Graduate 2027 Summer Intern</title>
@@ -14,14 +46,6 @@
     <updated>2026-09-11T14:04:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · United States · Python, SQL, Pandas, Computer Vision, AWS · H-1B track record: ~290 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abglobal:/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771</id>
-    <title>AllianceBernstein: Software Development Summer Intern 🇺🇸</title>
-    <link href="https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771"/>
-    <updated>2026-09-11T14:04:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Nashville, Tennessee · Java, C++ · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:abglobal:/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749</id>
@@ -32,20 +56,20 @@
     <summary>Not stated · Software · Nashville, Tennessee · SQL, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1</id>
-    <title>Entegris: Cybersecurity Engineer Co-Op</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1"/>
+    <id>urn:intern-engine:workday:abglobal:/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771</id>
+    <title>AllianceBernstein: Software Development Summer Intern 🇺🇸</title>
+    <link href="https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771"/>
     <updated>2026-09-11T14:04:36Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · Chaska, MN · $20–$30/hr · Python, GCP, Azure, Terraform, Git · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Nashville, Tennessee · Java, C++ · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505</id>
-    <title>Entegris: Cyber Threat Analyst Co-Op</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505"/>
+    <id>urn:intern-engine:workday:disney:/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2</id>
+    <title>The Walt Disney Company: Disneyland Cybersecurity Intern, Spring 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2"/>
     <updated>2026-09-11T14:04:36Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · Chaska, MN · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+    <summary>Spring 2027 · Security · Anaheim, CA, USA · $39/hr · Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:entegris:/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1</id>
@@ -56,12 +80,20 @@
     <summary>Spring 2027 · Data &amp; ML/AI · Billerica, MA · $20–$30/hr · Python, LLMs · H-1B track record: ~60 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:disney:/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2</id>
-    <title>The Walt Disney Company: Disneyland Cybersecurity Intern, Spring 2027</title>
-    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2"/>
+    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505</id>
+    <title>Entegris: Cyber Threat Analyst Co-Op</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505"/>
     <updated>2026-09-11T14:04:36Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · Anaheim, CA, USA · $39/hr · Linux</summary>
+    <summary>Spring 2027 · Security · Chaska, MN · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1</id>
+    <title>Entegris: Cybersecurity Engineer Co-Op</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1"/>
+    <updated>2026-09-11T14:04:36Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · Chaska, MN · $20–$30/hr · Python, GCP, Azure, Terraform, Git · H-1B track record: ~60 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hypertherm:/job/West-Lebanon-NH/Summer-Intern---Software-Engineering_R4005</id>
@@ -467,9 +499,9 @@
     <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265</id>
     <title>Applied Materials: 2027 Software Engineering Intern (Masters - Santa Clara, CA)</title>
     <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"/>
-    <updated>2026-09-09T19:45:14Z</updated>
+    <updated>2026-09-11T17:42:41Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Santa Clara,CA · C++ · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+    <summary>Spring 2027 · Software · Santa Clara,CA · C++ · status: closed · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:entegris:/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-08T17:42:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York · $50 per hour · Java, C++, Git, PostgreSQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:datadog:8052118</id>
-    <title>Datadog: Software Engineering Intern (Summer)</title>
-    <link href="https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118"/>
-    <updated>2026-09-08T17:42:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Boston, Massachusetts, USA; New York, New York, USA · Kubernetes · status: closed · H-1B track record: ~62 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:fspco-op012325:8783960002</id>
-    <title>Flagship Pioneering: Pioneering Intelligence: Data Science Co-Op (Embedded Science Team)</title>
-    <link href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8783960002"/>
-    <updated>2026-09-08T17:42:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cambridge, MA USA · $25–$35/hr · Python, PyTorch, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:syskahennessy:8177938</id>
-    <title>Syska Hennessy Group: Software Developer (Innovation) Summer Intern</title>
-    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8177938"/>
-    <updated>2026-09-08T17:42:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, NY · Python, Java, JavaScript, Swift, Kotlin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:M3USA:744000148244649</id>
-    <title>M3USA: AI Engineering Intern (Remote)</title>
-    <link href="https://jobs.smartrecruiters.com/M3USA/744000148244649"/>
-    <updated>2026-09-08T17:42:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Fort Washington, PA, United States (Remote) · Python, TypeScript, JavaScript, LLMs, HTML/CSS</summary>
   </entry>
 </feed>
