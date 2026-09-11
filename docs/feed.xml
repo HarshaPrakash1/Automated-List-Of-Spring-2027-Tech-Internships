@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-11T00:44:10Z</updated>
+  <updated>2026-09-11T05:24:21Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773</id>
+    <title>TD Bank: 2027 Spring Co-op - Global Technology &amp; Solutions - Software Engineer (SWE)</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773"/>
+    <updated>2026-09-11T05:24:21Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Mount Laurel, New Jersey · Java, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111</id>
+    <title>TD Bank: 2027 Spring Co-op - Global Technology &amp; Solutions - Data Engineer</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111"/>
+    <updated>2026-09-11T05:24:21Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Mount Laurel, New Jersey · Hadoop</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103</id>
+    <title>TD Bank: 2027 Spring Co-op - Global Technology &amp; Solutions - Cyber Security</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103"/>
+    <updated>2026-09-11T05:24:21Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · Mount Laurel, New Jersey</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cloud-DevOps_R_1510235</id>
+    <title>TD Bank: 2027 Spring Co-op - Global Technology &amp; Solutions - Cloud/DevOps</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cloud-DevOps_R_1510235"/>
+    <updated>2026-09-11T05:24:21Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Mount Laurel, New Jersey · Terraform</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236</id>
+    <title>TD Bank: 2027 Spring Co-op - Global Technology &amp; Solutions - Data Analyst</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236"/>
+    <updated>2026-09-11T05:24:21Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Mount Laurel, New Jersey</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148918178</id>
+    <title>Wellmark: Cyber Security Internship</title>
+    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000148918178"/>
+    <updated>2026-09-11T05:24:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Des Moines, IA, United States (Hybrid) · Python, Bash · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148915793</id>
+    <title>Wellmark: Software Engineer Internship – User Experience Team</title>
+    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000148915793"/>
+    <updated>2026-09-11T05:24:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Des Moines, IA, United States (Hybrid) · Java, C++, TypeScript, SQL, Node.js · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8</id>
     <title>Bedrock Robotics: Internship 2027 Onboard Infrastructure Engineer, ML Inference</title>
@@ -750,61 +806,5 @@
     <updated>2026-09-09T11:48:13Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - North Wales (Upper Gwynedd) · Python, SQL · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871</id>
-    <title>Merck: 2027 Future Talent Program - AI/ML Computational Toxicology - Intern 🛂</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871"/>
-    <updated>2026-09-10T19:59:48Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · Python, SQL, PyTorch, TensorFlow, scikit-learn · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048</id>
-    <title>Merck: 2027 Future Talent Program – Laboratory Operations AI &amp; Digital Transformation – Intern 🛂</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048"/>
-    <updated>2026-09-09T16:30:10Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939</id>
-    <title>Merck: 2027 Future Talent Program - Standardizing Automation Scripting Practices Through AI-Enabled Knowledge Repository - Intern</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939"/>
-    <updated>2026-09-08T20:10:59Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · Python, C++, C#, SQL, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744</id>
-    <title>Gilead Sciences: Intern - CFO - IT (AI Engineer) 🛂</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744"/>
-    <updated>2026-09-08T04:39:15Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States - North Carolina - Raleigh · LLMs, AWS, Databricks · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1</id>
-    <title>Hewlett Packard (HP): Business Intelligence and Infrastructure Analysts  Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1"/>
-    <updated>2026-09-08T00:00:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Vancouver, Washington, United States of America</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396</id>
-    <title>Hewlett Packard Enterprise: HPC AI Systems Administrator Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396"/>
-    <updated>2026-09-07T06:14:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bloomington, Minnesota, United States of America · Python, Bash, HTML/CSS, Linux, Git · H-1B track record: ~499 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:xcelenergy:/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1</id>
-    <title>Xcel Energy: AI &amp; Automation Intern- CO</title>
-    <link href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1"/>
-    <updated>2026-09-07T06:14:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Denver, CO, 80205 · $20.9–$22.1/hr · status: closed</summary>
   </entry>
 </feed>

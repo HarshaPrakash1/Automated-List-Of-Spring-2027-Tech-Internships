@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-11T00:44:10Z",
- "data_as_of": "2026-09-11T00:44:10Z",
- "rendered_at": "2026-09-11T00:44:10Z",
+ "generated_at": "2026-09-11T05:24:21Z",
+ "data_as_of": "2026-09-11T05:24:21Z",
+ "rendered_at": "2026-09-11T05:24:21Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -763,6 +763,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-10"
+   }
+  },
+  {
+   "company": "TD Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-11"
    }
   },
   {
@@ -3673,5 +3692,5 @@
    }
   }
  ],
- "count": 193
+ "count": 194
 }

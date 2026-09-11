@@ -2450,6 +2450,17 @@
       "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Fall-Co-op---Global-Technology-Solutions---Data-Engineer_R_1495653",
       "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Fall-Co-op---Global-Technology-Solutions---Software-Engineer--SWE-_R_1495659"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cloud-DevOps_R_1510235",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773"
+     ],
+     "count": 5
     }
    }
   },
@@ -2925,5 +2936,5 @@
    }
   }
  },
- "updated_at": "2026-09-11T00:44:10Z"
+ "updated_at": "2026-09-11T05:24:21Z"
 }

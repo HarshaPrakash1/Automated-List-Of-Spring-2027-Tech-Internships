@@ -315,7 +315,14 @@
       "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854604",
       "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
       "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1",
-      "greenhouse:rfsmart:5407206008"
+      "greenhouse:rfsmart:5407206008",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cloud-DevOps_R_1510235",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236",
+      "smartrecruiters:WellmarkInc:744000148918178",
+      "smartrecruiters:WellmarkInc:744000148915793"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -632,7 +639,14 @@
       "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854604",
       "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
       "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1",
-      "greenhouse:rfsmart:5407206008"
+      "greenhouse:rfsmart:5407206008",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cloud-DevOps_R_1510235",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236",
+      "smartrecruiters:WellmarkInc:744000148918178",
+      "smartrecruiters:WellmarkInc:744000148915793"
     ]
   }
 }
