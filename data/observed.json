@@ -918,9 +918,12 @@
     "Spring 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
+      "workday:entegris:/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1",
+      "workday:entegris:/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505",
+      "workday:entegris:/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1",
       "workday:entegris:/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509"
      ],
-     "count": 1
+     "count": 4
     }
    }
   },
@@ -2826,11 +2829,12 @@
     "Spring 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "workday:disney:/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2",
       "workday:disney:/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1",
       "workday:disney:/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
       "workday:disney:/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2936,5 +2940,5 @@
    }
   }
  },
- "updated_at": "2026-09-11T09:51:58Z"
+ "updated_at": "2026-09-11T14:04:36Z"
 }
