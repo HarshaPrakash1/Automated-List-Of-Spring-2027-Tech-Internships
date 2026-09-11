@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-10T22:42:52Z</updated>
+  <updated>2026-09-11T00:44:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183</id>
-    <title>The Toro Company: Hardware and Software Engineering Intern - Ditch Witch 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183"/>
-    <updated>2026-09-10T22:42:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Perry, OK · Python, Java, C++, C#, Linux · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8</id>
     <title>Bedrock Robotics: Internship 2027 Onboard Infrastructure Engineer, ML Inference</title>
@@ -38,6 +30,14 @@
     <updated>2026-09-10T22:42:52Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · Jacksonville, Florida, United States · $25/hr · C#, TypeScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183</id>
+    <title>The Toro Company: Hardware and Software Engineering Intern - Ditch Witch 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183"/>
+    <updated>2026-09-10T22:42:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Perry, OK · Python, Java, C++, C#, Linux · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:testnisc:8191898</id>
