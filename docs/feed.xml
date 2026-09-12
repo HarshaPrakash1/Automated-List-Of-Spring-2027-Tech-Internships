@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-12T01:45:02Z</updated>
+  <updated>2026-09-12T11:23:37Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11648</id>
+    <title>Kulicke &amp; Soffa: Intern, Software Engineering</title>
+    <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11648"/>
+    <updated>2026-09-12T11:23:37Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · Fort Washington, PA, United States · Python, C++, MATLAB</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:ibotta:3130669e-16aa-4f63-834d-b83571c8d269</id>
     <title>ibotta: Software Engineer Intern</title>
@@ -587,9 +595,9 @@
     <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265</id>
     <title>Applied Materials: 2027 Software Engineering Intern (Masters - Santa Clara, CA)</title>
     <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"/>
-    <updated>2026-09-11T17:42:41Z</updated>
+    <updated>2026-09-09T19:45:14Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Santa Clara,CA · C++ · status: closed · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+    <summary>Spring 2027 · Software · Santa Clara,CA · C++ · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:entegris:/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-08T23:13:14Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Security · Oklahoma City, OK</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683</id>
-    <title>RTX: Software Engineering Co-op (Fall/Spring 2027)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683"/>
-    <updated>2026-09-08T23:13:14Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107 · Python, C++, Git</summary>
   </entry>
 </feed>
