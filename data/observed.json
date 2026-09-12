@@ -1467,6 +1467,18 @@
     }
    }
   },
+  "klaviyo": {
+   "name": "Klaviyo",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-12",
+     "role_ids": [
+      "greenhouse:klaviyocampus:7989365003"
+     ],
+     "count": 1
+    }
+   }
+  },
   "lego": {
    "name": "Lego",
    "cycles": {
@@ -1563,6 +1575,19 @@
      "role_ids": [
       "workday:medtronic:/job/Lausanne-Vaud-Switzerland/Intern-AI-Vision-for-Equipment-Development_R72173"
      ]
+    }
+   }
+  },
+  "megazonecloud": {
+   "name": "MegazoneCloud",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "ashby:megazone:e2889469-cf20-4227-bf24-2a6e885f8dca",
+      "ashby:megazone:fde09888-986f-4207-88fe-3ff5b921a1fa"
+     ],
+     "count": 2
     }
    }
   },
@@ -2940,5 +2965,5 @@
    }
   }
  },
- "updated_at": "2026-09-12T11:23:37Z"
+ "updated_at": "2026-09-12T14:37:33Z"
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-12T11:23:37Z",
- "data_as_of": "2026-09-12T11:23:37Z",
- "rendered_at": "2026-09-12T11:23:37Z",
+ "generated_at": "2026-09-12T14:37:33Z",
+ "data_as_of": "2026-09-12T14:37:33Z",
+ "rendered_at": "2026-09-12T14:37:33Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -614,44 +614,6 @@
    }
   },
   {
-   "company": "Applied Materials",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -4,
-   "status": "open",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
-   "company": "C.H. Robinson",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -4,
-   "status": "open",
-   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
    "company": "Devon Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -785,6 +747,25 @@
    }
   },
   {
+   "company": "MegazoneCloud",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-11"
+   }
+  },
+  {
    "company": "TD Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -801,6 +782,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-11"
+   }
+  },
+  {
+   "company": "Klaviyo",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-12",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-12"
    }
   },
   {
@@ -3654,6 +3654,44 @@
    }
   },
   {
+   "company": "Applied Materials",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -4,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "C.H. Robinson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -4,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "Merck",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -3692,5 +3730,5 @@
    }
   }
  ],
- "count": 194
+ "count": 196
 }
