@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-12T14:37:33Z</updated>
+  <updated>2026-09-12T17:43:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327</id>
-    <title>Bracco: Software Engineering Intern/ Co-op (R&amp;D Sustaining)</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327"/>
-    <updated>2026-09-12T14:37:33Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · C++, C# · status: closed</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:ashby:megazone:e2889469-cf20-4227-bf24-2a6e885f8dca</id>
     <title>MegazoneCloud: Software Engineer Co-op 2027 🛂</title>
@@ -32,20 +24,28 @@
     <summary>Spring 2027 · Data &amp; ML/AI · Rochester, NY · $27 – $29 per hour · Python, SQL, LLMs, AWS, Git · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328</id>
-    <title>Bracco: Software Engineering Intern</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328"/>
-    <updated>2026-09-12T14:37:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:klaviyocampus:7989365003</id>
     <title>Klaviyo: Software Engineer Co-op (Spring 2027) 🛂</title>
     <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003"/>
     <updated>2026-09-12T14:37:33Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · Boston, MA · Python, TypeScript, React, Django, AWS · sponsorship: no-sponsorship · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327</id>
+    <title>Bracco: Software Engineering Intern/ Co-op (R&amp;D Sustaining)</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327"/>
+    <updated>2026-09-12T14:37:33Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · C++, C# · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328</id>
+    <title>Bracco: Software Engineering Intern</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328"/>
+    <updated>2026-09-12T14:37:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · Python, Java, C++, C#, TypeScript</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11648</id>
