@@ -1,11 +1,39 @@
 {
- "generated_at": "2026-09-13T12:58:09Z",
- "data_as_of": "2026-09-13T12:58:09Z",
- "rendered_at": "2026-09-13T12:58:09Z",
+ "generated_at": "2026-09-13T17:13:19Z",
+ "data_as_of": "2026-09-13T17:13:19Z",
+ "rendered_at": "2026-09-13T17:13:19Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 297,
+ "count": 298,
  "jobs": [
+  {
+   "id": "workday:autostore:/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692",
+   "company": "Autostore",
+   "title": "Co-Op - Software Engineering",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Atlanta, GA, USA",
+   "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692",
+   "posted_at": "2026-09-13T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-13T17:13:19Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "C#",
+    "TypeScript",
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Co-op",
+   "remote": false
+  },
   {
    "id": "greenhouse:klaviyocampus:7989365003",
    "company": "Klaviyo",

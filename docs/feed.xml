@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-13T12:58:09Z</updated>
+  <updated>2026-09-13T17:13:19Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692</id>
+    <title>Autostore: Co-Op - Software Engineering</title>
+    <link href="https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692"/>
+    <updated>2026-09-13T17:13:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Atlanta, GA, USA · Python, Java, C++, C#, TypeScript</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:megazone:e2889469-cf20-4227-bf24-2a6e885f8dca</id>
     <title>MegazoneCloud: Software Engineer Co-op 2027 🛂</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-08T23:13:14Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, SQL, LLMs · status: closed · H-1B track record: ~291 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:neighbor:7d66629f-3f4b-41ee-a324-fe0154e13c46</id>
-    <title>Neighbor: Software Engineer Intern 2027</title>
-    <link href="https://jobs.lever.co/neighbor/7d66629f-3f4b-41ee-a324-fe0154e13c46"/>
-    <updated>2026-09-08T23:13:14Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Lehi, UT · Python, Java, C++, Go, TypeScript</summary>
   </entry>
 </feed>
