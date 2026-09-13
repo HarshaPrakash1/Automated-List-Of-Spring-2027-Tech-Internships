@@ -8,7 +8,7 @@
 
 ### 298 open roles (244 listed below) · 97 new this week
 
-4,550 employers tracked · data as of Sep 13, 2026 at 19:37 UTC
+4,550 employers tracked · data as of Sep 13, 2026 at 21:48 UTC
 
 _90 have a cycle the employer stated · 208 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -174,9 +174,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Kulicke & Soffa | Intern, Software Engineering 🆕 _(2 openings)_ | Software | Fort Washington, PA, United States | Python, C++, MATLAB | Sep 12, 2026 | [Apply](https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11648) [#2](https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649) |
 | Businessolver | Business Intelligence Analyst Internship (Innovation & Data Science) 🆕 | Data & ML/AI | United States | Python, SQL, AWS | Sep 11, 2026 | [Apply](https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738) |
 | NewsBreak | Nearby AI Internship Program - Engineering Track 🆕 | Data & ML/AI | Mountain View, California, United States | Python, Java, LLMs, Git | Sep 11, 2026 | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4712896006) |
-| Corteva | Data Science Summer Intern 🆕 | Data & ML/AI | Indianapolis, Indiana, United States | Python, AWS, GCP, Azure | Sep 11, 2026 | [Apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W) |
-| Direct Supply ✓ | Software Engineer Intern 🆕 | Software | Milwaukee, WI | Python, C#, JavaScript, SQL | Sep 11, 2026 | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559) |
-| Fidelity Investments ✓ | Co-op, Software Engineer 🆕 | Software | Boston, MA | Python, C#, JavaScript | Sep 11, 2026 | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Engineer_2135200) |
+| Corteva | Data Science Summer Intern | Data & ML/AI | Indianapolis, Indiana, United States | Python, AWS, GCP, Azure | Sep 11, 2026 | [Apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W) |
+| Direct Supply ✓ | Software Engineer Intern | Software | Milwaukee, WI | Python, C#, JavaScript, SQL | Sep 11, 2026 | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559) |
+| Fidelity Investments ✓ | Co-op, Software Engineer | Software | Boston, MA | Python, C#, JavaScript | Sep 11, 2026 | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Engineer_2135200) |
 | Crowe ✓ | MSFT AI Business Solutions Technical Intern | Data & ML/AI | Chicago IL USA | Azure | Sep 11, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-71039) |
 | Oshkosh | Cyber Security Intern | Security | Oshkosh, Wisconsin, United States | No skills listed | Sep 11, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267) |
 | Citizens Financial Group ✓ | Data Science Graduate 2027 Summer Intern | Data & ML/AI | United States | Python, SQL, Pandas, Computer Vision | Sep 11, 2026 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280) |
@@ -414,7 +414,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,350 of 4,803 registered boards returned successfully across 12 ATS platforms (95% of boards attempted, 90% of the full registry) · completed in 1134.7s · 564 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,411 of 4,803 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 684.4s · 588 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
