@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-14T07:12:14Z</updated>
+  <updated>2026-09-14T14:12:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:fspco-op012325:8796996002</id>
+    <title>Flagship Pioneering: Flagship Pioneering: AI Automation Engineering Co-Op</title>
+    <link href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002"/>
+    <updated>2026-09-14T14:12:40Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Cambridge, MA USA · $25–$35/hr · Python, JavaScript, AWS, GCP, Azure · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:viavisolutions:/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1</id>
+    <title>Viavi Solutions: Software Engineering Co-Op</title>
+    <link href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1"/>
+    <updated>2026-09-14T14:12:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Germantown, MD USA · C++, Linux · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:acronaviation:34cf5ad0-840a-4c1b-8231-02a433d0479e</id>
     <title>Acron Aviation: Software Engineer Intern - Phoenix Site</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-08T23:13:14Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, PyTorch, TensorFlow, LLMs · status: closed · H-1B track record: ~291 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:coinbase:8175459</id>
-    <title>Coinbase: Data Engineer Intern</title>
-    <link href="https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459"/>
-    <updated>2026-09-08T23:13:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, SQL, LLMs, AWS, GCP · status: closed · H-1B track record: ~291 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:coinbase:8175462</id>
-    <title>Coinbase: Data Science Intern</title>
-    <link href="https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462"/>
-    <updated>2026-09-08T23:13:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, SQL, LLMs · status: closed · H-1B track record: ~291 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

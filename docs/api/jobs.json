@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-09-14T07:12:14Z",
- "data_as_of": "2026-09-14T07:12:14Z",
- "rendered_at": "2026-09-14T07:12:14Z",
+ "generated_at": "2026-09-14T14:12:40Z",
+ "data_as_of": "2026-09-14T14:12:40Z",
+ "rendered_at": "2026-09-14T14:12:40Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 299,
+ "count": 300,
  "jobs": [
+  {
+   "id": "workday:viavisolutions:/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1",
+   "company": "Viavi Solutions",
+   "title": "Software Engineering Co-Op",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Germantown, MD USA",
+   "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1",
+   "posted_at": "2026-09-14T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-14T14:12:40Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "C++",
+    "Linux"
+   ],
+   "source": "workday",
+   "h1b_approvals": 29,
+   "program": "Co-op",
+   "remote": false
+  },
   {
    "id": "lever:acronaviation:34cf5ad0-840a-4c1b-8231-02a433d0479e",
    "company": "Acron Aviation",
