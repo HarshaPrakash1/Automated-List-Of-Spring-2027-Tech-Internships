@@ -345,7 +345,25 @@
       "greenhouse:klaviyocampus:7989365003",
       "workday:autostore:/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692",
       "lever:acronaviation:34cf5ad0-840a-4c1b-8231-02a433d0479e",
-      "workday:viavisolutions:/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1"
+      "workday:viavisolutions:/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1",
+      "ashby:cyvl:8bfc4116-b0bb-47f8-bca1-7069a37db328",
+      "ashby:base-power:b6b2332e-1226-4575-b2c9-9e5258f2540e",
+      "ashby:base-power:a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7",
+      "ashby:base-power:5353ea33-57d4-46fa-9a96-e392a3f841bc",
+      "lever:reply:74422215-dd06-404a-a35c-3c9bd80e1f0b",
+      "oracle:ekbq.fa.em2.oraclecloud.com:2061",
+      "workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
+      "workday:coreandmain:/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
+      "greenhouse:figma:6178857004",
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
+      "greenhouse:singlestore:8154399",
+      "smartrecruiters:WesternDigital:744000149367234",
+      "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
+      "workday:wexinc:/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
+      "workday:wexinc:/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
+      "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
+      "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
+      "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -692,7 +710,25 @@
       "greenhouse:klaviyocampus:7989365003",
       "workday:autostore:/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692",
       "lever:acronaviation:34cf5ad0-840a-4c1b-8231-02a433d0479e",
-      "workday:viavisolutions:/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1"
+      "workday:viavisolutions:/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1",
+      "ashby:cyvl:8bfc4116-b0bb-47f8-bca1-7069a37db328",
+      "ashby:base-power:b6b2332e-1226-4575-b2c9-9e5258f2540e",
+      "ashby:base-power:a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7",
+      "ashby:base-power:5353ea33-57d4-46fa-9a96-e392a3f841bc",
+      "lever:reply:74422215-dd06-404a-a35c-3c9bd80e1f0b",
+      "oracle:ekbq.fa.em2.oraclecloud.com:2061",
+      "workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
+      "workday:coreandmain:/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
+      "greenhouse:figma:6178857004",
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
+      "greenhouse:singlestore:8154399",
+      "smartrecruiters:WesternDigital:744000149367234",
+      "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
+      "workday:wexinc:/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
+      "workday:wexinc:/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
+      "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
+      "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
+      "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"
     ]
   }
 }

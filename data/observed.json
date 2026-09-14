@@ -999,6 +999,18 @@
     }
    }
   },
+  "figma": {
+   "name": "Figma",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:figma:6178857004"
+     ],
+     "count": 1
+    }
+   }
+  },
   "figure": {
    "name": "Figure",
    "cycles": {
@@ -2308,6 +2320,18 @@
     }
    }
   },
+  "schroders": {
+   "name": "Schroders",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "oracle:ekbq.fa.em2.oraclecloud.com:2061"
+     ],
+     "count": 1
+    }
+   }
+  },
   "sentara health": {
    "name": "Sentara Health",
    "cycles": {
@@ -2899,6 +2923,13 @@
       "smartrecruiters:WesternDigital:744000138727213",
       "smartrecruiters:WesternDigital:744000143171017"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "smartrecruiters:WesternDigital:744000149367234"
+     ],
+     "count": 1
     }
    }
   },
@@ -2965,5 +2996,5 @@
    }
   }
  },
- "updated_at": "2026-09-14T14:12:40Z"
+ "updated_at": "2026-09-14T19:27:45Z"
 }
