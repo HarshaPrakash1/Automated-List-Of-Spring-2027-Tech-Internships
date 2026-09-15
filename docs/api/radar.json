@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-15T17:08:45Z",
- "data_as_of": "2026-09-15T17:08:45Z",
- "rendered_at": "2026-09-15T17:08:45Z",
+ "generated_at": "2026-09-15T20:25:11Z",
+ "data_as_of": "2026-09-15T20:25:11Z",
+ "rendered_at": "2026-09-15T20:25:12Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -877,6 +877,44 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-14"
+   }
+  },
+  {
+   "company": "Bracco",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-15"
+   }
+  },
+  {
+   "company": "NVIDIA",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
+   "note": "multiple programs; Ignite ~Oct, SWE ongoing",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-15"
    }
   },
   {
@@ -3540,25 +3578,6 @@
    }
   },
   {
-   "company": "NVIDIA",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "day",
-   "rolling": true,
-   "confidence": "rolling",
-   "source": "known",
-   "expected": "",
-   "days_until": null,
-   "status": "waiting",
-   "url": "",
-   "note": "multiple programs; Ignite ~Oct, SWE ongoing",
-   "provenance": {
-    "type": "verified-window",
-    "url": "nvidia.com/careers",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Palantir",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3768,5 +3787,5 @@
    }
   }
  ],
- "count": 198
+ "count": 199
 }

@@ -259,9 +259,10 @@
     "Spring 2027": {
      "first_posted": "2026-06-10",
      "role_ids": [
-      "greenhouse:andurilindustries:5148079007"
+      "greenhouse:andurilindustries:5148079007",
+      "greenhouse:andurilindustries:5239083007"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -518,6 +519,18 @@
       "smartrecruiters:BoschGroup:744000146547599"
      ],
      "count": 3
+    }
+   }
+  },
+  "bracco": {
+   "name": "Bracco",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324"
+     ],
+     "count": 1
     }
    }
   },
@@ -1786,11 +1799,12 @@
      "role_ids": [
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
+      "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -1888,6 +1902,13 @@
       "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
       "workday:nvidia:/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406"
+     ],
+     "count": 1
     }
    }
   },
@@ -2997,5 +3018,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T17:08:45Z"
+ "updated_at": "2026-09-15T20:25:11Z"
 }

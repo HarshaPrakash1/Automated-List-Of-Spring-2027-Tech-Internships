@@ -380,7 +380,15 @@
       "workday:micron:/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
-      "workday:ssctech:/job/Braintree-MA---30-Braintree-Hill-Park/RS-Operational-AI-Analyst-Intern_R45766"
+      "workday:ssctech:/job/Braintree-MA---30-Braintree-Hill-Park/RS-Operational-AI-Analyst-Intern_R45766",
+      "greenhouse:andurilindustries:5239083007",
+      "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324",
+      "greenhouse:duolingo:8805925002",
+      "greenhouse:duolingo:8806114002",
+      "greenhouse:testnisc:8204161",
+      "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
+      "workday:newperkinelmer:/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -762,7 +770,15 @@
       "workday:micron:/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
-      "workday:ssctech:/job/Braintree-MA---30-Braintree-Hill-Park/RS-Operational-AI-Analyst-Intern_R45766"
+      "workday:ssctech:/job/Braintree-MA---30-Braintree-Hill-Park/RS-Operational-AI-Analyst-Intern_R45766",
+      "greenhouse:andurilindustries:5239083007",
+      "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324",
+      "greenhouse:duolingo:8805925002",
+      "greenhouse:duolingo:8806114002",
+      "greenhouse:testnisc:8204161",
+      "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
+      "workday:newperkinelmer:/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421"
     ]
   }
 }
