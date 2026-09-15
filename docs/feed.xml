@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-15T06:55:14Z</updated>
+  <updated>2026-09-15T12:22:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:cai:/job/California/Cybersecurity-Analyst-Intern_R8488</id>
+    <title>CAI: Cybersecurity Analyst Intern</title>
+    <link href="https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488"/>
+    <updated>2026-09-15T12:22:43Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · California · Python, AWS, Azure, Linux · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1</id>
     <title>Tencent: Machine Learning Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-10T13:50:41Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Reno, Nevada, United States; San Francisco, California, United States · C++, Go, Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:cimgroup:06e2dc38-9e3c-4f08-996a-b3df6711ab0b</id>
-    <title>CIM Group: Data Science Intern</title>
-    <link href="https://jobs.lever.co/cimgroup/06e2dc38-9e3c-4f08-996a-b3df6711ab0b"/>
-    <updated>2026-09-10T20:17:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · $20/hr · Python, SQL, scikit-learn, Pandas, LLMs · status: closed</summary>
   </entry>
 </feed>
