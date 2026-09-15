@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-15T12:22:43Z</updated>
+  <updated>2026-09-15T17:08:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:psu:/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2</id>
+    <title>PennState University: Embedded Systems and Hardware Co-Op 🇺🇸</title>
+    <link href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2"/>
+    <updated>2026-09-15T17:08:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Warminster, PA · Python, C++, C#, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:ensco:5421861008</id>
+    <title>ENSCO: Information Security Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/ensco/jobs/5421861008"/>
+    <updated>2026-09-15T17:08:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Endicott, New York, United States; Melbourne, Florida, United States; Vienna, Virginia, United States · Python · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042</id>
+    <title>Hitachi Energy: Intern - Onboard Software Developer</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042"/>
+    <updated>2026-09-15T17:08:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Pittsburgh, Pennsylvania, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584</id>
+    <title>Micron Technology: Intern - Firmware Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584"/>
+    <updated>2026-09-15T17:08:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Longmont-MAX- Office, CO · Python, C++, LLMs, Git · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461</id>
+    <title>Micron Technology: Intern - Data Center SSD Firmware</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461"/>
+    <updated>2026-09-15T17:08:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Longmont-MAX- Office, CO · Python, C++, LLMs, Git · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471</id>
+    <title>Northrop Grumman: 2027 Cyber Systems Engineer Intern - Roy UT 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"/>
+    <updated>2026-09-15T17:08:45Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · United States-Utah-Roy · $18.5–$33.5/hr · Python, Java, C++, C#, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493</id>
+    <title>Oshkosh: Software Engineering Intern</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493"/>
+    <updated>2026-09-15T17:08:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, California, United States · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ssctech:/job/Braintree-MA---30-Braintree-Hill-Park/RS-Operational-AI-Analyst-Intern_R45766</id>
+    <title>SS&amp;C: RS Operational AI Analyst Intern</title>
+    <link href="https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Braintree-MA---30-Braintree-Hill-Park/RS-Operational-AI-Analyst-Intern_R45766"/>
+    <updated>2026-09-15T17:08:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Braintree MA - 30 Braintree Hill Park · $30/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:cai:/job/California/Cybersecurity-Analyst-Intern_R8488</id>
     <title>CAI: Cybersecurity Analyst Intern</title>
@@ -742,69 +806,5 @@
     <updated>2026-09-10T17:26:33Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Dallas, TX, United States · Python, Java, C++, JavaScript, SQL · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:eevd.fa.us6.oraclecloud.com:2027455</id>
-    <title>Hearst: Software Engineering Intern</title>
-    <link href="https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455"/>
-    <updated>2026-09-10T17:26:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Indianapolis, IN, United States · AWS, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cigna:/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529</id>
-    <title>Cigna Group: The Cigna Group's Technology Development Program  -  Infrastructure &amp; Cloud Engineering Track Summer Internship</title>
-    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529"/>
-    <updated>2026-09-10T17:26:33Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg · $25–$33/hr · Python, Java, JavaScript, Bash, AWS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cigna:/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535</id>
-    <title>Cigna Group: The Cigna Group's Technology Development Program - AI Engineering Track Summer Internship</title>
-    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535"/>
-    <updated>2026-09-10T17:26:33Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · TX, Austin, 11501 Alterra Pkwy STE 500 · $25–$33/hr · Python, PyTorch, TensorFlow, scikit-learn, Pandas · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298</id>
-    <title>RTX: Co-Op, Software Engineer- Onsite 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298"/>
-    <updated>2026-09-10T17:26:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US-IA-CEDAR RAPIDS-109 ~ 400 Collins Rd NE ~ BLDG 109 · Python, C#, SQL, Angular, Flask · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:labcorp:/job/Baltimore-MD/Intern---Data-Science---Oncology_2630590</id>
-    <title>LabCorp: Intern - Data Science - Oncology 🛂</title>
-    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Data-Science---Oncology_2630590"/>
-    <updated>2026-09-10T17:26:33Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Baltimore MD · $30–$33/hr · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1</id>
-    <title>Northrop Grumman: 2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1"/>
-    <updated>2026-09-10T17:26:33Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · United States-Ohio-Cincinnati · $19.5–$35.5/hr · Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:seqholdings:9dc9a7f3-198a-43c0-be75-a3aba228bf2c</id>
-    <title>Sequence Holdings: Software Engineer (Intern)</title>
-    <link href="https://jobs.ashbyhq.com/seqholdings/9dc9a7f3-198a-43c0-be75-a3aba228bf2c"/>
-    <updated>2026-09-10T13:50:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York City</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:amperesand:4381214009</id>
-    <title>Amperesand: Intern, Software</title>
-    <link href="https://job-boards.greenhouse.io/amperesand/jobs/4381214009"/>
-    <updated>2026-09-10T13:50:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Reno, Nevada, United States; San Francisco, California, United States · C++, Go, Rust</summary>
   </entry>
 </feed>

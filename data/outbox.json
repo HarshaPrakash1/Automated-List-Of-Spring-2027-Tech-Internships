@@ -371,7 +371,16 @@
       "workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
       "workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
       "workday:intel:/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629",
-      "workday:tencent:/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1"
+      "workday:tencent:/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1",
+      "workday:psu:/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2",
+      "greenhouse:ensco:5421861008",
+      "workday:hitachi:/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042",
+      "smartrecruiters:Interco:744000149591449",
+      "workday:micron:/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584",
+      "workday:micron:/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
+      "workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
+      "workday:ssctech:/job/Braintree-MA---30-Braintree-Hill-Park/RS-Operational-AI-Analyst-Intern_R45766"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -744,7 +753,16 @@
       "workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
       "workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
       "workday:intel:/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629",
-      "workday:tencent:/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1"
+      "workday:tencent:/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1",
+      "workday:psu:/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2",
+      "greenhouse:ensco:5421861008",
+      "workday:hitachi:/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042",
+      "smartrecruiters:Interco:744000149591449",
+      "workday:micron:/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584",
+      "workday:micron:/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
+      "workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
+      "workday:ssctech:/job/Braintree-MA---30-Braintree-Hill-Park/RS-Operational-AI-Analyst-Intern_R45766"
     ]
   }
 }
