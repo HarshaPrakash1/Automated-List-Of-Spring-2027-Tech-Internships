@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-14T22:56:22Z</updated>
+  <updated>2026-09-15T01:39:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629</id>
+    <title>Intel: AI Solutions Engineering Undergraduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629"/>
+    <updated>2026-09-15T01:39:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US, Oregon, Hillsboro · Python, Java, C++, scikit-learn, Pandas · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:opengov:c31622c1-be01-4d4a-b7cf-d116be84cc08</id>
     <title>OpenGov: Intern, Software Engineer</title>
@@ -48,6 +56,14 @@
     <summary>Not stated · Security · US-California-Palo Alto · $27.12–$51.93/hr · Python, Java, C++, Bash, AWS</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
+    <title>Wex: AI &amp; Data Platform Engineering Intern (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"/>
+    <updated>2026-09-14T22:56:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US - Remote · Python, Java, SQL, LLMs, AWS · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551</id>
     <title>Wex: Data &amp; AI Intern (Graduate/Master’s)</title>
     <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551"/>
@@ -70,14 +86,6 @@
     <updated>2026-09-14T22:56:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US - Remote · Python, Bash, AWS, GCP, Azure · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
-    <title>Wex: AI &amp; Data Platform Engineering Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"/>
-    <updated>2026-09-14T22:56:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Remote · Python, Java, SQL, LLMs, AWS · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:base-power:5353ea33-57d4-46fa-9a96-e392a3f841bc</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-10T13:50:41Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Knoxville, TN, United States · AWS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:greatamerica:/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221</id>
-    <title>GreatAmerica Financial Services: Software Engineer Intern</title>
-    <link href="https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221"/>
-    <updated>2026-09-10T13:50:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cedar Rapids, IA · SQL, .NET</summary>
   </entry>
 </feed>
