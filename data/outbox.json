@@ -388,7 +388,12 @@
       "greenhouse:testnisc:8204161",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
-      "workday:newperkinelmer:/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421"
+      "workday:newperkinelmer:/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421",
+      "oracle:hdjq.fa.us2.oraclecloud.com:26010928",
+      "oracle:hdjq.fa.us2.oraclecloud.com:26008230",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40172",
+      "greenhouse:brevium:4713683006",
+      "greenhouse:singlestore:8205514"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -778,7 +783,12 @@
       "greenhouse:testnisc:8204161",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
-      "workday:newperkinelmer:/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421"
+      "workday:newperkinelmer:/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421",
+      "oracle:hdjq.fa.us2.oraclecloud.com:26010928",
+      "oracle:hdjq.fa.us2.oraclecloud.com:26008230",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40172",
+      "greenhouse:brevium:4713683006",
+      "greenhouse:singlestore:8205514"
     ]
   }
 }

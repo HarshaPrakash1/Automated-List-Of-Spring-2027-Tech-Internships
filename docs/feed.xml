@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-15T20:25:11Z</updated>
+  <updated>2026-09-15T23:25:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919</id>
+    <title>Johnson &amp; Johnson: Software Engineering Intern - Robotics R&amp;D 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919"/>
+    <updated>2026-09-15T23:25:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · Python, C++, Computer Vision, Git · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010928</id>
+    <title>Emerson Electric: Software Engineering Intern 🛂</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928"/>
+    <updated>2026-09-15T23:25:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, TX, United States · Python, C++, C#, Linux · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26008230</id>
+    <title>Emerson Electric: Software Engineering Intern - ADG System R&amp;D</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230"/>
+    <updated>2026-09-15T23:25:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, TX, United States · Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40172</id>
+    <title>Nokia: Embedded Software Development Coop</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40172"/>
+    <updated>2026-09-15T23:25:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States · C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:brevium:4713683006</id>
+    <title>Brevium: Software Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/brevium/jobs/4713683006"/>
+    <updated>2026-09-15T23:25:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · American Fork, UT · C#, SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:ambrook:29ffbcea-17c3-4488-9d57-a9f7249b49a5</id>
     <title>Ambrook: Software Engineering Co-op</title>
@@ -16,28 +56,12 @@
     <summary>Winter 2027 · Software · New York · $2K per week · TypeScript, LLMs, React, Next.js, GCP · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:egay.fa.us6.oraclecloud.com:44449</id>
-    <title>NOV: Software Engineering Intern</title>
-    <link href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449"/>
-    <updated>2026-09-15T20:25:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Houston, TX, United States · Python, Java, C++, C#, JavaScript · status: closed</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:andurilindustries:5239083007</id>
     <title>Anduril: 2027 Flight Software Engineer Intern</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007"/>
     <updated>2026-09-15T20:25:11Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · Costa Mesa, California, United States · Python, MATLAB, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324</id>
-    <title>Bracco: Firmware Engineering Co-op</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324"/>
-    <updated>2026-09-15T20:25:11Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Hardware · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · Python, C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:duolingo:8805925002</id>
@@ -64,6 +88,30 @@
     <summary>Not stated · Data &amp; ML/AI · Lake Saint Louis, MO · Python, Java, LLMs</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:egay.fa.us6.oraclecloud.com:44449</id>
+    <title>NOV: Software Engineering Intern</title>
+    <link href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449"/>
+    <updated>2026-09-15T20:25:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Houston, TX, United States · Python, Java, C++, C#, JavaScript · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324</id>
+    <title>Bracco: Firmware Engineering Co-op</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324"/>
+    <updated>2026-09-15T20:25:11Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Hardware · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:newperkinelmer:/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421</id>
+    <title>PerkinElmer: Data Science Intern, Asset Intelligence</title>
+    <link href="https://newperkinelmer.wd1.myworkdayjobs.com/External/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421"/>
+    <updated>2026-09-15T20:25:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US Remote - NY · Python, SQL, Pandas</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186</id>
     <title>Northrop Grumman: 2027 Cyber Software Engineer Intern - Cincinnati OH 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186"/>
@@ -78,14 +126,6 @@
     <updated>2026-09-15T20:25:11Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · US, CA, Santa Clara · LLMs, Python, C++, PyTorch, Computer Vision · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:newperkinelmer:/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421</id>
-    <title>PerkinElmer: Data Science Intern, Asset Intelligence</title>
-    <link href="https://newperkinelmer.wd1.myworkdayjobs.com/External/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421"/>
-    <updated>2026-09-15T20:25:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US Remote - NY · Python, SQL, Pandas</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:ensco:5421861008</id>
@@ -301,7 +341,7 @@
     <link href="https://job-boards.greenhouse.io/singlestore/jobs/8154399"/>
     <updated>2026-09-14T19:27:45Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · United States · Go, TypeScript, JavaScript, SQL · sponsorship: offers · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+    <summary>2 openings · Not stated · Software · United States · Go, TypeScript, JavaScript, SQL · sponsorship: offers · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:reply:74422215-dd06-404a-a35c-3c9bd80e1f0b</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-10T22:42:52Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · San Francisco, CA · C++, Rust, PyTorch, LLMs, CUDA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1</id>
-    <title>Bedrock Robotics: Internship 2027 Behavior Machine Learning Engineer, World Models</title>
-    <link href="https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1"/>
-    <updated>2026-09-10T22:42:52Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · San Francisco, CA · Python, PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rfsmart:5407206008</id>
-    <title>RF-SMART: Product Engineering Software Developer Internship - Spring &amp; Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/rfsmart/jobs/5407206008"/>
-    <updated>2026-09-10T22:42:52Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Jacksonville, Florida, United States · $25/hr · C#, TypeScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183</id>
-    <title>The Toro Company: Hardware and Software Engineering Intern - Ditch Witch 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183"/>
-    <updated>2026-09-10T22:42:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Perry, OK · Python, Java, C++, C#, Linux · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8191898</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Database Conversion Programming</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8191898"/>
-    <updated>2026-09-10T20:17:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mandan, ND · SQL, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8191987</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Information Security (Cybersecurity)</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8191987"/>
-    <updated>2026-09-10T20:17:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Mandan, ND · Linux · status: closed</summary>
   </entry>
 </feed>
