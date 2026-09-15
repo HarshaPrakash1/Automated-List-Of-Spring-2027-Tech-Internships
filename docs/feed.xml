@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-15T01:39:15Z</updated>
+  <updated>2026-09-15T06:55:14Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1</id>
+    <title>Tencent: Machine Learning Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1"/>
+    <updated>2026-09-15T06:55:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US-California-Palo Alto · $28.27–$60/hr · Python, SQL, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629</id>
     <title>Intel: AI Solutions Engineering Undergraduate Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-10T20:17:02Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · $20/hr · Python, SQL, scikit-learn, Pandas, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:PilotCompany:744000148577368</id>
-    <title>Pilot Company: Program Intern, Infrastructure Support</title>
-    <link href="https://jobs.smartrecruiters.com/PilotCompany/744000148577368"/>
-    <updated>2026-09-10T13:50:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Knoxville, TN, United States · AWS · status: closed</summary>
   </entry>
 </feed>
