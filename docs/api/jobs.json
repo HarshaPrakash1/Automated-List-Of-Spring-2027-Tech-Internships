@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-09-16T01:47:51Z",
- "data_as_of": "2026-09-16T01:47:51Z",
- "rendered_at": "2026-09-16T01:47:51Z",
+ "generated_at": "2026-09-16T06:58:05Z",
+ "data_as_of": "2026-09-16T06:58:05Z",
+ "rendered_at": "2026-09-16T06:58:05Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 344,
+ "count": 345,
  "jobs": [
+  {
+   "id": "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
+   "company": "The Aerospace Corporation",
+   "title": "2027 Aerospace Software Engineer Undergraduate Intern",
+   "season": "Spring 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "El Segundo, CA",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
+   "posted_at": "2026-09-15T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-16T06:58:05Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:brevium:4713683006",
    "company": "Brevium",

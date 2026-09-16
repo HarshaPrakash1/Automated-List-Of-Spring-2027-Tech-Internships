@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-16T01:47:51Z</updated>
+  <updated>2026-09-16T06:58:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605</id>
+    <title>The Aerospace Corporation: 2027 Aerospace Software Engineer Undergraduate Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605"/>
+    <updated>2026-09-16T06:58:05Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:brevium:4713683006</id>
     <title>Brevium: Software Engineer Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-11T05:24:21Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · Mount Laurel, New Jersey · Java, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8</id>
-    <title>Bedrock Robotics: Internship 2027 Onboard Infrastructure Engineer, ML Inference</title>
-    <link href="https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8"/>
-    <updated>2026-09-10T22:42:52Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · San Francisco, CA · C++, Rust, PyTorch, LLMs, CUDA</summary>
   </entry>
 </feed>

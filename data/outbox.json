@@ -393,7 +393,8 @@
       "oracle:hdjq.fa.us2.oraclecloud.com:26008230",
       "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40172",
       "greenhouse:brevium:4713683006",
-      "greenhouse:singlestore:8205514"
+      "greenhouse:singlestore:8205514",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -788,7 +789,8 @@
       "oracle:hdjq.fa.us2.oraclecloud.com:26008230",
       "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40172",
       "greenhouse:brevium:4713683006",
-      "greenhouse:singlestore:8205514"
+      "greenhouse:singlestore:8205514",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605"
     ]
   }
 }

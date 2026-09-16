@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fharshaprakash1.github.io%2FAutomated-List-Of-Spring-2027-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml)
 
-### 344 open roles (278 listed below) · 114 new this week
+### 345 open roles (279 listed below) · 115 new this week
 
-4,562 employers tracked · data as of Sep 16, 2026 at 01:47 UTC
+4,562 employers tracked · data as of Sep 16, 2026 at 06:58 UTC
 
-_98 have a cycle the employer stated · 246 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_99 have a cycle the employer stated · 246 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/)** · **[📡 RSS](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/#subscribe)**
 
@@ -85,10 +85,11 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Spring 2027  (82 employer-stated)
+## Spring 2027  (83 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| The Aerospace Corporation | 2027 Aerospace Software Engineer Undergraduate Intern 🇺🇸 🆕 | Software | El Segundo, CA | Python, Java, C++ | Sep 15, 2026 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605) |
 | Anduril | 2027 Flight Software Engineer Intern 🆕 | Software | Costa Mesa, California, United States | Python, MATLAB, Computer Vision | Sep 15, 2026 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) |
 | Bracco | Firmware Engineering Co-op 🆕 | Hardware | USA, Eden Prairie, Minnesota, 55344 | Python, C++ | Sep 15, 2026 | [Apply](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324) |
 | Northrop Grumman | 2027 Cyber Software Engineer Intern - Cincinnati OH 🇺🇸 🆕 | Security | United States-Ohio-Cincinnati | Git | Sep 15, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186) |
@@ -208,7 +209,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Core & Main | Intern - AI Intern - Copilot-  Onsite - St. Louis 🆕 | Data & ML/AI | Saint Louis, MO 63146 | SQL, Azure, Git | Sep 14, 2026 | [Apply](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) |
 | Micron Technology ✓ | Intern - IT Software Engineer 🆕 | Software | Boise, ID - Main Site | Python, C#, JavaScript, SQL | Sep 14, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582) |
 | Viavi Solutions ✓ | Software Engineering Co-Op 🆕 | Software | Germantown, MD USA | C++, Linux | Sep 14, 2026 | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1) |
-| Acron Aviation | Software Engineer Intern - Phoenix Site 🆕 | Software | Phoenix, AZ | Python, C++, C#, SQL | Sep 14, 2026 | [Apply](https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e) |
+| Acron Aviation | Software Engineer Intern - Phoenix Site | Software | Phoenix, AZ | Python, C++, C#, SQL | Sep 14, 2026 | [Apply](https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e) |
 | Autostore | Co-Op/Intern - Software Engineering | Software | Atlanta, GA, USA | Python, Java, C++, C# | Sep 13, 2026 | [Apply](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692) |
 | Kulicke & Soffa | Intern, Software Engineering | Software | Fort Washington, PA, United States | C++ | Sep 12, 2026 | [Apply](https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649) |
 | Businessolver | Business Intelligence Analyst Internship (Innovation & Data Science) | Data & ML/AI | United States | Python, SQL, AWS | Sep 11, 2026 | [Apply](https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738) |
@@ -405,7 +406,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | Bridgewater Associates | ~Aug | ~Aug | ⏳ waiting |
 | Cisco | ~Aug | ~Aug | ⏳ waiting |
 
-_199 companies on the [full radar](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/#radar). **57** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_200 companies on the [full radar](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/#radar). **58** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 15 roles that left the list in the last 14 days</summary>
@@ -447,7 +448,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,491 of 4,817 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 764.5s · 614 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,399 of 4,817 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1091.7s · 577 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
