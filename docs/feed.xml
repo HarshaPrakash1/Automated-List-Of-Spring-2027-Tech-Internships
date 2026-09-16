@@ -5,8 +5,120 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-16T12:51:50Z</updated>
+  <updated>2026-09-16T17:32:33Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:gecko-robotics:c097505b-0a28-4a33-a917-268f463641e8</id>
+    <title>Gecko Robotics: AI/Machine Learning Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · New York City · $50 – $90 per hour · Python, SQL, PyTorch, Pandas, LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:gecko-robotics:01138338-ff3c-4982-8ba3-5401386bf082</id>
+    <title>Gecko Robotics: Full Stack Software Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York City · $40 – $80 per hour · Python, TypeScript, JavaScript, LLMs, React · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107256</id>
+    <title>S&amp;C Electric Company: Cyber Security Analyst- Intern</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107256"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security · Chicago, IL, United States · $22–$30/hr · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:relaypro:8176774</id>
+    <title>Relay: Relay Launchpad Intern - Software Engineer (AI/ML)</title>
+    <link href="https://job-boards.greenhouse.io/relaypro/jobs/8176774"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Raleigh, NC · Python, Rust, JavaScript, PyTorch, LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:relaypro:8180836</id>
+    <title>Relay: Relay Launchpad Intern - Software Engineer (Device Team)</title>
+    <link href="https://job-boards.greenhouse.io/relaypro/jobs/8180836"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Raleigh, NC · Python, Java, C++, Rust, Kotlin · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:cartesiansystems:4408204009</id>
+    <title>Cartesian: IAP Software Engineering Intern 2027</title>
+    <link href="https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Cambridge, MA · $20–$25/hr · Python, TypeScript, Kotlin, PyTorch, Next.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:clockworksystems:6174230004</id>
+    <title>Clockwork Systems: Software Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Palo Alto, CA · Python, Java, C++, Go, Django</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259</id>
+    <title>Gordon Food Service: Cloud DevOps Internship</title>
+    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Atlanta, Georgia · Python, Bash, GCP, Kubernetes, Docker · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1</id>
+    <title>Gordon Food Service: Data Science Engineer Internship</title>
+    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Atlanta, Georgia · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286</id>
+    <title>Gordon Food Service: IT Infrastructure Project Support Internship</title>
+    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Atlanta, Georgia · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464</id>
+    <title>RTX: Software Engineering Co-op (Winter/Spring 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US-IA-CEDAR RAPIDS-124 ~ 400 Collins Rd NE ~ BLDG 124 · Python, LLMs, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:disney:/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1</id>
+    <title>The Walt Disney Company: Infrastructure Services Intern, Spring 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Burbank, CA, USA · $31/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tihinsurance:/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172</id>
+    <title>Tihinsurance: Internship - Software Engineering</title>
+    <link href="https://tihinsurance.wd1.myworkdayjobs.com/crc_careers/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Dallas TX - 12377 Merit Dr. · Python, Java, C#, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171</id>
+    <title>Vermeer: IT Data Engineer Intern</title>
+    <link href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Pella, Iowa, USA - Corporate Office · SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4</id>
     <title>Bedrock Robotics: Internship 2027 Software Engineer, Fleet Platform</title>
@@ -82,15 +194,15 @@
   <entry>
     <id>urn:intern-engine:greenhouse:duolingo:8805925002</id>
     <title>Duolingo: Software Engineer, Intern</title>
-    <link href="https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002"/>
+    <link href="https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002"/>
     <updated>2026-09-15T20:25:11Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · New York, NY; New York, NY; Pittsburgh, PA; Pittsburgh, PA; Seattle, WA; Seattle, WA · Python, Java, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Pittsburgh, PA; New York, NY; Seattle, WA · Python, Java, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:duolingo:8806114002</id>
     <title>Duolingo: Software Engineer, Thrive Intern</title>
-    <link href="https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002"/>
+    <link href="https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002"/>
     <updated>2026-09-15T20:25:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Pittsburgh, PA · Python, Java, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
@@ -371,9 +483,9 @@
     <id>urn:intern-engine:oracle:ekbq.fa.em2.oraclecloud.com:2061</id>
     <title>Schroders: 2027 Schroders Capital Internship Program - Infrastructure</title>
     <link href="https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061"/>
-    <updated>2026-09-14T19:27:45Z</updated>
+    <updated>2026-09-16T17:14:46Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · NEW YORK, NY, United States</summary>
+    <summary>Spring 2027 · Software · NEW YORK, NY, United States · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:WesternDigital:744000149367234</id>
@@ -694,117 +806,5 @@
     <updated>2026-09-11T14:04:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · United States · Python, SQL, Pandas, Computer Vision, AWS · H-1B track record: ~290 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abglobal:/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749</id>
-    <title>AllianceBernstein: Infrastructure Engineering Summer Intern 🇺🇸</title>
-    <link href="https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749"/>
-    <updated>2026-09-11T14:04:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Nashville, Tennessee · SQL, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abglobal:/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771</id>
-    <title>AllianceBernstein: Software Development Summer Intern 🇺🇸</title>
-    <link href="https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771"/>
-    <updated>2026-09-11T14:04:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Nashville, Tennessee · Java, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:disney:/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2</id>
-    <title>The Walt Disney Company: Disneyland Cybersecurity Intern, Spring 2027</title>
-    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2"/>
-    <updated>2026-09-11T14:04:36Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · Anaheim, CA, USA · $39/hr · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1</id>
-    <title>Entegris: Lab Automation &amp; AI Engineering Co-Op</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1"/>
-    <updated>2026-09-11T14:04:36Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Billerica, MA · $20–$30/hr · Python, LLMs · H-1B track record: ~60 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505</id>
-    <title>Entegris: Cyber Threat Analyst Co-Op</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505"/>
-    <updated>2026-09-11T14:04:36Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · Chaska, MN · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1</id>
-    <title>Entegris: Cybersecurity Engineer Co-Op</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1"/>
-    <updated>2026-09-11T14:04:36Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · Chaska, MN · $20–$30/hr · Python, GCP, Azure, Terraform, Git · H-1B track record: ~60 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hypertherm:/job/West-Lebanon-NH/Summer-Intern---Software-Engineering_R4005</id>
-    <title>Hypertherm: Summer Intern - Software Engineering</title>
-    <link href="https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/West-Lebanon-NH/Summer-Intern---Software-Engineering_R4005"/>
-    <updated>2026-09-11T14:04:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · West Lebanon, NH · Python, C#, JavaScript, Ruby · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114</id>
-    <title>The Toro Company: Embedded Software Engineering Intern - The Toro Company 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114"/>
-    <updated>2026-09-11T14:04:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Software · Bloomington, MN · C++, C# · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148915793</id>
-    <title>Wellmark: Software Engineer Internship – User Experience Team</title>
-    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000148915793"/>
-    <updated>2026-09-11T05:24:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Des Moines, IA, United States (Hybrid) · Java, C++, TypeScript, SQL, Node.js · H-1B track record: ~15 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148918178</id>
-    <title>Wellmark: Cyber Security Internship</title>
-    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000148918178"/>
-    <updated>2026-09-11T05:24:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Des Moines, IA, United States (Hybrid) · Python, Bash · H-1B track record: ~15 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cloud-DevOps_R_1510235</id>
-    <title>TD Bank: 2027 Spring Co-op - Global Technology &amp; Solutions - Cloud/DevOps</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cloud-DevOps_R_1510235"/>
-    <updated>2026-09-11T05:24:21Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Mount Laurel, New Jersey · Terraform</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103</id>
-    <title>TD Bank: 2027 Spring Co-op - Global Technology &amp; Solutions - Cyber Security</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103"/>
-    <updated>2026-09-11T05:24:21Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · Mount Laurel, New Jersey</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236</id>
-    <title>TD Bank: 2027 Spring Co-op - Global Technology &amp; Solutions - Data Analyst</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236"/>
-    <updated>2026-09-11T05:24:21Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Mount Laurel, New Jersey</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111</id>
-    <title>TD Bank: 2027 Spring Co-op - Global Technology &amp; Solutions - Data Engineer</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111"/>
-    <updated>2026-09-11T05:24:21Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Mount Laurel, New Jersey · Hadoop</summary>
   </entry>
 </feed>

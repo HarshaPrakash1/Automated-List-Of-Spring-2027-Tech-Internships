@@ -622,6 +622,18 @@
     }
    }
   },
+  "cartesian": {
+   "name": "Cartesian",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "greenhouse:cartesiansystems:4408204009"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ccc intelligent solutions": {
    "name": "CCC Intelligent Solutions",
    "cycles": {
@@ -2271,9 +2283,10 @@
      "first_posted": "2026-09-02",
      "role_ids": [
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Winter-Spring-2027-_01870191",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683"
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2914,11 +2927,12 @@
      "first_posted": "2026-08-24",
      "role_ids": [
       "workday:disney:/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2",
+      "workday:disney:/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1",
       "workday:disney:/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1",
       "workday:disney:/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
       "workday:disney:/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -3031,5 +3045,5 @@
    }
   }
  },
- "updated_at": "2026-09-16T12:51:50Z"
+ "updated_at": "2026-09-16T17:32:33Z"
 }

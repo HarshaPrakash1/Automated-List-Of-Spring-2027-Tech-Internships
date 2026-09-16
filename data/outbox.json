@@ -395,7 +395,16 @@
       "greenhouse:brevium:4713683006",
       "greenhouse:singlestore:8205514",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
-      "ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4"
+      "ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4",
+      "greenhouse:cartesiansystems:4408204009",
+      "greenhouse:clockworksystems:6174230004",
+      "workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259",
+      "workday:gfs:/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1",
+      "workday:gfs:/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464",
+      "workday:disney:/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1",
+      "workday:tihinsurance:/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172",
+      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -792,7 +801,16 @@
       "greenhouse:brevium:4713683006",
       "greenhouse:singlestore:8205514",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
-      "ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4"
+      "ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4",
+      "greenhouse:cartesiansystems:4408204009",
+      "greenhouse:clockworksystems:6174230004",
+      "workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259",
+      "workday:gfs:/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1",
+      "workday:gfs:/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464",
+      "workday:disney:/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1",
+      "workday:tihinsurance:/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172",
+      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171"
     ]
   }
 }
