@@ -394,7 +394,8 @@
       "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40172",
       "greenhouse:brevium:4713683006",
       "greenhouse:singlestore:8205514",
-      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605"
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
+      "ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -790,7 +791,8 @@
       "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40172",
       "greenhouse:brevium:4713683006",
       "greenhouse:singlestore:8205514",
-      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605"
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
+      "ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4"
     ]
   }
 }

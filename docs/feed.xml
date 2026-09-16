@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-16T06:58:05Z</updated>
+  <updated>2026-09-16T12:51:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4</id>
+    <title>Bedrock Robotics: Internship 2027 Software Engineer, Fleet Platform</title>
+    <link href="https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4"/>
+    <updated>2026-09-16T12:51:50Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · New York, NY · Python, C++, Rust, TypeScript</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605</id>
     <title>The Aerospace Corporation: 2027 Aerospace Software Engineer Undergraduate Intern 🇺🇸</title>
@@ -579,9 +587,9 @@
     <id>urn:intern-engine:greenhouse:newsbreak:4712896006</id>
     <title>NewsBreak: Nearby AI Internship Program - Engineering Track</title>
     <link href="https://job-boards.greenhouse.io/newsbreak/jobs/4712896006"/>
-    <updated>2026-09-11T23:26:39Z</updated>
+    <updated>2026-09-16T12:51:50Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mountain View, California, United States · Python, Java, LLMs, Git, PostgreSQL</summary>
+    <summary>Not stated · Data &amp; ML/AI · Mountain View, California, United States · Python, Java, LLMs, Git, PostgreSQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:corteva:/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-11T05:24:21Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · Mount Laurel, New Jersey · Hadoop</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773</id>
-    <title>TD Bank: 2027 Spring Co-op - Global Technology &amp; Solutions - Software Engineer (SWE)</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773"/>
-    <updated>2026-09-11T05:24:21Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Mount Laurel, New Jersey · Java, JavaScript</summary>
   </entry>
 </feed>
