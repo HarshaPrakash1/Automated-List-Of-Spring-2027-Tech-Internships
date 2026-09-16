@@ -5,15 +5,95 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-16T17:32:33Z</updated>
+  <updated>2026-09-16T20:37:26Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:ashby:gecko-robotics:c097505b-0a28-4a33-a917-268f463641e8</id>
-    <title>Gecko Robotics: AI/Machine Learning Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8"/>
-    <updated>2026-09-16T17:32:33Z</updated>
+    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260839</id>
+    <title>GM financial: Intern - Data Science</title>
+    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839"/>
+    <updated>2026-09-16T20:37:26Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York City · $50 – $90 per hour · Python, SQL, PyTorch, Pandas, LLMs · status: closed</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Fort Worth, TX, United States · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:kitware:ff25a349-a362-45d2-b1e4-2487c1df4f75</id>
+    <title>Kitware: AI Research Internship 🇺🇸</title>
+    <link href="https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75"/>
+    <updated>2026-09-16T20:37:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Clifton Park, New York · 40–60 USD/hr · Python, PyTorch, TensorFlow, LLMs, Computer Vision · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:kitware:7b6ff8f9-34c6-4338-845d-4e1bbc142906</id>
+    <title>Kitware: Software Developer Internship 🇺🇸</title>
+    <link href="https://jobs.lever.co/kitware/7b6ff8f9-34c6-4338-845d-4e1bbc142906"/>
+    <updated>2026-09-16T20:37:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Clifton Park, New York · 30–45 USD/hr · Python, C++, Computer Vision · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007497</id>
+    <title>Stantec: Roadway Design Co-op Student - Infrastructure (Fall 2026/Spring 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007497"/>
+    <updated>2026-09-16T20:37:26Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Raleigh, NC, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:graco:/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556</id>
+    <title>Graco: Software Engineer Intern 🛂</title>
+    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556"/>
+    <updated>2026-09-16T20:37:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Dayton, Minnesota, USA (French Lake) · TypeScript, JavaScript, Next.js, HTML/CSS, AWS · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:itron:/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1</id>
+    <title>Itron: Intern -  Firmware Engineer (Spring 2027)</title>
+    <link href="https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1"/>
+    <updated>2026-09-16T20:37:26Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Hardware · United States of America, South Carolina, West Union · Linux · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kbr:/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067</id>
+    <title>KBR: Image Processing Software Engineer Intern</title>
+    <link href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067"/>
+    <updated>2026-09-16T20:37:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Sioux Falls, South Dakota · Python, C++, AWS, Linux, PostgreSQL · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bcbsla:/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151</id>
+    <title>Louisiana Blue: CW Healthcare Data Science Intern (Spring 2027)</title>
+    <link href="https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151"/>
+    <updated>2026-09-16T20:37:26Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Corporate - Baton Rouge, LA · Python, SQL, PyTorch, TensorFlow, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000149952164</id>
+    <title>Renesas Electronics: Software Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000149952164"/>
+    <updated>2026-09-16T20:37:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, CALIFORNIA, United States (Hybrid) · $38/hr · Python, Java</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241</id>
+    <title>Valeo: Systems Engineering Co-Op (Software) 🛂</title>
+    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241"/>
+    <updated>2026-09-16T20:37:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Troy, MI · Python, C++, Linux · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1</id>
+    <title>Wellington Management: Quantitative Trading Co-op</title>
+    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1"/>
+    <updated>2026-09-16T20:37:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · Boston, MA, United States · $19–$35/hr · Python, SQL, Tableau · H-1B track record: ~112 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:gecko-robotics:01138338-ff3c-4982-8ba3-5401386bf082</id>
@@ -24,12 +104,28 @@
     <summary>Summer 2027 · Software · New York City · $40 – $80 per hour · Python, TypeScript, JavaScript, LLMs, React · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107256</id>
-    <title>S&amp;C Electric Company: Cyber Security Analyst- Intern</title>
-    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107256"/>
+    <id>urn:intern-engine:ashby:gecko-robotics:c097505b-0a28-4a33-a917-268f463641e8</id>
+    <title>Gecko Robotics: AI/Machine Learning Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8"/>
     <updated>2026-09-16T17:32:33Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security · Chicago, IL, United States · $22–$30/hr · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · New York City · $50 – $90 per hour · Python, SQL, PyTorch, Pandas, LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:cartesiansystems:4408204009</id>
+    <title>Cartesian: IAP Software Engineering Intern 2027</title>
+    <link href="https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Cambridge, MA · $20–$25/hr · Python, TypeScript, Kotlin, PyTorch, Next.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:clockworksystems:6174230004</id>
+    <title>Clockwork Systems: Software Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004"/>
+    <updated>2026-09-16T17:32:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Palo Alto, CA · Python, Java, C++, Go, Django</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:relaypro:8176774</id>
@@ -48,20 +144,20 @@
     <summary>Summer 2027 · Software · Raleigh, NC · Python, Java, C++, Rust, Kotlin · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:cartesiansystems:4408204009</id>
-    <title>Cartesian: IAP Software Engineering Intern 2027</title>
-    <link href="https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009"/>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107256</id>
+    <title>S&amp;C Electric Company: Cyber Security Analyst- Intern</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107256"/>
     <updated>2026-09-16T17:32:33Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Cambridge, MA · $20–$25/hr · Python, TypeScript, Kotlin, PyTorch, Next.js</summary>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security · Chicago, IL, United States · $22–$30/hr · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:clockworksystems:6174230004</id>
-    <title>Clockwork Systems: Software Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004"/>
+    <id>urn:intern-engine:workday:disney:/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1</id>
+    <title>The Walt Disney Company: Infrastructure Services Intern, Spring 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1"/>
     <updated>2026-09-16T17:32:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Palo Alto, CA · Python, Java, C++, Go, Django</summary>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Burbank, CA, USA · $31/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259</id>
@@ -94,14 +190,6 @@
     <updated>2026-09-16T17:32:33Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · US-IA-CEDAR RAPIDS-124 ~ 400 Collins Rd NE ~ BLDG 124 · Python, LLMs, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:disney:/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1</id>
-    <title>The Walt Disney Company: Infrastructure Services Intern, Spring 2027</title>
-    <link href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1"/>
-    <updated>2026-09-16T17:32:33Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Burbank, CA, USA · $31/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tihinsurance:/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172</id>
@@ -259,9 +347,9 @@
     <id>urn:intern-engine:greenhouse:ensco:5421861008</id>
     <title>ENSCO: Information Security Intern 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/ensco/jobs/5421861008"/>
-    <updated>2026-09-15T17:08:45Z</updated>
+    <updated>2026-09-16T20:37:26Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · Endicott, New York, United States; Melbourne, Florida, United States; Vienna, Virginia, United States · Python · sponsorship: citizens-only</summary>
+    <summary>Not stated · Security · Endicott, New York, United States; Melbourne, Florida, United States; Vienna, Virginia, United States · Python · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Interco:744000149591449</id>
@@ -669,15 +757,7 @@
     <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11648"/>
     <updated>2026-09-14T22:56:22Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Fort Washington, PA, United States · Python, C++, MATLAB · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11649</id>
-    <title>Kulicke &amp; Soffa: Intern, Software Engineering</title>
-    <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649"/>
-    <updated>2026-09-12T11:23:37Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Fort Washington, PA, United States · C++</summary>
+    <summary>2 openings · Not stated · Software · Fort Washington, PA, United States · Python, C++, MATLAB · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:ibotta:3130669e-16aa-4f63-834d-b83571c8d269</id>
@@ -726,85 +806,5 @@
     <updated>2026-09-11T21:10:12Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Milwaukee, WI · Python, C#, JavaScript, SQL · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:emcins:/job/Iowa/Intern--Data-Science_R6524</id>
-    <title>EMC Insurance: Intern- Data Science</title>
-    <link href="https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Iowa/Intern--Data-Science_R6524"/>
-    <updated>2026-09-11T21:10:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Iowa · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:fmr:/job/Boston-MA/Co-op--Software-Engineer_2135200</id>
-    <title>Fidelity Investments: Co-op, Software Engineer</title>
-    <link href="https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Engineer_2135200"/>
-    <updated>2026-09-11T21:10:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Boston, MA · $20–$32/hr · Python, C#, JavaScript · H-1B track record: ~2.4k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/AI-ML-Intern_R-00192042</id>
-    <title>Leidos: AI/ML Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00192042"/>
-    <updated>2026-09-11T21:10:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Huntsville, AL · Python, C++, MATLAB, Linux, Git · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:moog:/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053</id>
-    <title>Moog: Intern, Embedded Design Engineering</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053"/>
-    <updated>2026-09-11T21:10:12Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Blacksburg, VA · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265</id>
-    <title>Oshkosh: AI Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265"/>
-    <updated>2026-09-11T21:10:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Oshkosh, Wisconsin, United States · Python, C++, PyTorch, TensorFlow, scikit-learn · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:hudl:8155102</id>
-    <title>Hudl: Software Quality Assurance Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/hudl/jobs/8155102"/>
-    <updated>2026-09-11T18:02:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Lincoln, NE, United States · Python, JavaScript, Selenium · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:crowe:/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-71039</id>
-    <title>Crowe: MSFT AI Business Solutions Technical Intern</title>
-    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-71039"/>
-    <updated>2026-09-11T18:02:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chicago IL USA · $27–$42/hr · Azure · H-1B track record: ~37 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267</id>
-    <title>Oshkosh: Cyber Security Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267"/>
-    <updated>2026-09-11T18:02:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Oshkosh, Wisconsin, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868</id>
-    <title>Oshkosh: Data Engineer Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868"/>
-    <updated>2026-09-11T18:02:31Z</updated>
-    <category term="Summer 2026"/>
-    <summary>Summer 2026 · Data &amp; ML/AI · Oshkosh, Wisconsin, United States · Python, SQL, Azure, Databricks · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49280</id>
-    <title>Citizens Financial Group: Data Science Graduate 2027 Summer Intern</title>
-    <link href="https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280"/>
-    <updated>2026-09-11T14:04:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States · Python, SQL, Pandas, Computer Vision, AWS · H-1B track record: ~290 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

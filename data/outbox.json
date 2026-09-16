@@ -404,7 +404,17 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464",
       "workday:disney:/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1",
       "workday:tihinsurance:/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172",
-      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171"
+      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171",
+      "lever:kitware:ff25a349-a362-45d2-b1e4-2487c1df4f75",
+      "lever:kitware:7b6ff8f9-34c6-4338-845d-4e1bbc142906",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007497",
+      "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556",
+      "workday:itron:/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1",
+      "workday:kbr:/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067",
+      "workday:bcbsla:/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151",
+      "smartrecruiters:RenesasElectronics:744000149952164",
+      "workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241",
+      "workday:wellington:/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -810,7 +820,17 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464",
       "workday:disney:/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1",
       "workday:tihinsurance:/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172",
-      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171"
+      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171",
+      "lever:kitware:ff25a349-a362-45d2-b1e4-2487c1df4f75",
+      "lever:kitware:7b6ff8f9-34c6-4338-845d-4e1bbc142906",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007497",
+      "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556",
+      "workday:itron:/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1",
+      "workday:kbr:/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067",
+      "workday:bcbsla:/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151",
+      "smartrecruiters:RenesasElectronics:744000149952164",
+      "workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241",
+      "workday:wellington:/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1"
     ]
   }
 }

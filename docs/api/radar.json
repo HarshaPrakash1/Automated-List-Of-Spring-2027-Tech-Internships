@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-16T17:32:33Z",
- "data_as_of": "2026-09-16T17:32:33Z",
- "rendered_at": "2026-09-16T17:32:34Z",
+ "generated_at": "2026-09-16T20:37:26Z",
+ "data_as_of": "2026-09-16T20:37:26Z",
+ "rendered_at": "2026-09-16T20:37:26Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -519,6 +519,25 @@
    }
   },
   {
+   "company": "Stantec",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-02",
+   "days_until": -14,
+   "status": "open",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-02"
+   }
+  },
+  {
    "company": "Neighbor",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -568,25 +587,6 @@
    "days_until": -12,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-04"
-   }
-  },
-  {
-   "company": "Stantec",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -12,
-   "status": "open",
-   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -929,6 +929,25 @@
    "days_until": 0,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-16"
+   }
+  },
+  {
+   "company": "Itron",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3825,5 +3844,5 @@
    }
   }
  ],
- "count": 201
+ "count": 202
 }

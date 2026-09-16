@@ -1455,6 +1455,18 @@
     }
    }
   },
+  "itron": {
+   "name": "Itron",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "workday:itron:/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "johnson johnson": {
    "name": "Johnson & Johnson",
    "cycles": {
@@ -1581,9 +1593,10 @@
     "Spring 2027": {
      "first_posted": "2026-08-28",
      "role_ids": [
+      "workday:bcbsla:/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151",
       "workday:bcbsla:/job/Corporate---Baton-Rouge-LA/Healthcare-Price-and-Transparency-Data-Analyst-Intern_R11903"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2504,11 +2517,12 @@
      "count": 1
     },
     "Spring 2027": {
-     "first_posted": "2026-09-04",
+     "first_posted": "2026-09-02",
      "role_ids": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007497",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007589"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3045,5 +3059,5 @@
    }
   }
  },
- "updated_at": "2026-09-16T17:32:33Z"
+ "updated_at": "2026-09-16T20:37:26Z"
 }
