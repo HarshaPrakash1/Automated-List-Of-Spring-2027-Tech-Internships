@@ -5,31 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-15T23:25:50Z</updated>
+  <updated>2026-09-16T01:47:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919</id>
-    <title>Johnson &amp; Johnson: Software Engineering Intern - Robotics R&amp;D 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919"/>
-    <updated>2026-09-15T23:25:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · Python, C++, Computer Vision, Git · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010928</id>
-    <title>Emerson Electric: Software Engineering Intern 🛂</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928"/>
+    <id>urn:intern-engine:greenhouse:brevium:4713683006</id>
+    <title>Brevium: Software Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/brevium/jobs/4713683006"/>
     <updated>2026-09-15T23:25:50Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Austin, TX, United States · Python, C++, C#, Linux · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26008230</id>
-    <title>Emerson Electric: Software Engineering Intern - ADG System R&amp;D</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230"/>
-    <updated>2026-09-15T23:25:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Austin, TX, United States · Linux</summary>
+    <summary>Not stated · Software · American Fork, UT · C#, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40172</id>
@@ -40,12 +24,28 @@
     <summary>Not stated · Software · United States · C++, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:brevium:4713683006</id>
-    <title>Brevium: Software Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/brevium/jobs/4713683006"/>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26008230</id>
+    <title>Emerson Electric: Software Engineering Intern - ADG System R&amp;D</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230"/>
     <updated>2026-09-15T23:25:50Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · American Fork, UT · C#, SQL</summary>
+    <summary>Not stated · Software · Austin, TX, United States · Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010928</id>
+    <title>Emerson Electric: Software Engineering Intern 🛂</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928"/>
+    <updated>2026-09-15T23:25:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, TX, United States · Python, C++, C#, Linux · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919</id>
+    <title>Johnson &amp; Johnson: Software Engineering Intern - Robotics R&amp;D 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919"/>
+    <updated>2026-09-15T23:25:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · Python, C++, Computer Vision, Git · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:ambrook:29ffbcea-17c3-4488-9d57-a9f7249b49a5</id>
