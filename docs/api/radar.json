@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-16T20:37:26Z",
- "data_as_of": "2026-09-16T20:37:26Z",
- "rendered_at": "2026-09-16T20:37:26Z",
+ "generated_at": "2026-09-16T23:30:49Z",
+ "data_as_of": "2026-09-16T23:30:49Z",
+ "rendered_at": "2026-09-16T23:30:50Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -396,7 +396,7 @@
    "expected": "2026-08-28",
    "days_until": -19,
    "status": "open",
-   "url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/Healthcare-Price-and-Transparency-Data-Analyst-Intern_R11903",
+   "url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -529,7 +529,7 @@
    "expected": "2026-09-02",
    "days_until": -14,
    "status": "open",
-   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007497",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -873,25 +873,6 @@
    "status": "open",
    "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324",
    "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-15"
-   }
-  },
-  {
-   "company": "NVIDIA",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-15",
-   "days_until": -1,
-   "status": "open",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
-   "note": "multiple programs; Ignite ~Oct, SWE ongoing",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Spring 2027",
@@ -3841,6 +3822,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-14"
+   }
+  },
+  {
+   "company": "NVIDIA",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -1,
+   "status": "dropped",
+   "url": "",
+   "note": "multiple programs; Ignite ~Oct, SWE ongoing",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-15"
    }
   }
  ],

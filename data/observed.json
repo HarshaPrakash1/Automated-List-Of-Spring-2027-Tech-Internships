@@ -2943,10 +2943,11 @@
       "workday:disney:/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2",
       "workday:disney:/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1",
       "workday:disney:/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1",
+      "workday:disney:/job/Chicago-IL-USA/WLS-TV--ABC7--Programming--Promotion---Publicity-Intern--Spring-2027_10158839-1",
       "workday:disney:/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
       "workday:disney:/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -3059,5 +3060,5 @@
    }
   }
  },
- "updated_at": "2026-09-16T20:37:26Z"
+ "updated_at": "2026-09-16T23:30:49Z"
 }
