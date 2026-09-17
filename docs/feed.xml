@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-16T23:30:49Z</updated>
+  <updated>2026-09-17T01:52:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:barr:/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342</id>
+    <title>Barr: Internship - Data Science (Remote) 🛂</title>
+    <link href="https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342"/>
+    <updated>2026-09-17T01:52:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Minneapolis, MN · $30–$38/hr · Python, SQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:newsbreak:4711146006</id>
+    <title>NewsBreak: New Market Launch Intern (MBA), Nearby AI</title>
+    <link href="https://job-boards.greenhouse.io/newsbreak/jobs/4711146006"/>
+    <updated>2026-09-17T01:52:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729</id>
     <title>American Century Investments: Cybersecurity Intern 🛂</title>
@@ -16,17 +32,33 @@
     <summary>Fall 2026 · Security · Kansas City, Missouri · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1</id>
-    <title>Wellington Management: Trading Infrastructure and Risk, Alert Specialist Co Op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1"/>
+    <id>urn:intern-engine:workday:disney:/job/Chicago-IL-USA/WLS-TV--ABC7--Programming--Promotion---Publicity-Intern--Spring-2027_10158839-1</id>
+    <title>The Walt Disney Company: WLS-TV (ABC7) Programming, Promotion &amp; Publicity Intern, Spring 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Chicago-IL-USA/WLS-TV--ABC7--Programming--Promotion---Publicity-Intern--Spring-2027_10158839-1"/>
+    <updated>2026-09-16T23:30:49Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Chicago, IL, USA · $20/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829-1</id>
+    <title>Wellington Management: Portfolio Reference Data Analyst Co-op</title>
+    <link href="https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829-1"/>
     <updated>2026-09-16T23:30:49Z</updated>
     <category term="Winter 2026"/>
-    <summary>Winter 2026 · Quant · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
+    <summary>Winter 2026 · Data &amp; ML/AI · Boston, MA, United States · $19–$35/hr · Python, SQL · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-Risk--Bond-Forward-Co-Op_R94823-1</id>
     <title>Wellington Management: Trading Infrastructure Risk, Bond Forward Co Op</title>
     <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-Risk--Bond-Forward-Co-Op_R94823-1"/>
+    <updated>2026-09-16T23:30:49Z</updated>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Quant · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1</id>
+    <title>Wellington Management: Trading Infrastructure and Risk, Alert Specialist Co Op</title>
+    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1"/>
     <updated>2026-09-16T23:30:49Z</updated>
     <category term="Winter 2026"/>
     <summary>Winter 2026 · Quant · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
@@ -38,22 +70,6 @@
     <updated>2026-09-16T23:30:49Z</updated>
     <category term="Winter 2026"/>
     <summary>Winter 2026 · Quant · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829-1</id>
-    <title>Wellington Management: Portfolio Reference Data Analyst Co-op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829-1"/>
-    <updated>2026-09-16T23:30:49Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Data &amp; ML/AI · Boston, MA, United States · $19–$35/hr · Python, SQL · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:disney:/job/Chicago-IL-USA/WLS-TV--ABC7--Programming--Promotion---Publicity-Intern--Spring-2027_10158839-1</id>
-    <title>The Walt Disney Company: WLS-TV (ABC7) Programming, Promotion &amp; Publicity Intern, Spring 2027</title>
-    <link href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Chicago-IL-USA/WLS-TV--ABC7--Programming--Promotion---Publicity-Intern--Spring-2027_10158839-1"/>
-    <updated>2026-09-16T23:30:49Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Chicago, IL, USA · $20/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:kitware:7b6ff8f9-34c6-4338-845d-4e1bbc142906</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-12T14:37:33Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · C++, C# · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328</id>
-    <title>Bracco: Software Engineering Intern</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328"/>
-    <updated>2026-09-12T14:37:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11648</id>
-    <title>Kulicke &amp; Soffa: Intern, Software Engineering</title>
-    <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11648"/>
-    <updated>2026-09-14T22:56:22Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Fort Washington, PA, United States · Python, C++, MATLAB · status: closed</summary>
   </entry>
 </feed>

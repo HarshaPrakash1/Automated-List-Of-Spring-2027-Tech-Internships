@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-09-16T23:30:49Z",
- "data_as_of": "2026-09-16T23:30:49Z",
- "rendered_at": "2026-09-16T23:30:50Z",
+ "generated_at": "2026-09-17T01:52:45Z",
+ "data_as_of": "2026-09-17T01:52:45Z",
+ "rendered_at": "2026-09-17T01:52:45Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 359,
+ "count": 360,
  "jobs": [
+  {
+   "id": "workday:barr:/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342",
+   "company": "Barr",
+   "title": "Internship - Data Science (Remote)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Minneapolis, MN",
+   "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342",
+   "posted_at": "2026-09-16T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-17T01:52:45Z",
+   "sponsorship": "no-sponsorship",
+   "salary": "$30–$38/hr",
+   "skills": [
+    "Python",
+    "SQL"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": true
+  },
   {
    "id": "workday:disney:/job/Chicago-IL-USA/WLS-TV--ABC7--Programming--Promotion---Publicity-Intern--Spring-2027_10158839-1",
    "company": "The Walt Disney Company",
@@ -4570,6 +4594,27 @@
    "remote": false
   },
   {
+   "id": "greenhouse:newsbreak:4711146006",
+   "company": "NewsBreak",
+   "title": "New Market Launch Intern (MBA), Nearby AI",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote",
+   "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4711146006",
+   "posted_at": "2026-09-03T18:56:06-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-17T01:52:45Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": true
+  },
+  {
    "id": "lever:neighbor:7d66629f-3f4b-41ee-a324-fe0154e13c46",
    "company": "Neighbor",
    "title": "Software Engineer Intern 2027",
@@ -8884,35 +8929,6 @@
    "source": "lever",
    "h1b_approvals": null,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "ashby:yotta:09821a51-fbe6-42a7-a566-0d2b5d40fae3",
-   "company": "Yotta Labs",
-   "title": "Research Engineer Intern - AI Systems",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "United States",
-   "url": "https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3",
-   "posted_at": "2026-08-02T16:29:42.695+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-02T05:26:29Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++",
-    "PyTorch",
-    "LLMs",
-    "CUDA",
-    "AWS",
-    "Git"
-   ],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
    "remote": false
   },
   {
