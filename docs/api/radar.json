@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-17T13:04:03Z",
- "data_as_of": "2026-09-17T13:04:03Z",
- "rendered_at": "2026-09-17T13:04:03Z",
+ "generated_at": "2026-09-17T17:55:40Z",
+ "data_as_of": "2026-09-17T17:55:40Z",
+ "rendered_at": "2026-09-17T17:55:40Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -880,6 +880,25 @@
    }
   },
   {
+   "company": "Internrecruiting",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -2,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/internrecruiting/jobs/8204511",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-15"
+   }
+  },
+  {
    "company": "The Aerospace Corporation",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -937,6 +956,44 @@
    }
   },
   {
+   "company": "Nanopath",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-16"
+   }
+  },
+  {
+   "company": "Honeywell",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158088",
+   "note": "fall opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-17"
+   }
+  },
+  {
    "company": "Visa",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -947,7 +1004,7 @@
    "expected": "2026-09-17",
    "days_until": 0,
    "status": "open",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1",
    "note": "late-summer opening",
    "provenance": {
     "type": "engine-observed",
@@ -2533,25 +2590,6 @@
    }
   },
   {
-   "company": "Honeywell",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2027-09-01",
-   "days_until": 349,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://careers.honeywell.com/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Hudson River Trading",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3844,5 +3882,5 @@
    }
   }
  ],
- "count": 202
+ "count": 204
 }

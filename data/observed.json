@@ -1347,6 +1347,14 @@
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155562"
      ],
      "count": 7
+    },
+    "Spring 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:157903",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158088"
+     ],
+     "count": 2
     }
    }
   },
@@ -1439,6 +1447,18 @@
       "workday:ing:/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621"
      ],
      "count": 2
+    }
+   }
+  },
+  "internrecruiting": {
+   "name": "Internrecruiting",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "greenhouse:internrecruiting:8204511"
+     ],
+     "count": 1
     }
    }
   },
@@ -1764,6 +1784,18 @@
      "first_posted": "2026-08-28",
      "role_ids": [
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "nanopath": {
+   "name": "Nanopath",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "greenhouse:nanopathinc:4732881005"
      ],
      "count": 1
     }
@@ -2883,13 +2915,14 @@
       "workday:visa:/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1",
       "workday:visa:/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1",
       "workday:visa:/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1",
+      "workday:visa:/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2",
       "workday:visa:/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1",
       "workday:visa:/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W",
       "workday:visa:/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1",
       "workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
       "workday:visa:/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -3080,5 +3113,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T13:04:03Z"
+ "updated_at": "2026-09-17T17:55:39Z"
 }
