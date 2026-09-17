@@ -417,7 +417,10 @@
       "workday:wellington:/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1",
       "workday:disney:/job/Chicago-IL-USA/WLS-TV--ABC7--Programming--Promotion---Publicity-Intern--Spring-2027_10158839-1",
       "workday:barr:/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342",
-      "greenhouse:newsbreak:4711146006"
+      "greenhouse:newsbreak:4711146006",
+      "greenhouse:amperesand:4409254009",
+      "workday:cisco:/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
+      "workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -836,7 +839,10 @@
       "workday:wellington:/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1",
       "workday:disney:/job/Chicago-IL-USA/WLS-TV--ABC7--Programming--Promotion---Publicity-Intern--Spring-2027_10158839-1",
       "workday:barr:/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342",
-      "greenhouse:newsbreak:4711146006"
+      "greenhouse:newsbreak:4711146006",
+      "greenhouse:amperesand:4409254009",
+      "workday:cisco:/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
+      "workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890"
     ]
   }
 }
