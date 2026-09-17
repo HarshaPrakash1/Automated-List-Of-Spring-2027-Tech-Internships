@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-17T17:55:40Z",
- "data_as_of": "2026-09-17T17:55:40Z",
- "rendered_at": "2026-09-17T17:55:40Z",
+ "generated_at": "2026-09-17T20:50:11Z",
+ "data_as_of": "2026-09-17T20:50:11Z",
+ "rendered_at": "2026-09-17T20:50:11Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -472,7 +472,7 @@
    "expected": "2026-09-01",
    "days_until": -16,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -985,7 +985,7 @@
    "expected": "2026-09-17",
    "days_until": 0,
    "status": "open",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158088",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157903",
    "note": "fall opening",
    "provenance": {
     "type": "engine-observed",
