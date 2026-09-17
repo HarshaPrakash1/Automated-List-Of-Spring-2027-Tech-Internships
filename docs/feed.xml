@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-17T20:50:11Z</updated>
+  <updated>2026-09-17T23:20:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:lever:tri:6433edb6-76be-409f-9a73-9b9d9c207f9f</id>
@@ -16,12 +16,12 @@
     <summary>Winter 2027 · Data &amp; ML/AI · Los Altos, CA · $65/hr · Python, PyTorch, LLMs · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795</id>
-    <title>LabCorp: Intern – Network Infrastructure &amp; Automation Engineering 🛂</title>
-    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795"/>
+    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000150194379</id>
+    <title>Renesas Electronics: Embedded Systems Intern</title>
+    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000150194379"/>
     <updated>2026-09-17T20:50:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Durham NC · Python, Linux, Git · sponsorship: no-sponsorship · status: closed</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Remote, REMOTE, United States (Remote)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103294</id>
@@ -32,20 +32,20 @@
     <summary>Not stated · Data &amp; ML/AI · Kingwood, TX · Python, SQL, LLMs, Computer Vision · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795</id>
+    <title>LabCorp: Intern – Network Infrastructure &amp; Automation Engineering 🛂</title>
+    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795"/>
+    <updated>2026-09-17T20:50:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Durham NC · Python, Linux, Git · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:leidos:/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500</id>
     <title>Leidos: Research Engineer Intern</title>
     <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500"/>
     <updated>2026-09-17T20:50:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Pittsburgh, PA · Python, MATLAB · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000150194379</id>
-    <title>Renesas Electronics: Embedded Systems Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000150194379"/>
-    <updated>2026-09-17T20:50:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote, REMOTE, United States (Remote)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:conductorai:d6a1b110-10ad-4b5e-83a0-88c5fd7bc891</id>
