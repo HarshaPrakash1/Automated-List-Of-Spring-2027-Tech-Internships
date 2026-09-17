@@ -5,23 +5,79 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-17T07:53:10Z</updated>
+  <updated>2026-09-17T13:04:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:smithnephew:/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1</id>
-    <title>Smith+Nephew: Intern AI Center of Excellence Data Science</title>
-    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"/>
-    <updated>2026-09-17T07:53:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · US - Pittsburgh, PA · Python, MATLAB, PyTorch, TensorFlow, scikit-learn · status: closed · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:visa:/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1</id>
+    <title>Visa: 2027 Sophomore Internship Program - Software Engineer Intern, Ashburn 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1"/>
+    <updated>2026-09-17T13:04:03Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US - Ashburn, VA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:smithnephew:/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482</id>
-    <title>Smith+Nephew: Intern Robotics Software Engineering</title>
-    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"/>
-    <updated>2026-09-17T07:53:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US - Pittsburgh, PA · C++ · status: closed · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:visa:/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1</id>
+    <title>Visa: 2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1"/>
+    <updated>2026-09-17T13:04:03Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US - Denver, CO · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1</id>
+    <title>Visa: 2027 Sophomore Internship Program - Software Engineer Intern, Austin 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1"/>
+    <updated>2026-09-17T13:04:03Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US - Austin, TX · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1</id>
+    <title>Visa: 2027 Sophomore Internship Program - Software Engineer Intern, Bellevue 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1"/>
+    <updated>2026-09-17T13:04:03Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US - Bellevue, WA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1</id>
+    <title>Visa: 2027 Sophomore Internship Program - Software Engineer Intern, Foster City 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1"/>
+    <updated>2026-09-17T13:04:03Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US - Foster City, CA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W</id>
+    <title>Visa: Software Engineer, Intern, Highlands Ranch, CO - 2027 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W"/>
+    <updated>2026-09-17T13:04:03Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US - Denver, CO · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1</id>
+    <title>Visa: Software Engineer, Intern - Foster City 2027 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1"/>
+    <updated>2026-09-17T13:04:03Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US - Foster City, CA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1</id>
+    <title>Visa: Software Engineer, Intern - 2027 Ashburn, VA 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1"/>
+    <updated>2026-09-17T13:04:03Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US - Ashburn, VA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1</id>
+    <title>Visa: Software Engineer, Intern - 2027 Austin, TX 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1"/>
+    <updated>2026-09-17T13:04:03Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US - Austin, TX · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:amperesand:4409254009</id>
@@ -46,6 +102,22 @@
     <updated>2026-09-17T07:53:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · RTP, North Carolina, US · Python, Java, C++, AWS, GCP · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:smithnephew:/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1</id>
+    <title>Smith+Nephew: Intern AI Center of Excellence Data Science</title>
+    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"/>
+    <updated>2026-09-17T07:53:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · US - Pittsburgh, PA · Python, MATLAB, PyTorch, TensorFlow, scikit-learn · status: closed · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:smithnephew:/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482</id>
+    <title>Smith+Nephew: Intern Robotics Software Engineering</title>
+    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"/>
+    <updated>2026-09-17T07:53:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US - Pittsburgh, PA · C++ · status: closed · H-1B track record: ~77 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:newsbreak:4711146006</id>
@@ -734,77 +806,5 @@
     <updated>2026-09-14T19:27:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Boise, ID - Main Site · Python, C#, JavaScript, SQL, Snowflake · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589</id>
-    <title>Wex: Backend Software Engineer Intern - C#, Cloud Security &amp; AI (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"/>
-    <updated>2026-09-14T19:27:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Remote · C#, Python, AWS, Docker, Git · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586</id>
-    <title>Wex: Backend Software Engineer Intern - C#/Java &amp; AI Workflows (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586"/>
-    <updated>2026-09-14T19:27:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Remote · Java, C#, SQL, Azure, Kafka · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547</id>
-    <title>Wex: Backend Software Engineer Intern - Java &amp; AI (Master’s)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547"/>
-    <updated>2026-09-14T19:27:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Remote · Java, Spring, AWS, PostgreSQL · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593</id>
-    <title>Wex: Fullstack Software Engineer Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593"/>
-    <updated>2026-09-14T19:27:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US - Remote · C#, SQL, LLMs, React · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584</id>
-    <title>Wex: DevOps &amp; Backend Software Engineer Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584"/>
-    <updated>2026-09-14T19:27:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US - Remote · Python, C#, Azure, Kubernetes, Docker · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546</id>
-    <title>Wex: Software Engineer Intern – AI &amp; Cloud (Graduate/Master’s)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546"/>
-    <updated>2026-09-14T19:27:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Remote · Java, C#, LLMs · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:fspco-op012325:8796996002</id>
-    <title>Flagship Pioneering: Flagship Pioneering: AI Automation Engineering Co-Op</title>
-    <link href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002"/>
-    <updated>2026-09-14T14:12:40Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Cambridge, MA USA · $25–$35/hr · Python, JavaScript, AWS, GCP, Azure · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:viavisolutions:/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1</id>
-    <title>Viavi Solutions: Software Engineering Co-Op</title>
-    <link href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1"/>
-    <updated>2026-09-14T14:12:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Germantown, MD USA · C++, Linux · H-1B track record: ~29 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:acronaviation:34cf5ad0-840a-4c1b-8231-02a433d0479e</id>
-    <title>Acron Aviation: Software Engineer Intern - Phoenix Site</title>
-    <link href="https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e"/>
-    <updated>2026-09-14T01:48:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Phoenix, AZ · Python, C++, C#, SQL, Linux</summary>
   </entry>
 </feed>
