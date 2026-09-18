@@ -1716,6 +1716,18 @@
     }
    }
   },
+  "metox international": {
+   "name": "MetOx International",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "greenhouse:metoxinternationalinc:5427064008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "montenson": {
    "name": "Montenson",
    "cycles": {
@@ -1868,13 +1880,14 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -2552,9 +2565,10 @@
      "first_posted": "2026-09-02",
      "role_ids": [
       "oracle:hdhl.fa.us6.oraclecloud.com:1007497",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007589"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007589",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007850"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3113,5 +3127,5 @@
    }
   }
  },
- "updated_at": "2026-09-18T11:58:29Z"
+ "updated_at": "2026-09-18T16:38:37Z"
 }

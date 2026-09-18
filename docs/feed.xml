@@ -5,8 +5,80 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-18T11:58:29Z</updated>
+  <updated>2026-09-18T16:38:37Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:churchdwight:/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686</id>
+    <title>Church &amp; Dwight: AI Developer Co-op - Graduate Program (9 Months) 🇺🇸</title>
+    <link href="https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686"/>
+    <updated>2026-09-18T16:38:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA, Ewing, NJ · Python, SQL, LLMs, AWS, GCP · sponsorship: citizens-only · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40535</id>
+    <title>Nokia: AI Assisted Software Development Co-op</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40535"/>
+    <updated>2026-09-18T16:38:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States · Python, LLMs, Kubernetes, Docker, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007850</id>
+    <title>Stantec: Transportation Engineering Co-op - Infrastructure (Fall 2026/Spring 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007850"/>
+    <updated>2026-09-18T16:38:37Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Louisville, KY, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:greatamerica:/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1</id>
+    <title>GreatAmerica Financial Services: Platform Engineering Intern</title>
+    <link href="https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1"/>
+    <updated>2026-09-18T16:38:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cedar Rapids, IA · Python, SQL, Bash, AWS, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Clinical-Epidemiology-and-Data-Science-Co-op_R-098453</id>
+    <title>Johnson &amp; Johnson: Clinical Epidemiology and Data Science Co-op 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Clinical-Epidemiology-and-Data-Science-Co-op_R-098453"/>
+    <updated>2026-09-18T16:38:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Danvers, Massachusetts, United States of America · $23.5/hr · Python, SQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Titusville-New-Jersey-United-States-of-America/XMLNAME--PALM--and-Artificial-Intelligence-Co-Op_R-099389</id>
+    <title>Johnson &amp; Johnson: (PALM) and Artificial Intelligence Co-Op 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/XMLNAME--PALM--and-Artificial-Intelligence-Co-Op_R-099389"/>
+    <updated>2026-09-18T16:38:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Titusville, New Jersey, United States of America · $23.5/hr · LLMs · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:metoxinternationalinc:5427064008</id>
+    <title>MetOx International: Data Science Intern (Spring 2027)</title>
+    <link href="https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008"/>
+    <updated>2026-09-18T16:38:37Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Houston, TX · Python, SQL, Pandas, LLMs, PostgreSQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275</id>
+    <title>Northrop Grumman: 2027 Intern Software Engineer 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275"/>
+    <updated>2026-09-18T16:38:37Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · United States-Florida-Melbourne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonyglobal:/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335</id>
+    <title>Sony: Research Intern on Generative and Protective AI for Content Creation</title>
+    <link href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335"/>
+    <updated>2026-09-18T16:38:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote - Texas · $50/hr · PyTorch, LLMs, Computer Vision</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:xpengmotors:8819001002</id>
     <title>XPENG Motors: AI Research Intern – Predictive World Model</title>
@@ -734,77 +806,5 @@
     <updated>2026-09-17T17:35:44Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Security · United States-Utah-Roy · $18.5–$33.5/hr · Python, Java, C++, C#, MATLAB · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493</id>
-    <title>Oshkosh: Software Engineering Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493"/>
-    <updated>2026-09-15T17:08:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, California, United States · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:psu:/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2</id>
-    <title>PennState University: Embedded Systems and Hardware Co-Op 🇺🇸</title>
-    <link href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2"/>
-    <updated>2026-09-15T17:08:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Warminster, PA · Python, C++, C#, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ssctech:/job/Braintree-MA---30-Braintree-Hill-Park/RS-Operational-AI-Analyst-Intern_R45766</id>
-    <title>SS&amp;C: RS Operational AI Analyst Intern</title>
-    <link href="https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Braintree-MA---30-Braintree-Hill-Park/RS-Operational-AI-Analyst-Intern_R45766"/>
-    <updated>2026-09-15T17:08:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Braintree MA - 30 Braintree Hill Park · $30/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cai:/job/California/Cybersecurity-Analyst-Intern_R8488</id>
-    <title>CAI: Cybersecurity Analyst Intern</title>
-    <link href="https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488"/>
-    <updated>2026-09-15T12:22:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · California · Python, AWS, Azure, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1</id>
-    <title>Tencent: Machine Learning Intern</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1"/>
-    <updated>2026-09-15T06:55:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US-California-Palo Alto · $28.27–$60/hr · Python, SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629</id>
-    <title>Intel: AI Solutions Engineering Undergraduate Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629"/>
-    <updated>2026-09-15T01:39:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US, Oregon, Hillsboro · Python, Java, C++, scikit-learn, Pandas · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:opengov:c31622c1-be01-4d4a-b7cf-d116be84cc08</id>
-    <title>OpenGov: Intern, Software Engineer</title>
-    <link href="https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08"/>
-    <updated>2026-09-14T22:56:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US | Massachusetts | Boston · $30 per hour · TypeScript, JavaScript, React, Angular, Git · status: closed · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:opengov:d036cfd6-5a01-41ed-af73-78fc32854849</id>
-    <title>OpenGov: Intern, Software Engineer</title>
-    <link href="https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849"/>
-    <updated>2026-09-14T22:56:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US | Georgia | Atlanta · $25 per hour · TypeScript, JavaScript, React, Angular, Git · status: closed · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---Software-Developer_2632330</id>
-    <title>LabCorp: Intern - Software Developer 🛂</title>
-    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330"/>
-    <updated>2026-09-14T22:56:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Durham NC · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
 </feed>

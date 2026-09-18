@@ -445,7 +445,15 @@
       "workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103294",
       "workday:leidos:/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500",
       "smartrecruiters:RenesasElectronics:744000150194379",
-      "greenhouse:xpengmotors:8819001002"
+      "greenhouse:xpengmotors:8819001002",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40535",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007850",
+      "workday:greatamerica:/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1",
+      "workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Clinical-Epidemiology-and-Data-Science-Co-op_R-098453",
+      "workday:jj:/job/Titusville-New-Jersey-United-States-of-America/XMLNAME--PALM--and-Artificial-Intelligence-Co-Op_R-099389",
+      "greenhouse:metoxinternationalinc:5427064008",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
+      "workday:sonyglobal:/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -892,7 +900,15 @@
       "workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103294",
       "workday:leidos:/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500",
       "smartrecruiters:RenesasElectronics:744000150194379",
-      "greenhouse:xpengmotors:8819001002"
+      "greenhouse:xpengmotors:8819001002",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40535",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007850",
+      "workday:greatamerica:/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1",
+      "workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Clinical-Epidemiology-and-Data-Science-Co-op_R-098453",
+      "workday:jj:/job/Titusville-New-Jersey-United-States-of-America/XMLNAME--PALM--and-Artificial-Intelligence-Co-Op_R-099389",
+      "greenhouse:metoxinternationalinc:5427064008",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
+      "workday:sonyglobal:/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335"
     ]
   }
 }
