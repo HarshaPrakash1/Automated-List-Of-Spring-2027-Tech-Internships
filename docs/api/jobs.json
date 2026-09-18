@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-09-17T23:20:55Z",
- "data_as_of": "2026-09-17T23:20:55Z",
- "rendered_at": "2026-09-17T23:20:55Z",
+ "generated_at": "2026-09-18T01:28:29Z",
+ "data_as_of": "2026-09-18T01:28:29Z",
+ "rendered_at": "2026-09-18T01:28:29Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 384,
+ "count": 385,
  "jobs": [
+  {
+   "id": "greenhouse:xpengmotors:8819001002",
+   "company": "XPENG Motors",
+   "title": "AI Research Intern – Predictive World Model",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Santa Clara, CA",
+   "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002",
+   "posted_at": "2026-09-17T21:11:52-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-18T01:28:29Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "Computer Vision"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:RenesasElectronics:744000150194379",
    "company": "Renesas Electronics",

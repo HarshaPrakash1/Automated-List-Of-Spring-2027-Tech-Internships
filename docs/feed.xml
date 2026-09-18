@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-17T23:20:55Z</updated>
+  <updated>2026-09-18T01:28:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:xpengmotors:8819001002</id>
+    <title>XPENG Motors: AI Research Intern – Predictive World Model</title>
+    <link href="https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002"/>
+    <updated>2026-09-18T01:28:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Santa Clara, CA · Python, PyTorch, Computer Vision</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:tri:6433edb6-76be-409f-9a73-9b9d9c207f9f</id>
     <title>Toyota Research Institute: Human-Centered AI Research Intern, Causal Reasoning Models</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-14T22:56:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Durham NC · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Greencastle-Pennsylvania-United-States/Robotics-Programming-Engineer-Intern_R49597</id>
-    <title>Oshkosh: Robotics Programming Engineer Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greencastle-Pennsylvania-United-States/Robotics-Programming-Engineer-Intern_R49597"/>
-    <updated>2026-09-14T22:56:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Greencastle, Pennsylvania, United States</summary>
   </entry>
 </feed>
