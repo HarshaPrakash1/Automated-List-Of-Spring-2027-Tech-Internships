@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-19T17:02:03Z</updated>
+  <updated>2026-09-19T19:32:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:baxter:/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1</id>
+    <title>Baxter International: Associate Data Scientist Co-op</title>
+    <link href="https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1"/>
+    <updated>2026-09-19T19:32:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Skaneateles, NY · Python, Java, C#, LLMs, Azure</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:fable:3fd04c23-a63d-4b40-bfae-feafaa478caf</id>
     <title>Fable: Software Engineering Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-15T20:25:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Lake Saint Louis, MO · Python, Java, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egay.fa.us6.oraclecloud.com:44449</id>
-    <title>NOV: Software Engineering Intern</title>
-    <link href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449"/>
-    <updated>2026-09-15T20:25:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Houston, TX, United States · Python, Java, C++, C#, JavaScript · status: closed</summary>
   </entry>
 </feed>
