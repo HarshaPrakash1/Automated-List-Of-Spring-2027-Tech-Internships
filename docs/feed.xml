@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-19T09:38:41Z</updated>
+  <updated>2026-09-19T13:39:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:fable:3fd04c23-a63d-4b40-bfae-feafaa478caf</id>
+    <title>Fable: Software Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf"/>
+    <updated>2026-09-19T13:39:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, CA (Hybrid) · Python, LLMs, React, GraphQL, AWS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388</id>
     <title>Johnson &amp; Johnson: Medical Device Cybersecurity Co-Op 🛂</title>
@@ -139,9 +147,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275</id>
     <title>Northrop Grumman: 2027 Intern Software Engineer 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275"/>
-    <updated>2026-09-18T16:38:37Z</updated>
+    <updated>2026-09-19T13:20:32Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Florida-Melbourne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · United States-Florida-Melbourne · $18.5–$33.5/hr · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:sonyglobal:/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-15T20:25:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Houston, TX, United States · Python, Java, C++, C#, JavaScript · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324</id>
-    <title>Bracco: Firmware Engineering Co-op</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324"/>
-    <updated>2026-09-15T20:25:11Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Hardware · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · Python, C++</summary>
   </entry>
 </feed>
