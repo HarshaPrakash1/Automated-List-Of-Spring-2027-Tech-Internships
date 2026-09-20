@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-20T09:59:59Z</updated>
+  <updated>2026-09-20T14:25:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:priceline:/job/New-York/Software-Engineering---Full-Stack--Northeastern-Co-op-_R5822</id>
+    <title>Priceline: Software Engineering - Full Stack (Northeastern Co-op)</title>
+    <link href="https://priceline.wd1.myworkdayjobs.com/priceline-collegehiring/job/New-York/Software-Engineering---Full-Stack--Northeastern-Co-op-_R5822"/>
+    <updated>2026-09-20T14:25:09Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · New York · Python, Java, Go, JavaScript, SQL · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:priceline:/job/New-York/Software-Engineering---Web-Javascript--Northeastern-Co-op-_R5818</id>
+    <title>Priceline: Software Engineering - Web/Javascript (Northeastern Co-op)</title>
+    <link href="https://priceline.wd1.myworkdayjobs.com/priceline-collegehiring/job/New-York/Software-Engineering---Web-Javascript--Northeastern-Co-op-_R5818"/>
+    <updated>2026-09-20T14:25:09Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · New York · JavaScript, Python, Java, Go, SQL · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:ninjaholdings:12b3ed96c30c</id>
+    <title>Ninjaholdings: Data Engineer Intern</title>
+    <link href="https://ninjaholdings.breezy.hr/p/12b3ed96c30c-data-engineer-intern"/>
+    <updated>2026-09-20T14:25:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago, IL · $20 – $25 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:ninjaholdings:85be8c78a2ba</id>
+    <title>Ninjaholdings: Data Science Intern</title>
+    <link href="https://ninjaholdings.breezy.hr/p/85be8c78a2ba-data-science-intern"/>
+    <updated>2026-09-20T14:25:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago, IL · $20 – $25 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:ninjaholdings:23a015fea536</id>
+    <title>Ninjaholdings: Software Engineer Intern</title>
+    <link href="https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern"/>
+    <updated>2026-09-20T14:25:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chicago, IL · $20 – $25 / hour</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:baxter:/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1</id>
     <title>Baxter International: Associate Data Scientist Co-op</title>
@@ -378,7 +418,7 @@
   <entry>
     <id>urn:intern-engine:workday:visa:/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W</id>
     <title>Visa: Software Engineer, Intern, Highlands Ranch, CO - 2027 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W"/>
+    <link href="https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W-2"/>
     <updated>2026-09-17T13:04:03Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · US - Denver, CO · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
@@ -766,45 +806,5 @@
     <updated>2026-09-15T23:25:50Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · Python, C++, Computer Vision, Git · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:ambrook:29ffbcea-17c3-4488-9d57-a9f7249b49a5</id>
-    <title>Ambrook: Software Engineering Co-op</title>
-    <link href="https://jobs.ashbyhq.com/ambrook/29ffbcea-17c3-4488-9d57-a9f7249b49a5"/>
-    <updated>2026-09-15T20:25:11Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · New York · $2K per week · TypeScript, LLMs, React, Next.js, GCP · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:andurilindustries:5239083007</id>
-    <title>Anduril: 2027 Flight Software Engineer Intern</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007"/>
-    <updated>2026-09-15T20:25:11Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Costa Mesa, California, United States · Python, MATLAB, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:duolingo:8805925002</id>
-    <title>Duolingo: Software Engineer, Intern</title>
-    <link href="https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002"/>
-    <updated>2026-09-15T20:25:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Pittsburgh, PA; New York, NY; Seattle, WA · Python, Java, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:duolingo:8806114002</id>
-    <title>Duolingo: Software Engineer, Thrive Intern</title>
-    <link href="https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002"/>
-    <updated>2026-09-15T20:25:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Pittsburgh, PA · Python, Java, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8204161</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Software Development (AI Development)</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8204161"/>
-    <updated>2026-09-15T20:25:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Lake Saint Louis, MO · Python, Java, LLMs</summary>
   </entry>
 </feed>
