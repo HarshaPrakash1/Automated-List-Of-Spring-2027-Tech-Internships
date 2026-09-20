@@ -8,7 +8,7 @@
 
 ### 394 open roles (316 listed below) · 112 new this week
 
-4,606 employers tracked · data as of Sep 20, 2026 at 00:20 UTC
+4,606 employers tracked · data as of Sep 20, 2026 at 05:01 UTC
 
 _122 have a cycle the employer stated · 272 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -204,7 +204,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | GreatAmerica Financial Services | Platform Engineering Intern 🆕 | Software | Cedar Rapids, IA | Python, SQL, Bash, AWS | Sep 18, 2026 | [Apply](https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1) |
 | Johnson & Johnson | Clinical Epidemiology and Data Science Co-op 🛂 🆕 | Data & ML/AI | Danvers +2 more | Python, SQL | Sep 18, 2026 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Clinical-Epidemiology-and-Data-Science-Co-op_R-098453) |
 | Sony 🆁 | Research Intern on Generative and Protective AI for Content Creation 🆕 | Data & ML/AI | Remote - Texas | PyTorch, LLMs, Computer Vision | Sep 18, 2026 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) |
-| XPENG Motors | AI Research Intern – Predictive World Model 🆕 | Data & ML/AI | Santa Clara, CA | Python, PyTorch, Computer Vision | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002) |
+| XPENG Motors | AI Research Intern – Predictive World Model | Data & ML/AI | Santa Clara, CA | Python, PyTorch, Computer Vision | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002) |
 | Insperity ✓ | Rotational AI Intern | Data & ML/AI | Kingwood, TX | Python, SQL, LLMs, Computer Vision | Sep 17, 2026 | [Apply](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103294) |
 | Leidos ✓ | Research Engineer Intern | Software | Pittsburgh, PA | Python, MATLAB | Sep 17, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500) |
 | ConductorAI | Software Engineer Intern 🇺🇸 | Software | New York City | Python, TypeScript, LLMs, React | Sep 17, 2026 | [Apply](https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891) |
@@ -483,7 +483,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,432 of 4,863 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 91% of the full registry) · completed in 998.8s · 576 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,386 of 4,863 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 90% of the full registry) · completed in 997.4s · 562 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
