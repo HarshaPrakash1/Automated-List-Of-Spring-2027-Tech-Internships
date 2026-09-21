@@ -1716,6 +1716,18 @@
     }
    }
   },
+  "mercury": {
+   "name": "Mercury",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "greenhouse:mercury:6199367004"
+     ],
+     "count": 1
+    }
+   }
+  },
   "metox international": {
    "name": "MetOx International",
    "cycles": {
@@ -1879,15 +1891,17 @@
     "Spring 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
+      "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
+      "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
      ],
-     "count": 7
+     "count": 9
     }
    }
   },
@@ -3127,5 +3141,5 @@
    }
   }
  },
- "updated_at": "2026-09-21T05:38:49Z"
+ "updated_at": "2026-09-21T11:19:45Z"
 }
