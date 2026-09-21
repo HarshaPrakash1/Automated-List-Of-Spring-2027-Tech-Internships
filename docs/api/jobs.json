@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-20T22:39:32Z",
- "data_as_of": "2026-09-20T22:39:32Z",
- "rendered_at": "2026-09-20T22:39:32Z",
+ "generated_at": "2026-09-21T00:44:10Z",
+ "data_as_of": "2026-09-21T00:44:10Z",
+ "rendered_at": "2026-09-21T00:44:10Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 397,
+ "count": 395,
  "jobs": [
   {
    "id": "ashby:fable:3fd04c23-a63d-4b40-bfae-feafaa478caf",
@@ -1089,30 +1089,6 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
-  },
-  {
-   "id": "workday:barr:/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342",
-   "company": "Barr",
-   "title": "Internship - Data Science (Remote)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Minneapolis, MN",
-   "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342",
-   "posted_at": "2026-09-16T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-17T01:52:45Z",
-   "sponsorship": "no-sponsorship",
-   "salary": "$30–$38/hr",
-   "skills": [
-    "Python",
-    "SQL"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": true
   },
   {
    "id": "workday:disney:/job/Chicago-IL-USA/WLS-TV--ABC7--Programming--Promotion---Publicity-Intern--Spring-2027_10158839-1",
@@ -9813,36 +9789,6 @@
     "Linux"
    ],
    "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:centerfield:1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4",
-   "company": "Centerfield",
-   "title": "Frontend Engineer Intern (6 month internship)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Los Angeles, California",
-   "url": "https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4",
-   "posted_at": "2026-08-06T20:03:54.164+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-02T05:26:29Z",
-   "sponsorship": "unknown",
-   "salary": "$30 per hour",
-   "skills": [
-    "Java",
-    "TypeScript",
-    "JavaScript",
-    "React",
-    "Next.js",
-    "Node.js",
-    "HTML/CSS",
-    "AWS"
-   ],
-   "source": "ashby",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
