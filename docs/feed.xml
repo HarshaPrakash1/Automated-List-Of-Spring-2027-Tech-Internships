@@ -5,8 +5,88 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-21T11:19:45Z</updated>
+  <updated>2026-09-21T17:16:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:upbound:/job/Draper-UT/Software-Engineer-Intern_R-100759-1</id>
+    <title>Acima: Software Engineer Intern</title>
+    <link href="https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1"/>
+    <updated>2026-09-21T17:16:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Draper, UT · Python, TypeScript, JavaScript, Ruby, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:fspco-op012325:8796563002</id>
+    <title>Flagship Pioneering: Metaphore: Data Science Co-Op</title>
+    <link href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8796563002"/>
+    <updated>2026-09-21T17:16:31Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Cambridge, MA USA · $25–$35/hr · Python · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:upbound:/job/Plano-TX/Software-Engineer-Intern_R-100761</id>
+    <title>Upbound Group: Software Engineer Intern</title>
+    <link href="https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761"/>
+    <updated>2026-09-21T17:16:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>2 openings · Summer 2027 · Software · Plano, TX · $22/hr · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:collinear-ai:ae85fd08-dfd8-42e5-9b3b-9921ba24742b</id>
+    <title>Collinear AI: MTS - Research Scientist Internship</title>
+    <link href="https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b"/>
+    <updated>2026-09-21T17:16:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384</id>
+    <title>Gordon Food Service: Imports &amp; Commodities - Data Analyst Internship</title>
+    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384"/>
+    <updated>2026-09-21T17:16:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Wyoming, Michigan · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:headlandstechnologiesllc:4412947009</id>
+    <title>Headlands Tech Holdings: Deep Learning Research Internship</title>
+    <link href="https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009"/>
+    <updated>2026-09-21T17:16:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago; New York · $100/hr · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099258</id>
+    <title>Johnson &amp; Johnson: Commercial Data Science &amp; AI Co-op 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099258"/>
+    <updated>2026-09-21T17:16:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Raritan, New Jersey, United States of America · $23.5/hr · Python, SQL, LLMs, Azure, Databricks · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184</id>
+    <title>Leidos: Jr. Software Engineer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184"/>
+    <updated>2026-09-21T17:16:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Tucson, AZ · Python, Java, C++, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:disney:/job/Celebration-FL-USA/Consumer-Insight-Data-Analyst-Intern--Spring-2027_10159634-2</id>
+    <title>The Walt Disney Company: Consumer Insight Data Analyst Intern, Spring 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Consumer-Insight-Data-Analyst-Intern--Spring-2027_10159634-2"/>
+    <updated>2026-09-21T17:16:31Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Celebration, FL, USA · $32/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000150732768</id>
+    <title>Wellmark: Software Engineer Internship - Technology Healthcare Innovation</title>
+    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000150732768"/>
+    <updated>2026-09-21T17:16:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Des Moines, IA, United States (Hybrid) · Python, SQL, Node.js, AWS, Linux · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:mercury:6199367004</id>
     <title>Mercury: Software Engineering Intern - Spring 2027</title>
@@ -726,85 +806,5 @@
     <updated>2026-09-16T17:32:33Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Security · Chicago, IL, United States · $22–$30/hr · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:disney:/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1</id>
-    <title>The Walt Disney Company: Infrastructure Services Intern, Spring 2027</title>
-    <link href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1"/>
-    <updated>2026-09-16T17:32:33Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Burbank, CA, USA · $31/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259</id>
-    <title>Gordon Food Service: Cloud DevOps Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259"/>
-    <updated>2026-09-16T17:32:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Atlanta, Georgia · Python, Bash, GCP, Kubernetes, Docker · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1</id>
-    <title>Gordon Food Service: Data Science Engineer Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1"/>
-    <updated>2026-09-16T17:32:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Atlanta, Georgia · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286</id>
-    <title>Gordon Food Service: IT Infrastructure Project Support Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286"/>
-    <updated>2026-09-16T17:32:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Atlanta, Georgia · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464</id>
-    <title>RTX: Software Engineering Co-op (Winter/Spring 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464"/>
-    <updated>2026-09-16T17:32:33Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US-IA-CEDAR RAPIDS-124 ~ 400 Collins Rd NE ~ BLDG 124 · Python, LLMs, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tihinsurance:/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172</id>
-    <title>Tihinsurance: Internship - Software Engineering</title>
-    <link href="https://tihinsurance.wd1.myworkdayjobs.com/crc_careers/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172"/>
-    <updated>2026-09-16T17:32:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dallas TX - 12377 Merit Dr. · Python, Java, C#, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171</id>
-    <title>Vermeer: IT Data Engineer Intern</title>
-    <link href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171"/>
-    <updated>2026-09-16T17:32:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Pella, Iowa, USA - Corporate Office · SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4</id>
-    <title>Bedrock Robotics: Internship 2027 Software Engineer, Fleet Platform</title>
-    <link href="https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4"/>
-    <updated>2026-09-16T12:51:50Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · New York, NY · Python, C++, Rust, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605</id>
-    <title>The Aerospace Corporation: 2027 Aerospace Software Engineer Undergraduate Intern 🇺🇸</title>
-    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605"/>
-    <updated>2026-09-16T06:58:05Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:brevium:4713683006</id>
-    <title>Brevium: Software Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/brevium/jobs/4713683006"/>
-    <updated>2026-09-15T23:25:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · American Fork, UT · C#, SQL</summary>
   </entry>
 </feed>

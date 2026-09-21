@@ -469,7 +469,14 @@
       "workday:nordsonhcm:/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925",
       "greenhouse:mercury:6199367004",
       "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
-      "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464"
+      "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
+      "ashby:collinear-ai:ae85fd08-dfd8-42e5-9b3b-9921ba24742b",
+      "workday:gfs:/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384",
+      "greenhouse:headlandstechnologiesllc:4412947009",
+      "workday:jj:/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099258",
+      "workday:leidos:/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184",
+      "workday:disney:/job/Celebration-FL-USA/Consumer-Insight-Data-Analyst-Intern--Spring-2027_10159634-2",
+      "smartrecruiters:WellmarkInc:744000150732768"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -940,7 +947,14 @@
       "workday:nordsonhcm:/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925",
       "greenhouse:mercury:6199367004",
       "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
-      "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464"
+      "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
+      "ashby:collinear-ai:ae85fd08-dfd8-42e5-9b3b-9921ba24742b",
+      "workday:gfs:/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384",
+      "greenhouse:headlandstechnologiesllc:4412947009",
+      "workday:jj:/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099258",
+      "workday:leidos:/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184",
+      "workday:disney:/job/Celebration-FL-USA/Consumer-Insight-Data-Analyst-Intern--Spring-2027_10159634-2",
+      "smartrecruiters:WellmarkInc:744000150732768"
     ]
   }
 }
