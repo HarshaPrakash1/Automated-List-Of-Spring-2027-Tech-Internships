@@ -476,7 +476,13 @@
       "workday:jj:/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099258",
       "workday:leidos:/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184",
       "workday:disney:/job/Celebration-FL-USA/Consumer-Insight-Data-Analyst-Intern--Spring-2027_10159634-2",
-      "smartrecruiters:WellmarkInc:744000150732768"
+      "smartrecruiters:WellmarkInc:744000150732768",
+      "lever:cscgeneration-2:3a04b45f-a2eb-438a-a8ac-b07324223813",
+      "workday:cir:/job/Fairfield-IA/IT-Operations-Intern---Service-Desk--Infrastructure--Prod-Support_R-2025-235",
+      "workday:sanofi:/job/Morristown-NJ/XMLNAME-2027-Spring-Co-op-Cyber-Security-Operations-Center--Morristown--NJ_R2854248",
+      "greenhouse:singlestore:8220948",
+      "workday:sonyglobal:/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643",
+      "greenhouse:vikingglobalinvestors:6202755004"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -954,7 +960,13 @@
       "workday:jj:/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099258",
       "workday:leidos:/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184",
       "workday:disney:/job/Celebration-FL-USA/Consumer-Insight-Data-Analyst-Intern--Spring-2027_10159634-2",
-      "smartrecruiters:WellmarkInc:744000150732768"
+      "smartrecruiters:WellmarkInc:744000150732768",
+      "lever:cscgeneration-2:3a04b45f-a2eb-438a-a8ac-b07324223813",
+      "workday:cir:/job/Fairfield-IA/IT-Operations-Intern---Service-Desk--Infrastructure--Prod-Support_R-2025-235",
+      "workday:sanofi:/job/Morristown-NJ/XMLNAME-2027-Spring-Co-op-Cyber-Security-Operations-Center--Morristown--NJ_R2854248",
+      "greenhouse:singlestore:8220948",
+      "workday:sonyglobal:/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643",
+      "greenhouse:vikingglobalinvestors:6202755004"
     ]
   }
 }

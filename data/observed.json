@@ -2406,9 +2406,10 @@
     "Spring 2027": {
      "first_posted": "2026-09-10",
      "role_ids": [
+      "workday:sanofi:/job/Morristown-NJ/XMLNAME-2027-Spring-Co-op-Cyber-Security-Operations-Center--Morristown--NJ_R2854248",
       "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854604"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3142,5 +3143,5 @@
    }
   }
  },
- "updated_at": "2026-09-21T17:16:31Z"
+ "updated_at": "2026-09-21T21:16:02Z"
 }
