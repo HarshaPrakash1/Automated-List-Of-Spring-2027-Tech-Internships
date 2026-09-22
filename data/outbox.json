@@ -495,7 +495,14 @@
       "workday:nebraskamed:/job/Omaha-NE/Intern---Forward-Deployed-AI-Engineer_REQ-38924",
       "workday:sanofi:/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Machine-Learning-AI--Cambridge--MA_R2864862",
       "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169",
-      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167"
+      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167",
+      "workday:allegion:/job/Carmel-IN/Summer-Intern---Software-Engineer_JR37747-2",
+      "workday:corteva:/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W",
+      "workday:emcins:/job/Iowa/Intern---Software-Engineering_R6557-1",
+      "workday:jj:/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099381",
+      "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
+      "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
+      "workday:tencent:/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -992,7 +999,14 @@
       "workday:nebraskamed:/job/Omaha-NE/Intern---Forward-Deployed-AI-Engineer_REQ-38924",
       "workday:sanofi:/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Machine-Learning-AI--Cambridge--MA_R2864862",
       "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169",
-      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167"
+      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167",
+      "workday:allegion:/job/Carmel-IN/Summer-Intern---Software-Engineer_JR37747-2",
+      "workday:corteva:/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W",
+      "workday:emcins:/job/Iowa/Intern---Software-Engineering_R6557-1",
+      "workday:jj:/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099381",
+      "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
+      "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
+      "workday:tencent:/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1"
     ]
   }
 }

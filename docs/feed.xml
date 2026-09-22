@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-22T14:55:44Z</updated>
+  <updated>2026-09-22T19:03:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Information-Security-Co-op_R94910</id>
+    <title>Wellington Management: Information Security Co-op</title>
+    <link href="https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Information-Security-Co-op_R94910"/>
+    <updated>2026-09-22T19:03:07Z</updated>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Security · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Software-Engineer_JR37747-2</id>
+    <title>Allegion: Summer Intern - Software Engineer</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR37747-2"/>
+    <updated>2026-09-22T19:03:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Carmel, IN · Angular, .NET</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:corteva:/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W</id>
+    <title>Corteva: Data Science Intern</title>
+    <link href="https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W"/>
+    <updated>2026-09-22T19:03:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Indianapolis, Indiana, United States · Python, C#, SQL, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:emcins:/job/Iowa/Intern---Software-Engineering_R6557-1</id>
+    <title>EMC Insurance: Intern - Software Engineering</title>
+    <link href="https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Iowa/Intern---Software-Engineering_R6557-1"/>
+    <updated>2026-09-22T19:03:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Iowa</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530</id>
+    <title>Northrop Grumman: 2027 Cyber Software Engineer Intern - Tampa FL 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530"/>
+    <updated>2026-09-22T19:03:07Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · United States-Florida-Tampa · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196</id>
+    <title>Northrop Grumman: 2027 Cyber Systems Engineer Intern-Tampa FL 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"/>
+    <updated>2026-09-22T19:03:07Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · United States-Florida-Tampa · $18.5–$33.5/hr · Python, LLMs · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1</id>
+    <title>Tencent: Site Reliability Engineer (SRE) Intern — AI Infrastructure</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1"/>
+    <updated>2026-09-22T19:03:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US-California-Palo Alto · $27.12–$51.93/hr · Python, Bash, Kubernetes, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:cowboyspace:56d1d7e4-fa7e-4c25-aa8b-6828447fc64a</id>
     <title>Cowboy Space: Intern, Software Engineering, 2027 🇺🇸</title>
@@ -219,9 +275,9 @@
     <id>urn:intern-engine:greenhouse:headlandstechnologiesllc:4412947009</id>
     <title>Headlands Tech Holdings: Deep Learning Research Internship</title>
     <link href="https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009"/>
-    <updated>2026-09-21T17:16:31Z</updated>
+    <updated>2026-09-22T19:03:07Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chicago; New York · $100/hr · Python, C++</summary>
+    <summary>Not stated · Data &amp; ML/AI · Chicago; New York · $100/hr · Python, C++ · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000150732768</id>
@@ -253,7 +309,7 @@
     <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099258"/>
     <updated>2026-09-21T17:16:31Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Raritan, New Jersey, United States of America · $23.5/hr · Python, SQL, LLMs, Azure, Databricks · sponsorship: no-sponsorship</summary>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · Raritan, New Jersey, United States of America · $23.5/hr · Python, SQL, LLMs, Azure, Databricks · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184</id>
@@ -750,61 +806,5 @@
     <updated>2026-09-17T13:04:03Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · US - Foster City, CA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:amperesand:4409254009</id>
-    <title>Amperesand: Software Intern, Factory &amp; Ops</title>
-    <link href="https://job-boards.greenhouse.io/amperesand/jobs/4409254009"/>
-    <updated>2026-09-17T07:53:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Reno, Nevada, United States · TypeScript, LLMs, React, AWS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cisco:/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885</id>
-    <title>Cisco: Security Engineer I (Intern) - United States 🇺🇸</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885"/>
-    <updated>2026-09-17T07:53:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · RTP, North Carolina, US · Python, Java, C++, AWS, GCP · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890</id>
-    <title>Cisco: Software Engineer I (Intern) - United States 🇺🇸</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890"/>
-    <updated>2026-09-17T07:53:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · RTP, North Carolina, US · Python, Java, C++, AWS, GCP · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:smithnephew:/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1</id>
-    <title>Smith+Nephew: Intern AI Center of Excellence Data Science</title>
-    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"/>
-    <updated>2026-09-17T07:53:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · US - Pittsburgh, PA · Python, MATLAB, PyTorch, TensorFlow, scikit-learn · status: closed · H-1B track record: ~77 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:smithnephew:/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482</id>
-    <title>Smith+Nephew: Intern Robotics Software Engineering</title>
-    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"/>
-    <updated>2026-09-17T07:53:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US - Pittsburgh, PA · C++ · status: closed · H-1B track record: ~77 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:newsbreak:4711146006</id>
-    <title>NewsBreak: New Market Launch Intern (MBA), Nearby AI</title>
-    <link href="https://job-boards.greenhouse.io/newsbreak/jobs/4711146006"/>
-    <updated>2026-09-17T01:52:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:barr:/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342</id>
-    <title>Barr: Internship - Data Science (Remote) 🛂</title>
-    <link href="https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342"/>
-    <updated>2026-09-21T00:44:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Minneapolis, MN · $30–$38/hr · Python, SQL · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
 </feed>
