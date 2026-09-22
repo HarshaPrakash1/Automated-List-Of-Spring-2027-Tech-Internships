@@ -482,7 +482,11 @@
       "workday:sanofi:/job/Morristown-NJ/XMLNAME-2027-Spring-Co-op-Cyber-Security-Operations-Center--Morristown--NJ_R2854248",
       "greenhouse:singlestore:8220948",
       "workday:sonyglobal:/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643",
-      "greenhouse:vikingglobalinvestors:6202755004"
+      "greenhouse:vikingglobalinvestors:6202755004",
+      "ashby:oneapp:84beb108-c04b-42d3-a9ae-9a91210201b7",
+      "greenhouse:epicgames:6202675004",
+      "workday:mastercard:/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653",
+      "greenhouse:singlestore:8221924"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -966,7 +970,11 @@
       "workday:sanofi:/job/Morristown-NJ/XMLNAME-2027-Spring-Co-op-Cyber-Security-Operations-Center--Morristown--NJ_R2854248",
       "greenhouse:singlestore:8220948",
       "workday:sonyglobal:/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643",
-      "greenhouse:vikingglobalinvestors:6202755004"
+      "greenhouse:vikingglobalinvestors:6202755004",
+      "ashby:oneapp:84beb108-c04b-42d3-a9ae-9a91210201b7",
+      "greenhouse:epicgames:6202675004",
+      "workday:mastercard:/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653",
+      "greenhouse:singlestore:8221924"
     ]
   }
 }

@@ -1646,6 +1646,13 @@
       "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875"
      ],
      "count": 5
+    },
+    "Spring 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "workday:mastercard:/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653"
+     ],
+     "count": 1
     }
    }
   },
@@ -2059,9 +2066,10 @@
      "first_posted": "2026-09-08",
      "role_ids": [
       "ashby:oneapp:7cc2fdfb-a186-4a58-af1b-8255c173244a",
+      "ashby:oneapp:84beb108-c04b-42d3-a9ae-9a91210201b7",
       "ashby:oneapp:ba18d004-3212-44e4-8a0c-bd1215bae770"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3143,5 +3151,5 @@
    }
   }
  },
- "updated_at": "2026-09-21T21:16:02Z"
+ "updated_at": "2026-09-22T00:17:25Z"
 }
