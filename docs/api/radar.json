@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-22T00:17:25Z",
- "data_as_of": "2026-09-22T00:17:25Z",
- "rendered_at": "2026-09-22T00:17:25Z",
+ "generated_at": "2026-09-22T04:56:39Z",
+ "data_as_of": "2026-09-22T04:56:39Z",
+ "rendered_at": "2026-09-22T04:56:39Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -662,7 +662,7 @@
    "expected": "2026-09-08",
    "days_until": -14,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770",
+   "url": "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7",
    "note": "",
    "provenance": {
     "type": "engine-observed",

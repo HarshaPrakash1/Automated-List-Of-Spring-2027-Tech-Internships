@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-22T00:17:25Z</updated>
+  <updated>2026-09-22T04:56:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:ashby:g2:64dcc04a-a0e7-493b-b899-dd4c56e561fd</id>
@@ -14,14 +14,6 @@
     <updated>2026-09-22T00:17:25Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · San Francisco, CA · $24 per hour · LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314</id>
-    <title>Bracco: Quality Analyst Intern (Software)</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314"/>
-    <updated>2026-09-22T00:17:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:oneapp:84beb108-c04b-42d3-a9ae-9a91210201b7</id>
@@ -40,14 +32,6 @@
     <summary>Not stated · Data &amp; ML/AI · Cary,North Carolina,United States · Python, SQL, scikit-learn, Pandas, Unreal · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:mastercard:/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653</id>
-    <title>Mastercard: AI &amp; Data Co-Op (Northeastern University), Spring 2027 – Purchase, NY, US</title>
-    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653"/>
-    <updated>2026-09-22T00:17:25Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Purchase, New York · $55/hr · Python, SQL, scikit-learn, Pandas</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:singlestore:8221924</id>
     <title>SingleStore: MIT- Software Engineer Intern | Engine</title>
     <link href="https://job-boards.greenhouse.io/singlestore/jobs/8221924"/>
@@ -56,9 +40,25 @@
     <summary>Not stated · Software · San Francisco, CA, United States · C++, SQL, Linux · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314</id>
+    <title>Bracco: Quality Analyst Intern (Software)</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314"/>
+    <updated>2026-09-22T00:17:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mastercard:/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653</id>
+    <title>Mastercard: AI &amp; Data Co-Op (Northeastern University), Spring 2027 – Purchase, NY, US</title>
+    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653"/>
+    <updated>2026-09-22T00:17:25Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Purchase, New York · $55/hr · Python, SQL, scikit-learn, Pandas</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:greenhouse:singlestore:8220948</id>
-    <title>SingleStore: MIT- Software Engineer Intern |Helios|</title>
-    <link href="https://job-boards.greenhouse.io/singlestore/jobs/8220948"/>
+    <title>SingleStore: MIT- Software Engineer Intern | Helios</title>
+    <link href="https://job-boards.greenhouse.io/singlestore/jobs/8220941"/>
     <updated>2026-09-21T21:16:02Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · United States · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
