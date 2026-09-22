@@ -486,7 +486,9 @@
       "ashby:oneapp:84beb108-c04b-42d3-a9ae-9a91210201b7",
       "greenhouse:epicgames:6202675004",
       "workday:mastercard:/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653",
-      "greenhouse:singlestore:8221924"
+      "greenhouse:singlestore:8221924",
+      "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
+      "workday:disney:/job/Burbank-CA-USA/FX-Original-Programming-Intern--Spring-2027_10161237-1"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -974,7 +976,9 @@
       "ashby:oneapp:84beb108-c04b-42d3-a9ae-9a91210201b7",
       "greenhouse:epicgames:6202675004",
       "workday:mastercard:/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653",
-      "greenhouse:singlestore:8221924"
+      "greenhouse:singlestore:8221924",
+      "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
+      "workday:disney:/job/Burbank-CA-USA/FX-Original-Programming-Intern--Spring-2027_10161237-1"
     ]
   }
 }

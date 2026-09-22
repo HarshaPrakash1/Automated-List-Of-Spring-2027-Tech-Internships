@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-22T04:56:39Z",
- "data_as_of": "2026-09-22T04:56:39Z",
- "rendered_at": "2026-09-22T04:56:39Z",
+ "generated_at": "2026-09-22T10:05:15Z",
+ "data_as_of": "2026-09-22T10:05:15Z",
+ "rendered_at": "2026-09-22T10:05:15Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -614,6 +614,25 @@
    }
   },
   {
+   "company": "Applied Materials",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -14,
+   "status": "open",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "C.H. Robinson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -1048,25 +1067,6 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-17"
-   }
-  },
-  {
-   "company": "MetOx International",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-18",
-   "days_until": -4,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-18"
    }
   },
   {
@@ -3881,25 +3881,6 @@
    }
   },
   {
-   "company": "Applied Materials",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -14,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
    "company": "Merck",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -3935,6 +3916,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-15"
+   }
+  },
+  {
+   "company": "MetOx International",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -4,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-18"
    }
   }
  ],

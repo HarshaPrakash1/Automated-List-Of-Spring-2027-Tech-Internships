@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-22T04:56:39Z</updated>
+  <updated>2026-09-22T10:05:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150</id>
+    <title>Northrop Grumman: 2027 Software Engineer Intern - San Diego CA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150"/>
+    <updated>2026-09-22T10:05:15Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · United States-California-San Diego · $21.5–$39/hr · Python, Java, C++, Rust, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:disney:/job/Burbank-CA-USA/FX-Original-Programming-Intern--Spring-2027_10161237-1</id>
+    <title>The Walt Disney Company: FX Original Programming Intern, Spring 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/FX-Original-Programming-Intern--Spring-2027_10161237-1"/>
+    <updated>2026-09-22T10:05:15Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Burbank, CA, USA · $23/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:g2:64dcc04a-a0e7-493b-b899-dd4c56e561fd</id>
     <title>G2: Intern, AI Agent Evaluations</title>
@@ -123,9 +139,9 @@
     <id>urn:intern-engine:workday:sonyglobal:/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643</id>
     <title>Sony: Sony Research - Internship on Audio Processing and Machine Learning</title>
     <link href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643"/>
-    <updated>2026-09-21T21:16:02Z</updated>
+    <updated>2026-09-22T10:05:15Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York · $50/hr · Python, PyTorch</summary>
+    <summary>Not stated · Data &amp; ML/AI · New York · $50/hr · Python, PyTorch · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:collinear-ai:ae85fd08-dfd8-42e5-9b3b-9921ba24742b</id>
@@ -371,9 +387,9 @@
     <id>urn:intern-engine:greenhouse:metoxinternationalinc:5427064008</id>
     <title>MetOx International: Data Science Intern (Spring 2027)</title>
     <link href="https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008"/>
-    <updated>2026-09-18T16:38:37Z</updated>
+    <updated>2026-09-22T10:05:15Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Houston, TX · Python, SQL, Pandas, LLMs, PostgreSQL</summary>
+    <summary>Spring 2027 · Data &amp; ML/AI · Houston, TX · Python, SQL, Pandas, LLMs, PostgreSQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40535</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-16T20:37:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Clifton Park, New York · 30–45 USD/hr · Python, C++, Computer Vision · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:kitware:ff25a349-a362-45d2-b1e4-2487c1df4f75</id>
-    <title>Kitware: AI Research Internship 🇺🇸</title>
-    <link href="https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75"/>
-    <updated>2026-09-16T20:37:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Clifton Park, New York · 40–60 USD/hr · Python, PyTorch, TensorFlow, LLMs, Computer Vision · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260839</id>
-    <title>GM financial: Intern - Data Science</title>
-    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839"/>
-    <updated>2026-09-16T20:37:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Fort Worth, TX, United States · status: closed</summary>
   </entry>
 </feed>
