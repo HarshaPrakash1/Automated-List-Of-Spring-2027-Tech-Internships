@@ -5,31 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-23T19:15:41Z</updated>
+  <updated>2026-09-23T22:29:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2</id>
-    <title>Sonos: Software Engineering Co-op (Cloud) 🛂</title>
-    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2"/>
-    <updated>2026-09-23T19:15:41Z</updated>
+    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707</id>
+    <title>Johnson &amp; Johnson: Software Test Engineering Co-op (Beatbox) 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707"/>
+    <updated>2026-09-23T22:29:48Z</updated>
     <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Boston, MA · Python, Java, JavaScript, AWS, Kubernetes · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+    <summary>Winter 2027 · Software · Danvers, Massachusetts, United States of America · $23.5/hr · Python, C++, Rust, JavaScript, SQL · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2</id>
-    <title>Sonos: Software Engineering Co-op (Signal Processing) 🛂</title>
-    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2"/>
-    <updated>2026-09-23T19:15:41Z</updated>
+    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669</id>
+    <title>Johnson &amp; Johnson: Software Test Engineering Co-op (RLM) 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669"/>
+    <updated>2026-09-23T22:29:48Z</updated>
     <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Boston, MA · Linux · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+    <summary>Winter 2027 · Software · Danvers, Massachusetts, United States of America · $23.5/hr · Python, C++, Rust, JavaScript, SQL · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:axs:8797388002</id>
-    <title>AXS: Fall Intern, Data Science (AXS) 🛂</title>
-    <link href="https://job-boards.greenhouse.io/axs/jobs/8797388002"/>
-    <updated>2026-09-23T19:15:41Z</updated>
+    <id>urn:intern-engine:greenhouse:figma:6178851004</id>
+    <title>Figma: Data Engineer Intern (2027)</title>
+    <link href="https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"/>
+    <updated>2026-09-23T22:29:48Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · San Francisco, CA • New York, NY · Python, SQL · H-1B track record: ~39 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hypertherm:/job/Hanover-NH/Intern_R4100</id>
+    <title>Hypertherm: Firmware Developer - Internship</title>
+    <link href="https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Intern_R4100"/>
+    <updated>2026-09-23T22:29:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · Python, SQL, Databricks, Snowflake · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Hardware · Hanover, NH · Python, Java, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393</id>
+    <title>Johnson &amp; Johnson: Heart Recovery Software R&amp;D Co-Op 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393"/>
+    <updated>2026-09-23T22:29:48Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Halethorpe, Maryland, United States of America · $23.5/hr · Python, C++, Git · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:klaviyocampus:8003260003</id>
+    <title>Klaviyo: AI Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003"/>
+    <updated>2026-09-23T22:29:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Boston, MA · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:axontalentcommunity:7837133003</id>
@@ -38,6 +62,14 @@
     <updated>2026-09-23T19:15:41Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · Seattle, Washington, United States · Python, Java, C#, SQL, Scala</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:axs:8797388002</id>
+    <title>AXS: Fall Intern, Data Science (AXS) 🛂</title>
+    <link href="https://job-boards.greenhouse.io/axs/jobs/8797388002"/>
+    <updated>2026-09-23T19:15:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · Python, SQL, Databricks, Snowflake · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cae:/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873</id>
@@ -54,6 +86,22 @@
     <updated>2026-09-23T19:15:41Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · ITA - MI - MILAN</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2</id>
+    <title>Sonos: Software Engineering Co-op (Cloud) 🛂</title>
+    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2"/>
+    <updated>2026-09-23T19:15:41Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Boston, MA · Python, Java, JavaScript, AWS, Kubernetes · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2</id>
+    <title>Sonos: Software Engineering Co-op (Signal Processing) 🛂</title>
+    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2"/>
+    <updated>2026-09-23T19:15:41Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Boston, MA · Linux · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:swbc:/job/San-Antonio-TX/Application-Security-Intern_R0015572-2</id>
@@ -758,53 +806,5 @@
     <updated>2026-09-17T20:50:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Kingwood, TX · Python, SQL, LLMs, Computer Vision · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795</id>
-    <title>LabCorp: Intern – Network Infrastructure &amp; Automation Engineering 🛂</title>
-    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795"/>
-    <updated>2026-09-17T20:50:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Durham NC · Python, Linux, Git · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500</id>
-    <title>Leidos: Research Engineer Intern</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500"/>
-    <updated>2026-09-17T20:50:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Pittsburgh, PA · Python, MATLAB · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:conductorai:d6a1b110-10ad-4b5e-83a0-88c5fd7bc891</id>
-    <title>ConductorAI: Software Engineer Intern 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891"/>
-    <updated>2026-09-17T17:55:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York City · Python, TypeScript, LLMs, React, Next.js · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:internrecruiting:8204511</id>
-    <title>Internrecruiting: Software Engineer Co-op</title>
-    <link href="https://job-boards.greenhouse.io/internrecruiting/jobs/8204511"/>
-    <updated>2026-09-17T17:55:39Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Boston, MA · Python, Java, C#, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nanopathinc:4732881005</id>
-    <title>Nanopath: Software Development Co-op (Jan '27 Start)</title>
-    <link href="https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005"/>
-    <updated>2026-09-17T17:55:39Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Cambridge, MA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4713793006</id>
-    <title>SharkNinja: Applied AI &amp; Analytics Co-op Opportunities</title>
-    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006"/>
-    <updated>2026-09-17T17:55:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Miami, Florida, United States; Needham, MA, United States; New York, New York, United States · Python, SQL, LLMs, AWS, Tableau</summary>
   </entry>
 </feed>
