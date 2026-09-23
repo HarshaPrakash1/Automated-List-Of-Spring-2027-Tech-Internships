@@ -5,15 +5,63 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-23T15:12:12Z</updated>
+  <updated>2026-09-23T19:15:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Keenfinity:744000151397189</id>
-    <title>Keenfinity: Embedded Firmware Engineer Co-Op</title>
-    <link href="https://jobs.smartrecruiters.com/Keenfinity/744000151397189"/>
-    <updated>2026-09-23T15:12:12Z</updated>
+    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2</id>
+    <title>Sonos: Software Engineering Co-op (Cloud) 🛂</title>
+    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2"/>
+    <updated>2026-09-23T19:15:41Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Boston, MA · Python, Java, JavaScript, AWS, Kubernetes · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2</id>
+    <title>Sonos: Software Engineering Co-op (Signal Processing) 🛂</title>
+    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2"/>
+    <updated>2026-09-23T19:15:41Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Boston, MA · Linux · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:axs:8797388002</id>
+    <title>AXS: Fall Intern, Data Science (AXS) 🛂</title>
+    <link href="https://job-boards.greenhouse.io/axs/jobs/8797388002"/>
+    <updated>2026-09-23T19:15:41Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Fairport, NY, United States · $24–$27/hr · Python, C++, Linux</summary>
+    <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · Python, SQL, Databricks, Snowflake · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:axontalentcommunity:7837133003</id>
+    <title>Axon: 2027 US Software Engineering Internship</title>
+    <link href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003"/>
+    <updated>2026-09-23T19:15:41Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Seattle, Washington, United States · Python, Java, C#, SQL, Scala</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cae:/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873</id>
+    <title>CAE: Weapons Simulation Software Co-Op 🇺🇸</title>
+    <link href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873"/>
+    <updated>2026-09-23T19:15:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Arlington, TX · Python, C++, MATLAB, Docker, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dxctechnology:/job/ITA---MI---MILAN/Cyber-Security-Intern_51583298</id>
+    <title>DXC Technology: Cyber Security Intern</title>
+    <link href="https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---MI---MILAN/Cyber-Security-Intern_51583298"/>
+    <updated>2026-09-23T19:15:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · ITA - MI - MILAN</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:swbc:/job/San-Antonio-TX/Application-Security-Intern_R0015572-2</id>
+    <title>SWBC: Application Security Intern</title>
+    <link href="https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Application-Security-Intern_R0015572-2"/>
+    <updated>2026-09-23T19:15:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · San Antonio, TX · Python, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Keenfinity:744000151395769</id>
@@ -22,6 +70,14 @@
     <updated>2026-09-23T15:12:12Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Fairport, NY, United States · $25–$26/hr · Python, C++, Azure, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Keenfinity:744000151397189</id>
+    <title>Keenfinity: Embedded Firmware Engineer Co-Op</title>
+    <link href="https://jobs.smartrecruiters.com/Keenfinity/744000151397189"/>
+    <updated>2026-09-23T15:12:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Fairport, NY, United States · $24–$27/hr · Python, C++, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359</id>
@@ -94,6 +150,14 @@
     <updated>2026-09-22T22:17:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Carmel, IN · Python, JavaScript, SQL, Bash</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858</id>
+    <title>Leidos: Software Developer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858"/>
+    <updated>2026-09-22T22:17:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Annapolis Junction, MD · Python, Java, C++, JavaScript, HTML/CSS · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:maxar:/job/Remote-United-States/AI-Engineer-Intern_R24605</id>
@@ -443,17 +507,17 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835</id>
     <title>Northrop Grumman: 2027 Embedded Software Engineer Intern - Camarillo CA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835"/>
-    <updated>2026-09-21T11:19:45Z</updated>
+    <updated>2026-09-23T18:57:59Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-California-Camarillo · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · United States-California-Camarillo · $20.5–$37.25/hr · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464</id>
     <title>Northrop Grumman: 2027 Embedded Software Engineer Intern - Baltimore MD 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464"/>
-    <updated>2026-09-21T11:19:45Z</updated>
+    <updated>2026-09-23T18:57:59Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:nordsonhcm:/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925</id>
@@ -742,69 +806,5 @@
     <updated>2026-09-17T17:55:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Miami, Florida, United States; Needham, MA, United States; New York, New York, United States · Python, SQL, LLMs, AWS, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4713808006</id>
-    <title>SharkNinja: Applied AI &amp; Analytics Intern Opportunities</title>
-    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713808006"/>
-    <updated>2026-09-17T17:55:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Miami, Florida, United States; Needham, MA, United States · Python, SQL, LLMs, AWS, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119494</id>
-    <title>Howmet Aerospace: Intern - Artificial Intelligence (AI) 🛂</title>
-    <link href="https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494"/>
-    <updated>2026-09-17T17:55:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Pittsburgh, PA, United States · $20–$22/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260795</id>
-    <title>GM financial: Intern - Software Development Engineer</title>
-    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795"/>
-    <updated>2026-09-17T17:55:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Arlington, TX, United States · LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260804</id>
-    <title>GM financial: Intern - Oracle Application Developer</title>
-    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804"/>
-    <updated>2026-09-17T17:55:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Irving, TX, United States · LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260818</id>
-    <title>GM financial: Intern - Software Development Engineer</title>
-    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260818"/>
-    <updated>2026-09-17T17:55:39Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Arlington, TX, United States · LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:157903</id>
-    <title>Honeywell: Data Science Co-Op - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157903"/>
-    <updated>2026-09-17T17:55:39Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Pittsford, NY, United States · $20/hr · Python, LLMs, AWS, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:158088</id>
-    <title>Honeywell: Software Engineer Co-Op - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158088"/>
-    <updated>2026-09-17T17:55:39Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Pittsford, NY, United States · $20/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:axcelis:/job/Beverly-MA/Co-Op---Manufacturing-Software-Development-_12019</id>
-    <title>Axcelis Technologies, Inc.: Co-Op, (Manufacturing Software Development)</title>
-    <link href="https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Co-Op---Manufacturing-Software-Development-_12019"/>
-    <updated>2026-09-17T17:55:39Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Hardware · Beverly, MA · Python, C#, JavaScript, SQL · status: closed · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
