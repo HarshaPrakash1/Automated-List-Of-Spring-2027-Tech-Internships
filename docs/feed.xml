@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-22T22:17:38Z</updated>
+  <updated>2026-09-23T00:35:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10557133</id>
+    <title>Amazon: Security Engineer Internship – 2027 (US)</title>
+    <link href="https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us"/>
+    <updated>2026-09-23T00:35:31Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · Seattle, Washington, USA · Python, Java, C++, Ruby, AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:wehrtyou:8222414</id>
+    <title>Hudson River Trading: Data Scientist Intern - 2027</title>
+    <link href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414"/>
+    <updated>2026-09-23T00:35:31Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · New York, NY, United States · Python, Pandas · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418</id>
+    <title>Northrop Grumman: 2027 Intern - Systems Security/Cybersecurity Engineer 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418"/>
+    <updated>2026-09-23T00:35:31Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · United States-Florida-Melbourne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26011295</id>
     <title>Emerson Electric: Graduate Software Engineering Intern</title>
@@ -16,20 +40,20 @@
     <summary>Not stated · Software · Round Rock, TX, United States · Python, C++, C#, LLMs, Computer Vision</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1</id>
-    <title>Allegion: Summer Intern – Software Operations Engineer</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1"/>
-    <updated>2026-09-22T22:17:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Carmel, IN · Python, JavaScript, SQL, Bash</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429</id>
     <title>The Aerospace Corporation: 2027 Software Tools and Assurance Intern 🇺🇸</title>
     <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"/>
     <updated>2026-09-22T22:17:38Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1</id>
+    <title>Allegion: Summer Intern – Software Operations Engineer</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1"/>
+    <updated>2026-09-22T22:17:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Carmel, IN · Python, JavaScript, SQL, Bash</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:maxar:/job/Remote-United-States/AI-Engineer-Intern_R24605</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-17T13:04:03Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · US - Ashburn, VA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1</id>
-    <title>Visa: Software Engineer, Intern - 2027 Austin, TX 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1"/>
-    <updated>2026-09-17T13:04:03Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US - Austin, TX · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1</id>
-    <title>Visa: 2027 Sophomore Internship Program - Software Engineer Intern, Austin 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1"/>
-    <updated>2026-09-17T13:04:03Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US - Austin, TX · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1</id>
-    <title>Visa: 2027 Sophomore Internship Program - Software Engineer Intern, Bellevue 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1"/>
-    <updated>2026-09-17T13:04:03Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US - Bellevue, WA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

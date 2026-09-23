@@ -186,9 +186,10 @@
      "first_posted": "2026-08-27",
      "role_ids": [
       "amazon:amazon:10517567",
-      "amazon:amazon:10529525"
+      "amazon:amazon:10529525",
+      "amazon:amazon:10557133"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1411,6 +1412,13 @@
       "greenhouse:wehrtyou:7964062",
       "greenhouse:wehrtyou:8052083"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-09-22",
+     "role_ids": [
+      "greenhouse:wehrtyou:8222414"
+     ],
+     "count": 1
     }
    }
   },
@@ -1914,6 +1922,7 @@
       "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
       "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
       "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
@@ -1924,7 +1933,7 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
      ],
-     "count": 12
+     "count": 13
     }
    }
   },
@@ -3195,5 +3204,5 @@
    }
   }
  },
- "updated_at": "2026-09-22T22:17:38Z"
+ "updated_at": "2026-09-23T00:35:31Z"
 }
