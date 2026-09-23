@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-23T10:09:30Z",
- "data_as_of": "2026-09-23T10:09:30Z",
- "rendered_at": "2026-09-23T10:09:30Z",
+ "generated_at": "2026-09-23T15:12:12Z",
+ "data_as_of": "2026-09-23T15:12:12Z",
+ "rendered_at": "2026-09-23T15:12:13Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -606,25 +606,6 @@
    "days_until": -15,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
-   "company": "Applied Materials",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -15,
-   "status": "open",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3935,6 +3916,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-02"
+   }
+  },
+  {
+   "company": "Applied Materials",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -15,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
    }
   },
   {
