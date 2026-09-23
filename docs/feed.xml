@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-23T05:21:04Z</updated>
+  <updated>2026-09-23T10:09:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1</id>
-    <title>KLA: Software Engineering Intern (C++, Unix)</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1"/>
-    <updated>2026-09-23T05:21:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Milpitas, CA · $37–$49/hr · C++, Linux, Python · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2</id>
     <title>KLA: Algorithm Engineering Intern (AI, Computer Vision &amp; Software Engineering)</title>
@@ -22,6 +14,14 @@
     <updated>2026-09-23T05:21:04Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · $58/hr · Computer Vision, Python, C++, PyTorch, TensorFlow · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1</id>
+    <title>KLA: Software Engineering Intern (C++, Unix)</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1"/>
+    <updated>2026-09-23T05:21:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Milpitas, CA · $37–$49/hr · C++, Linux, Python · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10557133</id>
