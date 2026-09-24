@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-23T22:29:48Z</updated>
+  <updated>2026-09-24T01:06:36Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:ramp:a13ae586-f4cb-4385-8822-c42b9b54ed74</id>
+    <title>Ramp: Software Engineer Internship, Frontend</title>
+    <link href="https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74"/>
+    <updated>2026-09-24T01:06:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY (HQ) · $12.5K per month · TypeScript, JavaScript, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8</id>
+    <title>Ramp: Software Engineering Intern, Android</title>
+    <link href="https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8"/>
+    <updated>2026-09-24T01:06:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY (HQ) · $12.5K per month · Kotlin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:boxinc:8226667</id>
+    <title>Box: Cloud &amp; AI Finance Intern</title>
+    <link href="https://job-boards.greenhouse.io/boxinc/jobs/8226667"/>
+    <updated>2026-09-24T01:06:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Redwood City, CA, United States · SQL, LLMs, AWS, GCP, Tableau · H-1B track record: ~108 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:graphcore:8841894002</id>
+    <title>Graphcore: Firmware Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841894002"/>
+    <updated>2026-09-24T01:06:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Austin, Texas, United States · Python, C++, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:figma:6178851004</id>
+    <title>Figma: Data Engineer Intern (2027)</title>
+    <link href="https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"/>
+    <updated>2026-09-23T22:29:48Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · San Francisco, CA • New York, NY · Python, SQL · H-1B track record: ~39 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:klaviyocampus:8003260003</id>
+    <title>Klaviyo: AI Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003"/>
+    <updated>2026-09-23T22:29:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Boston, MA · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hypertherm:/job/Hanover-NH/Intern_R4100</id>
+    <title>Hypertherm: Firmware Developer - Internship</title>
+    <link href="https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Intern_R4100"/>
+    <updated>2026-09-23T22:29:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Hanover, NH · Python, Java, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707</id>
     <title>Johnson &amp; Johnson: Software Test Engineering Co-op (Beatbox) 🛂</title>
@@ -24,22 +80,6 @@
     <summary>Winter 2027 · Software · Danvers, Massachusetts, United States of America · $23.5/hr · Python, C++, Rust, JavaScript, SQL · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:figma:6178851004</id>
-    <title>Figma: Data Engineer Intern (2027)</title>
-    <link href="https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"/>
-    <updated>2026-09-23T22:29:48Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · San Francisco, CA • New York, NY · Python, SQL · H-1B track record: ~39 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hypertherm:/job/Hanover-NH/Intern_R4100</id>
-    <title>Hypertherm: Firmware Developer - Internship</title>
-    <link href="https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Intern_R4100"/>
-    <updated>2026-09-23T22:29:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Hanover, NH · Python, Java, C++</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:jj:/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393</id>
     <title>Johnson &amp; Johnson: Heart Recovery Software R&amp;D Co-Op 🛂</title>
     <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393"/>
@@ -48,28 +88,20 @@
     <summary>Spring 2027 · Software · Halethorpe, Maryland, United States of America · $23.5/hr · Python, C++, Git · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:klaviyocampus:8003260003</id>
-    <title>Klaviyo: AI Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003"/>
-    <updated>2026-09-23T22:29:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Boston, MA · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:axontalentcommunity:7837133003</id>
     <title>Axon: 2027 US Software Engineering Internship</title>
     <link href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003"/>
-    <updated>2026-09-23T19:15:41Z</updated>
+    <updated>2026-09-24T00:49:27Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Seattle, Washington, United States · Python, Java, C#, SQL, Scala</summary>
+    <summary>Spring 2027 · Software · Seattle, Washington, United States · Python, Java, C#, SQL, Scala · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:axs:8797388002</id>
     <title>AXS: Fall Intern, Data Science (AXS) 🛂</title>
     <link href="https://job-boards.greenhouse.io/axs/jobs/8797388002"/>
-    <updated>2026-09-23T19:15:41Z</updated>
+    <updated>2026-09-24T01:06:36Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · Python, SQL, Databricks, Snowflake · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · Python, SQL, Databricks, Snowflake · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cae:/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-18T16:38:37Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Remote - Texas · $50/hr · PyTorch, LLMs, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:xpengmotors:8819001002</id>
-    <title>XPENG Motors: AI Research Intern – Predictive World Model</title>
-    <link href="https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002"/>
-    <updated>2026-09-18T01:28:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Santa Clara, CA · Python, PyTorch, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tri:6433edb6-76be-409f-9a73-9b9d9c207f9f</id>
-    <title>Toyota Research Institute: Human-Centered AI Research Intern, Causal Reasoning Models</title>
-    <link href="https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f"/>
-    <updated>2026-09-17T20:50:11Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Los Altos, CA · $65/hr · Python, PyTorch, LLMs · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000150194379</id>
-    <title>Renesas Electronics: Embedded Systems Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000150194379"/>
-    <updated>2026-09-19T09:38:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote, REMOTE, United States (Remote) · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103294</id>
-    <title>Insperity: Rotational AI Intern</title>
-    <link href="https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103294"/>
-    <updated>2026-09-17T20:50:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Kingwood, TX · Python, SQL, LLMs, Computer Vision · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
