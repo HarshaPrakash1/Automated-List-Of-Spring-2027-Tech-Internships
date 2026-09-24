@@ -528,7 +528,8 @@
       "ashby:ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
       "greenhouse:boxinc:8226667",
       "greenhouse:graphcore:8841894002",
-      "ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9"
+      "ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9",
+      "lever:kitware:e76197d1-4dc3-4f7c-a30a-597713283bb3"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1058,7 +1059,8 @@
       "ashby:ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
       "greenhouse:boxinc:8226667",
       "greenhouse:graphcore:8841894002",
-      "ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9"
+      "ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9",
+      "lever:kitware:e76197d1-4dc3-4f7c-a30a-597713283bb3"
     ]
   }
 }
