@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-24T20:16:59Z",
- "data_as_of": "2026-09-24T20:16:59Z",
- "rendered_at": "2026-09-24T20:16:59Z",
+ "generated_at": "2026-09-24T23:27:01Z",
+ "data_as_of": "2026-09-24T23:27:01Z",
+ "rendered_at": "2026-09-24T23:27:02Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -568,25 +568,6 @@
    "days_until": -16,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
-   "company": "C.H. Robinson",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -16,
-   "status": "open",
-   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3958,6 +3939,25 @@
   },
   {
    "company": "Applied Materials",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -16,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "C.H. Robinson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
    "precision": "day",
