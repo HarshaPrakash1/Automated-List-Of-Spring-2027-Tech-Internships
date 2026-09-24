@@ -5,31 +5,71 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-24T16:12:54Z</updated>
+  <updated>2026-09-24T20:16:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workable:rentvision:0F1C7992BF</id>
-    <title>Rentvision: Software Engineering Intern</title>
-    <link href="https://apply.workable.com/rentvision/j/0F1C7992BF/"/>
-    <updated>2026-09-24T16:12:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Lincoln, Nebraska, United States · Java, TypeScript, JavaScript, React, HTML/CSS · status: closed</summary>
+    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260821</id>
+    <title>GM financial: Intern - Data Engineer</title>
+    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260821"/>
+    <updated>2026-09-24T20:16:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Arlington, TX, United States · Python, Java, C++, LLMs, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:zekelman:/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752</id>
-    <title>Zekelman Industries: AI Intern</title>
-    <link href="https://zekelman.wd12.myworkdayjobs.com/Careers/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752"/>
-    <updated>2026-09-24T16:12:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Wheatland, PA - Council Ave · status: closed</summary>
+    <id>urn:intern-engine:ashby:reflect-orbital:c394615d-26c6-4435-ad84-3ca3269c2952</id>
+    <title>Reflect Orbital: Ground Software Systems Intern</title>
+    <link href="https://jobs.ashbyhq.com/reflect-orbital/c394615d-26c6-4435-ad84-3ca3269c2952"/>
+    <updated>2026-09-24T20:16:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Hawthorne, CA · $27 – $31 per hour · Python, C++, AWS, Kubernetes, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322</id>
-    <title>C.H. Robinson: Cyber Security Internship 2027</title>
-    <link href="https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322"/>
-    <updated>2026-09-24T16:12:54Z</updated>
+    <id>urn:intern-engine:greenhouse:drwuniversityjobs:8220587</id>
+    <title>DRW: Spring 2027 City Scholars Software Developer Intern</title>
+    <link href="https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8220587"/>
+    <updated>2026-09-24T20:16:59Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · Eden Prairie, MN United States of America · $15–$30/hr</summary>
+    <summary>Spring 2027 · Software · Chicago, IL · $45/hr · H-1B track record: ~31 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:eqtcorporation:5424757008</id>
+    <title>EQT Corporation: Water Infrastructure Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008"/>
+    <updated>2026-09-24T20:16:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canonsburg, PA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/St-Louis-MO/Software-Developer-Intern_R-00192632</id>
+    <title>Leidos: Software Developer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Software-Developer-Intern_R-00192632"/>
+    <updated>2026-09-24T20:16:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · St. Louis, MO · Python, Java, C#, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312</id>
+    <title>Merck: 2027 Future Talent Program - Data Science - Intern 🛂</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312"/>
+    <updated>2026-09-24T20:16:59Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · Python, SQL, MATLAB, AWS · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543</id>
+    <title>Wex: Software Engineering Intern - Enterprise Data &amp; Systems (Salesforce &amp; Snowflake) (Graduate/Master's)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543"/>
+    <updated>2026-09-24T20:16:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US - Remote · Snowflake, Python, Java, SQL, Git · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:clevelandguardiansbops:8827470002</id>
+    <title>Major League Baseball: Software Engineer Intern, Baseball Systems</title>
+    <link href="https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8827470002"/>
+    <updated>2026-09-24T16:12:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cleveland, Ohio, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:formlabsinternships:8188725</id>
@@ -46,14 +86,6 @@
     <updated>2026-09-24T16:12:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Cheshire, CT · Python, Java, C#, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:clevelandguardiansbops:8827470002</id>
-    <title>Major League Baseball: Software Engineer Intern, Baseball Systems</title>
-    <link href="https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8827470002"/>
-    <updated>2026-09-24T16:12:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cleveland, Ohio, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:voloridgeinvestmentmanagement:4405530009</id>
@@ -78,6 +110,30 @@
     <updated>2026-09-24T16:12:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Santa Monica, CA · $45/hr · Python, Java, JavaScript, React, HTML/CSS · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:rentvision:0F1C7992BF</id>
+    <title>Rentvision: Software Engineering Intern</title>
+    <link href="https://apply.workable.com/rentvision/j/0F1C7992BF/"/>
+    <updated>2026-09-24T16:12:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Lincoln, Nebraska, United States · Java, TypeScript, JavaScript, React, HTML/CSS · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322</id>
+    <title>C.H. Robinson: Cyber Security Internship 2027</title>
+    <link href="https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322"/>
+    <updated>2026-09-24T16:12:54Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · Eden Prairie, MN United States of America · $15–$30/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:zekelman:/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752</id>
+    <title>Zekelman Industries: AI Intern</title>
+    <link href="https://zekelman.wd12.myworkdayjobs.com/Careers/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752"/>
+    <updated>2026-09-24T16:12:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Wheatland, PA - Council Ave · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:kitware:e76197d1-4dc3-4f7c-a30a-597713283bb3</id>
@@ -347,9 +403,9 @@
     <id>urn:intern-engine:workday:corteva:/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W</id>
     <title>Corteva: Data Science Intern</title>
     <link href="https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W"/>
-    <updated>2026-09-22T19:03:07Z</updated>
+    <updated>2026-09-24T20:16:59Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Indianapolis, Indiana, United States · Python, C#, SQL, Azure</summary>
+    <summary>Not stated · Data &amp; ML/AI · Indianapolis, Indiana, United States · Python, C#, SQL, Azure · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:emcins:/job/Iowa/Intern---Software-Engineering_R6557-1</id>
@@ -467,9 +523,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150</id>
     <title>Northrop Grumman: 2027 Software Engineer Intern - San Diego CA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150"/>
-    <updated>2026-09-22T10:05:15Z</updated>
+    <updated>2026-09-24T19:56:53Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-California-San Diego · $21.5–$39/hr · Python, Java, C++, Rust, MATLAB · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · United States-California-San Diego · $21.5–$39/hr · Python, Java, C++, Rust, MATLAB · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:g2:64dcc04a-a0e7-493b-b899-dd4c56e561fd</id>
@@ -750,61 +806,5 @@
     <updated>2026-09-19T19:32:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Skaneateles, NY · Python, Java, C#, LLMs, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:fable:3fd04c23-a63d-4b40-bfae-feafaa478caf</id>
-    <title>Fable: Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf"/>
-    <updated>2026-09-19T13:39:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, CA (Hybrid) · Python, LLMs, React, GraphQL, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388</id>
-    <title>Johnson &amp; Johnson: Medical Device Cybersecurity Co-Op 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388"/>
-    <updated>2026-09-19T00:25:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Danvers, Massachusetts, United States of America · $23.5/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Production-Data-Analyst-Co-Op_R-098904</id>
-    <title>Johnson &amp; Johnson: Production Data Analyst Co-Op 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Production-Data-Analyst-Co-Op_R-098904"/>
-    <updated>2026-09-19T00:25:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Danvers, Massachusetts, United States of America · $23.5/hr · Tableau · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000150460339</id>
-    <title>Veolia: SAP &amp; ServiceNow AI Automation Intern 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000150460339"/>
-    <updated>2026-09-18T22:07:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Trevose, PA, United States (Hybrid) · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cir:/job/Fairfield-IA/Consulting-Services-AI---Automation-Intern_R-2025-223</id>
-    <title>Cambridge Investment Research: Consulting Services AI &amp; Automation Intern</title>
-    <link href="https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Consulting-Services-AI---Automation-Intern_R-2025-223"/>
-    <updated>2026-09-18T22:07:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Fairfield, IA · $17–$26/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375</id>
-    <title>Gordon Food Service: Software Engineer Intern (Low Code)</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375"/>
-    <updated>2026-09-18T22:07:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Wyoming, Michigan · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377</id>
-    <title>Gordon Food Service: Software Engineer Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377"/>
-    <updated>2026-09-18T22:07:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Wyoming, Michigan · Java, SQL, Angular, Spring, GCP · H-1B track record: ~21 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

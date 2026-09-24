@@ -898,6 +898,18 @@
     }
    }
   },
+  "drw": {
+   "name": "DRW",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "greenhouse:drwuniversityjobs:8220587"
+     ],
+     "count": 1
+    }
+   }
+  },
   "dtcc": {
    "name": "DTCC",
    "cycles": {
@@ -1759,10 +1771,11 @@
       "workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
       "workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871",
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -3228,5 +3241,5 @@
    }
   }
  },
- "updated_at": "2026-09-24T16:12:54Z"
+ "updated_at": "2026-09-24T20:16:59Z"
 }
