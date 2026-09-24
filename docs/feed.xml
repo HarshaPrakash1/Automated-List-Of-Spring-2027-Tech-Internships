@@ -5,8 +5,80 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-24T11:52:40Z</updated>
+  <updated>2026-09-24T16:12:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:rentvision:0F1C7992BF</id>
+    <title>Rentvision: Software Engineering Intern</title>
+    <link href="https://apply.workable.com/rentvision/j/0F1C7992BF/"/>
+    <updated>2026-09-24T16:12:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Lincoln, Nebraska, United States · Java, TypeScript, JavaScript, React, HTML/CSS · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:zekelman:/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752</id>
+    <title>Zekelman Industries: AI Intern</title>
+    <link href="https://zekelman.wd12.myworkdayjobs.com/Careers/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752"/>
+    <updated>2026-09-24T16:12:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Wheatland, PA - Council Ave · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322</id>
+    <title>C.H. Robinson: Cyber Security Internship 2027</title>
+    <link href="https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322"/>
+    <updated>2026-09-24T16:12:54Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · Eden Prairie, MN United States of America · $15–$30/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:formlabsinternships:8188725</id>
+    <title>Formlabsinternships: Desktop Software Intern (Winter/Spring 2027)</title>
+    <link href="https://job-boards.greenhouse.io/formlabsinternships/jobs/8188725"/>
+    <updated>2026-09-24T16:12:54Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Somerville, MA · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:haigroup:4409386009</id>
+    <title>Haigroup: Software Development Intern</title>
+    <link href="https://job-boards.greenhouse.io/haigroup/jobs/4409386009"/>
+    <updated>2026-09-24T16:12:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cheshire, CT · Python, Java, C#, JavaScript, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:clevelandguardiansbops:8827470002</id>
+    <title>Major League Baseball: Software Engineer Intern, Baseball Systems</title>
+    <link href="https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8827470002"/>
+    <updated>2026-09-24T16:12:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cleveland, Ohio, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:voloridgeinvestmentmanagement:4405530009</id>
+    <title>Voloridge: Quantitative Trading Intern 2027</title>
+    <link href="https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009"/>
+    <updated>2026-09-24T16:12:54Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Quant · Jupiter, FL · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:wurljobs:4716249006</id>
+    <title>Wurl: Data Science Intern</title>
+    <link href="https://job-boards.greenhouse.io/wurljobs/jobs/4716249006"/>
+    <updated>2026-09-24T16:12:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote - United States · $30/hr · Python, SQL, Databricks, Snowflake</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:ziprecruiter:8180455</id>
+    <title>ZipRecruiter: Software Engineer - Intern</title>
+    <link href="https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455"/>
+    <updated>2026-09-24T16:12:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Santa Monica, CA · $45/hr · Python, Java, JavaScript, React, HTML/CSS · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:kitware:e76197d1-4dc3-4f7c-a30a-597713283bb3</id>
     <title>Kitware: Computer Vision Co-Op 🇺🇸</title>
@@ -734,77 +806,5 @@
     <updated>2026-09-18T22:07:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Wyoming, Michigan · Java, SQL, Angular, Spring, GCP · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:acronaviation:19dbac7d-b4fb-4d21-9247-dc610bf55fed</id>
-    <title>Acron Aviation: Software Engineer Intern - St. Pete Site</title>
-    <link href="https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed"/>
-    <updated>2026-09-18T19:27:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · St Petersburg, FL · Python, C++, C#, SQL, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:rev-robotics:9f4e5d99-0bba-4e03-8018-e312810a3dba</id>
-    <title>REV Robotics: Software Engineering INTERN 2027</title>
-    <link href="https://ats.rippling.com/rev-robotics/jobs/9f4e5d99-0bba-4e03-8018-e312810a3dba"/>
-    <updated>2026-09-18T19:27:38Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Carrollton, TX</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:availity:/job/Remote---United-States/Data-Science-Intern_R0008483</id>
-    <title>Availity: Data Science Intern</title>
-    <link href="https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Data-Science-Intern_R0008483"/>
-    <updated>2026-09-18T19:27:38Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Remote - United States · Python, SQL, scikit-learn, Pandas, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:metoxinternationalinc:5427064008</id>
-    <title>MetOx International: Data Science Intern (Spring 2027)</title>
-    <link href="https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008"/>
-    <updated>2026-09-22T10:05:15Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Houston, TX · Python, SQL, Pandas, LLMs, PostgreSQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40535</id>
-    <title>Nokia: AI Assisted Software Development Co-op</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40535"/>
-    <updated>2026-09-18T16:38:37Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States · Python, LLMs, Kubernetes, Docker, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007850</id>
-    <title>Stantec: Transportation Engineering Co-op - Infrastructure (Fall 2026/Spring 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007850"/>
-    <updated>2026-09-18T16:38:37Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Louisville, KY, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:churchdwight:/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686</id>
-    <title>Church &amp; Dwight: AI Developer Co-op - Graduate Program (9 Months) 🇺🇸</title>
-    <link href="https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686"/>
-    <updated>2026-09-18T16:38:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · USA, Ewing, NJ · Python, SQL, LLMs, AWS, GCP · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:greatamerica:/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1</id>
-    <title>GreatAmerica Financial Services: Platform Engineering Intern</title>
-    <link href="https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1"/>
-    <updated>2026-09-18T16:38:37Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cedar Rapids, IA · Python, SQL, Bash, AWS, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Clinical-Epidemiology-and-Data-Science-Co-op_R-098453</id>
-    <title>Johnson &amp; Johnson: Clinical Epidemiology and Data Science Co-op 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Clinical-Epidemiology-and-Data-Science-Co-op_R-098453"/>
-    <updated>2026-09-18T16:38:37Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Danvers, Massachusetts, United States of America · $23.5/hr · Python, SQL · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
