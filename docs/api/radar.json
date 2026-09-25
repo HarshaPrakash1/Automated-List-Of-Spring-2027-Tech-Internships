@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-25T13:54:46Z",
- "data_as_of": "2026-09-25T13:54:46Z",
- "rendered_at": "2026-09-25T13:54:46Z",
+ "generated_at": "2026-09-25T18:21:35Z",
+ "data_as_of": "2026-09-25T18:21:35Z",
+ "rendered_at": "2026-09-25T18:21:35Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -225,7 +225,7 @@
    "expected": "2026-08-20",
    "days_until": -36,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015684626",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1032,25 +1032,6 @@
    }
   },
   {
-   "company": "Visa",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1",
-   "note": "late-summer opening",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-17"
-   }
-  },
-  {
    "company": "Cowboy Space",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -1177,6 +1158,25 @@
    "status": "open",
    "url": "https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8220587",
    "note": "opens ~Aug, early mover",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-24"
+   }
+  },
+  {
+   "company": "Genesis Molecular AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99",
+   "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Spring 2027",
@@ -3995,6 +3995,25 @@
    }
   },
   {
+   "company": "Visa",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "late-summer opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-17"
+   }
+  },
+  {
    "company": "MetOx International",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -4033,5 +4052,5 @@
    }
   }
  ],
- "count": 212
+ "count": 213
 }

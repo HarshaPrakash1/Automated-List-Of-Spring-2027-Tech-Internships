@@ -547,7 +547,23 @@
       "workday:ameren:/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1",
       "workday:biibhr:/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209",
       "workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277",
-      "workday:leidos:/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"
+      "workday:leidos:/job/Gaithersburg-MD/Software-Development-Intern_R-00193103",
+      "ashby:genesis-molecular-ai:44e3cbdc-949c-426e-a80a-b41c73ad6a99",
+      "smartrecruiters:AbbVie:3743990015684626",
+      "smartrecruiters:AbbVie:3743990015684556",
+      "smartrecruiters:AbbVie:3743990015684516",
+      "smartrecruiters:AbbVie:3743990015684476",
+      "smartrecruiters:AbbVie:3743990015679386",
+      "smartrecruiters:AbbVie:3743990015679346",
+      "smartrecruiters:AbbVie:3743990015679246",
+      "workday:allegion:/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1",
+      "smartrecruiters:BoschGroup:744000151890105",
+      "workday:myhrabc:/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376",
+      "workday:copart:/job/Dallas-TX---Headquarters/Data---AI-Intern_JR111596",
+      "greenhouse:geocgi:4420076009",
+      "workday:greenheckgroup:/job/Schofield-WI/Application-Developer-Co-op_JR104721",
+      "greenhouse:hevenaerotech:4410288009",
+      "workday:talentmanagementsolution:/job/Remote---USA/Cyber-Security-Intern_R52980-2"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1096,7 +1112,23 @@
       "workday:ameren:/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1",
       "workday:biibhr:/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209",
       "workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277",
-      "workday:leidos:/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"
+      "workday:leidos:/job/Gaithersburg-MD/Software-Development-Intern_R-00193103",
+      "ashby:genesis-molecular-ai:44e3cbdc-949c-426e-a80a-b41c73ad6a99",
+      "smartrecruiters:AbbVie:3743990015684626",
+      "smartrecruiters:AbbVie:3743990015684556",
+      "smartrecruiters:AbbVie:3743990015684516",
+      "smartrecruiters:AbbVie:3743990015684476",
+      "smartrecruiters:AbbVie:3743990015679386",
+      "smartrecruiters:AbbVie:3743990015679346",
+      "smartrecruiters:AbbVie:3743990015679246",
+      "workday:allegion:/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1",
+      "smartrecruiters:BoschGroup:744000151890105",
+      "workday:myhrabc:/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376",
+      "workday:copart:/job/Dallas-TX---Headquarters/Data---AI-Intern_JR111596",
+      "greenhouse:geocgi:4420076009",
+      "workday:greenheckgroup:/job/Schofield-WI/Application-Developer-Co-op_JR104721",
+      "greenhouse:hevenaerotech:4410288009",
+      "workday:talentmanagementsolution:/job/Remote---USA/Cyber-Security-Intern_R52980-2"
     ]
   }
 }
