@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-09-25T07:57:38Z",
- "data_as_of": "2026-09-25T07:57:38Z",
- "rendered_at": "2026-09-25T07:57:38Z",
+ "generated_at": "2026-09-25T13:54:46Z",
+ "data_as_of": "2026-09-25T13:54:46Z",
+ "rendered_at": "2026-09-25T13:54:46Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 443,
+ "count": 444,
  "jobs": [
+  {
+   "id": "workday:leidos:/job/Gaithersburg-MD/Software-Development-Intern_R-00193103",
+   "company": "Leidos",
+   "title": "Software Development Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Gaithersburg, MD",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103",
+   "posted_at": "2026-09-25T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-25T13:54:46Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "Linux"
+   ],
+   "source": "workday",
+   "h1b_approvals": 79,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:ameren:/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1",
    "company": "Ameren",

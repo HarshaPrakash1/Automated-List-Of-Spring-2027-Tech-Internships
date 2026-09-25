@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-25T07:57:38Z</updated>
+  <updated>2026-09-25T13:54:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Gaithersburg-MD/Software-Development-Intern_R-00193103</id>
+    <title>Leidos: Software Development Intern</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"/>
+    <updated>2026-09-25T13:54:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Gaithersburg, MD · Python, C++, Linux · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Intuitive:744000151714759</id>
     <title>Intuitive Surgical: AI Research Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-23T18:57:59Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · United States-California-Camarillo · $20.5–$37.25/hr · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464</id>
-    <title>Northrop Grumman: 2027 Embedded Software Engineer Intern - Baltimore MD 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464"/>
-    <updated>2026-09-23T18:57:59Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only · status: closed</summary>
   </entry>
 </feed>
