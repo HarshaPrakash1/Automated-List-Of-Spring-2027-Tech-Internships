@@ -5,15 +5,71 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-25T21:45:34Z</updated>
+  <updated>2026-09-26T00:18:04Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1</id>
-    <title>American Century Investments: Software Developer Intern 🛂</title>
-    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1"/>
+    <id>urn:intern-engine:workday:epiqsystems:/job/USA-New-York-NY-1166-Avenue-of-Americas/Software-Engineer-Intern_R0035230</id>
+    <title>Epiq Systems: Software Engineer Intern</title>
+    <link href="https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/USA-New-York-NY-1166-Avenue-of-Americas/Software-Engineer-Intern_R0035230"/>
+    <updated>2026-09-26T00:18:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA-New York-NY-1166 Avenue of Americas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Clinical-Virology---AI_R0055526</id>
+    <title>Gilead Sciences: Intern - Research - Clinical Virology - AI 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Clinical-Virology---AI_R0055526"/>
+    <updated>2026-09-26T00:18:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics_R0054512</id>
+    <title>Gilead Sciences: Intern - Research - Protein Therapeutics - AI 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics_R0054512"/>
+    <updated>2026-09-26T00:18:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Discovery-Sciences-and-Technologies---AI_R0055527</id>
+    <title>Gilead Sciences: Intern - Research - Discovery Sciences and Technologies - AI 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Discovery-Sciences-and-Technologies---AI_R0055527"/>
+    <updated>2026-09-26T00:18:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:novanta:/job/Apex-NC/Computer-Software-Engineering-Co-op_R009760</id>
+    <title>Novanta: Computer Software Engineering Co-op 🇺🇸</title>
+    <link href="https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Computer-Software-Engineering-Co-op_R009760"/>
+    <updated>2026-09-26T00:18:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Apex, NC · C++, C# · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cat:/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786</id>
+    <title>Solar Turbines: 2027 Internship: Gas Compressor Data Analyst 🛂</title>
+    <link href="https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786"/>
+    <updated>2026-09-26T00:18:04Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · San Diego, California · sponsorship: no-sponsorship · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000151947749</id>
+    <title>Veolia: SAP &amp; ServiceNow AI Automation Intern 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151947749"/>
+    <updated>2026-09-26T00:18:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Trevose, PA, United States (Hybrid) · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RRSGroup:744000151931819</id>
+    <title>RRS Group: 2027 Associate Software Engineer Intern - Sophomore Only</title>
+    <link href="https://jobs.smartrecruiters.com/RRSGroup/744000151931819"/>
     <updated>2026-09-25T21:45:34Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Kansas City, Missouri · Python, Java, JavaScript, SQL, HTML/CSS · sponsorship: no-sponsorship · status: closed</summary>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · San Francisco, , United States (Remote) · Python, Java, C++, JavaScript, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750</id>
@@ -24,12 +80,12 @@
     <summary>Fall 2026 · Software · Kansas City, Missouri · Python, Bash, Terraform · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:amfam:/job/WI-Madison/ML-Ops-Intern_R39493</id>
-    <title>American Family Insurance Group: ML Ops Intern</title>
-    <link href="https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/ML-Ops-Intern_R39493"/>
+    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1</id>
+    <title>American Century Investments: Software Developer Intern 🛂</title>
+    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1"/>
     <updated>2026-09-25T21:45:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · WI Madison · Python</summary>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Kansas City, Missouri · Python, Java, JavaScript, SQL, HTML/CSS · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:amfam:/job/WI-Madison/Intern---Application-Billing-Center-Developer_R39407</id>
@@ -40,20 +96,12 @@
     <summary>Not stated · Software · WI Madison · $25–$31/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Pathobiology_R0054579</id>
-    <title>Gilead Sciences: Intern - Research - Pathobiology - AI 🛂</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Pathobiology_R0054579"/>
+    <id>urn:intern-engine:workday:amfam:/job/WI-Madison/ML-Ops-Intern_R39493</id>
+    <title>American Family Insurance Group: ML Ops Intern</title>
+    <link href="https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/ML-Ops-Intern_R39493"/>
     <updated>2026-09-25T21:45:34Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054587</id>
-    <title>Gilead Sciences: Intern - Research - Oncology Biomarker - AI 🛂</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054587"/>
-    <updated>2026-09-25T21:45:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · WI Madison · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Data-Sciences_R0054572</id>
@@ -72,6 +120,22 @@
     <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, MATLAB, LLMs, Git · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054587</id>
+    <title>Gilead Sciences: Intern - Research - Oncology Biomarker - AI 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054587"/>
+    <updated>2026-09-25T21:45:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Pathobiology_R0054579</id>
+    <title>Gilead Sciences: Intern - Research - Pathobiology - AI 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Pathobiology_R0054579"/>
+    <updated>2026-09-25T21:45:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502</id>
     <title>Gilead Sciences: Intern - Research - Strategy, Innovation &amp; Portfolio - AI 🛂</title>
     <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502"/>
@@ -88,14 +152,6 @@
     <summary>Not stated · Data &amp; ML/AI · United States, Chesterfield, MO, RGA HQ</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:RRSGroup:744000151931819</id>
-    <title>RRS Group: 2027 Associate Software Engineer Intern - Sophomore Only</title>
-    <link href="https://jobs.smartrecruiters.com/RRSGroup/744000151931819"/>
-    <updated>2026-09-25T21:45:34Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · San Francisco, , United States (Remote) · Python, Java, C++, JavaScript, SQL</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:genesis-molecular-ai:44e3cbdc-949c-426e-a80a-b41c73ad6a99</id>
     <title>Genesis Molecular AI: Software Engineer Intern - 2027</title>
     <link href="https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99"/>
@@ -107,9 +163,9 @@
     <id>urn:intern-engine:greenhouse:geocgi:4420076009</id>
     <title>Geospatial Consulting Group International: Application Developer Intern (Remote)</title>
     <link href="https://job-boards.greenhouse.io/geocgi/jobs/4420076009"/>
-    <updated>2026-09-25T18:21:35Z</updated>
+    <updated>2026-09-26T00:18:04Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Remote from US · Python, Java, C#, SQL, LLMs</summary>
+    <summary>Not stated · Software · Remote from US · Python, Java, C#, SQL, LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:hevenaerotech:4410288009</id>
@@ -750,61 +806,5 @@
     <updated>2026-09-22T14:55:44Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Pittsburgh, PA, United States · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Eurofins:744000150986035</id>
-    <title>Eurofins: 6-month paid internship - AI &amp; Automation</title>
-    <link href="https://jobs.smartrecruiters.com/Eurofins/744000150986035"/>
-    <updated>2026-09-22T14:55:44Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Barcelona, CT, International (ES) · Python, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:guidestone:/job/Dallas-TX/Summer-Intern---Software-Developer_R2129</id>
-    <title>GuideStone: Summer Intern - Software Developer 🛂</title>
-    <link href="https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129"/>
-    <updated>2026-09-22T14:55:44Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dallas, TX · C#, JavaScript, SQL, HTML/CSS, Azure · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nebraskamed:/job/Omaha-NE/Intern---Forward-Deployed-AI-Engineer_REQ-38924</id>
-    <title>Nebraska Medicine: Intern - Forward Deployed AI Engineer</title>
-    <link href="https://nebraskamed.wd5.myworkdayjobs.com/nm/job/Omaha-NE/Intern---Forward-Deployed-AI-Engineer_REQ-38924"/>
-    <updated>2026-09-22T14:55:44Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Omaha, NE · Python, TypeScript, SQL, LLMs, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sanofi:/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Machine-Learning-AI--Cambridge--MA_R2864862</id>
-    <title>Sanofi: 2027 Spring Co-op Machine Learning AI, Cambridge, MA</title>
-    <link href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Machine-Learning-AI--Cambridge--MA_R2864862"/>
-    <updated>2026-09-22T14:55:44Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Cambridge, MA · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169</id>
-    <title>Verizon Communications: Verizon Network and Technology: AI Science 2027 Internship: Rutgers, NJIT, NYU, UT Dallas, UT Arlington, Texas A&amp;M</title>
-    <link href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169"/>
-    <updated>2026-09-24T06:03:18Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Basking Ridge, New Jersey · $27/hr · Python, Java · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167</id>
-    <title>Verizon Communications: Verizon Network and Technology: AI Science 2027 Internship</title>
-    <link href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167"/>
-    <updated>2026-09-24T06:03:18Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Basking Ridge, New Jersey · $27/hr · Python, Java · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:disney:/job/Burbank-CA-USA/FX-Original-Programming-Intern--Spring-2027_10161237-1</id>
-    <title>The Walt Disney Company: FX Original Programming Intern, Spring 2027</title>
-    <link href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/FX-Original-Programming-Intern--Spring-2027_10161237-1"/>
-    <updated>2026-09-22T10:05:15Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Burbank, CA, USA · $23/hr</summary>
   </entry>
 </feed>

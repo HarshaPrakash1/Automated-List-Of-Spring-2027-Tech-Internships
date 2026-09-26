@@ -2508,9 +2508,10 @@
      "role_ids": [
       "workday:sanofi:/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Machine-Learning-AI--Cambridge--MA_R2864862",
       "workday:sanofi:/job/Morristown-NJ/XMLNAME-2027-Spring-Co-op-Cyber-Security-Operations-Center--Morristown--NJ_R2854248",
+      "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854601",
       "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854604"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2641,6 +2642,18 @@
       "ashby:snowflake:897e1850-c590-4462-b187-0516b65b2034",
       "ashby:snowflake:e2412cd5-19dd-44f8-addd-c9ef3c99ff82"
      ]
+    }
+   }
+  },
+  "solar turbines": {
+   "name": "Solar Turbines",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "workday:cat:/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786"
+     ],
+     "count": 1
     }
    }
   },
@@ -3272,5 +3285,5 @@
    }
   }
  },
- "updated_at": "2026-09-25T21:45:34Z"
+ "updated_at": "2026-09-26T00:18:04Z"
 }
