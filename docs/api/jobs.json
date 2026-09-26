@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-26T05:06:33Z",
- "data_as_of": "2026-09-26T05:06:33Z",
- "rendered_at": "2026-09-26T05:06:33Z",
+ "generated_at": "2026-09-26T10:06:00Z",
+ "data_as_of": "2026-09-26T10:06:00Z",
+ "rendered_at": "2026-09-26T10:06:00Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 456,
+ "count": 453,
  "jobs": [
   {
    "id": "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524",
@@ -406,27 +406,6 @@
    ],
    "source": "workday",
    "h1b_approvals": 272,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:rgare:/job/United-States-Chesterfield-MO-RGA-HQ/Fall-Intern---Data-Science-AI_J28774",
-   "company": "RGA Reinsurance Company",
-   "title": "Fall Intern - Data Science/AI",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "United States, Chesterfield, MO, RGA HQ",
-   "url": "https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Fall-Intern---Data-Science-AI_J28774",
-   "posted_at": "2026-09-25T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-25T21:45:34Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
@@ -1579,30 +1558,6 @@
    "source": "smartrecruiters",
    "h1b_approvals": null,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359",
-   "company": "Northrop Grumman",
-   "title": "2027 Software Engineer Intern – Woodland Hills CA",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "United States-California-Woodland Hills",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359",
-   "posted_at": "2026-09-23T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-23T15:12:12Z",
-   "sponsorship": "citizens-only",
-   "salary": "$21.5–$39/hr",
-   "skills": [
-    "Python",
-    "C++"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
    "remote": false
   },
   {
@@ -10018,31 +9973,6 @@
     "Python",
     "C++",
     "TensorFlow",
-    "Computer Vision"
-   ],
-   "source": "workday",
-   "h1b_approvals": 26,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:ambarella:/job/US-Headquarters/Software-Development-Engineer-Intern_JR100366-1",
-   "company": "Ambarella",
-   "title": "Software Development Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "US Headquarters",
-   "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100366-1",
-   "posted_at": "2026-08-27T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-02T05:26:29Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++",
     "Computer Vision"
    ],
    "source": "workday",
