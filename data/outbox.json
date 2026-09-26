@@ -580,7 +580,8 @@
       "workday:novanta:/job/Apex-NC/Computer-Software-Engineering-Co-op_R009760",
       "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854601",
       "workday:cat:/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786",
-      "smartrecruiters:VeoliaEnvironnementSA:744000151947749"
+      "smartrecruiters:VeoliaEnvironnementSA:744000151947749",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1162,7 +1163,8 @@
       "workday:novanta:/job/Apex-NC/Computer-Software-Engineering-Co-op_R009760",
       "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854601",
       "workday:cat:/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786",
-      "smartrecruiters:VeoliaEnvironnementSA:744000151947749"
+      "smartrecruiters:VeoliaEnvironnementSA:744000151947749",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524"
     ]
   }
 }
