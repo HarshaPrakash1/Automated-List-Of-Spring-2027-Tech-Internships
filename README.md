@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fharshaprakash1.github.io%2FAutomated-List-Of-Spring-2027-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml)
 
-### 450 open roles (369 listed below) · 100 new this week
+### 450 open roles (369 listed below) · 97 new this week
 
-4,648 employers tracked · data as of Sep 27, 2026 at 14:07 UTC
+4,648 employers tracked · data as of Sep 27, 2026 at 18:35 UTC
 
 _129 have a cycle the employer stated · 321 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -91,9 +91,9 @@ If it helps you, a star means a lot and tells me to keep going.
 |---|---|---|---|---|---|---|
 | Solar Turbines ✓ | 2027 Internship: Gas Compressor Data Analyst 🛂 🆕 | Data & ML/AI | San Diego, California | No skills listed | Sep 25, 2026 | [Apply](https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786) |
 | RRS Group 🆁 | 2027 Associate Software Engineer Intern - Sophomore Only 🆕 | Software | San Francisco, , United States (Remote) | Python, Java, C++, JavaScript | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/RRSGroup/744000151931819) |
-| AbbVie ✓ | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) 🆕 | Security | North Chicago +2 more | Python, Java, C#, JavaScript | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015679246) |
-| AbbVie ✓ | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) 🆕 | Software | North Chicago +2 more | HTML/CSS, AWS, GCP, Azure | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015679346) |
-| AbbVie ✓ | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) 🆕 | Data & ML/AI | North Chicago +2 more | Python, Java, TypeScript, JavaScript | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015679386) |
+| AbbVie ✓ | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) | Security | North Chicago +2 more | Python, Java, C#, JavaScript | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015679246) |
+| AbbVie ✓ | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | Software | North Chicago +2 more | HTML/CSS, AWS, GCP, Azure | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015679346) |
+| AbbVie ✓ | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | Data & ML/AI | North Chicago +2 more | Python, Java, TypeScript, JavaScript | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015679386) |
 | DRW ✓ | Spring 2027 City Scholars Software Developer Intern | Software | Chicago, IL | No skills listed | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8220587) |
 | Merck | 2027 Future Talent Program - Data Science - Intern 🛂 | Data & ML/AI | USA - Pennsylvania - West Point | Python, SQL, MATLAB, AWS | Sep 24, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312) |
 | Voloridge | Quantitative Trading Intern 2027 | Quant | Jupiter, FL | Python, SQL | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009) |
@@ -214,14 +214,14 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Novanta ✓ | Computer Software Engineering Co-op 🇺🇸 🆕 | Software | Apex, NC | C++, C# | Sep 25, 2026 | [Apply](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Computer-Software-Engineering-Co-op_R009760) |
 | American Family Insurance Group | Intern - Application Billing Center Developer 🆕 | Software | WI Madison | No skills listed | Sep 25, 2026 | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Intern---Application-Billing-Center-Developer_R39407) |
 | American Family Insurance Group | ML Ops Intern 🆕 | Data & ML/AI | WI Madison | Python | Sep 25, 2026 | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/ML-Ops-Intern_R39493) |
-| Bosch ✓ | Multi-modal Sensing AI Research Intern 🆕 | Data & ML/AI | Pittsburgh, PA, United States | PyTorch | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151890105) |
-| Allegion | Summer Intern - Software Engineering 🆕 | Software | Golden, CO | No skills listed | Sep 25, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1) |
-| Copart ✓ | Data & AI Intern 🆕 | Data & ML/AI | Dallas, TX - Headquarters | Python, Java, TypeScript, JavaScript | Sep 25, 2026 | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data---AI-Intern_JR111596) |
-| Greenheck Group | Application Developer Co-op 🆕 | Software | Schofield, WI | Python, C#, SQL, Git | Sep 25, 2026 | [Apply](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721) |
-| Cencora | EDI IT Software Developer Intern 🆕 | Software | Conshohocken, PA | TypeScript, JavaScript, SQL, Angular | Sep 25, 2026 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376) |
-| Perseus Group 🆁 | Cyber Security Intern 🆕 | Security | Remote - USA | No skills listed | Sep 25, 2026 | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/Remote---USA/Cyber-Security-Intern_R52980-2) |
+| Bosch ✓ | Multi-modal Sensing AI Research Intern | Data & ML/AI | Pittsburgh, PA, United States | PyTorch | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151890105) |
+| Allegion | Summer Intern - Software Engineering | Software | Golden, CO | No skills listed | Sep 25, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1) |
+| Copart ✓ | Data & AI Intern | Data & ML/AI | Dallas, TX - Headquarters | Python, Java, TypeScript, JavaScript | Sep 25, 2026 | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data---AI-Intern_JR111596) |
+| Greenheck Group | Application Developer Co-op | Software | Schofield, WI | Python, C#, SQL, Git | Sep 25, 2026 | [Apply](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721) |
+| Cencora | EDI IT Software Developer Intern | Software | Conshohocken, PA | TypeScript, JavaScript, SQL, Angular | Sep 25, 2026 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376) |
+| Perseus Group 🆁 | Cyber Security Intern | Security | Remote - USA | No skills listed | Sep 25, 2026 | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/Remote---USA/Cyber-Security-Intern_R52980-2) |
 | Leidos ✓ | Software Development Intern | Software | Gaithersburg, MD | Python, C++, Linux | Sep 25, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103) |
-| Heven AeroTech | AI / Machine Learning Intern 🆕 | Data & ML/AI | Winchester, Virginia | Python, PyTorch, TensorFlow, scikit-learn | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/hevenaerotech/jobs/4410288009) |
+| Heven AeroTech | AI / Machine Learning Intern | Data & ML/AI | Winchester, Virginia | Python, PyTorch, TensorFlow, scikit-learn | Sep 24, 2026 | [Apply](https://job-boards.greenhouse.io/hevenaerotech/jobs/4410288009) |
 | Ameren | Intern (Robotics, AI, OT, Software development) | Data & ML/AI | St. Louis, MO | No skills listed | Sep 24, 2026 | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1) |
 | Biogen ✓ 🆁 | Co-op, Data Science & AI Innovation | Data & ML/AI | Remote, USA | Python, SQL, PyTorch, TensorFlow | Sep 24, 2026 | [Apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209) |
 | Johnson & Johnson | Software Engineering Co-Op 🛂 | Software | Danvers +2 more | Rust, JavaScript, Angular, Linux | Sep 24, 2026 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277) |
@@ -561,7 +561,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,439 of 4,911 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1054.4s · 572 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,497 of 4,911 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1129.8s · 597 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
