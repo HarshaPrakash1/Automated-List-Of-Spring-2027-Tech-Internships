@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-09-27T18:35:23Z",
- "data_as_of": "2026-09-27T18:35:23Z",
- "rendered_at": "2026-09-27T18:35:23Z",
+ "generated_at": "2026-09-27T21:49:15Z",
+ "data_as_of": "2026-09-27T21:49:15Z",
+ "rendered_at": "2026-09-27T21:49:15Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 450,
+ "count": 451,
  "jobs": [
+  {
+   "id": "workday:disney:/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010-1",
+   "company": "The Walt Disney Company",
+   "title": "Data Analyst Intern, Global Security Control Center, Spring 2027",
+   "season": "Spring 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Burbank, CA, USA",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010-1",
+   "posted_at": "2026-09-27T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-27T21:49:15Z",
+   "sponsorship": "unknown",
+   "salary": "$32/hr",
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524",
    "company": "Gilead Sciences",

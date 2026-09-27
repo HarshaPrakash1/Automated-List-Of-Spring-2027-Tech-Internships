@@ -3164,6 +3164,7 @@
      "first_posted": "2026-08-24",
      "role_ids": [
       "workday:disney:/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2",
+      "workday:disney:/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010-1",
       "workday:disney:/job/Burbank-CA-USA/FX-Original-Programming-Intern--Spring-2027_10161237-1",
       "workday:disney:/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1",
       "workday:disney:/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1",
@@ -3172,7 +3173,7 @@
       "workday:disney:/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
       "workday:disney:/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -3285,5 +3286,5 @@
    }
   }
  },
- "updated_at": "2026-09-27T18:35:23Z"
+ "updated_at": "2026-09-27T21:49:15Z"
 }

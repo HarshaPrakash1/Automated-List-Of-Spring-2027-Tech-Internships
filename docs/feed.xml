@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-27T18:35:23Z</updated>
+  <updated>2026-09-27T21:49:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:queracomputinginc:5435902008</id>
+    <title>QuEra Computing: Internship - Scientific Software and Compilation</title>
+    <link href="https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008"/>
+    <updated>2026-09-27T21:49:15Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Boston, MA  USA · Python, Rust · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:disney:/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010-1</id>
+    <title>The Walt Disney Company: Data Analyst Intern, Global Security Control Center, Spring 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010-1"/>
+    <updated>2026-09-27T21:49:15Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Burbank, CA, USA · $32/hr · Python, SQL, Tableau</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000151947749</id>
     <title>Veolia: SAP &amp; ServiceNow AI Automation Intern 🛂</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-22T19:03:07Z</updated>
     <category term="Winter 2026"/>
     <summary>Winter 2026 · Security · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:cowboyspace:56d1d7e4-fa7e-4c25-aa8b-6828447fc64a</id>
-    <title>Cowboy Space: Intern, Software Engineering, 2027 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a"/>
-    <updated>2026-09-22T14:55:44Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · San Carlos, California · Python, C++, Verilog · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119551</id>
-    <title>Howmet Aerospace: Cybersecurity Intern 🛂</title>
-    <link href="https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119551"/>
-    <updated>2026-09-22T14:55:44Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Pittsburgh, PA, United States · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
