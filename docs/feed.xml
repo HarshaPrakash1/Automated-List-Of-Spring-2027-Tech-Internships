@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-28T00:12:45Z</updated>
+  <updated>2026-09-28T05:30:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089</id>
+    <title>The Toro Company: Electrical/software Coop</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089"/>
+    <updated>2026-09-28T05:30:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Iron Mountain, MI</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:queracomputinginc:5435902008</id>
     <title>QuEra Computing: Internship - Scientific Software and Compilation</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-22T19:03:07Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · US-California-Palo Alto · $27.12–$51.93/hr · Python, Bash, Kubernetes, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Information-Security-Co-op_R94910</id>
-    <title>Wellington Management: Information Security Co-op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Information-Security-Co-op_R94910"/>
-    <updated>2026-09-22T19:03:07Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Security · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
