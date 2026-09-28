@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-28T05:30:47Z",
- "data_as_of": "2026-09-28T05:30:47Z",
- "rendered_at": "2026-09-28T05:30:47Z",
+ "generated_at": "2026-09-28T12:14:37Z",
+ "data_as_of": "2026-09-28T12:14:37Z",
+ "rendered_at": "2026-09-28T12:14:37Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 449,
+ "count": 448,
  "jobs": [
   {
    "id": "workday:ttc:/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089",
@@ -6271,32 +6271,6 @@
    ],
    "source": "workable",
    "h1b_approvals": 5,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:buildertrend:/job/Omaha-NE/Software-Engineering-Inter_JR-000467",
-   "company": "Buildertrend",
-   "title": "Software Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Omaha, NE",
-   "url": "https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Software-Engineering-Inter_JR-000467",
-   "posted_at": "2026-09-08T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-09T16:48:30Z",
-   "sponsorship": "unknown",
-   "salary": "$28/hr",
-   "skills": [
-    "Java",
-    "C#",
-    "React",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
