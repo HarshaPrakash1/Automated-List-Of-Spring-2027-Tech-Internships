@@ -101,10 +101,11 @@
     "Spring 2027": {
      "first_posted": "2026-09-15",
      "role_ids": [
+      "workday:aero:/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2163,6 +2164,14 @@
       "oracle:hctz.fa.us2.oraclecloud.com:2505878",
       "oracle:hctz.fa.us2.oraclecloud.com:2506307"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-09-28",
+     "role_ids": [
+      "oracle:hctz.fa.us2.oraclecloud.com:2506290",
+      "oracle:hctz.fa.us2.oraclecloud.com:2506526"
+     ],
+     "count": 2
     }
    }
   },
@@ -3286,5 +3295,5 @@
    }
   }
  },
- "updated_at": "2026-09-28T12:14:37Z"
+ "updated_at": "2026-09-28T19:55:36Z"
 }
