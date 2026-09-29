@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-29T17:15:20Z</updated>
+  <updated>2026-09-29T21:39:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107307</id>
+    <title>S&amp;C Electric Company: Software Engineer Co-Op</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107307"/>
+    <updated>2026-09-29T21:39:31Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Chicago, IL, United States · $22–$30/hr · Python, C#, JavaScript, SQL, Angular · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288</id>
+    <title>Moog: Intern, Artificial Intelligence</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288"/>
+    <updated>2026-09-29T21:39:31Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Buffalo, NY · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Torrance-CA/Intern--Software-Engineering_R-26-19948</id>
+    <title>Moog: Intern, Software Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948"/>
+    <updated>2026-09-29T21:39:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Torrance, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nike:/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412</id>
+    <title>Nike: NIKE, Inc. AI &amp; Machine Learning, Innovation Graduate Internship</title>
+    <link href="https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412"/>
+    <updated>2026-09-29T21:39:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Beaverton, Oregon · Python, PyTorch, TensorFlow, scikit-learn, Pandas · H-1B track record: ~484 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:perchwell:194eec78-26db-4d8e-850f-a99ea2733e9f</id>
     <title>Perchwell: Software Engineering Intern</title>
@@ -16,20 +48,12 @@
     <summary>Summer 2027 · Software · New York Office · $12K • 10 week internship in NYC · TypeScript, SQL, Ruby, React · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:upbound:/job/Plano-TX/User-Experience-Intern_R-100778</id>
-    <title>Upbound Group: ServiceNow Developer Intern</title>
-    <link href="https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/User-Experience-Intern_R-100778"/>
+    <id>urn:intern-engine:greenhouse:gitai:5437128008</id>
+    <title>GITAI: Field-Deployed Software Engineering Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/gitai/jobs/5437128008"/>
     <updated>2026-09-29T17:15:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Plano, TX · $23/hr · JavaScript · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:158958</id>
-    <title>Honeywell: Spring 2027 Artificial Intelligence/Machine Learning Co-Op</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158958"/>
-    <updated>2026-09-29T17:15:20Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · United States · $25.5/hr · Python, C++, JavaScript</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Los Angeles, California, United States · $28–$40/hr · Python, C++, PyTorch, Computer Vision, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:158957</id>
@@ -40,12 +64,20 @@
     <summary>Spring 2027 · Software · United States · $25.5/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:gitai:5437128008</id>
-    <title>GITAI: Field-Deployed Software Engineering Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/gitai/jobs/5437128008"/>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:158958</id>
+    <title>Honeywell: Spring 2027 Artificial Intelligence/Machine Learning Co-Op</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158958"/>
     <updated>2026-09-29T17:15:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Los Angeles, California, United States · $28–$40/hr · Python, C++, PyTorch, Computer Vision, Linux · sponsorship: citizens-only</summary>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · United States · $25.5/hr · Python, C++, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:upbound:/job/Plano-TX/User-Experience-Intern_R-100778</id>
+    <title>Upbound Group: ServiceNow Developer Intern</title>
+    <link href="https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/User-Experience-Intern_R-100778"/>
+    <updated>2026-09-29T17:15:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Plano, TX · $23/hr · JavaScript · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:avav:/job/Simi-Valley-CA/Software-Engineering-Intern_8813</id>
@@ -233,7 +265,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ttc:/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089</id>
-    <title>The Toro Company: Electrical/software Coop</title>
+    <title>The Toro Company: Electrical/software Co-Op - BOSS Snowplow</title>
     <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089"/>
     <updated>2026-09-28T05:30:47Z</updated>
     <category term="Not stated"/>
@@ -774,37 +806,5 @@
     <updated>2026-09-24T01:06:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Austin, Texas, United States · Python, C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:figma:6178851004</id>
-    <title>Figma: Data Engineer Intern (2027)</title>
-    <link href="https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"/>
-    <updated>2026-09-23T22:29:48Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · San Francisco, CA • New York, NY · Python, SQL · H-1B track record: ~39 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:klaviyocampus:8003260003</id>
-    <title>Klaviyo: AI Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003"/>
-    <updated>2026-09-26T18:14:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Boston, MA · status: closed · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hypertherm:/job/Hanover-NH/Intern_R4100</id>
-    <title>Hypertherm: Firmware Developer - Internship</title>
-    <link href="https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Intern_R4100"/>
-    <updated>2026-09-23T22:29:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Hanover, NH · Python, Java, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707</id>
-    <title>Johnson &amp; Johnson: Software Test Engineering Co-op (Beatbox) 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707"/>
-    <updated>2026-09-23T22:29:48Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Danvers, Massachusetts, United States of America · $23.5/hr · Python, C++, Rust, JavaScript, SQL · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
 </feed>
