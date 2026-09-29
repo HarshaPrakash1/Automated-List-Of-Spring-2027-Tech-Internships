@@ -595,7 +595,10 @@
       "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741",
       "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739",
       "smartrecruiters:RenesasElectronics:744000152265599",
-      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753"
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
+      "lever:hermeus:78008094-ca81-4a0c-9a18-93b30f932acd",
+      "workday:myhrabc:/job/Conshohocken-PA/Data-Scientist-Intern_R2613623",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1192,7 +1195,10 @@
       "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741",
       "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739",
       "smartrecruiters:RenesasElectronics:744000152265599",
-      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753"
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
+      "lever:hermeus:78008094-ca81-4a0c-9a18-93b30f932acd",
+      "workday:myhrabc:/job/Conshohocken-PA/Data-Scientist-Intern_R2613623",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645"
     ]
   }
 }

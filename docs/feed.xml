@@ -5,23 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-29T00:11:57Z</updated>
+  <updated>2026-09-29T05:51:34Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741</id>
-    <title>Gilead Sciences: Intern - Research - Inflammation - AI 🛂</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741"/>
-    <updated>2026-09-29T00:11:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/AI-Intern_R2613670</id>
+    <title>Cencora: AI Intern 🛂</title>
+    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Intern_R2613670"/>
+    <updated>2026-09-29T05:51:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Conshohocken, PA · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739</id>
-    <title>Gilead Sciences: Intern - Research - Protein Therapeutics, Computational Biologics Engineering - AI 🛂</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739"/>
-    <updated>2026-09-29T00:11:57Z</updated>
+    <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/IT-Software-Development-Intern_R2614039</id>
+    <title>Cencora: IT Software Development Intern 🛂</title>
+    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/IT-Software-Development-Intern_R2614039"/>
+    <updated>2026-09-29T05:51:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Conshohocken, PA · Java, C++, JavaScript, React · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/IT-Software-Intern_R2614031</id>
+    <title>Cencora: IT Software Intern 🛂</title>
+    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/IT-Software-Intern_R2614031"/>
+    <updated>2026-09-29T05:51:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Conshohocken, PA · Java, C++, JavaScript, React · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:78008094-ca81-4a0c-9a18-93b30f932acd</id>
+    <title>Hermeus: Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring &amp; Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd"/>
+    <updated>2026-09-29T05:51:34Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Hardware · Los Angeles, CA · 25–33 USD/hr · Python, C++, MATLAB, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/Data-Scientist-Intern_R2613623</id>
+    <title>Cencora: Data Scientist Intern</title>
+    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Data-Scientist-Intern_R2613623"/>
+    <updated>2026-09-29T05:51:34Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, PyTorch, TensorFlow, LLMs · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Conshohocken, PA · Python, SQL, Azure, Git, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645</id>
+    <title>RTX: Software Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645"/>
+    <updated>2026-09-29T05:51:34Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++ · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000152265599</id>
@@ -38,6 +70,22 @@
     <updated>2026-09-29T00:11:57Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741</id>
+    <title>Gilead Sciences: Intern - Research - Inflammation - AI 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741"/>
+    <updated>2026-09-29T00:11:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739</id>
+    <title>Gilead Sciences: Intern - Research - Protein Therapeutics, Computational Biologics Engineering - AI 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739"/>
+    <updated>2026-09-29T00:11:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, PyTorch, TensorFlow, LLMs · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260805</id>
@@ -758,53 +806,5 @@
     <updated>2026-09-23T19:15:41Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · ITA - MI - MILAN</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2</id>
-    <title>Sonos: Software Engineering Co-op (Cloud) 🛂</title>
-    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2"/>
-    <updated>2026-09-23T19:15:41Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Boston, MA · Python, Java, JavaScript, AWS, Kubernetes · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2</id>
-    <title>Sonos: Software Engineering Co-op (Signal Processing) 🛂</title>
-    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2"/>
-    <updated>2026-09-23T19:15:41Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Boston, MA · Linux · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:swbc:/job/San-Antonio-TX/Application-Security-Intern_R0015572-2</id>
-    <title>SWBC: Application Security Intern</title>
-    <link href="https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Application-Security-Intern_R0015572-2"/>
-    <updated>2026-09-23T19:15:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · San Antonio, TX · Python, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Keenfinity:744000151395769</id>
-    <title>Keenfinity: Software Test Automation Co-Op</title>
-    <link href="https://jobs.smartrecruiters.com/Keenfinity/744000151395769"/>
-    <updated>2026-09-23T15:12:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Fairport, NY, United States · $25–$26/hr · Python, C++, Azure, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Keenfinity:744000151397189</id>
-    <title>Keenfinity: Embedded Firmware Engineer Co-Op</title>
-    <link href="https://jobs.smartrecruiters.com/Keenfinity/744000151397189"/>
-    <updated>2026-09-23T15:12:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Fairport, NY, United States · $24–$27/hr · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359</id>
-    <title>Northrop Grumman: 2027 Software Engineer Intern – Woodland Hills CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359"/>
-    <updated>2026-09-26T09:48:18Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-California-Woodland Hills · $21.5–$39/hr · Python, C++ · sponsorship: citizens-only · status: closed</summary>
   </entry>
 </feed>
