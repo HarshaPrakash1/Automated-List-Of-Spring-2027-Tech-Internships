@@ -1415,9 +1415,11 @@
      "first_posted": "2026-09-17",
      "role_ids": [
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:157903",
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158088"
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158088",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158957",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158958"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -3298,5 +3300,5 @@
    }
   }
  },
- "updated_at": "2026-09-29T11:43:47Z"
+ "updated_at": "2026-09-29T17:15:20Z"
 }

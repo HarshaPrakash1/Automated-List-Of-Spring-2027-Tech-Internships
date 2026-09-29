@@ -599,7 +599,10 @@
       "lever:hermeus:78008094-ca81-4a0c-9a18-93b30f932acd",
       "workday:myhrabc:/job/Conshohocken-PA/Data-Scientist-Intern_R2613623",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645",
-      "workday:avav:/job/Simi-Valley-CA/Software-Engineering-Intern_8813"
+      "workday:avav:/job/Simi-Valley-CA/Software-Engineering-Intern_8813",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158958",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158957",
+      "greenhouse:gitai:5437128008"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1200,7 +1203,10 @@
       "lever:hermeus:78008094-ca81-4a0c-9a18-93b30f932acd",
       "workday:myhrabc:/job/Conshohocken-PA/Data-Scientist-Intern_R2613623",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645",
-      "workday:avav:/job/Simi-Valley-CA/Software-Engineering-Intern_8813"
+      "workday:avav:/job/Simi-Valley-CA/Software-Engineering-Intern_8813",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158958",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158957",
+      "greenhouse:gitai:5437128008"
     ]
   }
 }

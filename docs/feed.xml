@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-29T11:43:47Z</updated>
+  <updated>2026-09-29T17:15:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:perchwell:194eec78-26db-4d8e-850f-a99ea2733e9f</id>
+    <title>Perchwell: Software Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f"/>
+    <updated>2026-09-29T17:15:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York Office · $12K • 10 week internship in NYC · TypeScript, SQL, Ruby, React · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:upbound:/job/Plano-TX/User-Experience-Intern_R-100778</id>
+    <title>Upbound Group: ServiceNow Developer Intern</title>
+    <link href="https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/User-Experience-Intern_R-100778"/>
+    <updated>2026-09-29T17:15:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Plano, TX · $23/hr · JavaScript · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:158958</id>
+    <title>Honeywell: Spring 2027 Artificial Intelligence/Machine Learning Co-Op</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158958"/>
+    <updated>2026-09-29T17:15:20Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · United States · $25.5/hr · Python, C++, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:158957</id>
+    <title>Honeywell: Spring 2027 Software Engineering Co-op</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158957"/>
+    <updated>2026-09-29T17:15:20Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · United States · $25.5/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:gitai:5437128008</id>
+    <title>GITAI: Field-Deployed Software Engineering Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/gitai/jobs/5437128008"/>
+    <updated>2026-09-29T17:15:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Los Angeles, California, United States · $28–$40/hr · Python, C++, PyTorch, Computer Vision, Linux · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:avav:/job/Simi-Valley-CA/Software-Engineering-Intern_8813</id>
     <title>Avav: Software Engineering Intern</title>
@@ -766,45 +806,5 @@
     <updated>2026-09-23T22:29:48Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Software · Danvers, Massachusetts, United States of America · $23.5/hr · Python, C++, Rust, JavaScript, SQL · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669</id>
-    <title>Johnson &amp; Johnson: Software Test Engineering Co-op (RLM) 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669"/>
-    <updated>2026-09-23T22:29:48Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Danvers, Massachusetts, United States of America · $23.5/hr · Python, C++, Rust, JavaScript, SQL · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393</id>
-    <title>Johnson &amp; Johnson: Heart Recovery Software R&amp;D Co-Op 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393"/>
-    <updated>2026-09-23T22:29:48Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Halethorpe, Maryland, United States of America · $23.5/hr · Python, C++, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:axontalentcommunity:7837133003</id>
-    <title>Axon: 2027 US Software Engineering Internship</title>
-    <link href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003"/>
-    <updated>2026-09-24T00:49:27Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Seattle, Washington, United States · Python, Java, C#, SQL, Scala · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:axs:8797388002</id>
-    <title>AXS: Fall Intern, Data Science (AXS) 🛂</title>
-    <link href="https://job-boards.greenhouse.io/axs/jobs/8797388002"/>
-    <updated>2026-09-24T01:06:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · Python, SQL, Databricks, Snowflake · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cae:/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873</id>
-    <title>CAE: Weapons Simulation Software Co-Op 🇺🇸</title>
-    <link href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873"/>
-    <updated>2026-09-23T19:15:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Arlington, TX · Python, C++, MATLAB, Docker, Linux · sponsorship: citizens-only</summary>
   </entry>
 </feed>
