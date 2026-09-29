@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-29T05:51:34Z</updated>
+  <updated>2026-09-29T11:43:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:avav:/job/Simi-Valley-CA/Software-Engineering-Intern_8813</id>
+    <title>Avav: Software Engineering Intern</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Software-Engineering-Intern_8813"/>
+    <updated>2026-09-29T11:43:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Simi Valley, CA · Python, C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:78008094-ca81-4a0c-9a18-93b30f932acd</id>
+    <title>Hermeus: Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring &amp; Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd"/>
+    <updated>2026-09-29T05:51:34Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Hardware · Los Angeles, CA · 25–33 USD/hr · Python, C++, MATLAB, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645</id>
+    <title>RTX: Software Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645"/>
+    <updated>2026-09-29T05:51:34Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++ · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/AI-Intern_R2613670</id>
     <title>Cencora: AI Intern 🛂</title>
@@ -14,6 +38,14 @@
     <updated>2026-09-29T05:51:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Conshohocken, PA · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/Data-Scientist-Intern_R2613623</id>
+    <title>Cencora: Data Scientist Intern</title>
+    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Data-Scientist-Intern_R2613623"/>
+    <updated>2026-09-29T05:51:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Conshohocken, PA · Python, SQL, Azure, Git, Databricks</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/IT-Software-Development-Intern_R2614039</id>
@@ -30,30 +62,6 @@
     <updated>2026-09-29T05:51:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Conshohocken, PA · Java, C++, JavaScript, React · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:78008094-ca81-4a0c-9a18-93b30f932acd</id>
-    <title>Hermeus: Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring &amp; Summer 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd"/>
-    <updated>2026-09-29T05:51:34Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Hardware · Los Angeles, CA · 25–33 USD/hr · Python, C++, MATLAB, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/Data-Scientist-Intern_R2613623</id>
-    <title>Cencora: Data Scientist Intern</title>
-    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Data-Scientist-Intern_R2613623"/>
-    <updated>2026-09-29T05:51:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Conshohocken, PA · Python, SQL, Azure, Git, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645</id>
-    <title>RTX: Software Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645"/>
-    <updated>2026-09-29T05:51:34Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++ · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000152265599</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-23T19:15:41Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Arlington, TX · Python, C++, MATLAB, Docker, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dxctechnology:/job/ITA---MI---MILAN/Cyber-Security-Intern_51583298</id>
-    <title>DXC Technology: Cyber Security Intern</title>
-    <link href="https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---MI---MILAN/Cyber-Security-Intern_51583298"/>
-    <updated>2026-09-23T19:15:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · ITA - MI - MILAN</summary>
   </entry>
 </feed>

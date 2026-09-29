@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-29T05:51:34Z",
- "data_as_of": "2026-09-29T05:51:34Z",
- "rendered_at": "2026-09-29T05:51:34Z",
+ "generated_at": "2026-09-29T11:43:47Z",
+ "data_as_of": "2026-09-29T11:43:47Z",
+ "rendered_at": "2026-09-29T11:43:47Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -1082,25 +1082,6 @@
    "status": "open",
    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653",
    "note": "late-summer opening",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-21"
-   }
-  },
-  {
-   "company": "Mercury",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-21",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004",
-   "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Spring 2027",
@@ -4049,6 +4030,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-18"
+   }
+  },
+  {
+   "company": "Mercury",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-21"
    }
   },
   {
