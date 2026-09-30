@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-30T06:55:17Z</updated>
+  <updated>2026-09-30T13:16:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:avav:/job/Sunrise-FL/Software-Engineering-Intern_8797</id>
+    <title>Avav: Software Engineering Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineering-Intern_8797"/>
+    <updated>2026-09-30T13:16:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Sunrise, FL · Python, Java, C++, Bash, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:avav:/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885</id>
+    <title>Avav: Digital Business Technology Infrastructure (DBT) Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885"/>
+    <updated>2026-09-30T13:16:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Simi Valley, CA · dbt, AWS · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:avav:/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901</id>
+    <title>Avav: Titan-SV Software Engineer Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901"/>
+    <updated>2026-09-30T13:16:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Leesburg, VA · Python, Java, C++, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000152679699</id>
+    <title>Wellmark: Software Engineer Internship – Metadata Enablement Team</title>
+    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000152679699"/>
+    <updated>2026-09-30T13:16:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Des Moines, IA, United States (Hybrid) · Python, JavaScript, SQL, Node.js, Angular · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790</id>
     <title>Northrop Grumman: 2027 Embedded Software Engineer Intern – Rolling Meadows IL 🇺🇸</title>
@@ -187,9 +219,9 @@
     <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000152265599</id>
     <title>Renesas Electronics: Firmware Engineering Intern</title>
     <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000152265599"/>
-    <updated>2026-09-29T00:11:57Z</updated>
+    <updated>2026-09-30T13:16:16Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Austin, TEXAS, United States · Python, C++, Linux, Git, Verilog</summary>
+    <summary>Not stated · Hardware · Austin, TEXAS, United States · Python, C++, Linux, Git, Verilog · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-24T16:12:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Remote - United States · $30/hr · Python, SQL, Databricks, Snowflake</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:ziprecruiter:8180455</id>
-    <title>ZipRecruiter: Software Engineer - Intern</title>
-    <link href="https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455"/>
-    <updated>2026-09-24T16:12:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Santa Monica, CA · $45/hr · Python, Java, JavaScript, React, HTML/CSS · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:rentvision:0F1C7992BF</id>
-    <title>Rentvision: Software Engineering Intern</title>
-    <link href="https://apply.workable.com/rentvision/j/0F1C7992BF/"/>
-    <updated>2026-09-24T16:12:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Lincoln, Nebraska, United States · Java, TypeScript, JavaScript, React, HTML/CSS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322</id>
-    <title>C.H. Robinson: Cyber Security Internship 2027</title>
-    <link href="https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322"/>
-    <updated>2026-09-24T16:12:54Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · Eden Prairie, MN United States of America · $15–$30/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:zekelman:/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752</id>
-    <title>Zekelman Industries: AI Intern</title>
-    <link href="https://zekelman.wd12.myworkdayjobs.com/Careers/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752"/>
-    <updated>2026-09-24T16:12:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Wheatland, PA - Council Ave · status: closed</summary>
   </entry>
 </feed>
