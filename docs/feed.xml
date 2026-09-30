@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-30T18:39:26Z</updated>
+  <updated>2026-09-30T22:49:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:allen-control-systems:1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94</id>
+    <title>Allen Control Systems: Software Engineering Intern, UX/UI 2027</title>
+    <link href="https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94"/>
+    <updated>2026-09-30T22:49:55Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Austin, TX · Kotlin, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:claylabs:5b7eced2-36bd-4265-a2a8-da0f786e47aa</id>
+    <title>Clay: Software Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa"/>
+    <updated>2026-09-30T22:49:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York · Python, TypeScript, LLMs, React, Node.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:ramp:b39ceb08-a0a7-4f8b-a760-2fb88e209956</id>
+    <title>Ramp: Applied Scientist Intern</title>
+    <link href="https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956"/>
+    <updated>2026-09-30T22:49:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York, NY (HQ) · $12.5K per month · Python, SQL, PyTorch, scikit-learn, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:genscript:5253581007</id>
+    <title>GenScript: AI Intern, Enterprise Agent Development</title>
+    <link href="https://job-boards.greenhouse.io/genscript/jobs/5253581007"/>
+    <updated>2026-09-30T22:49:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Piscataway, New Jersey, United States · $30–$40/hr · Python, Java, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcsc:/job/Richardson-Texas-HQ-1001-E-Lookout-Drive/Early-Careers---Developer-Intern--Compliance---Health-Quality-_R0059503</id>
+    <title>HCSC: Early Careers - Developer Intern 🛂</title>
+    <link href="https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/Richardson-Texas-HQ-1001-E-Lookout-Drive/Early-Careers---Developer-Intern--Compliance---Health-Quality-_R0059503"/>
+    <updated>2026-09-30T22:49:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Richardson Texas HQ (1001 E. Lookout Drive) · Java, JavaScript, SQL, React, Angular · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574</id>
+    <title>Leidos: Embedded Design Engineering Intern – Firmware 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574"/>
+    <updated>2026-09-30T22:49:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Huntsville, AL · C++, Rust, Linux, Verilog · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10565667</id>
     <title>Amazon: Software Development Engineer Intern, AWS Database - 2027 (US)</title>
@@ -379,9 +427,9 @@
     <id>urn:intern-engine:workday:aero:/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740</id>
     <title>The Aerospace Corporation: 2027 Software Implementation and Integration Undergrad Cleared Intern 🇺🇸</title>
     <link href="https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740"/>
-    <updated>2026-09-28T19:55:36Z</updated>
+    <updated>2026-09-30T22:32:13Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Chantilly, VA · Python, Java, C++, AWS, Azure · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · Chantilly, VA · Python, Java, C++, AWS, Azure · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Champaign-IL/Data-Science-Intern_JR-051760</id>
@@ -747,9 +795,9 @@
     <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1</id>
     <title>Ameren: Intern (Robotics, AI, OT, Software development)</title>
     <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1"/>
-    <updated>2026-09-24T23:27:01Z</updated>
+    <updated>2026-09-30T22:49:55Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · St. Louis, MO</summary>
+    <summary>Not stated · Data &amp; ML/AI · St. Louis, MO · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:biibhr:/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209</id>
@@ -758,53 +806,5 @@
     <updated>2026-09-24T23:27:01Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Remote, USA · Python, SQL, PyTorch, TensorFlow, LLMs · H-1B track record: ~125 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:biibhr:/job/Remote-USA/Co-op--Data-Science_REQ24211</id>
-    <title>Biogen: Co-op, Data Science</title>
-    <link href="https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science_REQ24211"/>
-    <updated>2026-09-24T23:27:01Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Remote, USA · Python, SQL, LLMs · status: closed · H-1B track record: ~125 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:irhythmtech:/job/San-Francisco-CA/Firmware-Quality-Assurance-Engineer-Co-Op-Intern-Full-Time-January-JuneEngineer_JR1791</id>
-    <title>iRhythm Technologies: Firmware Quality Assurance Engineer Co-Op Intern Full Time January-JuneEngineer</title>
-    <link href="https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Firmware-Quality-Assurance-Engineer-Co-Op-Intern-Full-Time-January-JuneEngineer_JR1791"/>
-    <updated>2026-09-24T23:27:01Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Hardware · San Francisco, CA · $35/hr · C# · status: closed · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Data-Science-Co-op_R-100341</id>
-    <title>Johnson &amp; Johnson: Data Science Co-op 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Data-Science-Co-op_R-100341"/>
-    <updated>2026-09-24T23:27:01Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Data &amp; ML/AI · Danvers, Massachusetts, United States of America · $23.5/hr · Python, PyTorch, TensorFlow, scikit-learn, Pandas · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277</id>
-    <title>Johnson &amp; Johnson: Software Engineering Co-Op 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277"/>
-    <updated>2026-09-24T23:27:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Danvers, Massachusetts, United States of America · $23.5/hr · Rust, JavaScript, Angular, Linux, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reflect-orbital:c394615d-26c6-4435-ad84-3ca3269c2952</id>
-    <title>Reflect Orbital: Ground Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/reflect-orbital/c394615d-26c6-4435-ad84-3ca3269c2952"/>
-    <updated>2026-09-24T20:16:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Hawthorne, CA · $27 – $31 per hour · Python, C++, AWS, Kubernetes, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:drwuniversityjobs:8220587</id>
-    <title>DRW: Spring 2027 City Scholars Software Developer Intern</title>
-    <link href="https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8220587"/>
-    <updated>2026-09-24T20:16:59Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Chicago, IL · $45/hr · H-1B track record: ~31 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

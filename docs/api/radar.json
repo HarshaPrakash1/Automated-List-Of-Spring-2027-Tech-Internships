@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-30T18:39:26Z",
- "data_as_of": "2026-09-30T18:39:26Z",
- "rendered_at": "2026-09-30T18:39:27Z",
+ "generated_at": "2026-09-30T22:49:55Z",
+ "data_as_of": "2026-09-30T22:49:55Z",
+ "rendered_at": "2026-09-30T22:49:55Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -434,7 +434,7 @@
    "expected": "2026-09-01",
    "days_until": -29,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -947,7 +947,7 @@
    "expected": "2026-09-15",
    "days_until": -15,
    "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
    "note": "",
    "provenance": {
     "type": "engine-observed",
