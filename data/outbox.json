@@ -604,7 +604,11 @@
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:158957",
       "greenhouse:gitai:5437128008",
       "workday:moog:/job/Torrance-CA/Intern--Software-Engineering_R-26-19948",
-      "workday:nike:/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412"
+      "workday:nike:/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054812",
+      "greenhouse:graphcore-early-careers:8857368002",
+      "workday:microchiphr:/job/AZ---Chandler/Intern-Engineering--Software-_R4091-26",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1210,7 +1214,11 @@
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:158957",
       "greenhouse:gitai:5437128008",
       "workday:moog:/job/Torrance-CA/Intern--Software-Engineering_R-26-19948",
-      "workday:nike:/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412"
+      "workday:nike:/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054812",
+      "greenhouse:graphcore-early-careers:8857368002",
+      "workday:microchiphr:/job/AZ---Chandler/Intern-Engineering--Software-_R4091-26",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384"
     ]
   }
 }
