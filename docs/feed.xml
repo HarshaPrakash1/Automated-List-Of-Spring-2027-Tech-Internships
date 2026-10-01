@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-09-30T22:49:55Z</updated>
+  <updated>2026-10-01T01:46:17Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1</id>
+    <title>Allegion: Summer Intern - Software Engineering - Quality Assurance</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1"/>
+    <updated>2026-10-01T01:46:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Golden, CO · $25–$26/hr · Python, C#, AWS, Azure, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:allen-control-systems:1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94</id>
     <title>Allen Control Systems: Software Engineering Intern, UX/UI 2027</title>
@@ -106,7 +114,7 @@
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Engineering-Intern_2641572-1</id>
     <title>KLA: Software Engineering Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1"/>
+    <link href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572"/>
     <updated>2026-09-30T18:39:26Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · Software · Milpitas, CA · $37–$49/hr · Python, Java, C++, C#, JavaScript · H-1B track record: ~369 approvals (FY2022–2023)</summary>
@@ -427,9 +435,9 @@
     <id>urn:intern-engine:workday:aero:/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740</id>
     <title>The Aerospace Corporation: 2027 Software Implementation and Integration Undergrad Cleared Intern 🇺🇸</title>
     <link href="https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740"/>
-    <updated>2026-09-30T22:32:13Z</updated>
+    <updated>2026-09-28T19:55:36Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Chantilly, VA · Python, Java, C++, AWS, Azure · sponsorship: citizens-only · status: closed</summary>
+    <summary>Spring 2027 · Software · Chantilly, VA · Python, Java, C++, AWS, Azure · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Champaign-IL/Data-Science-Intern_JR-051760</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-30T22:49:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · St. Louis, MO · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:biibhr:/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209</id>
-    <title>Biogen: Co-op, Data Science &amp; AI Innovation</title>
-    <link href="https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209"/>
-    <updated>2026-09-24T23:27:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Remote, USA · Python, SQL, PyTorch, TensorFlow, LLMs · H-1B track record: ~125 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
