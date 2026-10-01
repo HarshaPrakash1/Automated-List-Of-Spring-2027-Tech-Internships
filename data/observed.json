@@ -2145,9 +2145,10 @@
     "Spring 2027": {
      "first_posted": "2026-07-15",
      "role_ids": [
-      "greenhouse:oldmissioncapital:7796180003"
+      "greenhouse:oldmissioncapital:7796180003",
+      "greenhouse:oldmissioncapital:8002345003"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3332,5 +3333,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T07:58:42Z"
+ "updated_at": "2026-10-01T15:38:58Z"
 }

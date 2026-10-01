@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-01T07:58:42Z</updated>
+  <updated>2026-10-01T15:38:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:oldmissioncapital:8002345003</id>
+    <title>Old Mission Capital: Quantitative Trader - 2027 Micro-Internship Program (January Start)</title>
+    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=8002345003"/>
+    <updated>2026-10-01T15:38:58Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Quant · Chicago, IL, United States · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stripe:8194291</id>
+    <title>Stripe: Data Analyst, Intern</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8194291"/>
+    <updated>2026-10-01T15:38:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York, Seattle, South San Francisco HQ · SQL · H-1B track record: ~441 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/IN---Pune/Intern--Software-QA-Engineer_2603892</id>
     <title>Marvell: Intern, Software QA Engineer</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-25T18:21:35Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Remote - USA · $33/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Gaithersburg-MD/Software-Development-Intern_R-00193103</id>
-    <title>Leidos: Software Development Intern</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"/>
-    <updated>2026-09-25T13:54:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Gaithersburg, MD · Python, C++, Linux · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Intuitive:744000151714759</id>
-    <title>Intuitive Surgical: AI Research Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Intuitive/744000151714759"/>
-    <updated>2026-09-24T23:27:01Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, PyTorch, TensorFlow, LLMs, Computer Vision · status: closed · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

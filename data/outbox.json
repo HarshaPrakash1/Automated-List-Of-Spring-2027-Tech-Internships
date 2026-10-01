@@ -633,7 +633,9 @@
       "workday:hcsc:/job/Richardson-Texas-HQ-1001-E-Lookout-Drive/Early-Careers---Developer-Intern--Compliance---Health-Quality-_R0059503",
       "workday:leidos:/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574",
       "workday:allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1",
-      "workday:marvell:/job/IN---Pune/Intern--Software-QA-Engineer_2603892"
+      "workday:marvell:/job/IN---Pune/Intern--Software-QA-Engineer_2603892",
+      "greenhouse:oldmissioncapital:8002345003",
+      "greenhouse:stripe:8194291"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1268,7 +1270,9 @@
       "workday:hcsc:/job/Richardson-Texas-HQ-1001-E-Lookout-Drive/Early-Careers---Developer-Intern--Compliance---Health-Quality-_R0059503",
       "workday:leidos:/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574",
       "workday:allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1",
-      "workday:marvell:/job/IN---Pune/Intern--Software-QA-Engineer_2603892"
+      "workday:marvell:/job/IN---Pune/Intern--Software-QA-Engineer_2603892",
+      "greenhouse:oldmissioncapital:8002345003",
+      "greenhouse:stripe:8194291"
     ]
   }
 }
