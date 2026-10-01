@@ -967,6 +967,13 @@
       "workday:dukeenergy:/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863"
      ],
      "count": 1
+    },
+    "Spring 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "workday:dukeenergy:/job/Lake-Mary-FL/PGO-Cybersecurity-Spring-2027-Co-op_R41837"
+     ],
+     "count": 1
     }
    }
   },
@@ -1062,6 +1069,18 @@
       "workday:fanniemae:/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872"
      ],
      "count": 2
+    }
+   }
+  },
+  "federal reserve system": {
+   "name": "The Federal Reserve System",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625"
+     ],
+     "count": 1
     }
    }
   },
@@ -2021,10 +2040,11 @@
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731"
      ],
-     "count": 19
+     "count": 20
     }
    }
   },
@@ -2289,6 +2309,20 @@
       "workday:pimco:/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816"
      ],
      "count": 2
+    }
+   }
+  },
+  "pinterest": {
+   "name": "Pinterest",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "greenhouse:pinterest:7838577",
+      "greenhouse:pinterest:8138090",
+      "greenhouse:pinterest:8138097"
+     ],
+     "count": 3
     }
    }
   },
@@ -3333,5 +3367,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T15:38:58Z"
+ "updated_at": "2026-10-01T20:46:26Z"
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-01T15:38:58Z",
- "data_as_of": "2026-10-01T15:38:58Z",
- "rendered_at": "2026-10-01T15:38:58Z",
+ "generated_at": "2026-10-01T20:46:26Z",
+ "data_as_of": "2026-10-01T20:46:26Z",
+ "rendered_at": "2026-10-01T20:46:26Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -548,7 +548,7 @@
    "expected": "2026-09-04",
    "days_until": -27,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171696",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -587,25 +587,6 @@
    "days_until": -23,
    "status": "open",
    "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
-   "company": "Devon Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -23,
-   "status": "open",
-   "url": "https://wd5.myworkdaysite.com/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1200,6 +1181,63 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-30"
+   }
+  },
+  {
+   "company": "Duke Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Lake-Mary-FL/PGO-Cybersecurity-Spring-2027-Co-op_R41837",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-01"
+   }
+  },
+  {
+   "company": "Pinterest",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
+   "note": "opens late summer for next year",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-01"
+   }
+  },
+  {
+   "company": "The Federal Reserve System",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-01"
    }
   },
   {
@@ -1977,25 +2015,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "optiver.com",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "Pinterest",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2027-08-01",
-   "days_until": 304,
-   "status": "waiting",
-   "url": "",
-   "note": "opens late summer for next year",
-   "provenance": {
-    "type": "verified-window",
-    "url": "pinterestcareers.com",
     "verified_at": "2026-07-21"
    }
   },
@@ -3995,6 +4014,25 @@
    }
   },
   {
+   "company": "Devon Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -23,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "Merck",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -4147,5 +4185,5 @@
    }
   }
  ],
- "count": 218
+ "count": 220
 }
