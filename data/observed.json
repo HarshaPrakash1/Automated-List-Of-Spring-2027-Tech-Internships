@@ -452,9 +452,10 @@
      "role_ids": [
       "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
       "ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4",
+      "ashby:bedrock-robotics:96a6423e-7439-4cb4-9109-117b14e47f7c",
       "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3368,5 +3369,5 @@
    }
   }
  },
- "updated_at": "2026-10-02T11:37:43Z"
+ "updated_at": "2026-10-02T17:08:08Z"
 }
