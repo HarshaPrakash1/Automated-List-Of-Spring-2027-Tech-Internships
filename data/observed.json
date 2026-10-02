@@ -3331,6 +3331,18 @@
     }
    }
   },
+  "xai": {
+   "name": "xAI",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "greenhouse:xai:5252108007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "xantium": {
    "name": "Xantium",
    "cycles": {
@@ -3369,5 +3381,5 @@
    }
   }
  },
- "updated_at": "2026-10-02T17:08:08Z"
+ "updated_at": "2026-10-02T21:34:53Z"
 }

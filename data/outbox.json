@@ -673,7 +673,9 @@
       "lever:shopback-2:e5f5e276-e7f7-43e0-a224-5259d242fe98",
       "workday:aba:/job/US-DC-Main-Office/Intern--Quantitative-Research_R614",
       "workday:aba:/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611",
-      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770"
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
+      "greenhouse:natera:6188497004",
+      "greenhouse:xai:5252108007"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1348,7 +1350,9 @@
       "lever:shopback-2:e5f5e276-e7f7-43e0-a224-5259d242fe98",
       "workday:aba:/job/US-DC-Main-Office/Intern--Quantitative-Research_R614",
       "workday:aba:/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611",
-      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770"
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
+      "greenhouse:natera:6188497004",
+      "greenhouse:xai:5252108007"
     ]
   }
 }
