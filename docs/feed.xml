@@ -5,23 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-02T00:22:35Z</updated>
+  <updated>2026-10-02T05:42:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/AI---Automation-Development-Intern_JR102458</id>
-    <title>HMH: AI &amp; Automation Development Intern</title>
-    <link href="https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/AI---Automation-Development-Intern_JR102458"/>
-    <updated>2026-10-02T00:22:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Houston, TX · Python, SQL, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cisco:/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923</id>
-    <title>Cisco: Software Engineer II (Co-op) - United States</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923"/>
+    <id>urn:intern-engine:workday:cisco:/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913</id>
+    <title>Cisco: Firmware Engineer II (Co-op) - United States</title>
+    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913"/>
     <updated>2026-10-02T00:22:35Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Maynard, Massachusetts, US · Python, Java, C++, AWS, GCP</summary>
+    <summary>Not stated · Hardware · Maynard, Massachusetts, US · Python, C++, Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cisco:/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920</id>
@@ -32,12 +24,12 @@
     <summary>Not stated · Software · Maynard, Massachusetts, US · Python, Java, C++, AWS, GCP</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cisco:/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913</id>
-    <title>Cisco: Firmware Engineer II (Co-op) - United States</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913"/>
+    <id>urn:intern-engine:workday:cisco:/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923</id>
+    <title>Cisco: Software Engineer II (Co-op) - United States</title>
+    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923"/>
     <updated>2026-10-02T00:22:35Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Maynard, Massachusetts, US · Python, C++, Linux, Git</summary>
+    <summary>Not stated · Software · Maynard, Massachusetts, US · Python, Java, C++, AWS, GCP</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:disney:/job/New-York-NY-USA/WABC---TV--ABC7--Programming-Intern--Spring-2027_10158770-1</id>
@@ -46,6 +38,14 @@
     <updated>2026-10-02T00:22:35Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · New York, NY, USA · $22.5/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/AI---Automation-Development-Intern_JR102458</id>
+    <title>HMH: AI &amp; Automation Development Intern</title>
+    <link href="https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/AI---Automation-Development-Intern_JR102458"/>
+    <updated>2026-10-02T00:22:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Houston, TX · Python, SQL, LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:gassouth:8247622</id>
