@@ -661,7 +661,11 @@
       "greenhouse:pinterest:8138097",
       "greenhouse:pinterest:8138090",
       "greenhouse:pinterest:7838577",
-      "workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625"
+      "workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625",
+      "workday:cisco:/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923",
+      "workday:cisco:/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920",
+      "workday:cisco:/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913",
+      "workday:disney:/job/New-York-NY-USA/WABC---TV--ABC7--Programming-Intern--Spring-2027_10158770-1"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1324,7 +1328,11 @@
       "greenhouse:pinterest:8138097",
       "greenhouse:pinterest:8138090",
       "greenhouse:pinterest:7838577",
-      "workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625"
+      "workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625",
+      "workday:cisco:/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923",
+      "workday:cisco:/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920",
+      "workday:cisco:/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913",
+      "workday:disney:/job/New-York-NY-USA/WABC---TV--ABC7--Programming-Intern--Spring-2027_10158770-1"
     ]
   }
 }
