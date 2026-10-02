@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-02T05:42:44Z</updated>
+  <updated>2026-10-02T11:37:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:profluent:5441955008</id>
+    <title>Profluent: Intern, Software Engineering</title>
+    <link href="https://job-boards.greenhouse.io/profluent/jobs/5441955008"/>
+    <updated>2026-10-02T11:37:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Emeryville, California, United States · Python</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:cisco:/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913</id>
     <title>Cisco: Firmware Engineer II (Co-op) - United States</title>
@@ -361,8 +369,8 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:graphcore-early-careers:8857368002</id>
-    <title>Graphcore Early Careers: Machine Learning and Data Science Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8857368002"/>
+    <title>Graphcore: Machine Learning and Data Science Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8862951002"/>
     <updated>2026-09-30T01:00:50Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Austin, Texas, United States · Python, SQL, PyTorch, scikit-learn, Pandas</summary>
@@ -798,13 +806,5 @@
     <updated>2026-09-25T21:45:34Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502</id>
-    <title>Gilead Sciences: Intern - Research - Strategy, Innovation &amp; Portfolio - AI 🛂</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502"/>
-    <updated>2026-09-25T21:45:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, SQL, LLMs, Git · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
