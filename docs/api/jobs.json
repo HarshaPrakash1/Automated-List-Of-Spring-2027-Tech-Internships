@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-03T16:21:58Z",
- "data_as_of": "2026-10-03T16:21:58Z",
- "rendered_at": "2026-10-03T16:21:58Z",
+ "generated_at": "2026-10-03T19:39:11Z",
+ "data_as_of": "2026-10-03T19:39:11Z",
+ "rendered_at": "2026-10-03T19:39:11Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 499,
+ "count": 497,
  "jobs": [
   {
    "id": "workable:disa-technologies:73E7609B99",
@@ -12395,56 +12395,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workable:pony-dot-ai:4C1F53EF5D",
-   "company": "Pony.ai",
-   "title": "Research Intern - Deep Learning",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Fremont, California, United States",
-   "url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
-   "posted_at": "2026-07-22T00:00:00.000Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-02T05:26:29Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++",
-    "LLMs",
-    "CUDA"
-   ],
-   "source": "workable",
-   "h1b_approvals": 35,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workable:pony-dot-ai:BA5FFDBC71",
-   "company": "Pony.ai",
-   "title": "Software Engineer Intern - Generalist",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Fremont, California, United States",
-   "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
-   "posted_at": "2026-07-22T00:00:00.000Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-02T05:26:29Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++"
-   ],
-   "source": "workable",
-   "h1b_approvals": 35,
    "program": "Internship",
    "remote": false
   },
