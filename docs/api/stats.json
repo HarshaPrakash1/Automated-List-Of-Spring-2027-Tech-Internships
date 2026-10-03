@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-02T21:34:53Z",
- "fetched_at": "2026-10-02T21:34:53Z",
- "duration_seconds": 1135.2,
+ "generated_at": "2026-10-03T00:59:38Z",
+ "fetched_at": "2026-10-03T00:59:38Z",
+ "duration_seconds": 1107.8,
  "companies_total": 4944,
  "companies_by_source": {
   "greenhouse": 1101,
@@ -17,33 +17,35 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 300,
- "fetched_ok": 4476,
- "fetch_errors": 168,
+ "quarantined": 206,
+ "fetched_ok": 4474,
+ "fetch_errors": 264,
  "errors_by_source": {
-  "workday": 120,
-  "rippling": 1,
-  "greenhouse": 2,
-  "workable": 45
+  "workday": 161,
+  "lever": 31,
+  "ashby": 36,
+  "greenhouse": 30,
+  "workable": 6
  },
- "fetch_success_rate": 0.964,
+ "fetch_success_rate": 0.944,
  "fetch_success_rate_registry": 0.905,
- "snapshots_complete": 3882,
- "snapshots_partial": 594,
+ "snapshots_complete": 3892,
+ "snapshots_partial": 582,
  "partial_by_reason": {
-  "result-cap": 552,
-  "malformed-response": 42
+  "result-cap": 574,
+  "malformed-response": 7,
+  "pagination-stalled": 1
  },
- "degraded_fetches": 42,
- "roles_matched": 391,
- "dropped_no_year_in_title": 447,
- "dropped_offcycle_by_text": 836,
+ "degraded_fetches": 8,
+ "roles_matched": 378,
+ "dropped_no_year_in_title": 452,
+ "dropped_offcycle_by_text": 791,
  "roles_cycle_inferred": 354,
  "roles_by_source": {
   "amazon": 3,
   "ashby": 40,
   "breezy": 3,
-  "greenhouse": 95,
+  "greenhouse": 94,
   "lever": 16,
   "oracle": 63,
   "rippling": 1,
@@ -52,24 +54,24 @@
   "workday": 250
  },
  "roles_by_cycle": {
-  "Spring 2027": 146,
+  "Spring 2027": 145,
   "Not stated": 354
  },
  "roles_by_region": {
-  "US": 500
+  "US": 499
  },
  "sponsorship_counts": {
-  "unknown": 353,
-  "citizens-only": 66,
+  "unknown": 352,
+  "citizens-only": 65,
   "offers": 8,
-  "no-sponsorship": 73
+  "no-sponsorship": 74
  },
  "posted_date_coverage": 0.998,
- "enriched_this_run": 63,
- "enrichment_detail_fetches": 4,
+ "enriched_this_run": 61,
+ "enrichment_detail_fetches": 2,
  "purged_this_run": 0,
- "new_this_run": 2,
- "open_total": 500,
+ "new_this_run": 1,
+ "open_total": 499,
  "detection_latency": {
   "median_minutes": 216.7,
   "p95_minutes": 1721.1,
@@ -81,5 +83,5 @@
   "median_days": 8,
   "sample_size": 65
  },
- "rendered_at": "2026-10-02T21:34:53Z"
+ "rendered_at": "2026-10-03T00:59:38Z"
 }
