@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-03T12:14:06Z</updated>
+  <updated>2026-10-03T16:21:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:disa-technologies:73E7609B99</id>
+    <title>DISA Technologies: Data Engineering &amp; ML Intern</title>
+    <link href="https://apply.workable.com/disa-technologies/j/73E7609B99/"/>
+    <updated>2026-10-03T16:21:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Casper, Wyoming, United States (Hybrid) · Python, SQL, Pandas</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:arcboatcompany:5442881008</id>
     <title>Arc: Software Engineering Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-26T00:18:04Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · San Diego, California · sponsorship: no-sponsorship · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:epiqsystems:/job/USA-New-York-NY-1166-Avenue-of-Americas/Software-Engineer-Intern_R0035230</id>
-    <title>Epiq Systems: Software Engineer Intern</title>
-    <link href="https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/USA-New-York-NY-1166-Avenue-of-Americas/Software-Engineer-Intern_R0035230"/>
-    <updated>2026-09-28T19:55:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA-New York-NY-1166 Avenue of Americas · status: closed</summary>
   </entry>
 </feed>

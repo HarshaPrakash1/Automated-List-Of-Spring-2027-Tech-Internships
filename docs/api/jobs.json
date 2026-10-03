@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-10-03T12:14:06Z",
- "data_as_of": "2026-10-03T12:14:06Z",
- "rendered_at": "2026-10-03T12:14:06Z",
+ "generated_at": "2026-10-03T16:21:58Z",
+ "data_as_of": "2026-10-03T16:21:58Z",
+ "rendered_at": "2026-10-03T16:21:58Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 498,
+ "count": 499,
  "jobs": [
+  {
+   "id": "workable:disa-technologies:73E7609B99",
+   "company": "DISA Technologies",
+   "title": "Data Engineering & ML Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Casper, Wyoming, United States (Hybrid)",
+   "url": "https://apply.workable.com/disa-technologies/j/73E7609B99/",
+   "posted_at": "2026-10-02T00:00:00.000Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-03T16:21:58Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Pandas"
+   ],
+   "source": "workable",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:hp:/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2",
    "company": "Hewlett Packard (HP)",
