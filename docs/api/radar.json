@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-05T16:08:43Z",
- "data_as_of": "2026-10-05T16:08:43Z",
- "rendered_at": "2026-10-05T16:08:43Z",
+ "generated_at": "2026-10-05T22:48:10Z",
+ "data_as_of": "2026-10-05T22:48:10Z",
+ "rendered_at": "2026-10-05T22:48:11Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -1061,7 +1061,7 @@
    "expected": "2026-09-22",
    "days_until": -13,
    "status": "open",
-   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414",
+   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369",
    "note": "opens fall, closes early Feb",
    "provenance": {
     "type": "engine-observed",
@@ -1257,6 +1257,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-02"
+   }
+  },
+  {
+   "company": "Manulife Financial",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-05",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-05"
    }
   },
   {
@@ -4223,5 +4242,5 @@
    }
   }
  ],
- "count": 222
+ "count": 223
 }

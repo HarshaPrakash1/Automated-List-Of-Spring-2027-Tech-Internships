@@ -681,7 +681,21 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016",
       "workday:hpe:/job/Spring-Texas-United-States-of-America/People-Care-HR-AI-Agent---Process-Improvement-Project-Management-Intern_1212389",
       "workday:nc:/job/Wake-County-NC/Data-Science-Intern_JR-125225",
-      "workday:nrel:/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555"
+      "workday:nrel:/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555",
+      "ashby:tensorwave:39091eeb-13fc-46a7-b7e5-0d4584ac53ab",
+      "ashby:tensorwave:34dd183d-4423-40e3-bb6d-790b5dafc731",
+      "ashby:tensorwave:8ec8b715-f9ad-48a7-869e-ed9d455119a5",
+      "oracle:edbz.fa.us2.oraclecloud.com:25016392",
+      "greenhouse:foundenergy:4719227006",
+      "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/Cybersecurity-Intern_R0023516",
+      "greenhouse:wehrtyou:8257369",
+      "workday:intel:/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524",
+      "workday:intel:/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530",
+      "workday:intel:/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531",
+      "workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931",
+      "workday:manulife:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121",
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
+      "workday:disney:/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1364,7 +1378,21 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016",
       "workday:hpe:/job/Spring-Texas-United-States-of-America/People-Care-HR-AI-Agent---Process-Improvement-Project-Management-Intern_1212389",
       "workday:nc:/job/Wake-County-NC/Data-Science-Intern_JR-125225",
-      "workday:nrel:/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555"
+      "workday:nrel:/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555",
+      "ashby:tensorwave:39091eeb-13fc-46a7-b7e5-0d4584ac53ab",
+      "ashby:tensorwave:34dd183d-4423-40e3-bb6d-790b5dafc731",
+      "ashby:tensorwave:8ec8b715-f9ad-48a7-869e-ed9d455119a5",
+      "oracle:edbz.fa.us2.oraclecloud.com:25016392",
+      "greenhouse:foundenergy:4719227006",
+      "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/Cybersecurity-Intern_R0023516",
+      "greenhouse:wehrtyou:8257369",
+      "workday:intel:/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524",
+      "workday:intel:/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530",
+      "workday:intel:/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531",
+      "workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931",
+      "workday:manulife:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121",
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
+      "workday:disney:/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1"
     ]
   }
 }

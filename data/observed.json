@@ -1513,9 +1513,10 @@
     "Spring 2027": {
      "first_posted": "2026-09-22",
      "role_ids": [
-      "greenhouse:wehrtyou:8222414"
+      "greenhouse:wehrtyou:8222414",
+      "greenhouse:wehrtyou:8257369"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1755,6 +1756,13 @@
       "workday:manulife:/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680"
      ],
      "count": 2
+    },
+    "Spring 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "workday:manulife:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121"
+     ],
+     "count": 1
     }
    }
   },
@@ -3258,6 +3266,7 @@
      "first_posted": "2026-08-24",
      "role_ids": [
       "workday:disney:/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2",
+      "workday:disney:/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1",
       "workday:disney:/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010-1",
       "workday:disney:/job/Burbank-CA-USA/FX-Original-Programming-Intern--Spring-2027_10161237-1",
       "workday:disney:/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957-1",
@@ -3268,7 +3277,7 @@
       "workday:disney:/job/New-York-NY-USA/WABC---TV--ABC7--Programming-Intern--Spring-2027_10158770-1",
       "workday:disney:/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -3393,5 +3402,5 @@
    }
   }
  },
- "updated_at": "2026-10-05T16:08:43Z"
+ "updated_at": "2026-10-05T22:48:10Z"
 }
