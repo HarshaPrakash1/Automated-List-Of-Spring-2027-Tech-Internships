@@ -2796,6 +2796,18 @@
     }
    }
   },
+  "state of north carolina": {
+   "name": "State of North Carolina",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "workday:nc:/job/Wake-County-NC/Data-Science-Intern_JR-125225"
+     ],
+     "count": 1
+    }
+   }
+  },
   "state street": {
    "name": "State Street",
    "cycles": {
@@ -3381,5 +3393,5 @@
    }
   }
  },
- "updated_at": "2026-10-05T01:01:33Z"
+ "updated_at": "2026-10-05T07:06:08Z"
 }
