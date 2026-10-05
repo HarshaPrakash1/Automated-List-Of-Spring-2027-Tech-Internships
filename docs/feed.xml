@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-05T07:06:08Z</updated>
+  <updated>2026-10-05T16:08:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:nrel:/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555</id>
+    <title>National Laboratory of the Rockies: Undergraduate / Graduate (Spring / Summer) Intern - Cyber Security Research – 5G</title>
+    <link href="https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555"/>
+    <updated>2026-10-05T16:08:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Golden, CO · Python, Java, C++, PyTorch, TensorFlow</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:hpe:/job/Spring-Texas-United-States-of-America/People-Care-HR-AI-Agent---Process-Improvement-Project-Management-Intern_1212389</id>
     <title>Hewlett Packard Enterprise: People Care HR AI Agent - Process Improvement Project Management Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-28T05:30:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Iron Mountain, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:queracomputinginc:5435902008</id>
-    <title>QuEra Computing: Internship - Scientific Software and Compilation</title>
-    <link href="https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008"/>
-    <updated>2026-09-27T21:49:15Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Boston, MA  USA · Python, Rust · status: closed</summary>
   </entry>
 </feed>
