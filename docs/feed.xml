@@ -5,47 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-05T22:48:10Z</updated>
+  <updated>2026-10-06T02:48:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:cssmerge:8869106002</id>
-    <title>Atoms: Machine Learning Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8869106002"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · San Francisco, CA · $70/hr · Python, C++, PyTorch, Computer Vision · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jainglobal:/job/New-York-New-York/Data-Engineer-Intern_JR100605-1</id>
-    <title>Jain Global: Data Engineer Intern</title>
-    <link href="https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York, New York · Python, SQL, React · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jainglobal:/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1</id>
-    <title>Jain Global: Quant Research Intern, Systematic Trading</title>
-    <link href="https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · New York, New York · Python · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:relx:/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955</id>
-    <title>LexisNexis Risk Solutions: Data Science Intern</title>
-    <link href="https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Alpharetta, GA (Alderman) · $20/hr · Python, SQL, LLMs, Computer Vision · status: closed · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:tensorwave:39091eeb-13fc-46a7-b7e5-0d4584ac53ab</id>
-    <title>TensorWave: Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/tensorwave/39091eeb-13fc-46a7-b7e5-0d4584ac53ab"/>
-    <updated>2026-10-05T22:48:10Z</updated>
+    <id>urn:intern-engine:workday:hpe:/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950</id>
+    <title>Hewlett Packard Enterprise: Cloud Developer Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950"/>
+    <updated>2026-10-06T02:48:01Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Las Vegas, Nevada · Kubernetes</summary>
+    <summary>Not stated · Software · San Jose, California, United States of America · Python, scikit-learn, LLMs, HTML/CSS, Spark · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401</id>
+    <title>Hewlett Packard Enterprise: Systems Software Engineer Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401"/>
+    <updated>2026-10-06T02:48:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Bloomington, Minnesota, United States of America · Python, Java, C++, HTML/CSS · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406</id>
+    <title>Hewlett Packard Enterprise: Infrastructure Deployment Automation Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406"/>
+    <updated>2026-10-06T02:48:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Bloomington, Minnesota, United States of America · Python, Bash, HTML/CSS, Linux · H-1B track record: ~499 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:tensorwave:34dd183d-4423-40e3-bb6d-790b5dafc731</id>
@@ -56,6 +40,14 @@
     <summary>Not stated · Software · Las Vegas, Nevada</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:ashby:tensorwave:39091eeb-13fc-46a7-b7e5-0d4584ac53ab</id>
+    <title>TensorWave: Software Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/tensorwave/39091eeb-13fc-46a7-b7e5-0d4584ac53ab"/>
+    <updated>2026-10-05T22:48:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Las Vegas, Nevada · Kubernetes</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:ashby:tensorwave:8ec8b715-f9ad-48a7-869e-ed9d455119a5</id>
     <title>TensorWave: Security Engineer Intern</title>
     <link href="https://jobs.ashbyhq.com/tensorwave/8ec8b715-f9ad-48a7-869e-ed9d455119a5"/>
@@ -64,12 +56,12 @@
     <summary>Not stated · Security · Las Vegas, Nevada · Python, Bash</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25016392</id>
-    <title>Texas Instruments: Software Engineering Intern 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016392"/>
+    <id>urn:intern-engine:greenhouse:cssmerge:8869106002</id>
+    <title>Atoms: Machine Learning Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8869106002"/>
     <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Santa Clara, CA, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · San Francisco, CA · $70/hr · Python, C++, PyTorch, Computer Vision · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:foundenergy:4719227006</id>
@@ -80,20 +72,36 @@
     <summary>Not stated · Data &amp; ML/AI · Cambridge, MA · Python, TypeScript, SQL, Pandas, AWS</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:graco:/job/Dayton-Minnesota-USA-French-Lake/Cybersecurity-Intern_R0023516</id>
-    <title>Graco: Cybersecurity Intern 🛂</title>
-    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Cybersecurity-Intern_R0023516"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Dayton, Minnesota, USA (French Lake) · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:wehrtyou:8257369</id>
     <title>Hudson River Trading: Data Scientist Intern - 2027</title>
     <link href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369"/>
     <updated>2026-10-05T22:48:10Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · London, United Kingdom; New York, NY, United States · Python, Pandas · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25016392</id>
+    <title>Texas Instruments: Software Engineering Intern 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016392"/>
+    <updated>2026-10-05T22:48:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Santa Clara, CA, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:disney:/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1</id>
+    <title>The Walt Disney Company: ESPN Programming Intern, Bristol, Spring 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1"/>
+    <updated>2026-10-05T22:48:10Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Bristol, CT, USA · $23/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:graco:/job/Dayton-Minnesota-USA-French-Lake/Cybersecurity-Intern_R0023516</id>
+    <title>Graco: Cybersecurity Intern 🛂</title>
+    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Cybersecurity-Intern_R0023516"/>
+    <updated>2026-10-05T22:48:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Dayton, Minnesota, USA (French Lake) · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524</id>
@@ -110,6 +118,22 @@
     <updated>2026-10-05T22:48:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · US, Oregon, Hillsboro · Python, C++, Bash, PyTorch, TensorFlow · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jainglobal:/job/New-York-New-York/Data-Engineer-Intern_JR100605-1</id>
+    <title>Jain Global: Data Engineer Intern</title>
+    <link href="https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1"/>
+    <updated>2026-10-05T22:48:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · New York, New York · Python, SQL, React · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jainglobal:/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1</id>
+    <title>Jain Global: Quant Research Intern, Systematic Trading</title>
+    <link href="https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1"/>
+    <updated>2026-10-05T22:48:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · New York, New York · Python · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931</id>
@@ -136,12 +160,12 @@
     <summary>Not stated · Data &amp; ML/AI · Boise, ID - Main Site · Python, Java, C#, TypeScript, JavaScript · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:disney:/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1</id>
-    <title>The Walt Disney Company: ESPN Programming Intern, Bristol, Spring 2027</title>
-    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1"/>
+    <id>urn:intern-engine:workday:relx:/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955</id>
+    <title>LexisNexis Risk Solutions: Data Science Intern</title>
+    <link href="https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955"/>
     <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Bristol, CT, USA · $23/hr</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Alpharetta, GA (Alderman) · $20/hr · Python, SQL, LLMs, Computer Vision · status: closed · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:nrel:/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-29T05:51:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Conshohocken, PA · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/Data-Scientist-Intern_R2613623</id>
-    <title>Cencora: Data Scientist Intern</title>
-    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Data-Scientist-Intern_R2613623"/>
-    <updated>2026-09-29T05:51:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Conshohocken, PA · Python, SQL, Azure, Git, Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/IT-Software-Development-Intern_R2614039</id>
-    <title>Cencora: IT Software Development Intern 🛂</title>
-    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/IT-Software-Development-Intern_R2614039"/>
-    <updated>2026-09-29T05:51:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Conshohocken, PA · Java, C++, JavaScript, React · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/IT-Software-Intern_R2614031</id>
-    <title>Cencora: IT Software Intern 🛂</title>
-    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/IT-Software-Intern_R2614031"/>
-    <updated>2026-09-29T05:51:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Conshohocken, PA · Java, C++, JavaScript, React · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
 </feed>

@@ -695,7 +695,10 @@
       "workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931",
       "workday:manulife:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121",
       "workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
-      "workday:disney:/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1"
+      "workday:disney:/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1",
+      "workday:hpe:/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950",
+      "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401",
+      "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1392,7 +1395,10 @@
       "workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931",
       "workday:manulife:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121",
       "workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
-      "workday:disney:/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1"
+      "workday:disney:/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1",
+      "workday:hpe:/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950",
+      "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401",
+      "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406"
     ]
   }
 }
