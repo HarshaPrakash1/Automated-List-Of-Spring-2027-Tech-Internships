@@ -1,21 +1,21 @@
 {
- "generated_at": "2026-10-06T02:48:01Z",
- "data_as_of": "2026-10-06T02:48:01Z",
- "rendered_at": "2026-10-06T02:48:02Z",
+ "generated_at": "2026-10-06T09:37:29Z",
+ "data_as_of": "2026-10-06T09:37:29Z",
+ "rendered_at": "2026-10-06T09:37:29Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 513,
+ "count": 509,
  "jobs": [
   {
-   "id": "workday:hpe:/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950",
+   "id": "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406",
    "company": "Hewlett Packard Enterprise",
-   "title": "Cloud Developer Intern",
+   "title": "Infrastructure Deployment Automation Intern",
    "season": "Not stated",
    "seasons": null,
    "season_inferred": true,
    "category": "Software",
-   "location": "San Jose, California, United States of America",
-   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950",
+   "location": "Bloomington, Minnesota, United States of America",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406",
    "posted_at": "2026-10-05T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-10-06T02:48:01Z",
@@ -23,10 +23,9 @@
    "salary": null,
    "skills": [
     "Python",
-    "scikit-learn",
-    "LLMs",
+    "Bash",
     "HTML/CSS",
-    "Spark"
+    "Linux"
    ],
    "source": "workday",
    "h1b_approvals": 499,
@@ -60,15 +59,15 @@
    "remote": false
   },
   {
-   "id": "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406",
+   "id": "workday:hpe:/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950",
    "company": "Hewlett Packard Enterprise",
-   "title": "Infrastructure Deployment Automation Intern",
+   "title": "Cloud Developer Intern",
    "season": "Not stated",
    "seasons": null,
    "season_inferred": true,
    "category": "Software",
-   "location": "Bloomington, Minnesota, United States of America",
-   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406",
+   "location": "San Jose, California, United States of America",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950",
    "posted_at": "2026-10-05T00:00:00Z",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-10-06T02:48:01Z",
@@ -76,9 +75,10 @@
    "salary": null,
    "skills": [
     "Python",
-    "Bash",
+    "scikit-learn",
+    "LLMs",
     "HTML/CSS",
-    "Linux"
+    "Spark"
    ],
    "source": "workday",
    "h1b_approvals": 499,
@@ -585,32 +585,6 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
-  },
-  {
-   "id": "greenhouse:natera:6188497004",
-   "company": "Natera",
-   "title": "Software Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "US Remote",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6188497004",
-   "posted_at": "2026-10-02T15:12:01-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-02T21:34:53Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "JavaScript",
-    "SQL"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 81,
-   "program": "Internship",
-   "remote": true
   },
   {
    "id": "greenhouse:xai:5252108007",
@@ -3661,33 +3635,6 @@
    "remote": false
   },
   {
-   "id": "lever:kitware:e76197d1-4dc3-4f7c-a30a-597713283bb3",
-   "company": "Kitware",
-   "title": "Computer Vision Co-Op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Clifton Park, New York",
-   "url": "https://jobs.lever.co/kitware/e76197d1-4dc3-4f7c-a30a-597713283bb3",
-   "posted_at": "2026-09-24T10:16:47Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-24T11:52:40Z",
-   "sponsorship": "citizens-only",
-   "salary": "30–45 USD/hr",
-   "skills": [
-    "Computer Vision",
-    "Python",
-    "C++",
-    "JavaScript",
-    "PostgreSQL"
-   ],
-   "source": "lever",
-   "h1b_approvals": 6,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
    "id": "ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9",
    "company": "Ramp",
    "title": "Software Engineering Intern, iOS",
@@ -5520,31 +5467,6 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "lever:kitware:7b6ff8f9-34c6-4338-845d-4e1bbc142906",
-   "company": "Kitware",
-   "title": "Software Developer Internship",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Clifton Park, New York",
-   "url": "https://jobs.lever.co/kitware/7b6ff8f9-34c6-4338-845d-4e1bbc142906",
-   "posted_at": "2026-09-16T19:05:30Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-16T20:37:26Z",
-   "sponsorship": "citizens-only",
-   "salary": "30–45 USD/hr",
-   "skills": [
-    "Python",
-    "C++",
-    "Computer Vision"
-   ],
-   "source": "lever",
-   "h1b_approvals": 6,
    "program": "Internship",
    "remote": false
   },
@@ -9320,33 +9242,6 @@
    ],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396",
-   "company": "Hewlett Packard Enterprise",
-   "title": "HPC AI Systems Administrator Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bloomington, Minnesota, United States of America",
-   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396",
-   "posted_at": "2026-09-06T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-07T06:14:02Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Bash",
-    "HTML/CSS",
-    "Linux",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": 499,
    "program": "Internship",
    "remote": false
   },
