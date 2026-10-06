@@ -5,71 +5,63 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-06T16:29:51Z</updated>
+  <updated>2026-10-06T21:30:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:biibhr:/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310</id>
-    <title>Biogen: Co-op, Machine Learning Engineering</title>
-    <link href="https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310"/>
-    <updated>2026-10-06T16:29:51Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Remote, USA · Python, Git · status: closed · H-1B track record: ~125 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:midlandsb:/job/Effingham-IL/Intern---IT-Infrastructure_JR1471</id>
-    <title>Midland States Bank: Intern - IT Infrastructure</title>
-    <link href="https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---IT-Infrastructure_JR1471"/>
-    <updated>2026-10-06T16:29:51Z</updated>
+    <id>urn:intern-engine:workday:jabil:/job/Austin-TX/AI-Transformation-Intern_J2466044</id>
+    <title>Jabil: AI Transformation Intern</title>
+    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/AI-Transformation-Intern_J2466044"/>
+    <updated>2026-10-06T21:30:16Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Effingham, IL · Python · status: closed</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Austin, TX · LLMs · status: closed · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4731996005</id>
-    <title>Astera Labs: Data Analyst Intern</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731996005"/>
-    <updated>2026-10-06T16:29:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Jose, CA · $35/hr · Python, SQL, Tableau · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:leidos:/job/Arlington-VA/Software-Engineer-Intern_R-00193933</id>
+    <title>Leidos: Software Engineer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933"/>
+    <updated>2026-10-06T21:30:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Arlington, VA · Python, Java, C++, Rust, TypeScript · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4738565005</id>
-    <title>Astera Labs: Firmware Engineering Intern (Optical)</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738565005"/>
-    <updated>2026-10-06T16:29:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · San Jose, CA · $35/hr · Python · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:leidos:/job/Arlington-VA/Data-Science-Intern_R-00193937</id>
+    <title>Leidos: Data Science Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937"/>
+    <updated>2026-10-06T21:30:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Arlington, VA · Python, Java, C++, PyTorch, TensorFlow · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4731591005</id>
-    <title>Astera Labs: Firmware Engineer Intern (DevSecOps)</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731591005"/>
-    <updated>2026-10-06T16:29:51Z</updated>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40566</id>
+    <title>Nokia: AI Engineering Co-op</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566"/>
+    <updated>2026-10-06T21:30:16Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · San Jose, CA · $35/hr · Python, C++, Linux, Git · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+    <summary>7 openings · Not stated · Data &amp; ML/AI · United States · PyTorch, TensorFlow, Kafka</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4731584005</id>
-    <title>Astera Labs: Firmware Engineer Intern (Leo)</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731584005"/>
-    <updated>2026-10-06T16:29:51Z</updated>
+    <id>urn:intern-engine:greenhouse:drwuniversityjobs:8259714</id>
+    <title>DRW: Quantitative Trading Analyst Intern - IAP Winternship</title>
+    <link href="https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8259714"/>
+    <updated>2026-10-06T21:30:16Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · San Jose, CA · $35/hr · Python, Linux · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Quant · Chicago, IL · Python · H-1B track record: ~31 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4731593005</id>
-    <title>Astera Labs: Firmware Engineer Intern (Retimer)</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731593005"/>
-    <updated>2026-10-06T16:29:51Z</updated>
+    <id>urn:intern-engine:greenhouse:engineersgate:8249666</id>
+    <title>Engineers Gate: Quantitative Research Intern</title>
+    <link href="https://job-boards.greenhouse.io/engineersgate/jobs/8249666"/>
+    <updated>2026-10-06T21:30:16Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · San Jose, CA · $35/hr · Python, C++, Linux, Git · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Quant · New York · Python</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4731585005</id>
-    <title>Astera Labs: Firmware Engineer Intern (SCO1)</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731585005"/>
-    <updated>2026-10-06T16:29:51Z</updated>
+    <id>urn:intern-engine:workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op_R004416</id>
+    <title>Entrust: Software Engineer Co-op</title>
+    <link href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op_R004416"/>
+    <updated>2026-10-06T21:30:16Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · San Jose, CA · $35/hr · Python, C++, Git · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · United States - Shakopee, MN (GHQ) · $25/hr · Python, Java, C++, C#</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4724489005</id>
@@ -88,12 +80,76 @@
     <summary>Not stated · Software · San Jose, California · $35/hr · Python, Linux, Git · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:avav:/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993</id>
-    <title>Avav: Hypersonic RF Software Engineering Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993"/>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4731584005</id>
+    <title>Astera Labs: Firmware Engineer Intern (Leo)</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731584005"/>
     <updated>2026-10-06T16:29:51Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Germantown, MD · Python, Java, C++, JavaScript, MATLAB · sponsorship: citizens-only</summary>
+    <summary>Not stated · Hardware · San Jose, CA · $35/hr · Python, Linux · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4731585005</id>
+    <title>Astera Labs: Firmware Engineer Intern (SCO1)</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731585005"/>
+    <updated>2026-10-06T16:29:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · San Jose, CA · $35/hr · Python, C++, Git · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4731591005</id>
+    <title>Astera Labs: Firmware Engineer Intern (DevSecOps)</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731591005"/>
+    <updated>2026-10-06T16:29:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · San Jose, CA · $35/hr · Python, C++, Linux, Git · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4731593005</id>
+    <title>Astera Labs: Firmware Engineer Intern (Retimer)</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731593005"/>
+    <updated>2026-10-06T16:29:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · San Jose, CA · $35/hr · Python, C++, Linux, Git · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4731996005</id>
+    <title>Astera Labs: Data Analyst Intern</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731996005"/>
+    <updated>2026-10-06T16:29:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Jose, CA · $35/hr · Python, SQL, Tableau · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4738565005</id>
+    <title>Astera Labs: Firmware Engineering Intern (Optical)</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738565005"/>
+    <updated>2026-10-06T16:29:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · San Jose, CA · $35/hr · Python · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:iex-interns:8171127</id>
+    <title>IEX: Platform Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/iex-interns/jobs/8171127"/>
+    <updated>2026-10-06T16:29:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York · $45/hr · Python, Rust, Bash, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:iex-interns:8171239</id>
+    <title>IEX: Software Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/iex-interns/jobs/8171239"/>
+    <updated>2026-10-06T16:29:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York · $45/hr · Python, Java, C++, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:iex-interns:8172248</id>
+    <title>IEX: Software Development Engineer in Test Intern</title>
+    <link href="https://job-boards.greenhouse.io/iex-interns/jobs/8172248"/>
+    <updated>2026-10-06T16:29:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York · $45/hr · Java, JavaScript, SQL, Node.js, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:iex-interns:8173713</id>
@@ -112,36 +168,36 @@
     <summary>Not stated · Data &amp; ML/AI · New York · $45/hr · Python, LLMs, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:iex-interns:8171127</id>
-    <title>IEX: Platform Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/iex-interns/jobs/8171127"/>
+    <id>urn:intern-engine:workday:avav:/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993</id>
+    <title>Avav: Hypersonic RF Software Engineering Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993"/>
     <updated>2026-10-06T16:29:51Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · New York · $45/hr · Python, Rust, Bash, Linux, Git</summary>
+    <summary>Not stated · Software · Germantown, MD · Python, Java, C++, JavaScript, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:iex-interns:8172248</id>
-    <title>IEX: Software Development Engineer in Test Intern</title>
-    <link href="https://job-boards.greenhouse.io/iex-interns/jobs/8172248"/>
+    <id>urn:intern-engine:workday:biibhr:/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310</id>
+    <title>Biogen: Co-op, Machine Learning Engineering</title>
+    <link href="https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310"/>
     <updated>2026-10-06T16:29:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · $45/hr · Java, JavaScript, SQL, Node.js, Linux</summary>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Remote, USA · Python, Git · status: closed · H-1B track record: ~125 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:iex-interns:8171239</id>
-    <title>IEX: Software Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/iex-interns/jobs/8171239"/>
+    <id>urn:intern-engine:workday:midlandsb:/job/Effingham-IL/Intern---IT-Infrastructure_JR1471</id>
+    <title>Midland States Bank: Intern - IT Infrastructure</title>
+    <link href="https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---IT-Infrastructure_JR1471"/>
     <updated>2026-10-06T16:29:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · $45/hr · Python, Java, C++, LLMs</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Effingham, IL · Python · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rockwellautomation:/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1</id>
     <title>Rockwell Automation: Intern, Firmware and Software Test Development 🛂</title>
     <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1"/>
-    <updated>2026-10-06T16:29:51Z</updated>
+    <updated>2026-10-06T21:30:16Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Mequon, Wisconsin, United States · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Mequon, Wisconsin, United States · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship · status: closed · H-1B track record: ~90 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:amgen:/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886</id>
@@ -445,7 +501,7 @@
     <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770"/>
     <updated>2026-10-02T17:08:08Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · 6314 Remote/Teleworker US · Python, JavaScript, LLMs · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+    <summary>3 openings · Not stated · Data &amp; ML/AI · 6314 Remote/Teleworker US · Python, JavaScript, LLMs · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784</id>
@@ -641,7 +697,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:allen-control-systems:1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94</id>
-    <title>Allen Control Systems: Software Engineering Intern, UX/UI 2027</title>
+    <title>Allen Control Systems: Android Developer Intern, 2027</title>
     <link href="https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94"/>
     <updated>2026-09-30T22:49:55Z</updated>
     <category term="Spring 2027"/>
@@ -750,61 +806,5 @@
     <updated>2026-10-02T21:15:58Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · United States-Illinois-Rolling Meadows · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768</id>
-    <title>Northrop Grumman: 2027 Software Engineer Intern - Morrisville NC 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768"/>
-    <updated>2026-10-02T21:15:58Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-North Carolina-Morrisville · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731</id>
-    <title>Northrop Grumman: 2027 Software Engineering Intern Dulles VA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731"/>
-    <updated>2026-10-02T21:15:58Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Virginia-Dulles · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000152679699</id>
-    <title>Wellmark: Software Engineer Internship – Metadata Enablement Team</title>
-    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000152679699"/>
-    <updated>2026-09-30T13:16:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Des Moines, IA, United States (Hybrid) · Python, JavaScript, SQL, Node.js, Angular · H-1B track record: ~15 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:avav:/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901</id>
-    <title>Avav: Titan-SV Software Engineer Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901"/>
-    <updated>2026-09-30T13:16:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Leesburg, VA · Python, Java, C++, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:avav:/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885</id>
-    <title>Avav: Digital Business Technology Infrastructure (DBT) Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885"/>
-    <updated>2026-09-30T13:16:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Simi Valley, CA · dbt, AWS · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:avav:/job/Sunrise-FL/Software-Engineering-Intern_8797</id>
-    <title>Avav: Software Engineering Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineering-Intern_8797"/>
-    <updated>2026-09-30T13:16:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Sunrise, FL · Python, Java, C++, Bash, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790</id>
-    <title>Northrop Grumman: 2027 Embedded Software Engineer Intern – Rolling Meadows IL 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790"/>
-    <updated>2026-10-02T16:47:57Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Illinois-Rolling Meadows · $20.5–$37.25/hr · Java, C++, Git · sponsorship: citizens-only · status: closed</summary>
   </entry>
 </feed>

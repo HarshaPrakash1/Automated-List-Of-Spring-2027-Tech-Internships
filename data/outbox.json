@@ -713,7 +713,19 @@
       "greenhouse:iex-interns:8171127",
       "greenhouse:iex-interns:8172248",
       "greenhouse:iex-interns:8171239",
-      "workday:rockwellautomation:/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1"
+      "workday:rockwellautomation:/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40566",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40806",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40807",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40812",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40808",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40809",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40810",
+      "greenhouse:drwuniversityjobs:8259714",
+      "greenhouse:engineersgate:8249666",
+      "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op_R004416",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1428,7 +1440,19 @@
       "greenhouse:iex-interns:8171127",
       "greenhouse:iex-interns:8172248",
       "greenhouse:iex-interns:8171239",
-      "workday:rockwellautomation:/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1"
+      "workday:rockwellautomation:/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40566",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40806",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40807",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40812",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40808",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40809",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40810",
+      "greenhouse:drwuniversityjobs:8259714",
+      "greenhouse:engineersgate:8249666",
+      "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op_R004416",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767"
     ]
   }
 }
