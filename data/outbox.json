@@ -725,7 +725,9 @@
       "greenhouse:engineersgate:8249666",
       "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op_R004416",
       "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
-      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767"
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767",
+      "greenhouse:tenstorrentuniversity:5258901007",
+      "greenhouse:tenstorrentuniversity:5256686007"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1452,7 +1454,9 @@
       "greenhouse:engineersgate:8249666",
       "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op_R004416",
       "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
-      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767"
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767",
+      "greenhouse:tenstorrentuniversity:5258901007",
+      "greenhouse:tenstorrentuniversity:5256686007"
     ]
   }
 }
