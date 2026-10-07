@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-07T07:27:03Z</updated>
+  <updated>2026-10-07T14:42:49Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5258901007</id>
-    <title>Tenstorrent: AI Software Intern</title>
-    <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007"/>
-    <updated>2026-10-07T07:27:03Z</updated>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107374</id>
+    <title>S&amp;C Electric Company: Software Engineer Intern</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374"/>
+    <updated>2026-10-07T14:42:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Chicago, IL, United States · $22–$30/hr · Python, C#, JavaScript, SQL, Angular · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entrust:/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419</id>
+    <title>Entrust: Firmware Engineering Co-op</title>
+    <link href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419"/>
+    <updated>2026-10-07T14:42:49Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Austin, Texas, United States; Santa Clara, California, United States · $50/hr · Python, C++, PyTorch, TensorFlow, LLMs</summary>
+    <summary>Not stated · Hardware · United States - Shakopee, MN (GHQ) · $25/hr · Python, C++, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1</id>
+    <title>Northrop Grumman: 2027 Software Developer Intern- Chantilly VA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1"/>
+    <updated>2026-10-07T14:42:49Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · United States-Virginia-Chantilly · $21.5–$39/hr · Python, Java, C++, C#, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852</id>
+    <title>Northrop Grumman: 2027 Software Engineering Intern - Roy UT 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852"/>
+    <updated>2026-10-07T14:42:49Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · United States-Utah-Roy · $23–$29/hr · Python, Java, C++, Git, Tableau · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256686007</id>
@@ -22,6 +46,14 @@
     <updated>2026-10-07T07:27:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Austin, Texas, United States; Santa Clara, California, United States · $50/hr · Python, Bash, Kubernetes, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5258901007</id>
+    <title>Tenstorrent: AI Software Intern</title>
+    <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007"/>
+    <updated>2026-10-07T07:27:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Austin, Texas, United States; Santa Clara, California, United States · $50/hr · Python, C++, PyTorch, TensorFlow, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:drwuniversityjobs:8259714</id>
@@ -333,7 +365,7 @@
     <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531"/>
     <updated>2026-10-05T22:48:10Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US, Oregon, Hillsboro · Python, C++, Bash, PyTorch, TensorFlow · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · US, Oregon, Hillsboro · Python, C++, Bash, PyTorch, TensorFlow · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:jainglobal:/job/New-York-New-York/Data-Engineer-Intern_JR100605-1</id>
@@ -525,7 +557,7 @@
     <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770"/>
     <updated>2026-10-02T17:08:08Z</updated>
     <category term="Not stated"/>
-    <summary>3 openings · Not stated · Data &amp; ML/AI · 6314 Remote/Teleworker US · Python, JavaScript, LLMs · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+    <summary>4 openings · Not stated · Data &amp; ML/AI · 6314 Remote/Teleworker US · Python, JavaScript, LLMs · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-30T18:39:26Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · Seattle, Washington, USA · AWS, Python, Java, C++, C# · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:plot:5f8cfeaa-c368-480f-aaa5-de52452a63d0</id>
-    <title>Plot Technologies: Co-op -- Applied AI</title>
-    <link href="https://jobs.ashbyhq.com/plot/5f8cfeaa-c368-480f-aaa5-de52452a63d0"/>
-    <updated>2026-09-30T18:39:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York City · LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000152706359</id>
-    <title>Bosch: Commercial Project Management &amp; AI Innovation Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000152706359"/>
-    <updated>2026-09-30T18:39:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Plymouth, MI, United States · Python, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Pleasanton-California-94566/Firmware-Engineering-Co-op_JR100319</id>
-    <title>Bracco: Firmware Engineering Co-op</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Pleasanton-California-94566/Firmware-Engineering-Co-op_JR100319"/>
-    <updated>2026-09-30T18:39:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · USA, Pleasanton, California, 94566 · $38–$40/hr · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dow:/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Spring-2027-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2068792</id>
-    <title>Dow Chemical Company: Data Engineer / Data Platform Engineer Internship Spring 2027 Semester at the Dow Delivery Center at UIUC (Champaign, IL) 🛂</title>
-    <link href="https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Spring-2027-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2068792"/>
-    <updated>2026-09-30T18:39:26Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Kankakee (IL, USA) · $26.25–$35/hr · Python, SQL, Scala, AWS, GCP · sponsorship: no-sponsorship · H-1B track record: ~61 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

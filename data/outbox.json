@@ -727,7 +727,12 @@
       "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
       "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767",
       "greenhouse:tenstorrentuniversity:5258901007",
-      "greenhouse:tenstorrentuniversity:5256686007"
+      "greenhouse:tenstorrentuniversity:5256686007",
+      "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419",
+      "workday:intel:/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
+      "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1456,7 +1461,12 @@
       "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
       "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767",
       "greenhouse:tenstorrentuniversity:5258901007",
-      "greenhouse:tenstorrentuniversity:5256686007"
+      "greenhouse:tenstorrentuniversity:5256686007",
+      "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419",
+      "workday:intel:/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
+      "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852"
     ]
   }
 }
