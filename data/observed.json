@@ -2557,6 +2557,18 @@
     }
    }
   },
+  "rugged robotics": {
+   "name": "Rugged Robotics",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-08",
+     "role_ids": [
+      "greenhouse:ruggedrobotics:4730908005"
+     ],
+     "count": 1
+    }
+   }
+  },
   "sage": {
    "name": "Sage",
    "cycles": {
@@ -3407,5 +3419,5 @@
    }
   }
  },
- "updated_at": "2026-10-08T06:53:52Z"
+ "updated_at": "2026-10-08T14:12:58Z"
 }

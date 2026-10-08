@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-08T06:53:52Z</updated>
+  <updated>2026-10-08T14:12:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:axos:/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647</id>
-    <title>Axos Bank: Software Development Intern</title>
-    <link href="https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647"/>
-    <updated>2026-10-08T06:53:52Z</updated>
+    <id>urn:intern-engine:workday:badgermeter:/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645</id>
+    <title>Badger Meter: Software Engineering Intern</title>
+    <link href="https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645"/>
+    <updated>2026-10-08T14:12:58Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · HQ - San Diego, CA · SQL</summary>
+    <summary>Not stated · Software · US  - CA - Escondido Facility</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Data-Scientist-Co-op_R202683033</id>
+    <title>Cox: Data Scientist Co-op</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Co-op_R202683033"/>
+    <updated>2026-10-08T14:12:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Atlanta GA · $22.02–$33.08/hr · Python, SQL, scikit-learn, Pandas, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374</id>
+    <title>Gordon Food Service: Software Engineer Intern (Transportation Routing )</title>
+    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374"/>
+    <updated>2026-10-08T14:12:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Wyoming, Michigan · LLMs · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152</id>
+    <title>Leidos: Systems, Integration and Software Engineer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152"/>
+    <updated>2026-10-08T14:12:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Atlantic City, NJ · Python, Java, C++, JavaScript · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:ruggedrobotics:4730908005</id>
+    <title>Rugged Robotics: Robotic Software Intern/Co-op (Spring or Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005"/>
+    <updated>2026-10-08T14:12:58Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Houston, TX · Python, C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:axos:/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658</id>
@@ -22,6 +54,14 @@
     <updated>2026-10-08T06:53:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · HQ - San Diego, CA · SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:axos:/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647</id>
+    <title>Axos Bank: Software Development Intern</title>
+    <link href="https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647"/>
+    <updated>2026-10-08T06:53:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · HQ - San Diego, CA · SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10553907</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-01T15:38:58Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Quant · Chicago, IL, United States · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stripe:8194291</id>
-    <title>Stripe: Data Analyst, Intern</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8194291"/>
-    <updated>2026-10-01T15:38:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York, Seattle, South San Francisco HQ · SQL · H-1B track record: ~441 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/IN---Pune/Intern--Software-QA-Engineer_2603892</id>
-    <title>Marvell: Intern, Software QA Engineer</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/IN---Pune/Intern--Software-QA-Engineer_2603892"/>
-    <updated>2026-10-02T00:22:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · IN - Pune · Python, C++ · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1</id>
-    <title>Allegion: Summer Intern - Software Engineering - Quality Assurance</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1"/>
-    <updated>2026-10-01T01:46:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Golden, CO · $25–$26/hr · Python, C#, AWS, Azure, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:allen-control-systems:1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94</id>
-    <title>Allen Control Systems: Android Developer Intern, 2027</title>
-    <link href="https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94"/>
-    <updated>2026-09-30T22:49:55Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Austin, TX · Kotlin, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:claylabs:5b7eced2-36bd-4265-a2a8-da0f786e47aa</id>
-    <title>Clay: Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa"/>
-    <updated>2026-09-30T22:49:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · Python, TypeScript, LLMs, React, Node.js</summary>
   </entry>
 </feed>
