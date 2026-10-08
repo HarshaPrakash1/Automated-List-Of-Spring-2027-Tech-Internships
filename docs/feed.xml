@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-08T00:26:21Z</updated>
+  <updated>2026-10-08T06:53:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:axos:/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647</id>
+    <title>Axos Bank: Software Development Intern</title>
+    <link href="https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647"/>
+    <updated>2026-10-08T06:53:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · HQ - San Diego, CA · SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:axos:/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658</id>
+    <title>Axos Bank: AI Engineer Intern</title>
+    <link href="https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658"/>
+    <updated>2026-10-08T06:53:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · HQ - San Diego, CA · SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10553907</id>
     <title>Amazon: Data Engineer Internship - 2027 (US)</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-30T22:49:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York · Python, TypeScript, LLMs, React, Node.js</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:ramp:b39ceb08-a0a7-4f8b-a760-2fb88e209956</id>
-    <title>Ramp: Applied Scientist Intern</title>
-    <link href="https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956"/>
-    <updated>2026-09-30T22:49:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York, NY (HQ) · $12.5K per month · Python, SQL, PyTorch, scikit-learn, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:genscript:5253581007</id>
-    <title>GenScript: AI Intern, Enterprise Agent Development</title>
-    <link href="https://job-boards.greenhouse.io/genscript/jobs/5253581007"/>
-    <updated>2026-09-30T22:49:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Piscataway, New Jersey, United States · $30–$40/hr · Python, Java, LLMs</summary>
   </entry>
 </feed>

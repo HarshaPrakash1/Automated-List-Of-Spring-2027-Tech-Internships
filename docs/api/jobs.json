@@ -1,11 +1,57 @@
 {
- "generated_at": "2026-10-08T00:26:21Z",
- "data_as_of": "2026-10-08T00:26:21Z",
- "rendered_at": "2026-10-08T00:26:22Z",
+ "generated_at": "2026-10-08T06:53:52Z",
+ "data_as_of": "2026-10-08T06:53:52Z",
+ "rendered_at": "2026-10-08T06:53:52Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 542,
+ "count": 544,
  "jobs": [
+  {
+   "id": "workday:axos:/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647",
+   "company": "Axos Bank",
+   "title": "Software Development Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "HQ - San Diego, CA",
+   "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647",
+   "posted_at": "2026-10-07T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-08T06:53:52Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "SQL"
+   ],
+   "source": "workday",
+   "h1b_approvals": 6,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:axos:/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658",
+   "company": "Axos Bank",
+   "title": "AI Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "HQ - San Diego, CA",
+   "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658",
+   "posted_at": "2026-10-07T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-08T06:53:52Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "SQL"
+   ],
+   "source": "workday",
+   "h1b_approvals": 6,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726",
    "company": "RTX",
