@@ -1,41 +1,11 @@
 {
- "generated_at": "2026-10-07T20:26:12Z",
- "data_as_of": "2026-10-07T20:26:12Z",
- "rendered_at": "2026-10-07T20:26:13Z",
+ "generated_at": "2026-10-08T00:26:21Z",
+ "data_as_of": "2026-10-08T00:26:21Z",
+ "rendered_at": "2026-10-08T00:26:22Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
  "count": 542,
  "jobs": [
-  {
-   "id": "workday:hpe:/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417",
-   "company": "Hewlett Packard Enterprise",
-   "title": "AI Performance Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Spring, Texas, United States of America",
-   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417",
-   "posted_at": "2026-10-07T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-07T20:26:12Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "PyTorch",
-    "TensorFlow",
-    "LLMs",
-    "CUDA",
-    "HTML/CSS",
-    "Docker",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": 499,
-   "program": "Internship",
-   "remote": false
-  },
   {
    "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726",
    "company": "RTX",
@@ -82,6 +52,36 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Co-op",
+   "remote": false
+  },
+  {
+   "id": "workday:hpe:/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417",
+   "company": "Hewlett Packard Enterprise",
+   "title": "AI Performance Engineering Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Spring, Texas, United States of America",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417",
+   "posted_at": "2026-10-07T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-07T20:26:12Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "LLMs",
+    "CUDA",
+    "HTML/CSS",
+    "Docker",
+    "Linux"
+   ],
+   "source": "workday",
+   "h1b_approvals": 499,
+   "program": "Internship",
    "remote": false
   },
   {
@@ -697,7 +697,9 @@
    "first_seen_at": "2026-10-05T22:48:10Z",
    "sponsorship": "unknown",
    "salary": null,
-   "skills": [],
+   "skills": [
+    "Git"
+   ],
    "source": "ashby",
    "h1b_approvals": null,
    "program": "Internship",
@@ -5361,6 +5363,34 @@
    "remote": false
   },
   {
+   "id": "amazon:amazon:10553907",
+   "company": "Amazon",
+   "title": "Data Engineer Internship - 2027 (US)",
+   "season": "Spring 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
+   "posted_at": "2026-09-18T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-08T00:26:21Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Scala",
+    "AWS",
+    "Hadoop",
+    "Tableau"
+   ],
+   "source": "amazon",
+   "h1b_approvals": 23139,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388",
    "company": "Johnson & Johnson",
    "title": "Medical Device Cybersecurity Co-Op",
@@ -8251,30 +8281,6 @@
     "PyTorch"
    ],
    "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:rfsmart:5407206008",
-   "company": "RF-SMART",
-   "title": "Product Engineering Software Developer Internship - Spring & Summer 2027",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Jacksonville, Florida, United States",
-   "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008",
-   "posted_at": "2026-09-10T16:55:43-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-10T22:42:52Z",
-   "sponsorship": "no-sponsorship",
-   "salary": "$25/hr",
-   "skills": [
-    "C#",
-    "TypeScript"
-   ],
-   "source": "greenhouse",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
