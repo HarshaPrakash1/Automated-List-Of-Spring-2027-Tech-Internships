@@ -199,9 +199,10 @@
       "amazon:amazon:10529525",
       "amazon:amazon:10553907",
       "amazon:amazon:10557133",
-      "amazon:amazon:10565667"
+      "amazon:amazon:10565667",
+      "amazon:amazon:10573570"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -2034,6 +2035,7 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
+      "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
@@ -2056,7 +2058,7 @@
       "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731"
      ],
-     "count": 22
+     "count": 23
     }
    }
   },
@@ -2550,10 +2552,11 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01878369",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -2773,6 +2776,13 @@
      "role_ids": [
       "lever:solopulseco:00fbde18-a387-4c9f-97d4-77059aec7b56"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-10-08",
+     "role_ids": [
+      "lever:solopulseco:1b36afea-e8eb-4cea-a6e9-0afc384d06ef"
+     ],
+     "count": 1
     }
    }
   },
@@ -3419,5 +3429,5 @@
    }
   }
  },
- "updated_at": "2026-10-08T14:12:58Z"
+ "updated_at": "2026-10-08T20:05:10Z"
 }

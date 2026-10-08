@@ -743,7 +743,16 @@
       "workday:cox:/job/Atlanta-GA/Data-Scientist-Co-op_R202683033",
       "workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374",
       "workday:leidos:/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
-      "greenhouse:ruggedrobotics:4730908005"
+      "greenhouse:ruggedrobotics:4730908005",
+      "amazon:amazon:10573570",
+      "lever:genbio:7d0b5764-48ce-4d06-93d2-431742d35604",
+      "lever:solopulseco:1b36afea-e8eb-4cea-a6e9-0afc384d06ef",
+      "workday:aep:/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R19884",
+      "workday:bah:/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314",
+      "workday:jj:/job/Spring-House-Pennsylvania-United-States-of-America/AI-Excellence--Decision-Enablement-Intern_R-102881",
+      "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
+      "greenhouse:perpay:5260960007",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01878369"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1488,7 +1497,16 @@
       "workday:cox:/job/Atlanta-GA/Data-Scientist-Co-op_R202683033",
       "workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374",
       "workday:leidos:/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
-      "greenhouse:ruggedrobotics:4730908005"
+      "greenhouse:ruggedrobotics:4730908005",
+      "amazon:amazon:10573570",
+      "lever:genbio:7d0b5764-48ce-4d06-93d2-431742d35604",
+      "lever:solopulseco:1b36afea-e8eb-4cea-a6e9-0afc384d06ef",
+      "workday:aep:/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R19884",
+      "workday:bah:/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314",
+      "workday:jj:/job/Spring-House-Pennsylvania-United-States-of-America/AI-Excellence--Decision-Enablement-Intern_R-102881",
+      "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
+      "greenhouse:perpay:5260960007",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01878369"
     ]
   }
 }

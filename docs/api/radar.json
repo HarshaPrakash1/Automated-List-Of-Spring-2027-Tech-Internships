@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-08T14:12:58Z",
- "data_as_of": "2026-10-08T14:12:58Z",
- "rendered_at": "2026-10-08T14:12:59Z",
+ "generated_at": "2026-10-08T20:05:10Z",
+ "data_as_of": "2026-10-08T20:05:10Z",
+ "rendered_at": "2026-10-08T20:05:11Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -568,25 +568,6 @@
    "days_until": -30,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
-   "company": "Applied Materials",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -30,
-   "status": "open",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1290,6 +1271,25 @@
    "days_until": 0,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-08"
+   }
+  },
+  {
+   "company": "SoloPulse",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4052,6 +4052,25 @@
    }
   },
   {
+   "company": "Applied Materials",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "Devon Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -4261,5 +4280,5 @@
    }
   }
  ],
- "count": 224
+ "count": 225
 }
