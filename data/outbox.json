@@ -769,7 +769,9 @@
       "smartrecruiters:Loram1:3743990016031492",
       "workday:micron:/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542",
       "greenhouse:schonfeld:8267092",
-      "greenhouse:schonfeld:8267120"
+      "greenhouse:schonfeld:8267120",
+      "workday:dtna:/job/Portland-OR-US/Data-Science-Intern_DT-20166-1",
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1540,7 +1542,9 @@
       "smartrecruiters:Loram1:3743990016031492",
       "workday:micron:/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542",
       "greenhouse:schonfeld:8267092",
-      "greenhouse:schonfeld:8267120"
+      "greenhouse:schonfeld:8267120",
+      "workday:dtna:/job/Portland-OR-US/Data-Science-Intern_DT-20166-1",
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941"
     ]
   }
 }

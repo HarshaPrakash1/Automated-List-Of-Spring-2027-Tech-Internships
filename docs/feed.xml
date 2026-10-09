@@ -5,39 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-09T19:44:16Z</updated>
+  <updated>2026-10-09T23:45:04Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:alcon:/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204</id>
-    <title>Alcon: Clinical Data Science Intern 🛂</title>
-    <link href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204"/>
-    <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Fort Worth, Texas · Python · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:faire:8870975002</id>
-    <title>Faire: Applied AI/ML Scientist, Intern</title>
-    <link href="https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002"/>
-    <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · San Francisco, CA · Python, SQL, PyTorch · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25012948</id>
-    <title>Texas Instruments: Software Engineering Intern (Longmont, CO) 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012948"/>
-    <updated>2026-10-09T19:44:16Z</updated>
+    <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Data-Science-Intern_DT-20166-1</id>
+    <title>Daimler Truck: Data Science Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Data-Science-Intern_DT-20166-1"/>
+    <updated>2026-10-09T23:45:04Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Longmont, CO, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:arcesiumllc:5257199007</id>
-    <title>Arcesium: Infrastructure Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007"/>
-    <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · Python, Java, LLMs, AWS, Kubernetes · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Portland, OR US · $21–$29/hr · Python, SQL, AWS, GCP, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:arcesiumllc:5257176007</id>
@@ -48,44 +24,20 @@
     <summary>Not stated · Software · New York · Java, TypeScript, SQL, Kotlin, AWS · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:barrywehmiller:/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133</id>
-    <title>Barry-Wehmiller: Software Engineering Intern - DAL</title>
-    <link href="https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133"/>
+    <id>urn:intern-engine:greenhouse:arcesiumllc:5257199007</id>
+    <title>Arcesium: Infrastructure Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007"/>
     <updated>2026-10-09T19:44:16Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Dallas, TX · C++, C#</summary>
+    <summary>Not stated · Software · New York · Python, Java, LLMs, AWS, Kubernetes · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154759734</id>
-    <title>Bosch: Artificial Intelligence / Machine Learning: Foundation Models - Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154759734"/>
+    <id>urn:intern-engine:greenhouse:faire:8870975002</id>
+    <title>Faire: Applied AI/ML Scientist, Intern</title>
+    <link href="https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002"/>
     <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, PyTorch, Computer Vision · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154757409</id>
-    <title>Bosch: Information Security and Privacy Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154757409"/>
-    <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Farmington Hills, MI, United States · LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Loram1:3743990016031492</id>
-    <title>Loram: Machine Learning / Artificial Intelligence (AI) Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Loram1/3743990016031492"/>
-    <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Hamel, MN, United States · Python, C#, SQL, PyTorch, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542</id>
-    <title>Micron Technology: Intern - SSD Firmware - CICD</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542"/>
-    <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Longmont-MAX- Office, CO · Python, LLMs, Git · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · San Francisco, CA · Python, SQL, PyTorch · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:schonfeld:8267092</id>
@@ -102,6 +54,62 @@
     <updated>2026-10-09T19:44:16Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Quant · Austin, Texas, United States · Python, Java, C++, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25012948</id>
+    <title>Texas Instruments: Software Engineering Intern (Longmont, CO) 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012948"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Longmont, CO, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154757409</id>
+    <title>Bosch: Information Security and Privacy Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154757409"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Farmington Hills, MI, United States · LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154759734</id>
+    <title>Bosch: Artificial Intelligence / Machine Learning: Foundation Models - Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154759734"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, PyTorch, Computer Vision · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Loram1:3743990016031492</id>
+    <title>Loram: Machine Learning / Artificial Intelligence (AI) Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Loram1/3743990016031492"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Hamel, MN, United States · Python, C#, SQL, PyTorch, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alcon:/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204</id>
+    <title>Alcon: Clinical Data Science Intern 🛂</title>
+    <link href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Fort Worth, Texas · Python · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:barrywehmiller:/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133</id>
+    <title>Barry-Wehmiller: Software Engineering Intern - DAL</title>
+    <link href="https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Dallas, TX · C++, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542</id>
+    <title>Micron Technology: Intern - SSD Firmware - CICD</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Longmont-MAX- Office, CO · Python, LLMs, Git · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398</id>
@@ -149,7 +157,7 @@
     <link href="https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2"/>
     <updated>2026-10-09T00:34:27Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Boulder, CO · Python, Ruby · sponsorship: no-sponsorship</summary>
+    <summary>Spring 2027 · Software · Boulder, CO · Python, JavaScript, Ruby, React, Vue · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:centific:/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-06T09:37:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US Remote · Python, Java, JavaScript, SQL · status: closed · H-1B track record: ~81 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:xai:5252108007</id>
-    <title>xAI: Spring 2027 Software Engineering Internship/Co-op</title>
-    <link href="https://job-boards.greenhouse.io/xai/jobs/5252108007"/>
-    <updated>2026-10-02T21:34:53Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Palo Alto, CA · Python, Java, C++, C#, JavaScript</summary>
   </entry>
 </feed>
