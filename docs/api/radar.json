@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-09T14:03:16Z",
- "data_as_of": "2026-10-09T14:03:16Z",
- "rendered_at": "2026-10-09T14:03:17Z",
+ "generated_at": "2026-10-09T19:44:16Z",
+ "data_as_of": "2026-10-09T19:44:16Z",
+ "rendered_at": "2026-10-09T19:44:16Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -1127,25 +1127,6 @@
    }
   },
   {
-   "company": "Duke Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-01",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Lake-Mary-FL/PGO-Cybersecurity-Spring-2027-Co-op_R41837",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-10-01"
-   }
-  },
-  {
    "company": "Pinterest",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
@@ -1295,24 +1276,6 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-08"
-   }
-  },
-  {
-   "company": "REV Robotics",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "",
-   "days_until": null,
-   "status": "open",
-   "url": "https://ats.rippling.com/rev-robotics/jobs/9f4e5d99-0bba-4e03-8018-e312810a3dba",
-   "note": "",
-   "provenance": {
-    "type": "live-role",
-    "url": "https://ats.rippling.com/rev-robotics/jobs/9f4e5d99-0bba-4e03-8018-e312810a3dba"
    }
   },
   {
@@ -4297,7 +4260,26 @@
     "cycle": "Spring 2027",
     "observed_on": "2026-09-25"
    }
+  },
+  {
+   "company": "Duke Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-01"
+   }
   }
  ],
- "count": 226
+ "count": 225
 }

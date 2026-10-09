@@ -759,7 +759,17 @@
       "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
       "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385",
       "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398",
-      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399"
+      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399",
+      "oracle:edbz.fa.us2.oraclecloud.com:25012948",
+      "greenhouse:arcesiumllc:5257199007",
+      "greenhouse:arcesiumllc:5257176007",
+      "workday:barrywehmiller:/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133",
+      "smartrecruiters:BoschGroup:744000154759734",
+      "smartrecruiters:BoschGroup:744000154757409",
+      "smartrecruiters:Loram1:3743990016031492",
+      "workday:micron:/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542",
+      "greenhouse:schonfeld:8267092",
+      "greenhouse:schonfeld:8267120"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1520,7 +1530,17 @@
       "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
       "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385",
       "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398",
-      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399"
+      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399",
+      "oracle:edbz.fa.us2.oraclecloud.com:25012948",
+      "greenhouse:arcesiumllc:5257199007",
+      "greenhouse:arcesiumllc:5257176007",
+      "workday:barrywehmiller:/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133",
+      "smartrecruiters:BoschGroup:744000154759734",
+      "smartrecruiters:BoschGroup:744000154757409",
+      "smartrecruiters:Loram1:3743990016031492",
+      "workday:micron:/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542",
+      "greenhouse:schonfeld:8267092",
+      "greenhouse:schonfeld:8267120"
     ]
   }
 }

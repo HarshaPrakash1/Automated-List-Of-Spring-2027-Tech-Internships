@@ -5,15 +5,111 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-09T14:03:16Z</updated>
+  <updated>2026-10-09T19:44:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:jci:/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408</id>
-    <title>Johnson Controls: Software Engineering Co-Op</title>
-    <link href="https://jci.wd5.myworkdayjobs.com/JCI/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408"/>
-    <updated>2026-10-09T14:03:16Z</updated>
+    <id>urn:intern-engine:workday:alcon:/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204</id>
+    <title>Alcon: Clinical Data Science Intern 🛂</title>
+    <link href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Fort Worth, Texas · Python · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:faire:8870975002</id>
+    <title>Faire: Applied AI/ML Scientist, Intern</title>
+    <link href="https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002"/>
+    <updated>2026-10-09T19:44:16Z</updated>
     <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Burlington-Massachusetts-United States of America · Python, C++, JavaScript, Bash, React · status: closed · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+    <summary>Winter 2027 · Data &amp; ML/AI · San Francisco, CA · Python, SQL, PyTorch · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25012948</id>
+    <title>Texas Instruments: Software Engineering Intern (Longmont, CO) 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012948"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Longmont, CO, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:arcesiumllc:5257199007</id>
+    <title>Arcesium: Infrastructure Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York · Python, Java, LLMs, AWS, Kubernetes · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:arcesiumllc:5257176007</id>
+    <title>Arcesium: Software Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257176007"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York · Java, TypeScript, SQL, Kotlin, AWS · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:barrywehmiller:/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133</id>
+    <title>Barry-Wehmiller: Software Engineering Intern - DAL</title>
+    <link href="https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Dallas, TX · C++, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154759734</id>
+    <title>Bosch: Artificial Intelligence / Machine Learning: Foundation Models - Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154759734"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, PyTorch, Computer Vision · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154757409</id>
+    <title>Bosch: Information Security and Privacy Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154757409"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Farmington Hills, MI, United States · LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Loram1:3743990016031492</id>
+    <title>Loram: Machine Learning / Artificial Intelligence (AI) Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Loram1/3743990016031492"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Hamel, MN, United States · Python, C#, SQL, PyTorch, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542</id>
+    <title>Micron Technology: Intern - SSD Firmware - CICD</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Longmont-MAX- Office, CO · Python, LLMs, Git · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:schonfeld:8267092</id>
+    <title>Schonfeld: 2027 Quantitative Developer Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8267092"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Quant · Austin, Texas, United States · Python, Java, C++, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:schonfeld:8267120</id>
+    <title>Schonfeld: 2027 Quantitative Research Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8267120"/>
+    <updated>2026-10-09T19:44:16Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Quant · Austin, Texas, United States · Python, Java, C++, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398</id>
+    <title>Aptiv: Linux Software Development Intern</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398"/>
+    <updated>2026-10-09T14:03:16Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · USA Home Office - WR · Linux, Python, C++, Git · H-1B track record: ~251 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386</id>
@@ -32,12 +128,12 @@
     <summary>Not stated · Software · USA Walnut Creek, CA - WR · Python, Bash, Linux, Git · H-1B track record: ~251 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398</id>
-    <title>Aptiv: Linux Software Development Intern</title>
-    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398"/>
+    <id>urn:intern-engine:workday:jci:/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408</id>
+    <title>Johnson Controls: Software Engineering Co-Op</title>
+    <link href="https://jci.wd5.myworkdayjobs.com/JCI/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408"/>
     <updated>2026-10-09T14:03:16Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · USA Home Office - WR · Linux, Python, C++, Git · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Burlington-Massachusetts-United States of America · Python, C++, JavaScript, Bash, React · status: closed · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:sanofi:/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091</id>
@@ -710,101 +806,5 @@
     <updated>2026-10-02T21:34:53Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · Palo Alto, CA · Python, Java, C++, C#, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804</id>
-    <title>Leidos: Software Developer Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804"/>
-    <updated>2026-10-02T21:34:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Software · Annapolis Junction, MD · Python, Java, C++, JavaScript, HTML/CSS · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sterlingmets:/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508</id>
-    <title>Major League Baseball: Intern, Data Science</title>
-    <link href="https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508"/>
-    <updated>2026-10-02T21:34:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Citi Field – Queens, New York · $20–$25/hr · Python · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:bedrock-robotics:96a6423e-7439-4cb4-9109-117b14e47f7c</id>
-    <title>Bedrock Robotics: 2027 Internship Behavior ML Engineer, Learned Manipulation Policies</title>
-    <link href="https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c"/>
-    <updated>2026-10-02T17:08:08Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · San Francisco, CA · Python, PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:range:5fe3697d-b5b3-4772-9de4-1551cb726718</id>
-    <title>Range: Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718"/>
-    <updated>2026-10-02T17:08:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · McLean, VA · TypeScript, JavaScript, React, Node.js, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:shopback-2:640ac3fb-dae5-4738-95b9-9cb80cc7ad15</id>
-    <title>ShopBack: Software Engineer Intern</title>
-    <link href="https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15"/>
-    <updated>2026-10-02T17:08:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, California · TypeScript, LLMs, Node.js, Kubernetes, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:shopback-2:e5f5e276-e7f7-43e0-a224-5259d242fe98</id>
-    <title>ShopBack: Software Engineer Intern</title>
-    <link href="https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98"/>
-    <updated>2026-10-02T17:08:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York City, New York · TypeScript, LLMs, Node.js, Kubernetes, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aba:/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611</id>
-    <title>American Bankers Association: Intern, Cybersecurity Policy Analyst</title>
-    <link href="https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611"/>
-    <updated>2026-10-02T17:08:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · US DC Main Office · $30/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aba:/job/US-DC-Main-Office/Intern--Quantitative-Research_R614</id>
-    <title>American Bankers Association: Intern, Quantitative Research</title>
-    <link href="https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614"/>
-    <updated>2026-10-02T17:08:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · US DC Main Office · $25/hr · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770</id>
-    <title>Leidos: Business Systems AI Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770"/>
-    <updated>2026-10-02T17:08:08Z</updated>
-    <category term="Not stated"/>
-    <summary>4 openings · Not stated · Data &amp; ML/AI · 6314 Remote/Teleworker US · Python, JavaScript, LLMs · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vanguard:/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784</id>
-    <title>Vanguard: College to Corporate IT Internship-Risk &amp; Security Engineer (PA)</title>
-    <link href="https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784"/>
-    <updated>2026-10-02T17:08:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Malvern, PA · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:profluent:5441955008</id>
-    <title>Profluent: Intern, Software Engineering</title>
-    <link href="https://job-boards.greenhouse.io/profluent/jobs/5441955008"/>
-    <updated>2026-10-02T11:37:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Emeryville, California, United States · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cisco:/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913</id>
-    <title>Cisco: Firmware Engineer II (Co-op) - United States</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913"/>
-    <updated>2026-10-02T00:22:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Maynard, Massachusetts, US · Python, C++, Linux, Git</summary>
   </entry>
 </feed>
