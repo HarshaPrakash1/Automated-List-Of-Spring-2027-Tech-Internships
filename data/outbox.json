@@ -755,7 +755,11 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01878369",
       "lever:viget:b18cc87d-fca2-485a-a0f2-ad6197db63f2",
       "workday:centific:/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1",
-      "workday:sanofi:/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091"
+      "workday:sanofi:/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091",
+      "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
+      "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385",
+      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398",
+      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1512,7 +1516,11 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01878369",
       "lever:viget:b18cc87d-fca2-485a-a0f2-ad6197db63f2",
       "workday:centific:/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1",
-      "workday:sanofi:/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091"
+      "workday:sanofi:/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091",
+      "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
+      "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385",
+      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398",
+      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399"
     ]
   }
 }

@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-09T06:53:09Z</updated>
+  <updated>2026-10-09T14:03:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:jci:/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408</id>
+    <title>Johnson Controls: Software Engineering Co-Op</title>
+    <link href="https://jci.wd5.myworkdayjobs.com/JCI/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408"/>
+    <updated>2026-10-09T14:03:16Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Burlington-Massachusetts-United States of America · Python, C++, JavaScript, Bash, React · status: closed · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386</id>
+    <title>Aptiv: Embedded Software - Engineering Intern 🇺🇸</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386"/>
+    <updated>2026-10-09T14:03:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA Walnut Creek, CA - WR · Linux · sponsorship: citizens-only · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385</id>
+    <title>Aptiv: Intern - Compiler Team</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385"/>
+    <updated>2026-10-09T14:03:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA Walnut Creek, CA - WR · Python, Bash, Linux, Git · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398</id>
+    <title>Aptiv: Linux Software Development Intern</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398"/>
+    <updated>2026-10-09T14:03:16Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · USA Home Office - WR · Linux, Python, C++, Git · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:sanofi:/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091</id>
     <title>Sanofi: 2027 Spring Co-op Data Science &amp; Digital Transformation, Framingham, MA</title>
@@ -233,7 +265,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256686007</id>
-    <title>Tenstorrent: AI SW Intern, Cloud, Infrastructure &amp; Data Centre Deployment</title>
+    <title>Tenstorrent: AI Software Intern - Cloud, Infrastructure &amp; Data Centre Deployment (USA)</title>
     <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007"/>
     <updated>2026-10-07T07:27:03Z</updated>
     <category term="Not stated"/>
@@ -241,7 +273,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5258901007</id>
-    <title>Tenstorrent: AI Software Intern</title>
+    <title>Tenstorrent: AI Software Intern (USA)</title>
     <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007"/>
     <updated>2026-10-07T07:27:03Z</updated>
     <category term="Not stated"/>
@@ -774,37 +806,5 @@
     <updated>2026-10-02T00:22:35Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Maynard, Massachusetts, US · Python, C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cisco:/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920</id>
-    <title>Cisco: Software Engineer I (Co-op) - United States</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920"/>
-    <updated>2026-10-02T00:22:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Maynard, Massachusetts, US · Python, Java, C++, AWS, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cisco:/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923</id>
-    <title>Cisco: Software Engineer II (Co-op) - United States</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923"/>
-    <updated>2026-10-02T00:22:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Maynard, Massachusetts, US · Python, Java, C++, AWS, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:disney:/job/New-York-NY-USA/WABC---TV--ABC7--Programming-Intern--Spring-2027_10158770-1</id>
-    <title>The Walt Disney Company: WABC - TV (ABC7) Programming Intern, Spring 2027</title>
-    <link href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/WABC---TV--ABC7--Programming-Intern--Spring-2027_10158770-1"/>
-    <updated>2026-10-02T00:22:35Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · New York, NY, USA · $22.5/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/AI---Automation-Development-Intern_JR102458</id>
-    <title>HMH: AI &amp; Automation Development Intern</title>
-    <link href="https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/AI---Automation-Development-Intern_JR102458"/>
-    <updated>2026-10-02T00:22:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Houston, TX · Python, SQL, LLMs · status: closed</summary>
   </entry>
 </feed>
