@@ -5,31 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-08T20:05:10Z</updated>
+  <updated>2026-10-09T00:34:27Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:modmed:/job/Boca-Raton-FL/Software-Engineering-Intern_R5148</id>
-    <title>Modernizing Medicine: Software Engineering Intern</title>
-    <link href="https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148"/>
-    <updated>2026-10-08T20:05:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Boca Raton, FL · Python, Java, C#, Go, SQL · status: closed</summary>
+    <id>urn:intern-engine:lever:viget:b18cc87d-fca2-485a-a0f2-ad6197db63f2</id>
+    <title>Viget: Software Developer Intern (2027) 🛂</title>
+    <link href="https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2"/>
+    <updated>2026-10-09T00:34:27Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Boulder, CO · Python, Ruby · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:moog:/job/Torrance-CA/Intern--Computer-Science_R-26-19819</id>
-    <title>Moog: Intern, Computer Science</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Computer-Science_R-26-19819"/>
-    <updated>2026-10-08T20:05:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Torrance, CA · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965</id>
-    <title>Moog: Intern, Software Engineering</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965"/>
-    <updated>2026-10-08T20:05:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mineral Wells, TX · status: closed</summary>
+    <id>urn:intern-engine:workday:centific:/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1</id>
+    <title>Centific: AI Research Intern -  Physical AI</title>
+    <link href="https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1"/>
+    <updated>2026-10-09T00:34:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote Work( USA) · $45/hr · Python, PyTorch, LLMs, Computer Vision, CUDA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10573570</id>
@@ -38,6 +30,14 @@
     <updated>2026-10-08T20:05:10Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Hardware · North Reading, Massachusetts, USA · C++, Rust, LLMs, Computer Vision · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:perpay:5260960007</id>
+    <title>Perpay: Super Day - Data Science Internship</title>
+    <link href="https://job-boards.greenhouse.io/perpay/jobs/5260960007"/>
+    <updated>2026-10-08T20:05:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Philadelphia, Pennsylvania, United States · Python, SQL, scikit-learn, Pandas</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:genbio:7d0b5764-48ce-4d06-93d2-431742d35604</id>
@@ -80,20 +80,36 @@
     <summary>Not stated · Data &amp; ML/AI · Spring House, Pennsylvania, United States of America · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:modmed:/job/Boca-Raton-FL/Software-Engineering-Intern_R5148</id>
+    <title>Modernizing Medicine: Software Engineering Intern</title>
+    <link href="https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148"/>
+    <updated>2026-10-08T20:05:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Boca Raton, FL · Python, Java, C#, Go, SQL · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965</id>
+    <title>Moog: Intern, Software Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965"/>
+    <updated>2026-10-08T20:05:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mineral Wells, TX · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Torrance-CA/Intern--Computer-Science_R-26-19819</id>
+    <title>Moog: Intern, Computer Science</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Computer-Science_R-26-19819"/>
+    <updated>2026-10-08T20:05:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Torrance, CA · status: closed</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207</id>
     <title>Northrop Grumman: 2027 Software Engineer Intern – McClellan CA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207"/>
     <updated>2026-10-08T20:05:10Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · United States-California-McClellan · $21.5–$39/hr · Python, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:perpay:5260960007</id>
-    <title>Perpay: Super Day - Data Science Internship</title>
-    <link href="https://job-boards.greenhouse.io/perpay/jobs/5260960007"/>
-    <updated>2026-10-08T20:05:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Philadelphia, Pennsylvania, United States · Python, SQL, scikit-learn, Pandas</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:ruggedrobotics:4730908005</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-01T20:46:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Atlanta, Georgia · C#, SQL, Angular, HTML/CSS, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pinterest:7838577</id>
-    <title>Pinterest: Software Engineer Intern 2027 (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=7838577"/>
-    <updated>2026-10-01T20:46:26Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · San Francisco, CA, US; Remote, US · Python, Java, C++, TypeScript, JavaScript · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pinterest:8138090</id>
-    <title>Pinterest: Master's Machine Learning Internship 2027 (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138090"/>
-    <updated>2026-10-01T20:46:26Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~343 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
