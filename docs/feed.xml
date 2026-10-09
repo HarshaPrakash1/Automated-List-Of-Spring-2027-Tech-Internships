@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-09T00:34:27Z</updated>
+  <updated>2026-10-09T06:53:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:sanofi:/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091</id>
+    <title>Sanofi: 2027 Spring Co-op Data Science &amp; Digital Transformation, Framingham, MA</title>
+    <link href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091"/>
+    <updated>2026-10-09T06:53:09Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Framingham, MA · Python</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:viget:b18cc87d-fca2-485a-a0f2-ad6197db63f2</id>
     <title>Viget: Software Developer Intern (2027) 🛂</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-02T00:22:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Houston, TX · Python, SQL, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:gassouth:8247622</id>
-    <title>Gas South: Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/gassouth/jobs/8247622"/>
-    <updated>2026-10-01T20:46:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Atlanta, Georgia · C#, SQL, Angular, HTML/CSS, Azure</summary>
   </entry>
 </feed>
