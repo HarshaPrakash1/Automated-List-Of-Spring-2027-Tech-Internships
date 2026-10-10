@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-10T16:08:36Z</updated>
+  <updated>2026-10-10T20:14:24Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:tenet3:8878874002</id>
+    <title>Tenet3: Software Developer (Full Stack) Intern (Spring 2027)</title>
+    <link href="https://job-boards.greenhouse.io/tenet3/jobs/8878874002"/>
+    <updated>2026-10-10T16:08:36Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Dayton, Ohio · Django, AWS, Docker, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:workday:/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809</id>
     <title>Workday: Cybersecurity Engineer Intern 🛂</title>
@@ -14,14 +22,6 @@
     <updated>2026-10-10T16:08:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · USA, CA, Pleasanton · Python, Java, TypeScript, JavaScript, AWS · sponsorship: no-sponsorship · status: closed · H-1B track record: ~581 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:workday:/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810</id>
-    <title>Workday: Software Development Engineer Intern 🛂</title>
-    <link href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"/>
-    <updated>2026-10-10T16:08:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · USA, CA, Pleasanton · Python, Java, C++, JavaScript, Scala · sponsorship: no-sponsorship · status: closed · H-1B track record: ~581 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:workday:/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812</id>
@@ -40,12 +40,12 @@
     <summary>Summer 2027 · Software · USA, CA, Pleasanton · Python, Java, C++, JavaScript, React · sponsorship: no-sponsorship · status: closed · H-1B track record: ~581 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:tenet3:8878874002</id>
-    <title>Tenet3: Software Developer (Full Stack) Intern (Spring 2027)</title>
-    <link href="https://job-boards.greenhouse.io/tenet3/jobs/8878874002"/>
+    <id>urn:intern-engine:workday:workday:/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810</id>
+    <title>Workday: Software Development Engineer Intern 🛂</title>
+    <link href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"/>
     <updated>2026-10-10T16:08:36Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Dayton, Ohio · Django, AWS, Docker, Git</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA, CA, Pleasanton · Python, Java, C++, JavaScript, Scala · sponsorship: no-sponsorship · status: closed · H-1B track record: ~581 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Data-Science-Intern_DT-20166-1</id>
