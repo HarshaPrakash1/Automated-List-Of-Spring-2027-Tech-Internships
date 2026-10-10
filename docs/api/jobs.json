@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-09T23:45:04Z",
- "data_as_of": "2026-10-09T23:45:04Z",
- "rendered_at": "2026-10-09T23:45:05Z",
+ "generated_at": "2026-10-10T02:53:38Z",
+ "data_as_of": "2026-10-10T02:53:38Z",
+ "rendered_at": "2026-10-10T02:53:38Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 545,
+ "count": 543,
  "jobs": [
   {
    "id": "workday:dtna:/job/Portland-OR-US/Data-Science-Intern_DT-20166-1",
@@ -468,36 +468,6 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
-  },
-  {
-   "id": "workday:centific:/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1",
-   "company": "Centific",
-   "title": "AI Research Intern -  Physical AI",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote Work( USA)",
-   "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1",
-   "posted_at": "2026-10-08T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-09T00:34:27Z",
-   "sponsorship": "unknown",
-   "salary": "$45/hr",
-   "skills": [
-    "Python",
-    "PyTorch",
-    "LLMs",
-    "Computer Vision",
-    "CUDA",
-    "Kubernetes",
-    "Docker",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": true
   },
   {
    "id": "amazon:amazon:10573570",
@@ -7468,6 +7438,31 @@
    "remote": false
   },
   {
+   "id": "greenhouse:andurilindustries:5239083007",
+   "company": "Anduril",
+   "title": "2027 Flight Software Engineer Intern",
+   "season": "Spring 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+   "posted_at": "2026-09-15T15:20:09-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-15T20:25:11Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "MATLAB",
+    "Computer Vision"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324",
    "company": "Bracco",
    "title": "Firmware Engineering Co-op",
@@ -9746,32 +9741,6 @@
    "location": "San Jose, CA",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731591005",
    "posted_at": "2026-09-08T00:46:32-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-06T16:29:51Z",
-   "sponsorship": "unknown",
-   "salary": "$35/hr",
-   "skills": [
-    "Python",
-    "C++",
-    "Linux",
-    "Git"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 29,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:asteraearlycareer2027:4731593005",
-   "company": "Astera Labs",
-   "title": "Firmware Engineer Intern (Retimer)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731593005",
-   "posted_at": "2026-09-08T02:02:20-04:00",
    "posted_at_source": "exact",
    "first_seen_at": "2026-10-06T16:29:51Z",
    "sponsorship": "unknown",
@@ -12964,36 +12933,6 @@
    "remote": false
   },
   {
-   "id": "ashby:maximor:3ff6e57d-5430-4836-b6f0-19044d8ee6d8",
-   "company": "Maximor AI",
-   "title": "Software engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "New York City",
-   "url": "https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8",
-   "posted_at": "2026-08-25T20:15:07.571+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-02T05:26:29Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "TypeScript",
-    "JavaScript",
-    "LLMs",
-    "React",
-    "AWS",
-    "GCP",
-    "Kubernetes"
-   ],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "greenhouse:verkada:5210813007",
    "company": "Verkada",
    "title": "Backend Software Engineering Intern 2027",
@@ -13228,35 +13167,6 @@
    "source": "oracle",
    "h1b_approvals": null,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39908",
-   "company": "Nokia",
-   "title": "Deepfield Software Engineer Co-op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "United States",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908",
-   "posted_at": "2026-08-25",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-02T05:26:29Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Rust",
-    "JavaScript",
-    "LLMs",
-    "React",
-    "HTML/CSS",
-    "Linux"
-   ],
-   "source": "oracle",
-   "h1b_approvals": null,
-   "program": "Co-op",
    "remote": false
   },
   {
@@ -13804,6 +13714,33 @@
    "salary": null,
    "skills": [
     "Python"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "greenhouse:andurilindustries:5148079007",
+   "company": "Anduril",
+   "title": "2027 Software Engineer Intern",
+   "season": "Spring 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "posted_at": "2026-06-10T19:33:06-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-02T05:26:29Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "Rust",
+    "Computer Vision"
    ],
    "source": "greenhouse",
    "h1b_approvals": null,
