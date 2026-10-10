@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-10T09:58:51Z</updated>
+  <updated>2026-10-10T16:08:36Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:workday:/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809</id>
+    <title>Workday: Cybersecurity Engineer Intern 🛂</title>
+    <link href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809"/>
+    <updated>2026-10-10T16:08:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · USA, CA, Pleasanton · Python, Java, TypeScript, JavaScript, AWS · sponsorship: no-sponsorship · status: closed · H-1B track record: ~581 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:workday:/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810</id>
+    <title>Workday: Software Development Engineer Intern 🛂</title>
+    <link href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"/>
+    <updated>2026-10-10T16:08:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA, CA, Pleasanton · Python, Java, C++, JavaScript, Scala · sponsorship: no-sponsorship · status: closed · H-1B track record: ~581 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:workday:/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812</id>
+    <title>Workday: Machine Learning Engineer Intern 🛂</title>
+    <link href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812"/>
+    <updated>2026-10-10T16:08:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA, CA, Pleasanton · Python, Pandas, LLMs, AWS, Kubernetes · sponsorship: no-sponsorship · status: closed · H-1B track record: ~581 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:workday:/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811</id>
+    <title>Workday: Software Application Development Engineer Intern 🛂</title>
+    <link href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811"/>
+    <updated>2026-10-10T16:08:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA, CA, Pleasanton · Python, Java, C++, JavaScript, React · sponsorship: no-sponsorship · status: closed · H-1B track record: ~581 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:tenet3:8878874002</id>
+    <title>Tenet3: Software Developer (Full Stack) Intern (Spring 2027)</title>
+    <link href="https://job-boards.greenhouse.io/tenet3/jobs/8878874002"/>
+    <updated>2026-10-10T16:08:36Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Dayton, Ohio · Django, AWS, Docker, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Data-Science-Intern_DT-20166-1</id>
     <title>Daimler Truck: Data Science Intern</title>
@@ -766,45 +806,5 @@
     <updated>2026-10-05T07:06:08Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · Wake County, NC · Python, SQL, Pandas, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016</id>
-    <title>RTX: Co-Op - AI DSP Applied Research 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016"/>
-    <updated>2026-10-04T02:15:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:disa-technologies:73E7609B99</id>
-    <title>DISA Technologies: Data Engineering &amp; ML Intern</title>
-    <link href="https://apply.workable.com/disa-technologies/j/73E7609B99/"/>
-    <updated>2026-10-03T16:21:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Casper, Wyoming, United States (Hybrid) · Python, SQL, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:arcboatcompany:5442881008</id>
-    <title>Arc: Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008"/>
-    <updated>2026-10-03T00:59:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Torrance, CA · $42/hr · Python, TypeScript, AWS, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2</id>
-    <title>Hewlett Packard (HP): AI Applied Engineering Intern 🛂</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2"/>
-    <updated>2026-10-03T00:59:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Vancouver, Washington, United States of America · $29–$35/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:natera:6188497004</id>
-    <title>Natera: Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/natera/jobs/6188497004"/>
-    <updated>2026-10-06T09:37:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US Remote · Python, Java, JavaScript, SQL · status: closed · H-1B track record: ~81 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

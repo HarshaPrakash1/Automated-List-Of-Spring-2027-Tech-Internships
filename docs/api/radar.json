@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-10T09:58:51Z",
- "data_as_of": "2026-10-10T09:58:51Z",
- "rendered_at": "2026-10-10T09:58:51Z",
+ "generated_at": "2026-10-10T16:08:36Z",
+ "data_as_of": "2026-10-10T16:08:36Z",
+ "rendered_at": "2026-10-10T16:08:37Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -1257,6 +1257,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-08"
+   }
+  },
+  {
+   "company": "Tenet3",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-09",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/tenet3/jobs/8878874002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-09"
    }
   },
   {
@@ -4281,5 +4300,5 @@
    }
   }
  ],
- "count": 225
+ "count": 226
 }
