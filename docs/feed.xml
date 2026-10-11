@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-11T15:50:16Z</updated>
+  <updated>2026-10-11T19:58:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:cswg:/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963</id>
+    <title>C&amp;S Wholesale Grocers: IS Internship - Data Analytics &amp; Data Science</title>
+    <link href="https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963"/>
+    <updated>2026-10-11T19:58:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Edison, NJ · Python, SQL, scikit-learn, Pandas, LLMs · H-1B track record: ~49 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenet3:8878874002</id>
     <title>Tenet3: Software Developer (Full Stack) Intern (Spring 2027)</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-05T07:06:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Spring, Texas, United States of America · HTML/CSS · H-1B track record: ~499 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nc:/job/Wake-County-NC/Data-Science-Intern_JR-125225</id>
-    <title>State of North Carolina: Data Science Intern</title>
-    <link href="https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225"/>
-    <updated>2026-10-05T07:06:08Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Wake County, NC · Python, SQL, Pandas, LLMs</summary>
   </entry>
 </feed>
