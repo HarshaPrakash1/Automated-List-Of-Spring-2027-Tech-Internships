@@ -774,7 +774,15 @@
       "workday:micron:/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
       "greenhouse:tenet3:8878874002",
       "workday:cswg:/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963",
-      "workday:tencent:/job/US-California-Palo-Alto/Data-Science-Intern_R108213"
+      "workday:tencent:/job/US-California-Palo-Alto/Data-Science-Intern_R108213",
+      "lever:acronaviation:17b5f12d-f590-432d-a421-d6f90274ae9a",
+      "workday:cboe:/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726",
+      "workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964",
+      "greenhouse:databricks:6865687002",
+      "workday:gafsgi:/job/Parsippany-NJ/AI-Intern_26421",
+      "workday:hpe:/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402",
+      "workday:hpe:/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404",
+      "workday:kla:/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1550,7 +1558,15 @@
       "workday:micron:/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
       "greenhouse:tenet3:8878874002",
       "workday:cswg:/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963",
-      "workday:tencent:/job/US-California-Palo-Alto/Data-Science-Intern_R108213"
+      "workday:tencent:/job/US-California-Palo-Alto/Data-Science-Intern_R108213",
+      "lever:acronaviation:17b5f12d-f590-432d-a421-d6f90274ae9a",
+      "workday:cboe:/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726",
+      "workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964",
+      "greenhouse:databricks:6865687002",
+      "workday:gafsgi:/job/Parsippany-NJ/AI-Intern_26421",
+      "workday:hpe:/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402",
+      "workday:hpe:/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404",
+      "workday:kla:/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1"
     ]
   }
 }

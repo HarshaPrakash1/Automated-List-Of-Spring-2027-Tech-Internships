@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-12T10:56:46Z</updated>
+  <updated>2026-10-12T20:17:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:acronaviation:17b5f12d-f590-432d-a421-d6f90274ae9a</id>
+    <title>Acron Aviation: Software Engineer Intern - Phoenix Site</title>
+    <link href="https://jobs.lever.co/acronaviation/17b5f12d-f590-432d-a421-d6f90274ae9a"/>
+    <updated>2026-10-12T20:17:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Phoenix, AZ · Python, C++, C#, SQL, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cboe:/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726</id>
+    <title>Cboe: Software Engineer Intern (C++) 🛂</title>
+    <link href="https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726"/>
+    <updated>2026-10-12T20:17:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Kansas City, MO · $22–$42/hr · C++, Python, SQL, Linux · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:databricks:6865687002</id>
+    <title>Databricks: Software Engineering Intern (2027)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"/>
+    <updated>2026-10-12T20:17:06Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada · Python, Java, C++, Databricks · H-1B track record: ~308 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gafsgi:/job/Parsippany-NJ/AI-Intern_26421</id>
+    <title>GAF: AI Intern</title>
+    <link href="https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/AI-Intern_26421"/>
+    <updated>2026-10-12T20:17:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Parsippany, NJ · Python, PyTorch, TensorFlow, scikit-learn, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402</id>
+    <title>Hewlett Packard Enterprise: HPC/AI Systems Service Process Improvement Engineer Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402"/>
+    <updated>2026-10-12T20:17:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · All, Illinois, United States of America · HTML/CSS, Git · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404</id>
+    <title>Hewlett Packard Enterprise: HPC/AI System Admin HW/SW Service Engineer Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404"/>
+    <updated>2026-10-12T20:17:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · All, Tennessee, United States of America · HTML/CSS, Linux · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1</id>
+    <title>KLA: AI/ML Software Engineer - Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1"/>
+    <updated>2026-10-12T20:17:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ann Arbor, MI · $24–$32/hr · Python, SQL, LLMs · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Data-Science-Intern_R108213</id>
     <title>Tencent: Data Science Intern</title>
@@ -441,7 +497,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:drwuniversityjobs:8259714</id>
-    <title>DRW: Quantitative Trading Analyst Intern - IAP Winternship</title>
+    <title>DRW: Quantitative Trading Analyst Intern - IAP Winternship (MIT Students Only)</title>
     <link href="https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8259714"/>
     <updated>2026-10-06T21:30:16Z</updated>
     <category term="Not stated"/>
@@ -750,61 +806,5 @@
     <updated>2026-10-05T22:48:10Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · Data &amp; ML/AI · US, Oregon, Hillsboro · Python, C++, Bash, PyTorch, TensorFlow · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jainglobal:/job/New-York-New-York/Data-Engineer-Intern_JR100605-1</id>
-    <title>Jain Global: Data Engineer Intern</title>
-    <link href="https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York, New York · Python, SQL, React · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jainglobal:/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1</id>
-    <title>Jain Global: Quant Research Intern, Systematic Trading</title>
-    <link href="https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · New York, New York · Python · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931</id>
-    <title>Manhattan Associates: A.I. Developer Co-Op (Boston, MA)</title>
-    <link href="https://manh.wd5.myworkdayjobs.com/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US - Home Office · Python, Java, JavaScript, LLMs · H-1B track record: ~153 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:manulife:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121</id>
-    <title>Manulife Financial: Spring Co-op 2027 - Software Engineering, Security &amp; Operations</title>
-    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · Boston, Massachusetts · HTML/CSS, Azure, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991</id>
-    <title>Micron Technology: Intern - SMAI TD AI Engineering Team</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Boise, ID - Main Site · Python, Java, C#, TypeScript, JavaScript · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:relx:/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955</id>
-    <title>LexisNexis Risk Solutions: Data Science Intern</title>
-    <link href="https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Alpharetta, GA (Alderman) · $20/hr · Python, SQL, LLMs, Computer Vision · status: closed · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nrel:/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555</id>
-    <title>National Laboratory of the Rockies: Undergraduate / Graduate (Spring / Summer) Intern - Cyber Security Research – 5G</title>
-    <link href="https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555"/>
-    <updated>2026-10-05T16:08:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Golden, CO · Python, Java, C++, PyTorch, TensorFlow</summary>
   </entry>
 </feed>

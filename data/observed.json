@@ -829,6 +829,18 @@
     }
    }
   },
+  "databricks": {
+   "name": "Databricks",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2023-08-04",
+     "role_ids": [
+      "greenhouse:databricks:6865687002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "deepgram": {
    "name": "Deepgram",
    "cycles": {
@@ -3456,5 +3468,5 @@
    }
   }
  },
- "updated_at": "2026-10-12T10:56:46Z"
+ "updated_at": "2026-10-12T20:17:06Z"
 }
