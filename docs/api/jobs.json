@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-11T23:50:16Z",
- "data_as_of": "2026-10-11T23:50:16Z",
- "rendered_at": "2026-10-11T23:50:17Z",
+ "generated_at": "2026-10-12T02:54:25Z",
+ "data_as_of": "2026-10-12T02:54:25Z",
+ "rendered_at": "2026-10-12T02:54:26Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 534,
+ "count": 530,
  "jobs": [
   {
    "id": "workday:cswg:/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963",
@@ -9941,34 +9941,6 @@
    "remote": false
   },
   {
-   "id": "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
-   "company": "C.H. Robinson",
-   "title": "Software Engineering Internship 2027",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Eden Prairie, MN United States of America",
-   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
-   "posted_at": "2026-09-08T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-08T20:27:59Z",
-   "sponsorship": "unknown",
-   "salary": "$15–$30/hr",
-   "skills": [
-    "C#",
-    "JavaScript",
-    "SQL",
-    "React",
-    "HTML/CSS",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "greenhouse:fspco-op012325:8783960002",
    "company": "Flagship Pioneering",
    "title": "Pioneering Intelligence: Data Science Co-Op (Embedded Science Team)",
@@ -10174,30 +10146,6 @@
     "Azure"
    ],
    "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:harbingermotors:5231842007",
-   "company": "Harbinger Motors",
-   "title": "Intern, Cybersecurity",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Security",
-   "location": "Garden Grove, CA",
-   "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007",
-   "posted_at": "2026-09-05T23:34:20-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-06T06:02:11Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Bash"
-   ],
-   "source": "greenhouse",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
@@ -12591,31 +12539,6 @@
    "remote": false
   },
   {
-   "id": "greenhouse:asteraearlycareer2027:4724492005",
-   "company": "Astera Labs",
-   "title": "Platform Software Diagnostics Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "San Jose, California",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724492005",
-   "posted_at": "2026-08-27T18:58:49-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-06T16:29:51Z",
-   "sponsorship": "unknown",
-   "salary": "$35/hr",
-   "skills": [
-    "Python",
-    "Linux",
-    "Git"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 29,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "amazon:amazon:10517567",
    "company": "Amazon",
    "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
@@ -12672,31 +12595,6 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": true
-  },
-  {
-   "id": "workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
-   "company": "Booz Allen",
-   "title": "AI RAN Telecommunications Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "McLean, VA",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
-   "posted_at": "2026-08-26T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-03T09:53:59Z",
-   "sponsorship": "citizens-only",
-   "salary": "$108k/yr",
-   "skills": [
-    "Python",
-    "C++",
-    "MATLAB"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
   },
   {
    "id": "greenhouse:verkada:5210813007",
