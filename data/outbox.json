@@ -787,7 +787,11 @@
       "smartrecruiters:BoschGroup:744000155120934",
       "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254",
       "workday:lifefitness:/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277",
-      "workday:lifefitness:/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276"
+      "workday:lifefitness:/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276",
+      "lever:azul:8f41ceaf-8835-4fc7-ba57-9384487d59db",
+      "workday:kla:/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821-2",
+      "workday:kla:/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817-2",
+      "workday:kla:/job/Milpitas-CA/ML-Engineer-Intern_2641872"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1576,7 +1580,11 @@
       "smartrecruiters:BoschGroup:744000155120934",
       "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254",
       "workday:lifefitness:/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277",
-      "workday:lifefitness:/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276"
+      "workday:lifefitness:/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276",
+      "lever:azul:8f41ceaf-8835-4fc7-ba57-9384487d59db",
+      "workday:kla:/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821-2",
+      "workday:kla:/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817-2",
+      "workday:kla:/job/Milpitas-CA/ML-Engineer-Intern_2641872"
     ]
   }
 }

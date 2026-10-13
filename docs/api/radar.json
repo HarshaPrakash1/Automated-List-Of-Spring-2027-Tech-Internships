@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-13T09:36:48Z",
- "data_as_of": "2026-10-13T09:36:48Z",
- "rendered_at": "2026-10-13T09:36:48Z",
+ "generated_at": "2026-10-13T17:23:02Z",
+ "data_as_of": "2026-10-13T17:23:02Z",
+ "rendered_at": "2026-10-13T17:23:02Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -861,25 +861,6 @@
    }
   },
   {
-   "company": "Internrecruiting",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-15",
-   "days_until": -28,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/internrecruiting/jobs/8204511",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-15"
-   }
-  },
-  {
    "company": "The Aerospace Corporation",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -891,6 +872,25 @@
    "days_until": -28,
    "status": "open",
    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-15"
+   }
+  },
+  {
+   "company": "Vestmark",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -28,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/vestmark/jobs/8204509",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4110,6 +4110,25 @@
    }
   },
   {
+   "company": "Internrecruiting",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -28,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-15"
+   }
+  },
+  {
    "company": "NVIDIA",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -4300,5 +4319,5 @@
    }
   }
  ],
- "count": 226
+ "count": 227
 }

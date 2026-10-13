@@ -3207,6 +3207,18 @@
     }
    }
   },
+  "vestmark": {
+   "name": "Vestmark",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "greenhouse:internrecruiting:8204511"
+     ],
+     "count": 1
+    }
+   }
+  },
   "viget": {
    "name": "Viget",
    "cycles": {
@@ -3468,5 +3480,5 @@
    }
   }
  },
- "updated_at": "2026-10-13T09:36:48Z"
+ "updated_at": "2026-10-13T17:23:02Z"
 }

@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-13T09:36:48Z</updated>
+  <updated>2026-10-13T17:23:02Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022387</id>
+    <title>ADT: Data, Analytics &amp; AI Internship 🛂</title>
+    <link href="https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022387"/>
+    <updated>2026-10-13T17:23:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Boca Raton, FL, United States · $24/hr · Python, SQL, Tableau · sponsorship: no-sponsorship · status: closed · H-1B track record: ~39 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:azul:8f41ceaf-8835-4fc7-ba57-9384487d59db</id>
+    <title>Azul Systems: IT Intern, AI and Operations</title>
+    <link href="https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db"/>
+    <updated>2026-10-13T17:23:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA · 25 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821-2</id>
+    <title>KLA: Software Engineering Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821-2"/>
+    <updated>2026-10-13T17:23:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ann Arbor, MI · $24–$40/hr · Python, Java, C++, C#, JavaScript · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817-2</id>
+    <title>KLA: Software Engineer Intern - AI</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817-2"/>
+    <updated>2026-10-13T17:23:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ann Arbor, MI · $24–$40/hr · Python, Java, C++, C#, JavaScript · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/ML-Engineer-Intern_2641872</id>
+    <title>KLA: ML Engineer Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872"/>
+    <updated>2026-10-13T17:23:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · $58/hr · Python, PyTorch, TensorFlow, Computer Vision · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4743021005</id>
     <title>Astera Labs: CyberSecurity Engineer Intern</title>
@@ -187,17 +227,17 @@
     <id>urn:intern-engine:greenhouse:schonfeld:8267092</id>
     <title>Schonfeld: 2027 Quantitative Developer Intern</title>
     <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8267092"/>
-    <updated>2026-10-09T19:44:16Z</updated>
+    <updated>2026-10-13T17:05:57Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Quant · Austin, Texas, United States · Python, Java, C++, SQL</summary>
+    <summary>Spring 2027 · Quant · Austin, Texas, United States · Python, Java, C++, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:schonfeld:8267120</id>
     <title>Schonfeld: 2027 Quantitative Research Intern</title>
     <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8267120"/>
-    <updated>2026-10-09T19:44:16Z</updated>
+    <updated>2026-10-13T17:05:57Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Quant · Austin, Texas, United States · Python, Java, C++, SQL</summary>
+    <summary>Spring 2027 · Quant · Austin, Texas, United States · Python, Java, C++, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25012948</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-05T22:48:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Las Vegas, Nevada · Kubernetes</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:tensorwave:8ec8b715-f9ad-48a7-869e-ed9d455119a5</id>
-    <title>TensorWave: Security Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/tensorwave/8ec8b715-f9ad-48a7-869e-ed9d455119a5"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Las Vegas, Nevada · Python, Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:cssmerge:8869106002</id>
-    <title>Atoms: Machine Learning Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8869106002"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · San Francisco, CA · $70/hr · Python, C++, PyTorch, Computer Vision · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:foundenergy:4719227006</id>
-    <title>Found Energy: Data Engineer Co-op</title>
-    <link href="https://job-boards.greenhouse.io/foundenergy/jobs/4719227006"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cambridge, MA · Python, TypeScript, SQL, Pandas, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:wehrtyou:8257369</id>
-    <title>Hudson River Trading: Data Scientist Intern - 2027</title>
-    <link href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · London, United Kingdom; New York, NY, United States · Python, Pandas · H-1B track record: ~29 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25016392</id>
-    <title>Texas Instruments: Software Engineering Intern 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016392"/>
-    <updated>2026-10-05T22:48:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Santa Clara, CA, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
