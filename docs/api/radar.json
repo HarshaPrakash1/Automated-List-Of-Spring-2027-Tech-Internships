@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-14T01:28:28Z",
- "data_as_of": "2026-10-14T01:28:28Z",
- "rendered_at": "2026-10-14T01:28:28Z",
+ "generated_at": "2026-10-14T06:20:56Z",
+ "data_as_of": "2026-10-14T06:20:56Z",
+ "rendered_at": "2026-10-14T06:20:57Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -891,25 +891,6 @@
    "days_until": -28,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-16"
-   }
-  },
-  {
-   "company": "Itron",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -28,
-   "status": "open",
-   "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4145,6 +4126,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-15"
+   }
+  },
+  {
+   "company": "Itron",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -28,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-16"
    }
   },
   {

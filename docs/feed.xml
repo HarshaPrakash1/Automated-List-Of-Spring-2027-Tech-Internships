@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-14T01:28:28Z</updated>
+  <updated>2026-10-14T06:20:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:lever:field-ai:ef35c537-b864-479f-9dbe-b30429ac7704</id>
-    <title>Field AI: Robotics Research Intern, Embodied AI</title>
-    <link href="https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704"/>
-    <updated>2026-10-14T01:28:28Z</updated>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705</id>
+    <title>Northrop Grumman: 2027 S/W Cybersecurity Intern – Annapolis MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705"/>
+    <updated>2026-10-14T06:20:56Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · United States-Maryland-Annapolis · $20.5–$37.25/hr · Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697</id>
+    <title>Northrop Grumman: 2027 S/W Embedded Engineering Intern – Annapolis MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697"/>
+    <updated>2026-10-14T06:20:56Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · United States-Maryland-Annapolis · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rakuten:/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437</id>
+    <title>Rakuten International: Early Career AI Engineer, Intern</title>
+    <link href="https://rakuten.wd1.myworkdayjobs.com/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437"/>
+    <updated>2026-10-14T06:20:56Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Irvine, CA</summary>
+    <summary>Not stated · Data &amp; ML/AI · Bellevue, Washington · $30–$50/hr · Python, Java, C#, JavaScript, Ruby</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:andurilindustries:5265158007</id>
@@ -38,6 +54,14 @@
     <updated>2026-10-14T01:28:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · San Jose, CA · $45/hr · Python, C++, Git · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:field-ai:ef35c537-b864-479f-9dbe-b30429ac7704</id>
+    <title>Field AI: Robotics Research Intern, Embodied AI</title>
+    <link href="https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704"/>
+    <updated>2026-10-14T01:28:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Irvine, CA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-06T16:29:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York · $45/hr · Java, JavaScript, SQL, Node.js, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:iex-interns:8173713</id>
-    <title>IEX: Cyber Security Analyst Intern</title>
-    <link href="https://job-boards.greenhouse.io/iex-interns/jobs/8173713"/>
-    <updated>2026-10-06T16:29:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · New York · $35/hr · Python, Ruby, Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:iex-interns:8210998</id>
-    <title>IEX: Data Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/iex-interns/jobs/8210998"/>
-    <updated>2026-10-06T16:29:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York · $45/hr · Python, LLMs, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:avav:/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993</id>
-    <title>Avav: Hypersonic RF Software Engineering Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993"/>
-    <updated>2026-10-06T16:29:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Germantown, MD · Python, Java, C++, JavaScript, MATLAB · sponsorship: citizens-only</summary>
   </entry>
 </feed>
