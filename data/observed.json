@@ -287,9 +287,10 @@
      "first_posted": "2026-06-10",
      "role_ids": [
       "greenhouse:andurilindustries:5148079007",
-      "greenhouse:andurilindustries:5239083007"
+      "greenhouse:andurilindustries:5239083007",
+      "greenhouse:andurilindustries:5265158007"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3480,5 +3481,5 @@
    }
   }
  },
- "updated_at": "2026-10-13T22:08:03Z"
+ "updated_at": "2026-10-14T01:28:28Z"
 }

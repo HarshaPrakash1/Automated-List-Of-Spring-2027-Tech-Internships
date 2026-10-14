@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-13T22:08:03Z</updated>
+  <updated>2026-10-14T01:28:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:boseallaboutme:/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719</id>
-    <title>Bose: Embedded Audio ML Engineer Co-op</title>
-    <link href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719"/>
-    <updated>2026-10-13T22:08:03Z</updated>
+    <id>urn:intern-engine:lever:field-ai:ef35c537-b864-479f-9dbe-b30429ac7704</id>
+    <title>Field AI: Robotics Research Intern, Embodied AI</title>
+    <link href="https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704"/>
+    <updated>2026-10-14T01:28:28Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US, MA - Framingham · $40–$51.25/hr · Python, C++, PyTorch, TensorFlow · H-1B track record: ~61 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Irvine, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:andurilindustries:5265158007</id>
+    <title>Anduril: 2027 Firmware Engineer Intern</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007"/>
+    <updated>2026-10-14T01:28:28Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Hardware · Costa Mesa, California, United States · Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739956005</id>
+    <title>Astera Labs: Firmware Engineer Intern Fall Co-op</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005"/>
+    <updated>2026-10-14T01:28:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · San Jose, CA · $45/hr · Python, C++, Git · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739957005</id>
+    <title>Astera Labs: Firmware Engineer Intern Summer Co-op</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739957005"/>
+    <updated>2026-10-14T01:28:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · San Jose, CA · $45/hr · Python, C++, Git · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1</id>
+    <title>KLA: Computer Vision/Machine Learning Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1"/>
+    <updated>2026-10-14T01:28:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · Computer Vision, Python, MATLAB, PyTorch, TensorFlow · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:boseallaboutme:/job/US-MA---Framingham/Audio-Machine-Learning-Co-op_R29274</id>
@@ -22,6 +54,14 @@
     <updated>2026-10-13T22:08:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · US, MA - Framingham · $40–$51.25/hr · Python, C++, MATLAB, PyTorch, TensorFlow · H-1B track record: ~61 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:boseallaboutme:/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719</id>
+    <title>Bose: Embedded Audio ML Engineer Co-op</title>
+    <link href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719"/>
+    <updated>2026-10-13T22:08:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US, MA - Framingham · $40–$51.25/hr · Python, C++, PyTorch, TensorFlow · H-1B track record: ~61 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gdit:/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-06T16:29:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Germantown, MD · Python, Java, C++, JavaScript, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:biibhr:/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310</id>
-    <title>Biogen: Co-op, Machine Learning Engineering</title>
-    <link href="https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310"/>
-    <updated>2026-10-06T16:29:51Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Remote, USA · Python, Git · status: closed · H-1B track record: ~125 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:midlandsb:/job/Effingham-IL/Intern---IT-Infrastructure_JR1471</id>
-    <title>Midland States Bank: Intern - IT Infrastructure</title>
-    <link href="https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---IT-Infrastructure_JR1471"/>
-    <updated>2026-10-06T16:29:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Effingham, IL · Python · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:rockwellautomation:/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1</id>
-    <title>Rockwell Automation: Intern, Firmware and Software Test Development 🛂</title>
-    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1"/>
-    <updated>2026-10-06T21:30:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Mequon, Wisconsin, United States · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship · status: closed · H-1B track record: ~90 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amgen:/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886</id>
-    <title>Amgen: Undergrad Co-op – Interactive Developer / Immersive Course Programmer for Manufacturing</title>
-    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886"/>
-    <updated>2026-10-06T09:37:29Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · US - Puerto Rico - Juncos · C++, Unreal · status: closed · H-1B track record: ~768 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406</id>
-    <title>Hewlett Packard Enterprise: Infrastructure Deployment Automation Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406"/>
-    <updated>2026-10-06T02:48:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Bloomington, Minnesota, United States of America · Python, Bash, HTML/CSS, Linux · H-1B track record: ~499 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
