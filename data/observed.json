@@ -200,9 +200,10 @@
       "amazon:amazon:10553907",
       "amazon:amazon:10557133",
       "amazon:amazon:10565667",
-      "amazon:amazon:10573570"
+      "amazon:amazon:10573570",
+      "amazon:amazon:10578583"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -1287,6 +1288,14 @@
      "role_ids": [
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410"
+     ],
+     "count": 2
     }
    }
   },
@@ -1663,6 +1672,13 @@
       "oracle:jpmc.fa.oraclecloud.com:210775223"
      ],
      "count": 7
+    },
+    "Spring 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "oracle:jpmc.fa.oraclecloud.com:210800354"
+     ],
+     "count": 1
     }
    }
   },
@@ -2066,6 +2082,7 @@
       "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
+      "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
@@ -2073,7 +2090,7 @@
       "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731"
      ],
-     "count": 25
+     "count": 26
     }
    }
   },
@@ -3354,11 +3371,12 @@
       "workday:disney:/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1",
       "workday:disney:/job/Celebration-FL-USA/Consumer-Insight-Data-Analyst-Intern--Spring-2027_10159634-2",
       "workday:disney:/job/Chicago-IL-USA/WLS-TV--ABC7--Programming--Promotion---Publicity-Intern--Spring-2027_10158839-1",
+      "workday:disney:/job/Lake-Buena-Vista-FL-USA/Cybersecurity-Intern--Spring-2027_FOS-0000451290",
       "workday:disney:/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
       "workday:disney:/job/New-York-NY-USA/WABC---TV--ABC7--Programming-Intern--Spring-2027_10158770-1",
       "workday:disney:/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -3483,5 +3501,5 @@
    }
   }
  },
- "updated_at": "2026-10-14T12:00:25Z"
+ "updated_at": "2026-10-14T17:18:54Z"
 }

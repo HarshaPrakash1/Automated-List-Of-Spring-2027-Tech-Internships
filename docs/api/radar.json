@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-14T12:00:25Z",
- "data_as_of": "2026-10-14T12:00:25Z",
- "rendered_at": "2026-10-14T12:00:25Z",
+ "generated_at": "2026-10-14T17:18:54Z",
+ "data_as_of": "2026-10-14T17:18:54Z",
+ "rendered_at": "2026-10-14T17:18:54Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -587,6 +587,25 @@
    "days_until": -36,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "C.H. Robinson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -36,
+   "status": "open",
+   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1260,6 +1279,44 @@
    }
   },
   {
+   "company": "General Motors",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
+   "note": "fall opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-14"
+   }
+  },
+  {
+   "company": "JPMorgan Chase",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210800354",
+   "note": "summer analyst opens very early",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-14"
+   }
+  },
+  {
    "company": "Goldman Sachs",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1275,25 +1332,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://www.goldmansachs.com/careers/students/programs",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "JPMorgan Chase",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2027-03-01",
-   "days_until": 138,
-   "status": "waiting",
-   "url": "",
-   "note": "summer analyst opens very early",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://careers.jpmorgan.com/us/en/students/programs",
     "verified_at": "2026-07-21"
    }
   },
@@ -2704,25 +2742,6 @@
    }
   },
   {
-   "company": "General Motors",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2027-09-01",
-   "days_until": 322,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://search-careers.gm.com/en/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "GitLab",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3978,25 +3997,6 @@
   },
   {
    "company": "Applied Materials",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -36,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
-   "company": "C.H. Robinson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
    "precision": "day",

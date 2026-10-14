@@ -804,7 +804,19 @@
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697",
       "workday:rakuten:/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437",
-      "greenhouse:tenstorrentuniversity:5264424007"
+      "greenhouse:tenstorrentuniversity:5264424007",
+      "amazon:amazon:10578583",
+      "oracle:jpmc.fa.oraclecloud.com:210800354",
+      "breezy:matrix-design-group:f0fb9ea37c63",
+      "workday:copart:/job/Dallas-TX---Headquarters/DevOps-Engineer-Intern_JR111751",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
+      "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
+      "workday:paloaltonetworks:/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Master-s--EG_JR-022384",
+      "workday:paloaltonetworks:/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelors--EG_JR-022385",
+      "workday:disney:/job/Lake-Buena-Vista-FL-USA/Cybersecurity-Intern--Spring-2027_FOS-0000451290",
+      "workday:tranetechnologies:/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648",
+      "workday:wustl:/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1610,7 +1622,19 @@
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697",
       "workday:rakuten:/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437",
-      "greenhouse:tenstorrentuniversity:5264424007"
+      "greenhouse:tenstorrentuniversity:5264424007",
+      "amazon:amazon:10578583",
+      "oracle:jpmc.fa.oraclecloud.com:210800354",
+      "breezy:matrix-design-group:f0fb9ea37c63",
+      "workday:copart:/job/Dallas-TX---Headquarters/DevOps-Engineer-Intern_JR111751",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
+      "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
+      "workday:paloaltonetworks:/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Master-s--EG_JR-022384",
+      "workday:paloaltonetworks:/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelors--EG_JR-022385",
+      "workday:disney:/job/Lake-Buena-Vista-FL-USA/Cybersecurity-Intern--Spring-2027_FOS-0000451290",
+      "workday:tranetechnologies:/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648",
+      "workday:wustl:/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1"
     ]
   }
 }
