@@ -1101,6 +1101,18 @@
     }
    }
   },
+  "field ai": {
+   "name": "Field AI",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-13",
+     "role_ids": [
+      "lever:field-ai:ef35c537-b864-479f-9dbe-b30429ac7704"
+     ],
+     "count": 1
+    }
+   }
+  },
   "fifth third bank": {
    "name": "Fifth Third Bank",
    "cycles": {
@@ -2040,9 +2052,14 @@
     "Spring 2027": {
      "first_posted": "2026-10-14",
      "role_ids": [
-      "workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Mapping-Intern---Spring-2027---Santa-Clara--CA_R00214261"
+      "workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern---Spring-2027---Santa-Clara--CA_R00214268",
+      "workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Mapping-Intern---Spring-2027---Santa-Clara--CA_R00214261",
+      "workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Perception-Intern---Spring-2027---Santa-Clara--CA_R00214260",
+      "workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Perception-Intern---Spring-2027---Santa-Clara--CA_R00215332",
+      "workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Prediction-and-Planning-Intern---Spring-2027---Santa-Clara--CA_R00214262",
+      "workday:alliance:/job/Santa-Clara-California---United-States-of-America/Software-Engineer-Intern---Spring-2027---Santa-Clara--CA_R00214269"
      ],
-     "count": 1
+     "count": 6
     }
    }
   },
@@ -3513,5 +3530,5 @@
    }
   }
  },
- "updated_at": "2026-10-14T20:53:24Z"
+ "updated_at": "2026-10-14T23:41:28Z"
 }

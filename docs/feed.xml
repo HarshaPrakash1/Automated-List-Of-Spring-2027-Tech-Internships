@@ -5,23 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-14T20:53:24Z</updated>
+  <updated>2026-10-14T23:41:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:hyperiongrp:/job/New-York--1350-Avenue-Of-The-Americas/Underwriting-Intern_R0019772-1</id>
-    <title>Howden: Underwriting Intern, Cyber</title>
-    <link href="https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/New-York--1350-Avenue-Of-The-Americas/Underwriting-Intern_R0019772-1"/>
-    <updated>2026-10-14T20:53:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · New York – 1350 Avenue Of The Americas · $22/hr · status: closed</summary>
+    <id>urn:intern-engine:workday:lnw:/job/Reno-NV/Intern-Software-Engineering_R322885</id>
+    <title>Light &amp; Wonder: Intern Software Engineering</title>
+    <link href="https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"/>
+    <updated>2026-10-14T23:41:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Reno, NV · Python, C++, C#, JavaScript, SQL</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927</id>
-    <title>Astreya: AI Infrastructure DC Design Intern</title>
-    <link href="https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927"/>
-    <updated>2026-10-14T20:53:24Z</updated>
-    <category term="Not stated"/>
-    <summary>4 openings · Not stated · Data &amp; ML/AI · Remote, CA</summary>
+    <id>urn:intern-engine:workday:alliance:/job/Santa-Clara-California---United-States-of-America/Software-Engineer-Intern---Spring-2027---Santa-Clara--CA_R00214269</id>
+    <title>Nissan: Software Engineer Intern - Spring 2027 - Santa Clara, CA</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Software-Engineer-Intern---Spring-2027---Santa-Clara--CA_R00214269"/>
+    <updated>2026-10-14T23:41:28Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Santa Clara, California - United States of America · Java, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern---Spring-2027---Santa-Clara--CA_R00214268</id>
+    <title>Nissan: Machine Learning Research Intern - Spring 2027 - Santa Clara, CA</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern---Spring-2027---Santa-Clara--CA_R00214268"/>
+    <updated>2026-10-14T23:41:28Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Santa Clara, California - United States of America · Python, PyTorch, TensorFlow, scikit-learn, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Perception-Intern---Spring-2027---Santa-Clara--CA_R00214260</id>
+    <title>Nissan: Machine Learning Research Perception Intern - Spring 2027 - Santa Clara, CA</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Perception-Intern---Spring-2027---Santa-Clara--CA_R00214260"/>
+    <updated>2026-10-14T23:41:28Z</updated>
+    <category term="Spring 2027"/>
+    <summary>2 openings · Spring 2027 · Data &amp; ML/AI · Santa Clara, California - United States of America · Python, C++, Linux, ROS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Prediction-and-Planning-Intern---Spring-2027---Santa-Clara--CA_R00214262</id>
+    <title>Nissan: Machine Learning Research Prediction and Planning Intern - Spring 2027 - Santa Clara, CA</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Prediction-and-Planning-Intern---Spring-2027---Santa-Clara--CA_R00214262"/>
+    <updated>2026-10-14T23:41:28Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Santa Clara, California - United States of America · Python, C++, Computer Vision</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:figureai:4722086006</id>
@@ -38,6 +62,22 @@
     <updated>2026-10-14T20:53:24Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · Santa Clara, California - United States of America · Python, C++, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927</id>
+    <title>Astreya: AI Infrastructure DC Design Intern</title>
+    <link href="https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927"/>
+    <updated>2026-10-14T20:53:24Z</updated>
+    <category term="Not stated"/>
+    <summary>4 openings · Not stated · Data &amp; ML/AI · Remote, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hyperiongrp:/job/New-York--1350-Avenue-Of-The-Americas/Underwriting-Intern_R0019772-1</id>
+    <title>Howden: Underwriting Intern, Cyber</title>
+    <link href="https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/New-York--1350-Avenue-Of-The-Americas/Underwriting-Intern_R0019772-1"/>
+    <updated>2026-10-14T20:53:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · New York – 1350 Avenue Of The Americas · $22/hr · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10578583</id>
@@ -209,11 +249,11 @@
   </entry>
   <entry>
     <id>urn:intern-engine:lever:field-ai:ef35c537-b864-479f-9dbe-b30429ac7704</id>
-    <title>Field AI: Robotics Research Intern, Embodied AI</title>
+    <title>Field AI: Robotics Research Intern, Embodied AI (Spring or Summer 2027)</title>
     <link href="https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704"/>
     <updated>2026-10-14T01:28:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Irvine, CA · Python, C++, ROS</summary>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Irvine, CA · Python, C++, ROS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-07T20:26:12Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417</id>
-    <title>Hewlett Packard Enterprise: AI Performance Engineering Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417"/>
-    <updated>2026-10-07T20:26:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Spring, Texas, United States of America · Python, PyTorch, TensorFlow, LLMs, CUDA · H-1B track record: ~499 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107374</id>
-    <title>S&amp;C Electric Company: Software Engineer Intern</title>
-    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374"/>
-    <updated>2026-10-07T14:42:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Chicago, IL, United States · $22–$30/hr · Python, C#, JavaScript, SQL, Angular · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:entrust:/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419</id>
-    <title>Entrust: Firmware Engineering Co-op</title>
-    <link href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419"/>
-    <updated>2026-10-07T14:42:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · United States - Shakopee, MN (GHQ) · $25/hr · Python, C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852</id>
-    <title>Northrop Grumman: 2027 Software Engineering Intern - Roy UT 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852"/>
-    <updated>2026-10-10T09:42:18Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Utah-Roy · $23–$29/hr · Python, Java, C++, Git, Tableau · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1</id>
-    <title>Northrop Grumman: 2027 Software Developer Intern- Chantilly VA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1"/>
-    <updated>2026-10-10T09:42:18Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Virginia-Chantilly · $21.5–$39/hr · Python, Java, C++, C#, JavaScript · sponsorship: citizens-only · status: closed</summary>
   </entry>
 </feed>
