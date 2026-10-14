@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-14T17:18:54Z",
- "data_as_of": "2026-10-14T17:18:54Z",
- "rendered_at": "2026-10-14T17:18:54Z",
+ "generated_at": "2026-10-14T20:53:24Z",
+ "data_as_of": "2026-10-14T20:53:24Z",
+ "rendered_at": "2026-10-14T20:53:24Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -174,6 +174,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-07-31"
+   }
+  },
+  {
+   "company": "Axon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-07",
+   "days_until": -68,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-08-07"
    }
   },
   {
@@ -595,25 +614,6 @@
    }
   },
   {
-   "company": "C.H. Robinson",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -36,
-   "status": "open",
-   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
    "company": "ONE Finance",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -956,6 +956,25 @@
    }
   },
   {
+   "company": "MetOx International",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -26,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-18"
+   }
+  },
+  {
    "company": "Cowboy Space",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -1289,7 +1308,7 @@
    "expected": "2026-10-14",
    "days_until": 0,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
    "note": "fall opening",
    "provenance": {
     "type": "engine-observed",
@@ -1310,6 +1329,25 @@
    "status": "open",
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210800354",
    "note": "summer analyst opens very early",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-14"
+   }
+  },
+  {
+   "company": "Nissan",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Mapping-Intern---Spring-2027---Santa-Clara--CA_R00214261",
+   "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Spring 2027",
@@ -3863,25 +3901,6 @@
    }
   },
   {
-   "company": "Axon",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-07",
-   "days_until": -68,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-08-07"
-   }
-  },
-  {
    "company": "Ameren",
    "last_cycle_posted": "",
    "posted_on": "2026-08-10",
@@ -3997,6 +4016,25 @@
   },
   {
    "company": "Applied Materials",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -36,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "C.H. Robinson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
    "precision": "day",
@@ -4167,25 +4205,6 @@
    }
   },
   {
-   "company": "MetOx International",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-18",
-   "days_until": -26,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-18"
-   }
-  },
-  {
    "company": "Mercury",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -4319,5 +4338,5 @@
    }
   }
  ],
- "count": 227
+ "count": 228
 }

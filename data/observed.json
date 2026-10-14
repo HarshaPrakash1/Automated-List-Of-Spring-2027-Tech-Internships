@@ -2034,6 +2034,18 @@
     }
    }
   },
+  "nissan": {
+   "name": "Nissan",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Mapping-Intern---Spring-2027---Santa-Clara--CA_R00214261"
+     ],
+     "count": 1
+    }
+   }
+  },
   "northrop grumman": {
    "name": "Northrop Grumman",
    "cycles": {
@@ -3501,5 +3513,5 @@
    }
   }
  },
- "updated_at": "2026-10-14T17:18:54Z"
+ "updated_at": "2026-10-14T20:53:24Z"
 }

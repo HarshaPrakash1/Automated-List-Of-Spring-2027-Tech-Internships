@@ -816,7 +816,13 @@
       "workday:paloaltonetworks:/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelors--EG_JR-022385",
       "workday:disney:/job/Lake-Buena-Vista-FL-USA/Cybersecurity-Intern--Spring-2027_FOS-0000451290",
       "workday:tranetechnologies:/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648",
-      "workday:wustl:/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1"
+      "workday:wustl:/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1",
+      "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931",
+      "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927",
+      "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017929",
+      "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017930",
+      "greenhouse:figureai:4722086006",
+      "workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Mapping-Intern---Spring-2027---Santa-Clara--CA_R00214261"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1634,7 +1640,13 @@
       "workday:paloaltonetworks:/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelors--EG_JR-022385",
       "workday:disney:/job/Lake-Buena-Vista-FL-USA/Cybersecurity-Intern--Spring-2027_FOS-0000451290",
       "workday:tranetechnologies:/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648",
-      "workday:wustl:/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1"
+      "workday:wustl:/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1",
+      "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931",
+      "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927",
+      "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017929",
+      "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017930",
+      "greenhouse:figureai:4722086006",
+      "workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Mapping-Intern---Spring-2027---Santa-Clara--CA_R00214261"
     ]
   }
 }
