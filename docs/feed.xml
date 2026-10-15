@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-15T13:09:52Z</updated>
+  <updated>2026-10-15T18:01:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:opengov:35c2d853-b6ab-4ba7-a6f7-ffb4cfc22f7b</id>
+    <title>OpenGov: Intern, Software Engineer</title>
+    <link href="https://jobs.ashbyhq.com/opengov/35c2d853-b6ab-4ba7-a6f7-ffb4cfc22f7b"/>
+    <updated>2026-10-15T18:01:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US | Massachusetts | Boston · $30 per hour · TypeScript, JavaScript, React, Angular, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:emcins:/job/Iowa/Cybersecurity-Intern_R6590</id>
+    <title>EMC Insurance: Cybersecurity Intern</title>
+    <link href="https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Iowa/Cybersecurity-Intern_R6590"/>
+    <updated>2026-10-15T18:01:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Iowa</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:spscommerce:/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001353</id>
+    <title>SPS Commerce: Software Engineer Intern</title>
+    <link href="https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001353"/>
+    <updated>2026-10-15T18:01:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · CA ON Brampton Office</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern---Spring-2027---Santa-Clara--CA_R00214268</id>
     <title>Nissan: Machine Learning Research Intern - Spring 2027 - Santa Clara, CA</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-08T06:53:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · HQ - San Diego, CA · SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:axos:/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647</id>
-    <title>Axos Bank: Software Development Intern</title>
-    <link href="https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647"/>
-    <updated>2026-10-08T06:53:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · HQ - San Diego, CA · SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10553907</id>
-    <title>Amazon: Data Engineer Internship - 2027 (US)</title>
-    <link href="https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us"/>
-    <updated>2026-10-08T00:26:21Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, SQL, Scala, AWS, Hadoop · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726</id>
-    <title>RTX: Software Engineering Co-op (Spring/Summer 2027)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726"/>
-    <updated>2026-10-07T20:26:12Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · C++, Linux</summary>
   </entry>
 </feed>
