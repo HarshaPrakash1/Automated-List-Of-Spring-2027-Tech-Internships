@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-15T18:01:08Z</updated>
+  <updated>2026-10-15T21:33:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:field-ai:fac5c4a0-eec9-43b8-9d65-000b08c7f7fe</id>
+    <title>Field AI: Robotics Research, Embodied AI Intern</title>
+    <link href="https://jobs.lever.co/field-ai/fac5c4a0-eec9-43b8-9d65-000b08c7f7fe"/>
+    <updated>2026-10-15T21:33:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Irvine, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:duolingounirecruitment:8888785002</id>
+    <title>Duolingo: Data Scientist, Intern</title>
+    <link href="https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002"/>
+    <updated>2026-10-15T21:33:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Pittsburgh, PA; New York, NY · Python, SQL, dbt, Snowflake · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656</id>
+    <title>Leidos: Performance Enablement AI/ML Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656"/>
+    <updated>2026-10-15T21:33:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · 6314 Remote/Teleworker US · Python, JavaScript, SQL, LLMs · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:opengov:35c2d853-b6ab-4ba7-a6f7-ffb4cfc22f7b</id>
     <title>OpenGov: Intern, Software Engineer</title>
@@ -67,9 +91,9 @@
     <id>urn:intern-engine:workday:lnw:/job/Reno-NV/Intern-Software-Engineering_R322885</id>
     <title>Light &amp; Wonder: Intern Software Engineering</title>
     <link href="https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"/>
-    <updated>2026-10-14T23:41:28Z</updated>
+    <updated>2026-10-15T21:33:07Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Reno, NV · Python, C++, C#, JavaScript, SQL</summary>
+    <summary>Not stated · Software · Reno, NV · Python, C++, C#, JavaScript, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:figureai:4722086006</id>
@@ -273,7 +297,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:lever:field-ai:ef35c537-b864-479f-9dbe-b30429ac7704</id>
-    <title>Field AI: Robotics Research Intern, Embodied AI (Spring &amp; Summer 2027)</title>
+    <title>Field AI: Robotics Research, Embodied AI Intern (Spring &amp; Summer 2027)</title>
     <link href="https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704"/>
     <updated>2026-10-14T01:28:28Z</updated>
     <category term="Spring 2027"/>
@@ -355,9 +379,9 @@
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/ML-Engineer-Intern_2641872</id>
     <title>KLA: ML Engineer Intern</title>
     <link href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872"/>
-    <updated>2026-10-13T17:23:02Z</updated>
+    <updated>2026-10-15T21:33:07Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · $58/hr · Python, PyTorch, TensorFlow, Computer Vision · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · $58/hr · Python, PyTorch, TensorFlow, Computer Vision · status: closed · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4743021005</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-08T14:12:58Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Atlanta GA · $22.02–$33.08/hr · Python, SQL, scikit-learn, Pandas, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374</id>
-    <title>Gordon Food Service: Software Engineer Intern (Transportation Routing )</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374"/>
-    <updated>2026-10-08T14:12:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Wyoming, Michigan · LLMs · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152</id>
-    <title>Leidos: Systems, Integration and Software Engineer Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152"/>
-    <updated>2026-10-08T14:12:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Atlantic City, NJ · Python, Java, C++, JavaScript · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:axos:/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658</id>
-    <title>Axos Bank: AI Engineer Intern</title>
-    <link href="https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658"/>
-    <updated>2026-10-08T06:53:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · HQ - San Diego, CA · SQL</summary>
   </entry>
 </feed>
