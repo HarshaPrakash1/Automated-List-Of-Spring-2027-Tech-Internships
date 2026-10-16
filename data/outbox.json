@@ -840,7 +840,14 @@
       "lever:cfsenergy:fa87d365-ac8a-44c3-8fda-c9dec3ea8878",
       "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425",
       "workday:sanofi:/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337",
-      "smartrecruiters:WellmarkInc:744000156043218"
+      "smartrecruiters:WellmarkInc:744000156043218",
+      "workday:gdit:/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646",
+      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077",
+      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080",
+      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
+      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393",
+      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
+      "workday:rockwellautomation:/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1682,7 +1689,14 @@
       "lever:cfsenergy:fa87d365-ac8a-44c3-8fda-c9dec3ea8878",
       "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425",
       "workday:sanofi:/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337",
-      "smartrecruiters:WellmarkInc:744000156043218"
+      "smartrecruiters:WellmarkInc:744000156043218",
+      "workday:gdit:/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646",
+      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077",
+      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080",
+      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
+      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393",
+      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
+      "workday:rockwellautomation:/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1"
     ]
   }
 }

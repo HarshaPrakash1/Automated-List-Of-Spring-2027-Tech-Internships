@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-16T18:35:22Z</updated>
+  <updated>2026-10-16T21:55:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:gdit:/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646</id>
+    <title>General Dynamics Information Technology: Technical Intern - AI and Estimation 🇺🇸</title>
+    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646"/>
+    <updated>2026-10-16T21:55:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · USA VA Falls Church · Python, LLMs · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077</id>
+    <title>Northrop Grumman: 2027 Software Engineering Intern - Boulder CO 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077"/>
+    <updated>2026-10-16T21:55:29Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · United States-Colorado-Boulder · $26.75–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080</id>
+    <title>Northrop Grumman: 2027 Software Engineering Intern - Colorado Springs 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080"/>
+    <updated>2026-10-16T21:55:29Z</updated>
+    <category term="Spring 2027"/>
+    <summary>2 openings · Spring 2027 · Software · United States-Colorado-Colorado Springs · $24.25–$30.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243</id>
+    <title>Northrop Grumman: 2027 Software Engineering Intern - Aurora CO 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243"/>
+    <updated>2026-10-16T21:55:29Z</updated>
+    <category term="Spring 2027"/>
+    <summary>2 openings · Spring 2027 · Software · United States-Colorado-Aurora · $26.75–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rockwellautomation:/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1</id>
+    <title>Rockwell Automation: Intern, Firmware Engineering 🛂</title>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1"/>
+    <updated>2026-10-16T21:55:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Milwaukee, Wisconsin, United States · Python, C++ · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000156043218</id>
+    <title>Wellmark: Software Engineer Internship – Technology Health Plan</title>
+    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000156043218"/>
+    <updated>2026-10-16T18:35:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Des Moines, IA, United States (Hybrid) · TypeScript, AWS · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425</id>
     <title>Entrust: Software Engineering Co-op</title>
@@ -22,14 +70,6 @@
     <updated>2026-10-16T18:35:22Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · Cambridge, MA · Python, PyTorch, TensorFlow, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000156043218</id>
-    <title>Wellmark: Software Engineer Internship – Technology Health Plan</title>
-    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000156043218"/>
-    <updated>2026-10-16T18:35:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Des Moines, IA, United States (Hybrid) · TypeScript, AWS · H-1B track record: ~15 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:cfsenergy:fa87d365-ac8a-44c3-8fda-c9dec3ea8878</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-08T20:05:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Palo Alto, CA · 8,000–10,000 USD/mo · PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:solopulseco:1b36afea-e8eb-4cea-a6e9-0afc384d06ef</id>
-    <title>SoloPulse: Software Engineer Intern/Co-op - Spring 2027</title>
-    <link href="https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef"/>
-    <updated>2026-10-08T20:05:10Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Peachtree Corners, GA · Python, C++, PyTorch, CUDA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aep:/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R19884</id>
-    <title>American Electric Power: Data Scientist Intern - Columbus, OH</title>
-    <link href="https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R19884"/>
-    <updated>2026-10-08T20:05:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Columbus, OH · Python, SQL, TensorFlow, scikit-learn, Pandas · H-1B track record: ~34 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314</id>
-    <title>Booz Allen: University, Applied AI Software Development Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314"/>
-    <updated>2026-10-08T20:05:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · McLean, VA · $126k/yr · Python, Java, C++, JavaScript, SQL · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Spring-House-Pennsylvania-United-States-of-America/AI-Excellence--Decision-Enablement-Intern_R-102881</id>
-    <title>Johnson &amp; Johnson: AI Excellence, Decision Enablement Intern 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/AI-Excellence--Decision-Enablement-Intern_R-102881"/>
-    <updated>2026-10-08T20:05:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Spring House, Pennsylvania, United States of America · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:modmed:/job/Boca-Raton-FL/Software-Engineering-Intern_R5148</id>
-    <title>Modernizing Medicine: Software Engineering Intern</title>
-    <link href="https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148"/>
-    <updated>2026-10-08T20:05:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Boca Raton, FL · Python, Java, C#, Go, SQL · status: closed</summary>
   </entry>
 </feed>
