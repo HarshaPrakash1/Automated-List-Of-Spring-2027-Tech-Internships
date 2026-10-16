@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-16T09:33:09Z</updated>
+  <updated>2026-10-16T14:29:02Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668</id>
+    <title>Leidos: Cloud Engineering Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668"/>
+    <updated>2026-10-16T14:29:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · 6314 Remote/Teleworker US · Azure · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:cfsenergy:fa87d365-ac8a-44c3-8fda-c9dec3ea8878</id>
+    <title>Commonwealth Fusion Systems: Intern - AI &amp; Infrastructure Engineer - Spring 2027</title>
+    <link href="https://jobs.lever.co/cfsenergy/fa87d365-ac8a-44c3-8fda-c9dec3ea8878"/>
+    <updated>2026-10-16T14:29:02Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Devens, MA · 25–38 USD/hr · Python, LLMs, Docker, Linux, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:hpe:/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397</id>
     <title>Hewlett Packard Enterprise: AI &amp; HPC Performance Engineering Intern</title>
@@ -790,21 +806,5 @@
     <updated>2026-10-11T08:43:09Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · United States-California-McClellan · $21.5–$39/hr · Python, C++ · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:ruggedrobotics:4730908005</id>
-    <title>Rugged Robotics: Robotic Software Intern/Co-op (Spring or Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005"/>
-    <updated>2026-10-08T14:12:58Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Houston, TX · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:badgermeter:/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645</id>
-    <title>Badger Meter: Software Engineering Intern</title>
-    <link href="https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645"/>
-    <updated>2026-10-08T14:12:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US  - CA - Escondido Facility</summary>
   </entry>
 </feed>
