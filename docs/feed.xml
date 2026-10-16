@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-16T14:29:02Z</updated>
+  <updated>2026-10-16T18:35:22Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668</id>
-    <title>Leidos: Cloud Engineering Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668"/>
-    <updated>2026-10-16T14:29:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · 6314 Remote/Teleworker US · Azure · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425</id>
+    <title>Entrust: Software Engineering Co-op</title>
+    <link href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425"/>
+    <updated>2026-10-16T18:35:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States - Shakopee, MN (GHQ) · $25/hr · Python, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sanofi:/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337</id>
+    <title>Sanofi: 2027 Spring Co op Biologics Design and AI Cambridge MA</title>
+    <link href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337"/>
+    <updated>2026-10-16T18:35:22Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Cambridge, MA · Python, PyTorch, TensorFlow, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000156043218</id>
+    <title>Wellmark: Software Engineer Internship – Technology Health Plan</title>
+    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000156043218"/>
+    <updated>2026-10-16T18:35:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Des Moines, IA, United States (Hybrid) · TypeScript, AWS · H-1B track record: ~15 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:cfsenergy:fa87d365-ac8a-44c3-8fda-c9dec3ea8878</id>
@@ -22,6 +38,14 @@
     <updated>2026-10-16T14:29:02Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · Devens, MA · 25–38 USD/hr · Python, LLMs, Docker, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668</id>
+    <title>Leidos: Cloud Engineering Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668"/>
+    <updated>2026-10-16T14:29:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · 6314 Remote/Teleworker US · Azure · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hpe:/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397</id>
@@ -75,9 +99,9 @@
     <id>urn:intern-engine:workday:spscommerce:/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001353</id>
     <title>SPS Commerce: Software Engineer Intern</title>
     <link href="https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001353"/>
-    <updated>2026-10-15T18:01:08Z</updated>
+    <updated>2026-10-16T18:35:22Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · CA ON Brampton Office</summary>
+    <summary>Not stated · Software · CA ON Brampton Office · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern---Spring-2027---Santa-Clara--CA_R00214268</id>
@@ -123,9 +147,9 @@
     <id>urn:intern-engine:greenhouse:figureai:4722086006</id>
     <title>Figure: Embedded Software Engineering Intern, Platform</title>
     <link href="https://job-boards.greenhouse.io/figureai/jobs/4722086006"/>
-    <updated>2026-10-14T20:53:24Z</updated>
+    <updated>2026-10-16T18:35:22Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Jose, CA · $40–$45/hr · Python, C++, Rust, Linux</summary>
+    <summary>Not stated · Software · San Jose, CA · $40–$45/hr · Python, C++, Rust, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Mapping-Intern---Spring-2027---Santa-Clara--CA_R00214261</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-08T20:05:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Boca Raton, FL · Python, Java, C#, Go, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965</id>
-    <title>Moog: Intern, Software Engineering</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965"/>
-    <updated>2026-10-08T20:05:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mineral Wells, TX · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:moog:/job/Torrance-CA/Intern--Computer-Science_R-26-19819</id>
-    <title>Moog: Intern, Computer Science</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Computer-Science_R-26-19819"/>
-    <updated>2026-10-08T20:05:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Torrance, CA · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207</id>
-    <title>Northrop Grumman: 2027 Software Engineer Intern – McClellan CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207"/>
-    <updated>2026-10-11T08:43:09Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-California-McClellan · $21.5–$39/hr · Python, C++ · sponsorship: citizens-only · status: closed</summary>
   </entry>
 </feed>
