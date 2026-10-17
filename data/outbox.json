@@ -847,7 +847,8 @@
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
       "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393",
       "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
-      "workday:rockwellautomation:/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1"
+      "workday:rockwellautomation:/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1",
+      "workday:bah:/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1696,7 +1697,8 @@
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
       "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393",
       "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
-      "workday:rockwellautomation:/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1"
+      "workday:rockwellautomation:/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1",
+      "workday:bah:/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802"
     ]
   }
 }
