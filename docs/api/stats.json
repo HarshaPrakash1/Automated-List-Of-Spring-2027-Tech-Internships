@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-18T18:15:58Z",
- "fetched_at": "2026-10-18T18:15:58Z",
- "duration_seconds": 979.9,
+ "generated_at": "2026-10-18T20:48:46Z",
+ "fetched_at": "2026-10-18T20:48:46Z",
+ "duration_seconds": 1131.5,
  "companies_total": 5076,
  "companies_by_source": {
   "greenhouse": 1126,
@@ -17,24 +17,27 @@
   "breezy": 16,
   "eightfold": 1
  },
- "quarantined": 402,
- "fetched_ok": 4576,
- "fetch_errors": 98,
+ "quarantined": 400,
+ "fetched_ok": 4559,
+ "fetch_errors": 117,
  "errors_by_source": {
-  "workday": 98
+  "workday": 106,
+  "workable": 10,
+  "lever": 1
  },
- "fetch_success_rate": 0.979,
- "fetch_success_rate_registry": 0.901,
- "snapshots_complete": 3986,
- "snapshots_partial": 590,
+ "fetch_success_rate": 0.975,
+ "fetch_success_rate_registry": 0.898,
+ "snapshots_complete": 3980,
+ "snapshots_partial": 579,
  "partial_by_reason": {
-  "result-cap": 590
+  "result-cap": 578,
+  "malformed-response": 1
  },
- "degraded_fetches": 0,
- "roles_matched": 342,
- "dropped_no_year_in_title": 618,
- "dropped_offcycle_by_text": 829,
- "roles_cycle_inferred": 317,
+ "degraded_fetches": 1,
+ "roles_matched": 329,
+ "dropped_no_year_in_title": 602,
+ "dropped_offcycle_by_text": 767,
+ "roles_cycle_inferred": 316,
  "roles_by_source": {
   "amazon": 5,
   "ashby": 34,
@@ -44,18 +47,18 @@
   "oracle": 58,
   "smartrecruiters": 26,
   "workable": 4,
-  "workday": 250
+  "workday": 249
  },
  "roles_by_cycle": {
   "Spring 2027": 170,
-  "Not stated": 317
+  "Not stated": 316
  },
  "roles_by_region": {
-  "US": 487
+  "US": 486
  },
  "sponsorship_counts": {
   "unknown": 365,
-  "citizens-only": 62,
+  "citizens-only": 61,
   "no-sponsorship": 53,
   "offers": 7
  },
@@ -64,7 +67,7 @@
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 487,
+ "open_total": 486,
  "detection_latency": {
   "median_minutes": 189.4,
   "p95_minutes": 2757.1,
@@ -76,5 +79,5 @@
   "median_days": 12,
   "sample_size": 105
  },
- "rendered_at": "2026-10-18T18:15:58Z"
+ "rendered_at": "2026-10-18T20:48:47Z"
 }
