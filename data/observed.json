@@ -551,6 +551,13 @@
       "smartrecruiters:BoschGroup:744000146547599"
      ],
      "count": 3
+    },
+    "Spring 2027": {
+     "first_posted": "2026-10-19",
+     "role_ids": [
+      "smartrecruiters:BoschGroup:744000156311682"
+     ],
+     "count": 1
     }
    }
   },
@@ -3549,5 +3556,5 @@
    }
   }
  },
- "updated_at": "2026-10-19T11:28:52Z"
+ "updated_at": "2026-10-19T17:59:30Z"
 }
