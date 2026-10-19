@@ -5,23 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-19T17:59:30Z</updated>
+  <updated>2026-10-19T22:34:17Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:americanfidelity:/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118</id>
-    <title>American Fidelity: Software Developer Innovation Internship</title>
-    <link href="https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118"/>
-    <updated>2026-10-19T17:59:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Oklahoma City, Oklahoma</summary>
+    <id>urn:intern-engine:greenhouse:thealleninstitute:8293615</id>
+    <title>The Allen Institute for AI: Research Internship, AI for Science</title>
+    <link href="https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615"/>
+    <updated>2026-10-19T22:34:17Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Seattle, WA · $94.32k/yr · TypeScript, PyTorch, React · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:avav:/job/Moorpark-CA/Software-Engineering-Intern_9094</id>
-    <title>Avav: Software Engineering Intern</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Software-Engineering-Intern_9094"/>
+    <id>urn:intern-engine:workday:ttc:/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498</id>
+    <title>The Toro Company: Cloud Software Development Intern - The Toro Company 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498"/>
+    <updated>2026-10-19T22:34:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Frederick, CO · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:braze:8301086</id>
+    <title>Braze: Intern, Software Engineering</title>
+    <link href="https://job-boards.greenhouse.io/braze/jobs/8301086"/>
+    <updated>2026-10-19T22:34:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York City · $60/hr · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:insomniac:6226611004</id>
+    <title>Insomniac Games: Gameplay Programming Intern - Undergraduate</title>
+    <link href="https://job-boards.greenhouse.io/insomniac/jobs/6226611004"/>
+    <updated>2026-10-19T22:34:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States, Burbank, CA; United States, Remote · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:nisc:8301304</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Application Analyst (Financials Software)</title>
+    <link href="https://job-boards.greenhouse.io/nisc/jobs/8301304"/>
+    <updated>2026-10-19T22:34:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Mandan, ND · Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:bracebridgecapital:4745001005</id>
+    <title>Bracebridge Capital: Northeastern University Software Engineer - Application Development Co-op</title>
+    <link href="https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005"/>
     <updated>2026-10-19T17:59:30Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Moorpark, CA · Python, Java, C++, Bash, Linux</summary>
+    <summary>Not stated · Software · Boston, MA · $43–$48/hr · C#, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000156311682</id>
@@ -40,12 +72,20 @@
     <summary>Not stated · Data &amp; ML/AI · Pittsburgh, PA, United States · Python, PyTorch · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:bracebridgecapital:4745001005</id>
-    <title>Bracebridge Capital: Northeastern University Software Engineer - Application Development Co-op</title>
-    <link href="https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005"/>
+    <id>urn:intern-engine:workday:americanfidelity:/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118</id>
+    <title>American Fidelity: Software Developer Innovation Internship</title>
+    <link href="https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118"/>
     <updated>2026-10-19T17:59:30Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Boston, MA · $43–$48/hr · C#, SQL</summary>
+    <summary>Not stated · Software · Oklahoma City, Oklahoma</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:avav:/job/Moorpark-CA/Software-Engineering-Intern_9094</id>
+    <title>Avav: Software Engineering Intern</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Software-Engineering-Intern_9094"/>
+    <updated>2026-10-19T17:59:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Moorpark, CA · Python, Java, C++, Bash, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cognex:/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549</id>
@@ -62,6 +102,14 @@
     <updated>2026-10-19T17:59:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Quant · New York, New York · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046</id>
+    <title>Manhattan Associates: A.I. Developer Co-Op (Boston, MA)</title>
+    <link href="https://manh.wd5.myworkdayjobs.com/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046"/>
+    <updated>2026-10-19T17:59:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US - Home Office · Python, Java, JavaScript, LLMs · H-1B track record: ~153 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:agzen:4cff4edd-3e9a-4ea1-8138-80c7241a2d3a</id>
@@ -758,53 +806,5 @@
     <updated>2026-10-09T19:44:16Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Longmont, CO, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154757409</id>
-    <title>Bosch: Information Security and Privacy Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154757409"/>
-    <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Security · Farmington Hills, MI, United States · LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154759734</id>
-    <title>Bosch: Artificial Intelligence / Machine Learning: Foundation Models - Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154759734"/>
-    <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, PyTorch, Computer Vision · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Loram1:3743990016031492</id>
-    <title>Loram: Machine Learning / Artificial Intelligence (AI) Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Loram1/3743990016031492"/>
-    <updated>2026-10-16T00:04:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Hamel, MN, United States · Python, C#, SQL, PyTorch, Pandas · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alcon:/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204</id>
-    <title>Alcon: Clinical Data Science Intern 🛂</title>
-    <link href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204"/>
-    <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Fort Worth, Texas · Python · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:barrywehmiller:/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133</id>
-    <title>Barry-Wehmiller: Software Engineering Intern - DAL</title>
-    <link href="https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133"/>
-    <updated>2026-10-13T22:08:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dallas, TX · C++, C# · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542</id>
-    <title>Micron Technology: Intern - SSD Firmware - CICD</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542"/>
-    <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Longmont-MAX- Office, CO · Python, LLMs, Git · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

@@ -858,7 +858,10 @@
       "greenhouse:bracebridgecapital:4745001005",
       "workday:cognex:/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549",
       "workday:jainglobal:/job/New-York-New-York/Quantitative-Research-Intern---Equity-Arbitrage_JR100617-1",
-      "workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046"
+      "workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046",
+      "greenhouse:braze:8301086",
+      "greenhouse:insomniac:6226611004",
+      "greenhouse:nisc:8301304"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1718,7 +1721,10 @@
       "greenhouse:bracebridgecapital:4745001005",
       "workday:cognex:/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549",
       "workday:jainglobal:/job/New-York-New-York/Quantitative-Research-Intern---Equity-Arbitrage_JR100617-1",
-      "workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046"
+      "workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046",
+      "greenhouse:braze:8301086",
+      "greenhouse:insomniac:6226611004",
+      "greenhouse:nisc:8301304"
     ]
   }
 }
