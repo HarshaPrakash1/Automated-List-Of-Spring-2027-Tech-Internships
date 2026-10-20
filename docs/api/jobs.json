@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-20T01:32:19Z",
- "data_as_of": "2026-10-20T01:32:19Z",
- "rendered_at": "2026-10-20T01:32:19Z",
+ "generated_at": "2026-10-20T06:49:10Z",
+ "data_as_of": "2026-10-20T06:49:10Z",
+ "rendered_at": "2026-10-20T06:49:11Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 487,
+ "count": 485,
  "jobs": [
   {
    "id": "lever:palantir:da774f81-c98c-4dcf-9b9c-949fd7d90a13",
@@ -11401,31 +11401,6 @@
    "remote": true
   },
   {
-   "id": "workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
-   "company": "Booz Allen",
-   "title": "AI RAN Telecommunications Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "McLean, VA",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
-   "posted_at": "2026-08-26T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-03T09:53:59Z",
-   "sponsorship": "citizens-only",
-   "salary": "$108k/yr",
-   "skills": [
-    "Python",
-    "C++",
-    "MATLAB"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "greenhouse:verkada:5210813007",
    "company": "Verkada",
    "title": "Backend Software Engineering Intern 2027",
@@ -11659,31 +11634,6 @@
    "skills": [],
    "source": "oracle",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:brunswick:/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
-   "company": "Brunswick",
-   "title": "Mercury Marine: G3 Software Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Oshkosh, WI",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
-   "posted_at": "2026-08-25T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-02T05:26:29Z",
-   "sponsorship": "unknown",
-   "salary": "$18–$27.5/hr",
-   "skills": [
-    "Python",
-    "C++",
-    "C#"
-   ],
-   "source": "workday",
-   "h1b_approvals": 54,
    "program": "Internship",
    "remote": false
   },
