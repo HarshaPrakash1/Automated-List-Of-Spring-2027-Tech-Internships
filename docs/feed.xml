@@ -5,23 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-19T22:34:17Z</updated>
+  <updated>2026-10-20T01:32:19Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:thealleninstitute:8293615</id>
-    <title>The Allen Institute for AI: Research Internship, AI for Science</title>
-    <link href="https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615"/>
-    <updated>2026-10-19T22:34:17Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Seattle, WA · $94.32k/yr · TypeScript, PyTorch, React · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498</id>
-    <title>The Toro Company: Cloud Software Development Intern - The Toro Company 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498"/>
-    <updated>2026-10-19T22:34:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Frederick, CO · sponsorship: no-sponsorship · status: closed</summary>
+    <id>urn:intern-engine:lever:palantir:da774f81-c98c-4dcf-9b9c-949fd7d90a13</id>
+    <title>Palantir: Software Engineer, Internship - Query Engines</title>
+    <link href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13"/>
+    <updated>2026-10-20T01:32:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY · Python, Java, C++, Rust, Scala · H-1B track record: ~88 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:braze:8301086</id>
@@ -46,6 +38,22 @@
     <updated>2026-10-19T22:34:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Mandan, ND · Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thealleninstitute:8293615</id>
+    <title>The Allen Institute for AI: Research Internship, AI for Science</title>
+    <link href="https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615"/>
+    <updated>2026-10-19T22:34:17Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Seattle, WA · $94.32k/yr · TypeScript, PyTorch, React · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498</id>
+    <title>The Toro Company: Cloud Software Development Intern - The Toro Company 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498"/>
+    <updated>2026-10-19T22:34:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Frederick, CO · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:bracebridgecapital:4745001005</id>
@@ -643,9 +651,9 @@
     <id>urn:intern-engine:lever:acronaviation:17b5f12d-f590-432d-a421-d6f90274ae9a</id>
     <title>Acron Aviation: Software Engineer Intern - Phoenix Site</title>
     <link href="https://jobs.lever.co/acronaviation/17b5f12d-f590-432d-a421-d6f90274ae9a"/>
-    <updated>2026-10-12T20:17:06Z</updated>
+    <updated>2026-10-20T01:32:19Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Phoenix, AZ · Python, C++, C#, SQL, Linux</summary>
+    <summary>Not stated · Software · Phoenix, AZ · Python, C++, C#, SQL, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cboe:/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-13T17:05:57Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Quant · Austin, Texas, United States · Python, Java, C++, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25012948</id>
-    <title>Texas Instruments: Software Engineering Intern (Longmont, CO) 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012948"/>
-    <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Longmont, CO, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

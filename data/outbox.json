@@ -861,7 +861,8 @@
       "workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046",
       "greenhouse:braze:8301086",
       "greenhouse:insomniac:6226611004",
-      "greenhouse:nisc:8301304"
+      "greenhouse:nisc:8301304",
+      "lever:palantir:da774f81-c98c-4dcf-9b9c-949fd7d90a13"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1724,7 +1725,8 @@
       "workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046",
       "greenhouse:braze:8301086",
       "greenhouse:insomniac:6226611004",
-      "greenhouse:nisc:8301304"
+      "greenhouse:nisc:8301304",
+      "lever:palantir:da774f81-c98c-4dcf-9b9c-949fd7d90a13"
     ]
   }
 }
