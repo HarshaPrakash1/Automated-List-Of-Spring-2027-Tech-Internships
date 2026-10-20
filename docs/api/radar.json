@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-20T17:05:45Z",
- "data_as_of": "2026-10-20T17:05:45Z",
- "rendered_at": "2026-10-20T17:05:45Z",
+ "generated_at": "2026-10-20T20:48:15Z",
+ "data_as_of": "2026-10-20T20:48:15Z",
+ "rendered_at": "2026-10-20T20:48:15Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -60,6 +60,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-03-26"
+   }
+  },
+  {
+   "company": "Anduril",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-10",
+   "days_until": -132,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-06-10"
    }
   },
   {
@@ -1352,6 +1371,44 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-19"
+   }
+  },
+  {
+   "company": "Skydio",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-20"
+   }
+  },
+  {
+   "company": "Stand Together",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-20"
    }
   },
   {
@@ -3882,25 +3939,6 @@
    }
   },
   {
-   "company": "Anduril",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-10",
-   "days_until": -132,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-06-10"
-   }
-  },
-  {
    "company": "Old Mission Capital",
    "last_cycle_posted": "",
    "posted_on": "2026-07-15",
@@ -4395,5 +4433,5 @@
    }
   }
  ],
- "count": 231
+ "count": 233
 }

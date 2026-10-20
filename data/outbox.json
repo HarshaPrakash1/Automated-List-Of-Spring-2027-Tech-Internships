@@ -866,7 +866,13 @@
       "oracle:edbz.fa.us2.oraclecloud.com:25019103",
       "workday:cbrands:/job/Rochester-New-York/Intern--AI-Enablement_R-41526",
       "greenhouse:insomniac:6227080004",
-      "workday:rockwellautomation:/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2"
+      "workday:rockwellautomation:/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2",
+      "ashby:skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
+      "lever:standtogether:35deb481-fc0b-4513-abf5-68880006189b",
+      "workday:aep:/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499",
+      "workday:analogdevices:/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128",
+      "workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309",
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1734,7 +1740,13 @@
       "oracle:edbz.fa.us2.oraclecloud.com:25019103",
       "workday:cbrands:/job/Rochester-New-York/Intern--AI-Enablement_R-41526",
       "greenhouse:insomniac:6227080004",
-      "workday:rockwellautomation:/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2"
+      "workday:rockwellautomation:/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2",
+      "ashby:skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
+      "lever:standtogether:35deb481-fc0b-4513-abf5-68880006189b",
+      "workday:aep:/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499",
+      "workday:analogdevices:/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128",
+      "workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309",
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094"
     ]
   }
 }

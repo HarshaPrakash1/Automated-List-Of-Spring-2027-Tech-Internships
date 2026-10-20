@@ -2815,6 +2815,13 @@
       "ashby:skydio:7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915",
       "ashby:skydio:f6320e9b-4eed-408d-8d37-d509fb0406ee"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "ashby:skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34"
+     ],
+     "count": 1
     }
    }
   },
@@ -2883,6 +2890,18 @@
      "first_posted": "2026-07-29",
      "role_ids": [
       "workday:spe:/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Fall-2026_JR113893"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "stand together": {
+   "name": "Stand Together",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "lever:standtogether:35deb481-fc0b-4513-abf5-68880006189b"
      ],
      "count": 1
     }
@@ -3556,5 +3575,5 @@
    }
   }
  },
- "updated_at": "2026-10-20T17:05:45Z"
+ "updated_at": "2026-10-20T20:48:15Z"
 }
