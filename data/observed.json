@@ -289,9 +289,10 @@
      "role_ids": [
       "greenhouse:andurilindustries:5148079007",
       "greenhouse:andurilindustries:5239083007",
-      "greenhouse:andurilindustries:5265158007"
+      "greenhouse:andurilindustries:5265158007",
+      "greenhouse:andurilindustries:5269977007"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3124,6 +3125,18 @@
     }
    }
   },
+  "toyota": {
+   "name": "Toyota",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "workday:toyota:/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "trade desk": {
    "name": "The Trade Desk",
    "cycles": {
@@ -3150,6 +3163,18 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:trumpf:/job/Farmington-CT/CNC-Programming-Intern_R00042595"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "uber": {
+   "name": "Uber",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "oracle:iaziqy.fa.ocs.oraclecloud.com:303922"
      ],
      "count": 1
     }
@@ -3575,5 +3600,5 @@
    }
   }
  },
- "updated_at": "2026-10-20T20:48:15Z"
+ "updated_at": "2026-10-20T23:35:35Z"
 }

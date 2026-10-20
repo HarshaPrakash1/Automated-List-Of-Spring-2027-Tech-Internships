@@ -872,7 +872,12 @@
       "workday:aep:/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499",
       "workday:analogdevices:/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128",
       "workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309",
-      "workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094"
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
+      "oracle:iaziqy.fa.ocs.oraclecloud.com:303922",
+      "greenhouse:andurilindustries:5269977007",
+      "workday:micron:/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
+      "workday:rakuten:/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171",
+      "workday:toyota:/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1746,7 +1751,12 @@
       "workday:aep:/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499",
       "workday:analogdevices:/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128",
       "workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309",
-      "workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094"
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
+      "oracle:iaziqy.fa.ocs.oraclecloud.com:303922",
+      "greenhouse:andurilindustries:5269977007",
+      "workday:micron:/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
+      "workday:rakuten:/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171",
+      "workday:toyota:/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1"
     ]
   }
 }
