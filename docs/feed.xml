@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-20T12:19:58Z</updated>
+  <updated>2026-10-20T17:05:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25019103</id>
+    <title>Texas Instruments: Software Engineering Intern - Compiler 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019103"/>
+    <updated>2026-10-20T17:05:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States; Sugar Land, TX, United States · Python, C++ · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cbrands:/job/Rochester-New-York/Intern--AI-Enablement_R-41526</id>
+    <title>Constellation Brands: Intern, AI Enablement</title>
+    <link href="https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526"/>
+    <updated>2026-10-20T17:05:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Rochester, New York · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:insomniac:6227080004</id>
+    <title>Insomniac Games: Engine and Tools Programming Intern – Undergraduate</title>
+    <link href="https://job-boards.greenhouse.io/insomniac/jobs/6227080004"/>
+    <updated>2026-10-20T17:05:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States, Burbank, CA · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rockwellautomation:/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2</id>
+    <title>Rockwell Automation: Intern - Embedded Controls Engineering 🛂</title>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2"/>
+    <updated>2026-10-20T17:05:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Orlando, Florida, United States · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:palantir:da774f81-c98c-4dcf-9b9c-949fd7d90a13</id>
     <title>Palantir: Software Engineer, Internship - Query Engines</title>
@@ -499,9 +531,9 @@
     <id>urn:intern-engine:greenhouse:andurilindustries:5265158007</id>
     <title>Anduril: 2027 Firmware Engineer Intern</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007"/>
-    <updated>2026-10-14T01:28:28Z</updated>
+    <updated>2026-10-20T16:48:00Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Hardware · Costa Mesa, California, United States · Computer Vision</summary>
+    <summary>Spring 2027 · Hardware · Costa Mesa, California, United States · Computer Vision · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739956005</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-09T19:44:16Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York · Java, TypeScript, SQL, Kotlin, AWS · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:arcesiumllc:5257199007</id>
-    <title>Arcesium: Infrastructure Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007"/>
-    <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · Python, Java, LLMs, AWS, Kubernetes · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:faire:8870975002</id>
-    <title>Faire: Applied AI/ML Scientist, Intern</title>
-    <link href="https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002"/>
-    <updated>2026-10-09T19:44:16Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · San Francisco, CA · Python, SQL, PyTorch · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8267092</id>
-    <title>Schonfeld: 2027 Quantitative Developer Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8267092"/>
-    <updated>2026-10-13T17:05:57Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Quant · Austin, Texas, United States · Python, Java, C++, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8267120</id>
-    <title>Schonfeld: 2027 Quantitative Research Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8267120"/>
-    <updated>2026-10-13T17:05:57Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Quant · Austin, Texas, United States · Python, Java, C++, SQL · status: closed</summary>
   </entry>
 </feed>

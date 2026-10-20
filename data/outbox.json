@@ -862,7 +862,11 @@
       "greenhouse:braze:8301086",
       "greenhouse:insomniac:6226611004",
       "greenhouse:nisc:8301304",
-      "lever:palantir:da774f81-c98c-4dcf-9b9c-949fd7d90a13"
+      "lever:palantir:da774f81-c98c-4dcf-9b9c-949fd7d90a13",
+      "oracle:edbz.fa.us2.oraclecloud.com:25019103",
+      "workday:cbrands:/job/Rochester-New-York/Intern--AI-Enablement_R-41526",
+      "greenhouse:insomniac:6227080004",
+      "workday:rockwellautomation:/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1726,7 +1730,11 @@
       "greenhouse:braze:8301086",
       "greenhouse:insomniac:6226611004",
       "greenhouse:nisc:8301304",
-      "lever:palantir:da774f81-c98c-4dcf-9b9c-949fd7d90a13"
+      "lever:palantir:da774f81-c98c-4dcf-9b9c-949fd7d90a13",
+      "oracle:edbz.fa.us2.oraclecloud.com:25019103",
+      "workday:cbrands:/job/Rochester-New-York/Intern--AI-Enablement_R-41526",
+      "greenhouse:insomniac:6227080004",
+      "workday:rockwellautomation:/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2"
     ]
   }
 }
