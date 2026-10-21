@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-21T18:31:19Z",
- "data_as_of": "2026-10-21T18:31:19Z",
- "rendered_at": "2026-10-21T18:31:19Z",
+ "generated_at": "2026-10-21T22:14:34Z",
+ "data_as_of": "2026-10-21T22:14:34Z",
+ "rendered_at": "2026-10-21T22:14:34Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -60,25 +60,6 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-03-26"
-   }
-  },
-  {
-   "company": "Anduril",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-10",
-   "days_until": -133,
-   "status": "open",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-06-10"
    }
   },
   {
@@ -814,7 +795,7 @@
    "expected": "2026-09-14",
    "days_until": -37,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205514",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -890,7 +871,7 @@
    "expected": "2026-09-15",
    "days_until": -36,
    "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3974,6 +3955,25 @@
     "type": "verified-window",
     "url": "scale.com/careers",
     "verified_at": "2026-07-21"
+   }
+  },
+  {
+   "company": "Anduril",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-10",
+   "days_until": -133,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-06-10"
    }
   },
   {
