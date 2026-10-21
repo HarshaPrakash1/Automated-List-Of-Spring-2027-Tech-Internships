@@ -878,7 +878,19 @@
       "workday:micron:/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
       "workday:rakuten:/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171",
       "workday:toyota:/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1",
-      "workday:hpe:/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088"
+      "workday:hpe:/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088",
+      "workday:amat:/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
+      "workday:aptiv:/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400",
+      "workday:hitachi:/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733",
+      "workday:lnw:/job/Las-Vegas-NV/Intern-Software-Engineering_R322982",
+      "workday:lnw:/job/Las-Vegas-NV/Software-Engineer---Intern_R323017",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01882134",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950",
+      "workday:werner:/job/Omaha-NE/Information-Security-Intern_JR23746",
+      "workday:werner:/job/Omaha-NE/IT-Cloud-Engineering-Intern_JR23745",
+      "workday:whataburger:/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Data-Scientist-Intern_JR10014201"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1758,7 +1770,19 @@
       "workday:micron:/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
       "workday:rakuten:/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171",
       "workday:toyota:/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1",
-      "workday:hpe:/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088"
+      "workday:hpe:/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088",
+      "workday:amat:/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
+      "workday:aptiv:/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400",
+      "workday:hitachi:/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733",
+      "workday:lnw:/job/Las-Vegas-NV/Intern-Software-Engineering_R322982",
+      "workday:lnw:/job/Las-Vegas-NV/Software-Engineer---Intern_R323017",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01882134",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950",
+      "workday:werner:/job/Omaha-NE/Information-Security-Intern_JR23746",
+      "workday:werner:/job/Omaha-NE/IT-Cloud-Engineering-Intern_JR23745",
+      "workday:whataburger:/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Data-Scientist-Intern_JR10014201"
     ]
   }
 }
