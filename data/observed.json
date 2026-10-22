@@ -2151,6 +2151,7 @@
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
       "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
+      "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
@@ -2159,7 +2160,7 @@
       "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731"
      ],
-     "count": 32
+     "count": 33
     }
    }
   },
@@ -3339,6 +3340,13 @@
      "role_ids": [
       "workday:vrtx:/job/Boston-MA/Vertex-Fall-Co-op-2026--AI-and-Governance_REQ-28615-1"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-10-22",
+     "role_ids": [
+      "workday:vrtx:/job/Boston-MA/Spring-2027-Co-op--Human-AI-Work-and-Organization-Design_REQ-31108-1"
+     ],
+     "count": 1
     }
    }
   },
@@ -3616,5 +3624,5 @@
    }
   }
  },
- "updated_at": "2026-10-22T10:51:15Z"
+ "updated_at": "2026-10-22T15:52:36Z"
 }

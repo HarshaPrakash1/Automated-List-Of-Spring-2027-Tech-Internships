@@ -896,7 +896,11 @@
       "smartrecruiters:AECOM2:744000156887619",
       "workday:dtna:/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337",
       "workday:intel:/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
-      "workday:aptiv:/job/Troy-MI---USA/Software-Development-Intern_J000704861"
+      "workday:aptiv:/job/Troy-MI---USA/Software-Development-Intern_J000704861",
+      "ashby:openart:8dd52ba6-a5b6-40b1-95fe-50de352fa254",
+      "workday:mii:/job/Earth-City-Missouri-USA/Data-Scientist-Intern_R06666-5",
+      "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
+      "workday:vrtx:/job/Boston-MA/Spring-2027-Co-op--Human-AI-Work-and-Organization-Design_REQ-31108-1"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1794,7 +1798,11 @@
       "smartrecruiters:AECOM2:744000156887619",
       "workday:dtna:/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337",
       "workday:intel:/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
-      "workday:aptiv:/job/Troy-MI---USA/Software-Development-Intern_J000704861"
+      "workday:aptiv:/job/Troy-MI---USA/Software-Development-Intern_J000704861",
+      "ashby:openart:8dd52ba6-a5b6-40b1-95fe-50de352fa254",
+      "workday:mii:/job/Earth-City-Missouri-USA/Data-Scientist-Intern_R06666-5",
+      "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
+      "workday:vrtx:/job/Boston-MA/Spring-2027-Co-op--Human-AI-Work-and-Organization-Design_REQ-31108-1"
     ]
   }
 }
