@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-21T22:14:34Z</updated>
+  <updated>2026-10-22T00:51:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337</id>
+    <title>Daimler Truck: Vehicle Electronics Programming Station Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337"/>
+    <updated>2026-10-22T00:51:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Portland, OR US · $21–$29/hr · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588</id>
+    <title>Intel: Information Security Engineer Undergraduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"/>
+    <updated>2026-10-22T00:51:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · US, California, Folsom · Python, JavaScript, SQL, LLMs, Linux · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:metalenz:979c12dd-e71a-41b5-9c5f-a0d7204a22f6</id>
     <title>Metalenz: Camera Software Intern</title>
@@ -107,9 +123,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053</id>
     <title>Northrop Grumman: 2027 Software Engineering Intern - Roy UT 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053"/>
-    <updated>2026-10-21T18:31:19Z</updated>
+    <updated>2026-10-22T00:34:57Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:smithnephew:/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964</id>
@@ -179,9 +195,9 @@
     <id>urn:intern-engine:greenhouse:andurilindustries:5269977007</id>
     <title>Anduril: 2027 Finance Data Analyst Intern</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007"/>
-    <updated>2026-10-21T21:56:12Z</updated>
+    <updated>2026-10-20T23:35:35Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Costa Mesa, California, United States · Python, SQL, LLMs, Computer Vision, Databricks · status: closed</summary>
+    <summary>Spring 2027 · Data &amp; ML/AI · Costa Mesa, California, United States · Python, SQL, LLMs, Computer Vision, Databricks</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:iaziqy.fa.ocs.oraclecloud.com:303922</id>
@@ -466,7 +482,7 @@
   <entry>
     <id>urn:intern-engine:workday:rockwellautomation:/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1</id>
     <title>Rockwell Automation: Intern, Firmware Engineering 🛂</title>
-    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1"/>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922"/>
     <updated>2026-10-16T21:55:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Milwaukee, Wisconsin, United States · Python, C++ · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
@@ -787,24 +803,8 @@
     <id>urn:intern-engine:greenhouse:andurilindustries:5265158007</id>
     <title>Anduril: 2027 Firmware Engineer Intern</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007"/>
-    <updated>2026-10-21T21:56:12Z</updated>
+    <updated>2026-10-14T01:28:28Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Hardware · Costa Mesa, California, United States · Computer Vision · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739956005</id>
-    <title>Astera Labs: Firmware Engineer Intern Fall Co-op</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005"/>
-    <updated>2026-10-14T20:53:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · San Jose, CA · $45/hr · Python, C++, Git · status: closed · H-1B track record: ~29 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739957005</id>
-    <title>Astera Labs: Firmware Engineer Intern Summer Co-op</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739957005"/>
-    <updated>2026-10-14T20:53:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · San Jose, CA · $45/hr · Python, C++, Git · status: closed · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+    <summary>Spring 2027 · Hardware · Costa Mesa, California, United States · Computer Vision</summary>
   </entry>
 </feed>

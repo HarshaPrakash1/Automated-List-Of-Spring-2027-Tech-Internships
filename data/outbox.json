@@ -893,7 +893,9 @@
       "workday:whataburger:/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Data-Scientist-Intern_JR10014201",
       "ashby:metalenz:979c12dd-e71a-41b5-9c5f-a0d7204a22f6",
       "ashby:walrusfi:7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5",
-      "smartrecruiters:AECOM2:744000156887619"
+      "smartrecruiters:AECOM2:744000156887619",
+      "workday:dtna:/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337",
+      "workday:intel:/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1788,7 +1790,9 @@
       "workday:whataburger:/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Data-Scientist-Intern_JR10014201",
       "ashby:metalenz:979c12dd-e71a-41b5-9c5f-a0d7204a22f6",
       "ashby:walrusfi:7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5",
-      "smartrecruiters:AECOM2:744000156887619"
+      "smartrecruiters:AECOM2:744000156887619",
+      "workday:dtna:/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337",
+      "workday:intel:/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
     ]
   }
 }
