@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-22T15:52:36Z</updated>
+  <updated>2026-10-22T19:42:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/AI-ML-Intern_R-00195168</id>
-    <title>Leidos: AI/ML Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168"/>
-    <updated>2026-10-22T15:52:36Z</updated>
+    <id>urn:intern-engine:workday:allstate:/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266</id>
+    <title>Allstate Insurance Company: Arity - Software Engineer Intern 🛂</title>
+    <link href="https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266"/>
+    <updated>2026-10-22T19:42:50Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Huntsville, AL · Python, C++, MATLAB, Linux, Git · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · USA - NC (Remote) · Python, Java, Go, Kotlin, Scala · sponsorship: no-sponsorship · status: closed · H-1B track record: ~50 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mtb:/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812</id>
+    <title>M&amp;T Bank: Technology Intern - Software Engineering (Enterprise API Services Development Team) 🛂</title>
+    <link href="https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812"/>
+    <updated>2026-10-22T19:42:50Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Buffalo, NY · $18–$28/hr · Python, Java, C#, JavaScript, SQL · sponsorship: no-sponsorship · status: closed · H-1B track record: ~137 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012</id>
+    <title>Philips: Intern - AI &amp; Analytics Analyst - Nashville, TN - Spring 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012"/>
+    <updated>2026-10-22T19:42:50Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Nashville, Tennessee, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trimble:/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819</id>
+    <title>Trimble: People Development AI &amp; Digital Learning Intern</title>
+    <link href="https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819"/>
+    <updated>2026-10-22T19:42:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US - CO, Westminster · H-1B track record: ~72 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:openart:8dd52ba6-a5b6-40b1-95fe-50de352fa254</id>
@@ -22,6 +46,14 @@
     <updated>2026-10-22T15:52:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · San Carlos, California, USA · $40 – $50 per hour • Offers Commission · Python, TypeScript, JavaScript · sponsorship: offers</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/AI-ML-Intern_R-00195168</id>
+    <title>Leidos: AI/ML Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168"/>
+    <updated>2026-10-22T15:52:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Huntsville, AL · Python, C++, MATLAB, Linux, Git · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:mii:/job/Earth-City-Missouri-USA/Data-Scientist-Intern_R06666-5</id>
@@ -243,9 +275,9 @@
     <id>urn:intern-engine:greenhouse:andurilindustries:5269977007</id>
     <title>Anduril: 2027 Finance Data Analyst Intern</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007"/>
-    <updated>2026-10-20T23:35:35Z</updated>
+    <updated>2026-10-22T19:24:14Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Costa Mesa, California, United States · Python, SQL, LLMs, Computer Vision, Databricks</summary>
+    <summary>Spring 2027 · Data &amp; ML/AI · Costa Mesa, California, United States · Python, SQL, LLMs, Computer Vision, Databricks · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:iaziqy.fa.ocs.oraclecloud.com:303922</id>
@@ -283,9 +315,9 @@
     <id>urn:intern-engine:ashby:skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34</id>
     <title>Skydio: Embedded Software Engineer Intern - Winer 2027</title>
     <link href="https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34"/>
-    <updated>2026-10-20T20:48:14Z</updated>
+    <updated>2026-10-22T19:24:14Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · San Mateo, California, United States · $47/hr · Python, C++, Linux · H-1B track record: ~26 approvals (FY2022–2023)</summary>
+    <summary>Spring 2027 · Software · San Mateo, California, United States · $47/hr · Python, C++, Linux · status: closed · H-1B track record: ~26 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:standtogether:35deb481-fc0b-4513-abf5-68880006189b</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-14T17:18:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York City, United States · Python, AWS, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037</id>
-    <title>Northrop Grumman: 2027 Cyber Software Engineer Intern - San Antonio TX 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037"/>
-    <updated>2026-10-17T12:53:59Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · United States-Texas-San Antonio · $17.5–$31.5/hr · Git · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:paloaltonetworks:/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelors--EG_JR-022385</id>
-    <title>Paloaltonetworks: Intern - Software Engineer (Bachelors) EG 🛂</title>
-    <link href="https://paloaltonetworks.wd5.myworkdayjobs.com/hidden-private-pawn-temp-gateway-147258369/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelors--EG_JR-022385"/>
-    <updated>2026-10-15T07:35:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Office - USA - CA - Headquarters · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:paloaltonetworks:/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Master-s--EG_JR-022384</id>
-    <title>Paloaltonetworks: Intern - Software Engineer (Master's) EG 🛂</title>
-    <link href="https://paloaltonetworks.wd5.myworkdayjobs.com/hidden-private-pawn-temp-gateway-147258369/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Master-s--EG_JR-022384"/>
-    <updated>2026-10-14T17:18:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Office - USA - CA - Headquarters · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tranetechnologies:/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648</id>
-    <title>Tranetechnologies: Software Development Engineering Intern</title>
-    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648"/>
-    <updated>2026-10-15T07:35:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · St Paul, Minnesota · Python, C++, JavaScript, Git · status: closed</summary>
   </entry>
 </feed>
