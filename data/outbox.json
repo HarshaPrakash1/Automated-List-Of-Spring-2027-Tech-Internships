@@ -902,7 +902,14 @@
       "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
       "workday:vrtx:/job/Boston-MA/Spring-2027-Co-op--Human-AI-Work-and-Organization-Design_REQ-31108-1",
       "workday:philips:/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012",
-      "workday:trimble:/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819"
+      "workday:trimble:/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819",
+      "amazon:amazon:10564599",
+      "lever:palantir:b3d81928-6c26-432f-8a0a-36602c2eefcb",
+      "greenhouse:databricks:6866538002",
+      "workday:kiongroup:/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1",
+      "workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103460",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
+      "workday:spscommerce:/job/US-MN-Minneapolis-Office/Software-Engineer-Intern_R-001398"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1806,7 +1813,14 @@
       "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
       "workday:vrtx:/job/Boston-MA/Spring-2027-Co-op--Human-AI-Work-and-Organization-Design_REQ-31108-1",
       "workday:philips:/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012",
-      "workday:trimble:/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819"
+      "workday:trimble:/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819",
+      "amazon:amazon:10564599",
+      "lever:palantir:b3d81928-6c26-432f-8a0a-36602c2eefcb",
+      "greenhouse:databricks:6866538002",
+      "workday:kiongroup:/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1",
+      "workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103460",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
+      "workday:spscommerce:/job/US-MN-Minneapolis-Office/Software-Engineer-Intern_R-001398"
     ]
   }
 }
