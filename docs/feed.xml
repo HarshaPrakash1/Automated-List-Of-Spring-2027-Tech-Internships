@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-22T00:51:25Z</updated>
+  <updated>2026-10-22T05:31:36Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/Troy-MI---USA/Software-Development-Intern_J000704861</id>
+    <title>Aptiv: Software Development Intern</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861"/>
+    <updated>2026-10-22T05:31:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Troy, MI - USA · Python, Java, C++, C#, JavaScript · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337</id>
     <title>Daimler Truck: Vehicle Electronics Programming Station Intern</title>
@@ -123,9 +131,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053</id>
     <title>Northrop Grumman: 2027 Software Engineering Intern - Roy UT 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053"/>
-    <updated>2026-10-22T00:34:57Z</updated>
+    <updated>2026-10-21T18:31:19Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only · status: closed</summary>
+    <summary>Spring 2027 · Software · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:smithnephew:/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964</id>
@@ -482,7 +490,7 @@
   <entry>
     <id>urn:intern-engine:workday:rockwellautomation:/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1</id>
     <title>Rockwell Automation: Intern, Firmware Engineering 🛂</title>
-    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922"/>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1"/>
     <updated>2026-10-16T21:55:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Milwaukee, Wisconsin, United States · Python, C++ · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
@@ -798,13 +806,5 @@
     <updated>2026-10-14T06:20:56Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Bellevue, Washington · $30–$50/hr · Python, Java, C#, JavaScript, Ruby</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:andurilindustries:5265158007</id>
-    <title>Anduril: 2027 Firmware Engineer Intern</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007"/>
-    <updated>2026-10-14T01:28:28Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Hardware · Costa Mesa, California, United States · Computer Vision</summary>
   </entry>
 </feed>
