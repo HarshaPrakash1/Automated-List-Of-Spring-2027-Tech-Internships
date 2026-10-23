@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-23T06:39:59Z",
- "data_as_of": "2026-10-23T06:39:59Z",
- "rendered_at": "2026-10-23T06:40:00Z",
+ "generated_at": "2026-10-23T12:18:21Z",
+ "data_as_of": "2026-10-23T12:18:21Z",
+ "rendered_at": "2026-10-23T12:18:21Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -60,25 +60,6 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-03-26"
-   }
-  },
-  {
-   "company": "Anduril",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-10",
-   "days_until": -135,
-   "status": "open",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-06-10"
    }
   },
   {
@@ -557,7 +538,7 @@
    }
   },
   {
-   "company": "Applied Materials",
+   "company": "C.H. Robinson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
    "precision": "day",
@@ -567,7 +548,7 @@
    "expected": "2026-09-08",
    "days_until": -45,
    "status": "open",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3939,6 +3920,25 @@
    }
   },
   {
+   "company": "Anduril",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-10",
+   "days_until": -135,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-06-10"
+   }
+  },
+  {
    "company": "Old Mission Capital",
    "last_cycle_posted": "",
    "posted_on": "2026-07-15",
@@ -4129,7 +4129,7 @@
    }
   },
   {
-   "company": "C.H. Robinson",
+   "company": "Applied Materials",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
    "precision": "day",

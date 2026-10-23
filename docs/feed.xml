@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-23T06:39:59Z</updated>
+  <updated>2026-10-23T12:18:21Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:sedgwick:/job/Telecommuter-MA/Data-Analyst-Intern_R79691</id>
+    <title>Sedgwick Claims Management Services: Data Analyst Intern</title>
+    <link href="https://sedgwick.wd1.myworkdayjobs.com/Sedgwick/job/Telecommuter-MA/Data-Analyst-Intern_R79691"/>
+    <updated>2026-10-23T12:18:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Telecommuter MA · SQL, Databricks, Snowflake, Tableau · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Process-and-CMC-Data-Science-Waltham-MA_R2854035-1</id>
     <title>Sanofi: 2027 Spring Co op Process and CMC Data Science Waltham MA</title>
@@ -387,9 +395,9 @@
     <id>urn:intern-engine:greenhouse:andurilindustries:5269977007</id>
     <title>Anduril: 2027 Finance Data Analyst Intern</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007"/>
-    <updated>2026-10-20T23:35:35Z</updated>
+    <updated>2026-10-23T11:59:10Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Costa Mesa, California, United States · Python, SQL, LLMs, Computer Vision, Databricks</summary>
+    <summary>Spring 2027 · Data &amp; ML/AI · Costa Mesa, California, United States · Python, SQL, LLMs, Computer Vision, Databricks · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:iaziqy.fa.ocs.oraclecloud.com:303922</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-14T23:41:28Z</updated>
     <category term="Spring 2027"/>
     <summary>2 openings · Spring 2027 · Data &amp; ML/AI · Santa Clara, California - United States of America · Python, C++, Linux, ROS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Prediction-and-Planning-Intern---Spring-2027---Santa-Clara--CA_R00214262</id>
-    <title>Nissan: Machine Learning Research Prediction and Planning Intern - Spring 2027 - Santa Clara, CA</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Prediction-and-Planning-Intern---Spring-2027---Santa-Clara--CA_R00214262"/>
-    <updated>2026-10-14T23:41:28Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Santa Clara, California - United States of America · Python, C++, Computer Vision</summary>
   </entry>
 </feed>
