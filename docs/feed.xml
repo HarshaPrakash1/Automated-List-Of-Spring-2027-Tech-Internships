@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-22T22:57:43Z</updated>
+  <updated>2026-10-23T01:39:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Process-and-CMC-Data-Science-Waltham-MA_R2854035-1</id>
+    <title>Sanofi: 2027 Spring Co op Process and CMC Data Science Waltham MA</title>
+    <link href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Process-and-CMC-Data-Science-Waltham-MA_R2854035-1"/>
+    <updated>2026-10-23T01:39:55Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Waltham, MA · Python, MATLAB</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10564599</id>
+    <title>Amazon: 2027 Frontier AI &amp; Robotics Internship (Undergraduate) - United States, Frontier AI &amp; Robotics, Frontier AI &amp; Robotics</title>
+    <link href="https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics"/>
+    <updated>2026-10-22T22:57:43Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · San Francisco, California, USA · Python, C++, PyTorch, LLMs, Computer Vision · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:databricks:6866538002</id>
+    <title>Databricks: Data Science Intern (2027 Start)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"/>
+    <updated>2026-10-22T22:57:43Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Mountain View, California; San Francisco, California · Python, SQL, Databricks · H-1B track record: ~308 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:palantir:b3d81928-6c26-432f-8a0a-36602c2eefcb</id>
+    <title>Palantir: Forward Deployed Software Engineer, Internship - Warp Speed 🇺🇸</title>
+    <link href="https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb"/>
+    <updated>2026-10-22T22:57:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY · Python, Java, C++, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~88 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:pattern:48945dce-b5ef-43cd-9d85-f8b26ce5b43e</id>
     <title>Pattern: AI Automation Engineer Intern</title>
@@ -56,28 +88,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · USA VA Falls Church · Python, SQL · sponsorship: citizens-only · status: closed · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:amazon:amazon:10564599</id>
-    <title>Amazon: 2027 Frontier AI &amp; Robotics Internship (Undergraduate) - United States, Frontier AI &amp; Robotics, Frontier AI &amp; Robotics</title>
-    <link href="https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics"/>
-    <updated>2026-10-22T22:57:43Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · San Francisco, California, USA · Python, C++, PyTorch, LLMs, Computer Vision · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:palantir:b3d81928-6c26-432f-8a0a-36602c2eefcb</id>
-    <title>Palantir: Forward Deployed Software Engineer, Internship - Warp Speed 🇺🇸</title>
-    <link href="https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb"/>
+    <id>urn:intern-engine:workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103460</id>
+    <title>Insperity: Rotational AI Intern</title>
+    <link href="https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103460"/>
     <updated>2026-10-22T22:57:43Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · New York, NY · Python, Java, C++, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~88 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:databricks:6866538002</id>
-    <title>Databricks: Data Science Intern (2027 Start)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"/>
-    <updated>2026-10-22T22:57:43Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Mountain View, California; San Francisco, California · Python, SQL, Databricks · H-1B track record: ~308 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Kingwood, TX · Python, SQL, LLMs, Computer Vision · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:kiongroup:/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1</id>
@@ -86,14 +102,6 @@
     <updated>2026-10-22T22:57:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Grand Rapids, MI, United States · Python, SQL, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103460</id>
-    <title>Insperity: Rotational AI Intern</title>
-    <link href="https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103460"/>
-    <updated>2026-10-22T22:57:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Kingwood, TX · Python, SQL, LLMs, Computer Vision · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-14T23:41:28Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · Santa Clara, California - United States of America · Python, C++, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Santa-Clara-California---United-States-of-America/Software-Engineer-Intern---Spring-2027---Santa-Clara--CA_R00214269</id>
-    <title>Nissan: Software Engineer Intern - Spring 2027 - Santa Clara, CA</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Software-Engineer-Intern---Spring-2027---Santa-Clara--CA_R00214269"/>
-    <updated>2026-10-14T23:41:28Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Santa Clara, California - United States of America · Java, C++</summary>
   </entry>
 </feed>
