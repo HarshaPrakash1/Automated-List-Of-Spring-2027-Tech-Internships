@@ -911,7 +911,20 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
       "workday:spscommerce:/job/US-MN-Minneapolis-Office/Software-Engineer-Intern_R-001398",
       "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Process-and-CMC-Data-Science-Waltham-MA_R2854035-1",
-      "workday:sedgwick:/job/Telecommuter-MA/Data-Analyst-Intern_R79691"
+      "workday:sedgwick:/job/Telecommuter-MA/Data-Analyst-Intern_R79691",
+      "workable:coretek-services:21D19CC253",
+      "workday:asml:/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562",
+      "workday:asml:/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354563",
+      "workday:asml:/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
+      "smartrecruiters:BoschGroup:744000157483412",
+      "workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861",
+      "workday:freight:/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Data-Scientist_RC5660",
+      "workday:kla:/job/Milpitas-CA/Software-Engineering-Intern_2642189-1",
+      "workday:kla:/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1",
+      "workday:msd:/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515",
+      "workday:msd:/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Foundation-Models---Intern_R423438",
+      "greenhouse:mongodb:8209134",
+      "greenhouse:olsson:5462183008"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1824,7 +1837,20 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
       "workday:spscommerce:/job/US-MN-Minneapolis-Office/Software-Engineer-Intern_R-001398",
       "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Process-and-CMC-Data-Science-Waltham-MA_R2854035-1",
-      "workday:sedgwick:/job/Telecommuter-MA/Data-Analyst-Intern_R79691"
+      "workday:sedgwick:/job/Telecommuter-MA/Data-Analyst-Intern_R79691",
+      "workable:coretek-services:21D19CC253",
+      "workday:asml:/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562",
+      "workday:asml:/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354563",
+      "workday:asml:/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
+      "smartrecruiters:BoschGroup:744000157483412",
+      "workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861",
+      "workday:freight:/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Data-Scientist_RC5660",
+      "workday:kla:/job/Milpitas-CA/Software-Engineering-Intern_2642189-1",
+      "workday:kla:/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1",
+      "workday:msd:/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515",
+      "workday:msd:/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Foundation-Models---Intern_R423438",
+      "greenhouse:mongodb:8209134",
+      "greenhouse:olsson:5462183008"
     ]
   }
 }

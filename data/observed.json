@@ -830,6 +830,18 @@
     }
    }
   },
+  "coretek services": {
+   "name": "Coretek Services",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-23",
+     "role_ids": [
+      "workable:coretek-services:21D19CC253"
+     ],
+     "count": 1
+    }
+   }
+  },
   "cowboy space": {
    "name": "Cowboy Space",
    "cycles": {
@@ -1926,13 +1938,15 @@
      "first_posted": "2026-09-08",
      "role_ids": [
       "workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
+      "workday:msd:/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515",
+      "workday:msd:/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Foundation-Models---Intern_R423438",
       "workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939"
      ],
-     "count": 6
+     "count": 8
     }
    }
   },
@@ -1955,6 +1969,18 @@
      "first_posted": "2026-09-18",
      "role_ids": [
       "greenhouse:metoxinternationalinc:5427064008"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "mongodb": {
+   "name": "MongoDB",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-23",
+     "role_ids": [
+      "greenhouse:mongodb:8209134"
      ],
      "count": 1
     }
@@ -3635,5 +3661,5 @@
    }
   }
  },
- "updated_at": "2026-10-23T12:18:21Z"
+ "updated_at": "2026-10-23T17:12:50Z"
 }
