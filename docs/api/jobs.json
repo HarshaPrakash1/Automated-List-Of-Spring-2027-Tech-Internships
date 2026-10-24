@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-24T16:30:07Z",
- "data_as_of": "2026-10-24T16:30:07Z",
- "rendered_at": "2026-10-24T16:30:07Z",
+ "generated_at": "2026-10-24T19:15:25Z",
+ "data_as_of": "2026-10-24T19:15:25Z",
+ "rendered_at": "2026-10-24T19:15:25Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 504,
+ "count": 502,
  "jobs": [
   {
    "id": "workday:asml:/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
@@ -7812,27 +7812,6 @@
    "remote": true
   },
   {
-   "id": "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
-   "company": "C.H. Robinson",
-   "title": "Cyber Security Internship 2027",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Security",
-   "location": "Eden Prairie, MN United States of America",
-   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-24T16:12:54Z",
-   "sponsorship": "unknown",
-   "salary": "$15–$30/hr",
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9",
    "company": "Ramp",
    "title": "Software Engineering Intern, iOS",
@@ -11222,34 +11201,6 @@
    "remote": false
   },
   {
-   "id": "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
-   "company": "C.H. Robinson",
-   "title": "Software Engineering Internship 2027",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Eden Prairie, MN United States of America",
-   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
-   "posted_at": "2026-09-08T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-08T20:27:59Z",
-   "sponsorship": "unknown",
-   "salary": "$15–$30/hr",
-   "skills": [
-    "C#",
-    "JavaScript",
-    "SQL",
-    "React",
-    "HTML/CSS",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "oracle:hdhl.fa.us6.oraclecloud.com:1007589",
    "company": "Stantec",
    "title": "Digital Practice Co-op/Intern - Infrastructure (Spring/Summer 2027)",
@@ -11849,6 +11800,31 @@
    "remote": true
   },
   {
+   "id": "workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+   "company": "Booz Allen",
+   "title": "AI RAN Telecommunications Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "McLean, VA",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+   "posted_at": "2026-08-26T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-03T09:53:59Z",
+   "sponsorship": "citizens-only",
+   "salary": "$108k/yr",
+   "skills": [
+    "Python",
+    "C++",
+    "MATLAB"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "greenhouse:verkada:5210813007",
    "company": "Verkada",
    "title": "Backend Software Engineering Intern 2027",
@@ -12082,31 +12058,6 @@
    "skills": [],
    "source": "oracle",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:brunswick:/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
-   "company": "Brunswick",
-   "title": "Mercury Marine: G3 Software Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Oshkosh, WI",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
-   "posted_at": "2026-08-25T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-02T05:26:29Z",
-   "sponsorship": "unknown",
-   "salary": "$18–$27.5/hr",
-   "skills": [
-    "Python",
-    "C++",
-    "C#"
-   ],
-   "source": "workday",
-   "h1b_approvals": 54,
    "program": "Internship",
    "remote": false
   },
