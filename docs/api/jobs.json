@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-24T21:47:22Z",
- "data_as_of": "2026-10-24T21:47:22Z",
- "rendered_at": "2026-10-24T21:47:23Z",
+ "generated_at": "2026-10-24T23:50:11Z",
+ "data_as_of": "2026-10-24T23:50:11Z",
+ "rendered_at": "2026-10-24T23:50:11Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 504,
+ "count": 501,
  "jobs": [
   {
    "id": "workday:asml:/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
@@ -1315,35 +1315,6 @@
    ],
    "source": "workday",
    "h1b_approvals": 499,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:andurilindustries:5269977007",
-   "company": "Anduril",
-   "title": "2027 Finance Data Analyst Intern",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007",
-   "posted_at": "2026-10-20T18:14:02-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-20T23:35:35Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "LLMs",
-    "Computer Vision",
-    "Databricks",
-    "Snowflake",
-    "Tableau"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
@@ -2762,29 +2733,6 @@
     "Angular"
    ],
    "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:andurilindustries:5265158007",
-   "company": "Anduril",
-   "title": "2027 Firmware Engineer Intern",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Hardware",
-   "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007",
-   "posted_at": "2026-10-13T18:43:34-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-14T01:28:28Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Computer Vision"
-   ],
-   "source": "greenhouse",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
@@ -9777,31 +9725,6 @@
    "remote": false
   },
   {
-   "id": "greenhouse:andurilindustries:5239083007",
-   "company": "Anduril",
-   "title": "2027 Flight Software Engineer Intern",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
-   "posted_at": "2026-09-15T15:20:09-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-15T20:25:11Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "MATLAB",
-    "Computer Vision"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324",
    "company": "Bracco",
    "title": "Firmware Engineering Co-op",
@@ -12111,6 +12034,31 @@
    "remote": false
   },
   {
+   "id": "workday:brunswick:/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
+   "company": "Brunswick",
+   "title": "Mercury Marine: G3 Software Engineering Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Oshkosh, WI",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
+   "posted_at": "2026-08-25T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-02T05:26:29Z",
+   "sponsorship": "unknown",
+   "salary": "$18–$27.5/hr",
+   "skills": [
+    "Python",
+    "C++",
+    "C#"
+   ],
+   "source": "workday",
+   "h1b_approvals": 54,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "workday:disney:/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
    "company": "The Walt Disney Company",
    "title": "WDW Computer Science / Computer Engineering Interns, Spring 2027",
@@ -12604,33 +12552,6 @@
    "salary": null,
    "skills": [
     "Python"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:andurilindustries:5148079007",
-   "company": "Anduril",
-   "title": "2027 Software Engineer Intern",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-   "posted_at": "2026-06-10T19:33:06-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-02T05:26:29Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "Rust",
-    "Computer Vision"
    ],
    "source": "greenhouse",
    "h1b_approvals": null,
