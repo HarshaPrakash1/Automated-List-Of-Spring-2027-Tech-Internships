@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-24T12:30:54Z",
- "data_as_of": "2026-10-24T12:30:54Z",
- "rendered_at": "2026-10-24T12:30:54Z",
+ "generated_at": "2026-10-24T16:30:07Z",
+ "data_as_of": "2026-10-24T16:30:07Z",
+ "rendered_at": "2026-10-24T16:30:07Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 502,
+ "count": 504,
  "jobs": [
   {
    "id": "workday:asml:/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
@@ -598,6 +598,31 @@
    ],
    "source": "workday",
    "h1b_approvals": 11,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:aoins:/job/Bedford-NH/Software-Engineer-Intern_R_14465",
+   "company": "Auto-Owners Insurance",
+   "title": "Software Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bedford, NH",
+   "url": "https://aoins.wd5.myworkdayjobs.com/concord/job/Bedford-NH/Software-Engineer-Intern_R_14465",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-24T16:30:07Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "C#",
+    "JavaScript",
+    "SQL"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
@@ -12057,6 +12082,31 @@
    "skills": [],
    "source": "oracle",
    "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:brunswick:/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
+   "company": "Brunswick",
+   "title": "Mercury Marine: G3 Software Engineering Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Oshkosh, WI",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
+   "posted_at": "2026-08-25T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-02T05:26:29Z",
+   "sponsorship": "unknown",
+   "salary": "$18–$27.5/hr",
+   "skills": [
+    "Python",
+    "C++",
+    "C#"
+   ],
+   "source": "workday",
+   "h1b_approvals": 54,
    "program": "Internship",
    "remote": false
   },
