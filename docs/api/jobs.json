@@ -1,11 +1,37 @@
 {
- "generated_at": "2026-10-25T17:02:29Z",
- "data_as_of": "2026-10-25T17:02:29Z",
- "rendered_at": "2026-10-25T17:02:29Z",
+ "generated_at": "2026-10-25T19:49:18Z",
+ "data_as_of": "2026-10-25T19:49:18Z",
+ "rendered_at": "2026-10-25T19:49:18Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
  "count": 492,
  "jobs": [
+  {
+   "id": "workable:connectprep:1AF4F8C65F",
+   "company": "ConnectPrep",
+   "title": "Data Analyst Internship",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Washington, District of Columbia, United States (Remote)",
+   "url": "https://apply.workable.com/connectprep/j/1AF4F8C65F/",
+   "posted_at": "2026-10-25T00:00:00.000Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-25T19:49:18Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Pandas",
+    "Tableau"
+   ],
+   "source": "workable",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": true
+  },
   {
    "id": "workday:asml:/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
    "company": "ASML",
@@ -11793,31 +11819,6 @@
    "skills": [],
    "source": "oracle",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:brunswick:/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
-   "company": "Brunswick",
-   "title": "Mercury Marine: G3 Software Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Oshkosh, WI",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
-   "posted_at": "2026-08-25T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-02T05:26:29Z",
-   "sponsorship": "unknown",
-   "salary": "$18–$27.5/hr",
-   "skills": [
-    "Python",
-    "C++",
-    "C#"
-   ],
-   "source": "workday",
-   "h1b_approvals": 54,
    "program": "Internship",
    "remote": false
   },

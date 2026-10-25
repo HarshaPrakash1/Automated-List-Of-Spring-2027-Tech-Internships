@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-25T17:02:29Z</updated>
+  <updated>2026-10-25T19:49:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:connectprep:1AF4F8C65F</id>
+    <title>ConnectPrep: Data Analyst Internship 🇺🇸</title>
+    <link href="https://apply.workable.com/connectprep/j/1AF4F8C65F/"/>
+    <updated>2026-10-25T19:49:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Washington, District of Columbia, United States (Remote) · Python, SQL, Pandas, Tableau · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:aoins:/job/Bedford-NH/Software-Engineer-Intern_R_14465</id>
     <title>Auto-Owners Insurance: Software Engineer Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-19T17:59:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Quant · New York, New York · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046</id>
-    <title>Manhattan Associates: A.I. Developer Co-Op (Boston, MA)</title>
-    <link href="https://manh.wd5.myworkdayjobs.com/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046"/>
-    <updated>2026-10-19T17:59:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US - Home Office · Python, Java, JavaScript, LLMs · H-1B track record: ~153 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
