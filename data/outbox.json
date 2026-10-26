@@ -938,7 +938,16 @@
       "workday:aoins:/job/Bedford-NH/Software-Engineer-Intern_R_14465",
       "workable:connectprep:1AF4F8C65F",
       "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
-      "workday:hpe:/job/San-Jose-California/AI-ML-Developer-Intern_1217413"
+      "workday:hpe:/job/San-Jose-California/AI-ML-Developer-Intern_1217413",
+      "ashby:skydio:ec82eb16-a5b4-46e7-827a-326b33d7d2cb",
+      "oracle:cva.fa.us1.oraclecloud.com:10369",
+      "workday:analogdevices:/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689",
+      "workday:analogdevices:/job/US-MA-Boston/DevOps-Co-Op_R267690",
+      "workday:amat:/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146",
+      "workday:axos:/job/Omaha-NE/Data-Intern_JR5642",
+      "greenhouse:hivefinancialsystems:5274887007",
+      "workday:prologis:/job/Denver-Colorado/AI-and-Automation--IT--Intern_R6883",
+      "workday:valmont:/job/Valley-NE/Operations-Data-Analyst-Intern_R29224"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1878,7 +1887,16 @@
       "workday:aoins:/job/Bedford-NH/Software-Engineer-Intern_R_14465",
       "workable:connectprep:1AF4F8C65F",
       "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
-      "workday:hpe:/job/San-Jose-California/AI-ML-Developer-Intern_1217413"
+      "workday:hpe:/job/San-Jose-California/AI-ML-Developer-Intern_1217413",
+      "ashby:skydio:ec82eb16-a5b4-46e7-827a-326b33d7d2cb",
+      "oracle:cva.fa.us1.oraclecloud.com:10369",
+      "workday:analogdevices:/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689",
+      "workday:analogdevices:/job/US-MA-Boston/DevOps-Co-Op_R267690",
+      "workday:amat:/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146",
+      "workday:axos:/job/Omaha-NE/Data-Intern_JR5642",
+      "greenhouse:hivefinancialsystems:5274887007",
+      "workday:prologis:/job/Denver-Colorado/AI-and-Automation--IT--Intern_R6883",
+      "workday:valmont:/job/Valley-NE/Operations-Data-Analyst-Intern_R29224"
     ]
   }
 }
