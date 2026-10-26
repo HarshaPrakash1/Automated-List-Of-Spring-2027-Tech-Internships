@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-26T00:22:38Z</updated>
+  <updated>2026-10-26T04:56:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/San-Jose-California/AI-ML-Developer-Intern_1217413</id>
+    <title>Hewlett Packard Enterprise: AI/ML Developer Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413"/>
+    <updated>2026-10-26T04:56:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Jose, California · Python, scikit-learn, LLMs, HTML/CSS, Spark · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9</id>
     <title>Skydio: Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-19T17:59:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Moorpark, CA · Python, Java, C++, Bash, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cognex:/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549</id>
-    <title>Cognex: Software Engineering Intern</title>
-    <link href="https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549"/>
-    <updated>2026-10-19T17:59:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Wauwatosa, Wisconsin · H-1B track record: ~32 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
