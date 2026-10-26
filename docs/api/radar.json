@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-26T17:16:11Z",
- "data_as_of": "2026-10-26T17:16:11Z",
- "rendered_at": "2026-10-26T17:16:12Z",
+ "generated_at": "2026-10-26T21:51:23Z",
+ "data_as_of": "2026-10-26T21:51:23Z",
+ "rendered_at": "2026-10-26T21:51:23Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -225,7 +225,7 @@
    "expected": "2026-08-20",
    "days_until": -67,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015679246",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015679346",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -500,25 +500,6 @@
    }
   },
   {
-   "company": "Neighbor",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": -53,
-   "status": "open",
-   "url": "https://jobs.lever.co/neighbor/7d66629f-3f4b-41ee-a324-fe0154e13c46",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-03"
-   }
-  },
-  {
    "company": "Skydio",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -557,6 +538,25 @@
    }
   },
   {
+   "company": "Schonfeld",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -52,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-04"
+   }
+  },
+  {
    "company": "Allen Control Systems",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -586,7 +586,7 @@
    "expected": "2026-09-08",
    "days_until": -48,
    "status": "open",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -975,25 +975,6 @@
    }
   },
   {
-   "company": "Mastercard",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-21",
-   "days_until": -35,
-   "status": "open",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653",
-   "note": "late-summer opening",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-21"
-   }
-  },
-  {
    "company": "Formlabsinternships",
    "last_cycle_posted": "",
    "posted_on": "2026-09-22",
@@ -1336,25 +1317,6 @@
    }
   },
   {
-   "company": "Commonwealth Fusion Systems",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-15",
-   "days_until": -11,
-   "status": "open",
-   "url": "https://jobs.lever.co/cfsenergy/fa87d365-ac8a-44c3-8fda-c9dec3ea8878",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-10-15"
-   }
-  },
-  {
    "company": "Bosch",
    "last_cycle_posted": "",
    "posted_on": "2026-10-19",
@@ -1466,25 +1428,6 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-22"
-   }
-  },
-  {
-   "company": "Coretek Services",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-23",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-23",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://apply.workable.com/coretek-services/j/21D19CC253/",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-10-23"
    }
   },
   {
@@ -4186,22 +4129,22 @@
    }
   },
   {
-   "company": "Schonfeld",
+   "company": "Neighbor",
    "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
+   "posted_on": "2026-09-03",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -52,
+   "expected": "2026-09-03",
+   "days_until": -53,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Spring 2027",
-    "observed_on": "2026-09-04"
+    "observed_on": "2026-09-03"
    }
   },
   {
@@ -4376,6 +4319,25 @@
    }
   },
   {
+   "company": "Mastercard",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -35,
+   "status": "dropped",
+   "url": "",
+   "note": "late-summer opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-21"
+   }
+  },
+  {
    "company": "Mercury",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -4528,6 +4490,25 @@
    }
   },
   {
+   "company": "Commonwealth Fusion Systems",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-15",
+   "days_until": -11,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-15"
+   }
+  },
+  {
    "company": "KnowBe4",
    "last_cycle_posted": "",
    "posted_on": "2026-10-21",
@@ -4544,6 +4525,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-21"
+   }
+  },
+  {
+   "company": "Coretek Services",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-23",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-23"
    }
   }
  ],

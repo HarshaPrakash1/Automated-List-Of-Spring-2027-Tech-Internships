@@ -63,9 +63,10 @@
       "smartrecruiters:AbbVie:3743990015684476",
       "smartrecruiters:AbbVie:3743990015684516",
       "smartrecruiters:AbbVie:3743990015684556",
-      "smartrecruiters:AbbVie:3743990015684626"
+      "smartrecruiters:AbbVie:3743990015684626",
+      "smartrecruiters:AbbVie:3743990016414086"
      ],
-     "count": 16
+     "count": 17
     }
    }
   },
@@ -2191,6 +2192,7 @@
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
       "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
+      "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
       "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
@@ -2204,7 +2206,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
      ],
-     "count": 34
+     "count": 35
     }
    }
   },
@@ -3678,5 +3680,5 @@
    }
   }
  },
- "updated_at": "2026-10-26T17:16:11Z"
+ "updated_at": "2026-10-26T21:51:23Z"
 }
