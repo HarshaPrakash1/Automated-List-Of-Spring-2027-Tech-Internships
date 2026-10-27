@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T18:34:23Z",
- "data_as_of": "2026-10-27T18:34:23Z",
- "rendered_at": "2026-10-27T18:34:24Z",
+ "generated_at": "2026-10-27T22:52:02Z",
+ "data_as_of": "2026-10-27T22:52:02Z",
+ "rendered_at": "2026-10-27T22:52:02Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -131,25 +131,6 @@
    "days_until": -88,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-07-31"
-   }
-  },
-  {
-   "company": "Melius",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-31",
-   "days_until": -88,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -434,7 +415,7 @@
    "expected": "2026-09-01",
    "days_until": -56,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -4012,6 +3993,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-07-15"
+   }
+  },
+  {
+   "company": "Melius",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-31",
+   "days_until": -88,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-07-31"
    }
   },
   {
