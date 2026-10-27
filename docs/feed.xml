@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-27T01:03:27Z</updated>
+  <updated>2026-10-27T06:29:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:ashby:aurora-operations-inc:bc852c2c-945f-4a1e-b383-54a0f6e0ace9</id>
-    <title>Aurora Innovation: Full Stack Intern</title>
-    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9"/>
+    <id>urn:intern-engine:ashby:aurora-operations-inc:475a24d7-a058-4f86-be8f-fd6be679af9c</id>
+    <title>Aurora Innovation: AI Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c"/>
     <updated>2026-10-27T01:03:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mountain View, CA · $52/hr · TypeScript, LLMs, React · status: closed · H-1B track record: ~163 approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Mountain View, CA · $52/hr · Python, C++, AWS, GCP, Azure · H-1B track record: ~163 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:aurora-operations-inc:a90b7522-4e66-4247-b9ec-7e2bb50b78f4</id>
@@ -22,6 +22,14 @@
     <updated>2026-10-27T01:03:27Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Mountain View, CA · $52/hr · PyTorch · status: closed · H-1B track record: ~163 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:aurora-operations-inc:bc852c2c-945f-4a1e-b383-54a0f6e0ace9</id>
+    <title>Aurora Innovation: Full Stack Intern</title>
+    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9"/>
+    <updated>2026-10-27T01:03:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mountain View, CA · $52/hr · TypeScript, LLMs, React · status: closed · H-1B track record: ~163 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:aurora-operations-inc:c823b343-ba1f-4ff3-84ce-965ee9952c12</id>
@@ -40,12 +48,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Mountain View, CA · $52/hr · Python, Go, AWS, GCP · status: closed · H-1B track record: ~163 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:aurora-operations-inc:475a24d7-a058-4f86-be8f-fd6be679af9c</id>
-    <title>Aurora Innovation: AI Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c"/>
+    <id>urn:intern-engine:greenhouse:parallel:5275690007</id>
+    <title>Parallel Systems: Software Engineering Intern (Embedded, Backend, Fullstack)</title>
+    <link href="https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007"/>
     <updated>2026-10-27T01:03:27Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mountain View, CA · $52/hr · Python, C++, AWS, GCP, Azure · H-1B track record: ~163 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Los Angeles, CA · Python, C++, Rust, TypeScript, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:generac:/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736</id>
@@ -54,14 +62,6 @@
     <updated>2026-10-27T01:03:27Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Waukesha, WI - USA · Python, SQL, LLMs, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:parallel:5275690007</id>
-    <title>Parallel Systems: Software Engineering Intern (Embedded, Backend, Fullstack)</title>
-    <link href="https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007"/>
-    <updated>2026-10-27T01:03:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Los Angeles, CA · Python, C++, Rust, TypeScript, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022588</id>
@@ -483,9 +483,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423</id>
     <title>Northrop Grumman: 2027 Systems Engineering Internship (AI Experience) - Dulles VA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"/>
-    <updated>2026-10-22T22:57:43Z</updated>
+    <updated>2026-10-27T06:09:26Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · United States-Virginia-Dulles · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Data &amp; ML/AI · United States-Virginia-Dulles · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:spscommerce:/job/US-MN-Minneapolis-Office/Software-Engineer-Intern_R-001398</id>
