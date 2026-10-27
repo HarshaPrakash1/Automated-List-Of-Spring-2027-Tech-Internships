@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-26T21:51:23Z</updated>
+  <updated>2026-10-27T01:03:27Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:aurora-operations-inc:bc852c2c-945f-4a1e-b383-54a0f6e0ace9</id>
+    <title>Aurora Innovation: Full Stack Intern</title>
+    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9"/>
+    <updated>2026-10-27T01:03:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mountain View, CA · $52/hr · TypeScript, LLMs, React · status: closed · H-1B track record: ~163 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:aurora-operations-inc:a90b7522-4e66-4247-b9ec-7e2bb50b78f4</id>
+    <title>Aurora Innovation: Behavior &amp; Planning (ML Research) Intern</title>
+    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4"/>
+    <updated>2026-10-27T01:03:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Mountain View, CA · $52/hr · PyTorch · status: closed · H-1B track record: ~163 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:aurora-operations-inc:c823b343-ba1f-4ff3-84ce-965ee9952c12</id>
+    <title>Aurora Innovation: Core Autonomy Software (C++) Intern</title>
+    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12"/>
+    <updated>2026-10-27T01:03:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mountain View, CA · $52/hr · C++, Linux · status: closed · H-1B track record: ~163 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:aurora-operations-inc:da4c8e2e-0571-4503-94d9-234da86f83b0</id>
+    <title>Aurora Innovation: Data &amp; ML Platform Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0"/>
+    <updated>2026-10-27T01:03:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Mountain View, CA · $52/hr · Python, Go, AWS, GCP · status: closed · H-1B track record: ~163 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:aurora-operations-inc:475a24d7-a058-4f86-be8f-fd6be679af9c</id>
+    <title>Aurora Innovation: AI Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c"/>
+    <updated>2026-10-27T01:03:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Mountain View, CA · $52/hr · Python, C++, AWS, GCP, Azure · H-1B track record: ~163 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:generac:/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736</id>
+    <title>Generac: Intern AI Engineering</title>
+    <link href="https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736"/>
+    <updated>2026-10-27T01:03:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Waukesha, WI - USA · Python, SQL, LLMs, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:parallel:5275690007</id>
+    <title>Parallel Systems: Software Engineering Intern (Embedded, Backend, Fullstack)</title>
+    <link href="https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007"/>
+    <updated>2026-10-27T01:03:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Los Angeles, CA · Python, C++, Rust, TypeScript, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022588</id>
     <title>ADT: Cybersecurity &amp; Risk Intern 🛂</title>
@@ -155,9 +211,9 @@
     <id>urn:intern-engine:greenhouse:amperesand:4465899009</id>
     <title>Amperesand: AI/ML Engineering Intern</title>
     <link href="https://job-boards.greenhouse.io/amperesand/jobs/4465899009"/>
-    <updated>2026-10-23T23:43:36Z</updated>
+    <updated>2026-10-27T01:03:27Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California, United States · Python, Rust, TypeScript, PyTorch, TensorFlow</summary>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California, United States · Python, Rust, TypeScript, PyTorch, TensorFlow · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hpe:/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080</id>
@@ -611,17 +667,17 @@
     <id>urn:intern-engine:workday:lnw:/job/Las-Vegas-NV/Intern-Software-Engineering_R322982</id>
     <title>Light &amp; Wonder: Intern Software Engineering</title>
     <link href="https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982"/>
-    <updated>2026-10-21T18:31:19Z</updated>
+    <updated>2026-10-27T01:03:27Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Las Vegas, NV · Python, C++, C#, JavaScript, SQL</summary>
+    <summary>Not stated · Software · Las Vegas, NV · Python, C++, C#, JavaScript, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:lnw:/job/Las-Vegas-NV/Software-Engineer---Intern_R323017</id>
     <title>Light &amp; Wonder: Software Engineer - Intern</title>
     <link href="https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Software-Engineer---Intern_R323017"/>
-    <updated>2026-10-21T18:31:19Z</updated>
+    <updated>2026-10-27T01:03:27Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Las Vegas, NV · Python, C++, C#, JavaScript, SQL</summary>
+    <summary>Not stated · Software · Las Vegas, NV · Python, C++, C#, JavaScript, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053</id>
@@ -750,61 +806,5 @@
     <updated>2026-10-20T20:48:14Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · New York · 5,500–7,500 USD/yr · Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com:10005930</id>
-    <title>Berkshire Hathaway Energy: Intern - Software Engineering</title>
-    <link href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005930"/>
-    <updated>2026-10-20T20:48:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Des Moines, IA, United States · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aep:/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499</id>
-    <title>American Electric Power: Data Scientist Intern</title>
-    <link href="https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499"/>
-    <updated>2026-10-20T20:48:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Columbus, OH · Python, SQL, TensorFlow, scikit-learn, Pandas · H-1B track record: ~34 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:analogdevices:/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128</id>
-    <title>Analog Devices: Software Tools Engineering Intern</title>
-    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128"/>
-    <updated>2026-10-20T20:48:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United Kingdom, Edinburgh, SC, Freer · TypeScript, JavaScript, React, Node.js, Git · H-1B track record: ~181 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309</id>
-    <title>Fresenius Medical Care: Software Engineering Co-op</title>
-    <link href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309"/>
-    <updated>2026-10-20T20:48:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Lawrence, MA, USA · Java, C++, C#, JavaScript, .NET</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094</id>
-    <title>Micron Technology: Intern - SMAI Probe AI Engineer</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094"/>
-    <updated>2026-10-20T20:48:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Boise, ID - Main Site · Python, Java, C++, C#, JavaScript · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:insomniac:6227080004</id>
-    <title>Insomniac Games: Engine and Tools Programming Intern – Undergraduate</title>
-    <link href="https://job-boards.greenhouse.io/insomniac/jobs/6227080004"/>
-    <updated>2026-10-20T17:05:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States, Burbank, CA · C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25019103</id>
-    <title>Texas Instruments: Software Engineering Intern - Compiler 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019103"/>
-    <updated>2026-10-20T17:05:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States; Sugar Land, TX, United States · Python, C++ · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

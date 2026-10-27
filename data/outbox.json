@@ -949,7 +949,10 @@
       "workday:prologis:/job/Denver-Colorado/AI-and-Automation--IT--Intern_R6883",
       "workday:valmont:/job/Valley-NE/Operations-Data-Analyst-Intern_R29224",
       "smartrecruiters:AbbVie:3743990016414086",
-      "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656"
+      "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656",
+      "ashby:aurora-operations-inc:475a24d7-a058-4f86-be8f-fd6be679af9c",
+      "workday:generac:/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736",
+      "greenhouse:parallel:5275690007"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1900,7 +1903,10 @@
       "workday:prologis:/job/Denver-Colorado/AI-and-Automation--IT--Intern_R6883",
       "workday:valmont:/job/Valley-NE/Operations-Data-Analyst-Intern_R29224",
       "smartrecruiters:AbbVie:3743990016414086",
-      "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656"
+      "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656",
+      "ashby:aurora-operations-inc:475a24d7-a058-4f86-be8f-fd6be679af9c",
+      "workday:generac:/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736",
+      "greenhouse:parallel:5275690007"
     ]
   }
 }
