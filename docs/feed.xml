@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-27T06:29:40Z</updated>
+  <updated>2026-10-27T12:54:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1</id>
+    <title>Visa: Software Engineer, Intern - 2027 Ashburn, VA 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1"/>
+    <updated>2026-10-27T12:54:29Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US - Ashburn, VA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1</id>
+    <title>Visa: Software Engineer, Intern - Foster City 2027 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1"/>
+    <updated>2026-10-27T12:54:29Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US - Foster City, CA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1</id>
+    <title>Visa: Software Engineer, Intern - 2027 Austin, TX 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1"/>
+    <updated>2026-10-27T12:54:29Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US - Austin, TX · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:aurora-operations-inc:475a24d7-a058-4f86-be8f-fd6be679af9c</id>
     <title>Aurora Innovation: AI Engineer Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-21T22:14:34Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · San Mateo, California · Python, Java, C#, JavaScript, Ruby · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:toyota:/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1</id>
-    <title>Toyota: 2027 TFS Data Science Internship</title>
-    <link href="https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1"/>
-    <updated>2026-10-20T23:35:35Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Plano, Texas · Python, SQL, scikit-learn, Pandas, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34</id>
-    <title>Skydio: Embedded Software Engineer Intern - Winer 2027</title>
-    <link href="https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34"/>
-    <updated>2026-10-22T19:24:14Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · San Mateo, California, United States · $47/hr · Python, C++, Linux · status: closed · H-1B track record: ~26 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:standtogether:35deb481-fc0b-4513-abf5-68880006189b</id>
-    <title>Stand Together: KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy</title>
-    <link href="https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b"/>
-    <updated>2026-10-20T20:48:14Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · New York · 5,500–7,500 USD/yr · Tableau</summary>
   </entry>
 </feed>
