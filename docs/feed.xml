@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-27T22:52:02Z</updated>
+  <updated>2026-10-28T01:56:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:samsungsemiconductor:8046795003</id>
+    <title>Samsung: Intern, Power-Thermal Simulation Software Engineer</title>
+    <link href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003"/>
+    <updated>2026-10-28T01:56:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, California, United States · Python, C++, Bash, Verilog</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:aaaie:/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002</id>
     <title>CSAA Insurance Group: Data Science Intern 🛂</title>
@@ -14,6 +22,14 @@
     <updated>2026-10-27T22:52:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Arizona - Home Teleworkers · Python, SQL · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852</id>
+    <title>ASML: Internship - Frontend Developer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852"/>
+    <updated>2026-10-27T22:52:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, CA, USA · $18/hr · Python, TypeScript, JavaScript, React, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hp:/job/San-Francisco-California-United-States-of-America/Cloud-Engineering-Intern_UNI4799-1</id>
@@ -32,28 +48,20 @@
     <summary>Summer 2027 · Security · Pearl Harbor, HI · Python, Bash, Linux · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:sonos:/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871</id>
-    <title>Sonos: Software Engineering Intern (Seattle) 🛂</title>
-    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871"/>
-    <updated>2026-10-27T22:52:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Seattle, WA · Python, Java, C++, Swift, Kotlin · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852</id>
-    <title>ASML: Internship - Frontend Developer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852"/>
-    <updated>2026-10-27T22:52:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Jose, CA, USA · $18/hr · Python, TypeScript, JavaScript, React, Git</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903</id>
     <title>Northrop Grumman: 2027 Software Engineer Intern - Azusa CA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903"/>
     <updated>2026-10-27T22:52:02Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · United States-California-Azusa · $21.5–$33.5/hr · Python, Java, C++, C#, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonos:/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871</id>
+    <title>Sonos: Software Engineering Intern (Seattle) 🛂</title>
+    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871"/>
+    <updated>2026-10-27T22:52:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Seattle, WA · Python, Java, C++, Swift, Kotlin · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:cssmerge:8919606002</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-22T05:31:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Troy, MI - USA · Python, Java, C++, C#, JavaScript · H-1B track record: ~251 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337</id>
-    <title>Daimler Truck: Vehicle Electronics Programming Station Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337"/>
-    <updated>2026-10-22T00:51:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Portland, OR US · $21–$29/hr · Python</summary>
   </entry>
 </feed>

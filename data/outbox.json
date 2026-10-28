@@ -977,7 +977,8 @@
       "workday:visa:/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1",
       "oracle:hdjq.fa.us2.oraclecloud.com:26010630",
       "workday:asml:/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852",
-      "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903"
+      "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
+      "greenhouse:samsungsemiconductor:8046795003"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1956,7 +1957,8 @@
       "workday:visa:/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1",
       "oracle:hdjq.fa.us2.oraclecloud.com:26010630",
       "workday:asml:/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852",
-      "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903"
+      "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
+      "greenhouse:samsungsemiconductor:8046795003"
     ]
   }
 }

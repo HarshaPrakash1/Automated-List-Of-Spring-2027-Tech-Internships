@@ -1,11 +1,37 @@
 {
- "generated_at": "2026-10-27T22:52:02Z",
- "data_as_of": "2026-10-27T22:52:02Z",
- "rendered_at": "2026-10-27T22:52:02Z",
+ "generated_at": "2026-10-28T01:56:46Z",
+ "data_as_of": "2026-10-28T01:56:46Z",
+ "rendered_at": "2026-10-28T01:56:46Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 504,
+ "count": 507,
  "jobs": [
+  {
+   "id": "greenhouse:samsungsemiconductor:8046795003",
+   "company": "Samsung",
+   "title": "Intern, Power-Thermal Simulation Software Engineer",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "San Jose, California, United States",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003",
+   "posted_at": "2026-10-27T20:22:25-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-28T01:56:46Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "Bash",
+    "Verilog"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "oracle:hdjq.fa.us2.oraclecloud.com:26010630",
    "company": "Emerson Electric",
@@ -11197,6 +11223,29 @@
    "remote": false
   },
   {
+   "id": "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+   "company": "Applied Materials",
+   "title": "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
+   "season": "Spring 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Santa Clara,CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+   "posted_at": "2026-09-08T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-09T19:45:14Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "C++"
+   ],
+   "source": "workday",
+   "h1b_approvals": 650,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c",
    "company": "Allen Control Systems",
    "title": "Software Engineering Intern, 2027",
@@ -11893,6 +11942,31 @@
    ],
    "source": "amazon",
    "h1b_approvals": 23139,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+   "company": "Booz Allen",
+   "title": "AI RAN Telecommunications Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "McLean, VA",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+   "posted_at": "2026-08-26T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-03T09:53:59Z",
+   "sponsorship": "citizens-only",
+   "salary": "$108k/yr",
+   "skills": [
+    "Python",
+    "C++",
+    "MATLAB"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
