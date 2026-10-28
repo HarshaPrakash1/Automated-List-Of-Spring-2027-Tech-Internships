@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-28T15:43:08Z",
- "data_as_of": "2026-10-28T15:43:08Z",
- "rendered_at": "2026-10-28T15:43:08Z",
+ "generated_at": "2026-10-28T20:51:40Z",
+ "data_as_of": "2026-10-28T20:51:40Z",
+ "rendered_at": "2026-10-28T20:51:40Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -98,6 +98,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-06-11"
+   }
+  },
+  {
+   "company": "Old Mission",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-15",
+   "days_until": -105,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-07-15"
    }
   },
   {
@@ -595,6 +614,25 @@
    }
   },
   {
+   "company": "FUTO",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -50,
+   "status": "open",
+   "url": "https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "Merck",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -1032,6 +1070,25 @@
    }
   },
   {
+   "company": "Genesis Molecular AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -34,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-24"
+   }
+  },
+  {
    "company": "GITAI",
    "last_cycle_posted": "",
    "posted_on": "2026-09-28",
@@ -1466,6 +1523,44 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-26"
+   }
+  },
+  {
+   "company": "Sherwin-Williams",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-28",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-28"
+   }
+  },
+  {
+   "company": "Valmont",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-28",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/AI---Data-Engineering-Intern_R29310",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-28"
    }
   },
   {
@@ -4414,25 +4509,6 @@
    }
   },
   {
-   "company": "Genesis Molecular AI",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-24",
-   "days_until": -34,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-24"
-   }
-  },
-  {
    "company": "RRS Group",
    "last_cycle_posted": "",
    "posted_on": "2026-09-25",
@@ -4566,5 +4642,5 @@
    }
   }
  ],
- "count": 240
+ "count": 244
 }

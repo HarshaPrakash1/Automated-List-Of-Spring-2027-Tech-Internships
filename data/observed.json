@@ -1288,6 +1288,18 @@
     }
    }
   },
+  "futo": {
+   "name": "FUTO",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "lever:futo-org:7dd9877a-9009-408d-aa50-623cd5153f70"
+     ],
+     "count": 1
+    }
+   }
+  },
   "gemini": {
    "name": "Gemini",
    "cycles": {
@@ -2284,9 +2296,10 @@
       "greenhouse:thenuclearcompany:5383171008",
       "greenhouse:thenuclearcompany:5383212008",
       "greenhouse:thenuclearcompany:5383218008",
-      "greenhouse:thenuclearcompany:5391888008"
+      "greenhouse:thenuclearcompany:5391888008",
+      "greenhouse:thenuclearcompany:5466153008"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2312,6 +2325,18 @@
      "first_posted": "2026-09-15",
      "role_ids": [
       "workday:nvidia:/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "old mission": {
+   "name": "Old Mission",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-07-15",
+     "role_ids": [
+      "ashby:old-mission-capital:d003aaa4-a1e9-46b5-b271-eaccc15db9d6"
      ],
      "count": 1
     }
@@ -2809,13 +2834,14 @@
      "first_posted": "2026-09-04",
      "role_ids": [
       "greenhouse:schonfeld:8171692",
+      "greenhouse:schonfeld:8171694",
       "greenhouse:schonfeld:8171696",
       "greenhouse:schonfeld:8171699",
       "greenhouse:schonfeld:8180089",
       "greenhouse:schonfeld:8267092",
       "greenhouse:schonfeld:8267120"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -2865,6 +2891,18 @@
      "role_ids": [
       "greenhouse:sharkninjaoperatingllc:4669676006"
      ]
+    }
+   }
+  },
+  "sherwin williams": {
+   "name": "Sherwin-Williams",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-28",
+     "role_ids": [
+      "oracle:ejhp.fa.us6.oraclecloud.com:2627789"
+     ],
+     "count": 1
     }
    }
   },
@@ -3276,6 +3314,18 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:hcmportal:/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "valmont": {
+   "name": "Valmont",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-28",
+     "role_ids": [
+      "workday:valmont:/job/Omaha-NE/AI---Data-Engineering-Intern_R29310"
      ],
      "count": 1
     }
@@ -3699,5 +3749,5 @@
    }
   }
  },
- "updated_at": "2026-10-28T15:43:08Z"
+ "updated_at": "2026-10-28T20:51:40Z"
 }
