@@ -980,7 +980,14 @@
       "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
       "greenhouse:samsungsemiconductor:8046795003",
       "workday:dtna:/job/Portland-OR-US/Software-Release-Management-Intern_DT-20432",
-      "smartrecruiters:Wabtec:3743990016452226"
+      "smartrecruiters:Wabtec:3743990016452226",
+      "workday:allegion:/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1",
+      "workday:allegion:/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1",
+      "smartrecruiters:Intuitive:744000158312151",
+      "smartrecruiters:Intuitive:744000158313919",
+      "workday:leidos:/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
+      "workday:leidos:/job/Denver-CO/Energy---Infrastructure-Consulting-Summer-Intern_R-00195653-1",
+      "workday:leidos:/job/Framingham-MA/Energy---Infrastructure-Consulting-Summer-Intern_R-00195678"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -1962,7 +1969,14 @@
       "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
       "greenhouse:samsungsemiconductor:8046795003",
       "workday:dtna:/job/Portland-OR-US/Software-Release-Management-Intern_DT-20432",
-      "smartrecruiters:Wabtec:3743990016452226"
+      "smartrecruiters:Wabtec:3743990016452226",
+      "workday:allegion:/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1",
+      "workday:allegion:/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1",
+      "smartrecruiters:Intuitive:744000158312151",
+      "smartrecruiters:Intuitive:744000158313919",
+      "workday:leidos:/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
+      "workday:leidos:/job/Denver-CO/Energy---Infrastructure-Consulting-Summer-Intern_R-00195653-1",
+      "workday:leidos:/job/Framingham-MA/Energy---Infrastructure-Consulting-Summer-Intern_R-00195678"
     ]
   }
 }
