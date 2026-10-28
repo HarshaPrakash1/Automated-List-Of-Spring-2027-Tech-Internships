@@ -3530,6 +3530,13 @@
       "smartrecruiters:Wabtec:3743990014706157"
      ],
      "count": 2
+    },
+    "Spring 2027": {
+     "first_posted": "2026-10-28",
+     "role_ids": [
+      "smartrecruiters:Wabtec:3743990016452226"
+     ],
+     "count": 1
     }
    }
   },
@@ -3692,5 +3699,5 @@
    }
   }
  },
- "updated_at": "2026-10-28T01:56:46Z"
+ "updated_at": "2026-10-28T08:35:39Z"
 }
