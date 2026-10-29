@@ -1675,9 +1675,10 @@
     "Spring 2027": {
      "first_posted": "2026-09-15",
      "role_ids": [
-      "greenhouse:internrecruiting:8204511"
+      "greenhouse:internrecruiting:8204511",
+      "greenhouse:internrecruiting:8310712"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3775,5 +3776,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T19:32:08Z"
+ "updated_at": "2026-10-29T23:46:43Z"
 }

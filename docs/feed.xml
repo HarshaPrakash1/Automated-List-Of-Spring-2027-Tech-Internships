@@ -5,31 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-29T19:32:08Z</updated>
+  <updated>2026-10-29T23:46:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:261197</id>
-    <title>GM financial: Intern - Data Engineer</title>
-    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197"/>
-    <updated>2026-10-29T19:32:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Arlington, TX, United States · Python, Java, C++, LLMs, Git · status: closed</summary>
+    <id>urn:intern-engine:workday:globalfoundries:/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355</id>
+    <title>GlobalFoundries: Digital Design Backend Engineering Intern, 3D and AI Flows</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355"/>
+    <updated>2026-10-29T23:46:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · USA - California - Santa Clara · Python, SQL, Pandas</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:jmfamily:/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158</id>
-    <title>JM Family: Software Engineer Intern</title>
-    <link href="https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158"/>
-    <updated>2026-10-29T19:32:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Florida - Deerfield Beach · status: closed</summary>
+    <id>urn:intern-engine:workday:hcsc:/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508</id>
+    <title>HCSC: Early Careers - Cybersecurity Operations Intern 🛂</title>
+    <link href="https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508"/>
+    <updated>2026-10-29T23:46:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · IL - Chicago · Python · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829</id>
-    <title>Leidos: Software Developer Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829"/>
-    <updated>2026-10-29T19:32:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Annapolis Junction, MD · Python, Java, C++, JavaScript, HTML/CSS · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:greenhouse:internrecruiting:8310712</id>
+    <title>Internrecruiting: Cloud Engineer Co-op</title>
+    <link href="https://job-boards.greenhouse.io/internrecruiting/jobs/8310712"/>
+    <updated>2026-10-29T23:46:43Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Wakefield, MA (Hybrid) · SQL, AWS, Azure, Terraform</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:samsungsemiconductor:8046887003</id>
+    <title>Samsung: Intern, Systems Software Engineering</title>
+    <link href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003"/>
+    <updated>2026-10-29T23:46:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, California, United States · Python, C++, Rust, Bash, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:subtotal:3891929c-0ee6-46ea-a833-4efba2862801</id>
@@ -48,36 +56,12 @@
     <summary>Not stated · Software · Wayzata, Minnesota, United States · C#, Python, Java, C++, TypeScript</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Interco:744000158581114</id>
-    <title>Interco: Paid Internship -- Software Development -- React 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/Interco/744000158581114"/>
-    <updated>2026-10-29T19:32:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · St. Louis, MO, United States · $15/hr · React, JavaScript, HTML/CSS · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Intern_2642700-1</id>
-    <title>KLA: Software Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642700-1"/>
-    <updated>2026-10-29T19:32:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Milpitas, CA · Python, Java, C++, C#, Git · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:nyisocoops:5236034007</id>
     <title>New York ISO: Co-Op - IT - Software Engineering</title>
     <link href="https://job-boards.greenhouse.io/nyisocoops/jobs/5236034007"/>
     <updated>2026-10-29T19:32:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Rensselaer, New York, United States · Java, SQL, Spring, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1</id>
-    <title>Northrop Grumman: 2027 Software Test Engineering Intern- Roy UT 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1"/>
-    <updated>2026-10-29T19:32:08Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:pathrobotics:8924241002</id>
@@ -110,6 +94,54 @@
     <updated>2026-10-29T19:32:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Arlington, Virginia · Python, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:261197</id>
+    <title>GM financial: Intern - Data Engineer</title>
+    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197"/>
+    <updated>2026-10-29T19:32:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Arlington, TX, United States · Python, Java, C++, LLMs, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Interco:744000158581114</id>
+    <title>Interco: Paid Internship -- Software Development -- React 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/Interco/744000158581114"/>
+    <updated>2026-10-29T19:32:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · St. Louis, MO, United States · $15/hr · React, JavaScript, HTML/CSS · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jmfamily:/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158</id>
+    <title>JM Family: Software Engineer Intern</title>
+    <link href="https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158"/>
+    <updated>2026-10-29T19:32:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Florida - Deerfield Beach · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Intern_2642700-1</id>
+    <title>KLA: Software Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642700-1"/>
+    <updated>2026-10-29T19:32:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Milpitas, CA · Python, Java, C++, C#, Git · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829</id>
+    <title>Leidos: Software Developer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829"/>
+    <updated>2026-10-29T19:32:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Annapolis Junction, MD · Python, Java, C++, JavaScript, HTML/CSS · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1</id>
+    <title>Northrop Grumman: 2027 Software Test Engineering Intern- Roy UT 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1"/>
+    <updated>2026-10-29T19:32:08Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:SyngentaGroup:744000158494415</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-26T17:16:11Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · Gloucester,MA · $33–$50/hr · Python, MATLAB · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:analogdevices:/job/US-MA-Boston/DevOps-Co-Op_R267690</id>
-    <title>Analog Devices: DevOps Co-Op</title>
-    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/DevOps-Co-Op_R267690"/>
-    <updated>2026-10-26T17:16:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US, MA, Boston · Python, C++, Rust, TypeScript, JavaScript · H-1B track record: ~181 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:analogdevices:/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689</id>
-    <title>Analog Devices: Embedded Systems Co-Op</title>
-    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689"/>
-    <updated>2026-10-26T17:16:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US, MA, Boston · Python, Rust, Bash, Linux, Git · H-1B track record: ~181 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:axos:/job/Omaha-NE/Data-Intern_JR5642</id>
-    <title>Axos Bank: Data Analyst Intern</title>
-    <link href="https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/Data-Intern_JR5642"/>
-    <updated>2026-10-26T17:16:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Omaha, NE</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:prologis:/job/Denver-Colorado/AI-and-Automation--IT--Intern_R6883</id>
-    <title>Prologis: AI and Automation (IT) Intern</title>
-    <link href="https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-and-Automation--IT--Intern_R6883"/>
-    <updated>2026-10-26T17:16:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Denver, Colorado · $25–$30/hr · Python, SQL, AWS</summary>
   </entry>
 </feed>
