@@ -2218,11 +2218,12 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1",
       "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
      ],
-     "count": 38
+     "count": 39
     }
    }
   },
@@ -2435,6 +2436,18 @@
     }
    }
   },
+  "path robotics": {
+   "name": "Path Robotics",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-29",
+     "role_ids": [
+      "greenhouse:pathrobotics:8924241002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "pdt partners": {
    "name": "PDT Partners",
    "cycles": {
@@ -2558,6 +2571,18 @@
      "role_ids": [
       "ashby:quadrillion-labs:a4acc44c-31ce-41a0-ab44-2500487b4d05"
      ]
+    }
+   }
+  },
+  "qube research technologies": {
+   "name": "Qube Research & Technologies",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:quberesearchandtechnologies:8777760002"
+     ],
+     "count": 1
     }
    }
   },
@@ -3750,5 +3775,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T13:59:43Z"
+ "updated_at": "2026-10-29T19:32:08Z"
 }
