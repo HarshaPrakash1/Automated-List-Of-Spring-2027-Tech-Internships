@@ -1006,7 +1006,10 @@
       "workday:valmont:/job/Omaha-NE/AI---Data-Engineering-Intern_R29310",
       "workday:asml:/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626",
       "workday:asml:/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459",
-      "greenhouse:usafacts:4472154009"
+      "greenhouse:usafacts:4472154009",
+      "workday:caci:/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160",
+      "workday:kla:/job/Milpitas-CA/Software-Engineer-Intern_2642721-1",
+      "smartrecruiters:SyngentaGroup:744000158494415"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2014,7 +2017,10 @@
       "workday:valmont:/job/Omaha-NE/AI---Data-Engineering-Intern_R29310",
       "workday:asml:/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626",
       "workday:asml:/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459",
-      "greenhouse:usafacts:4472154009"
+      "greenhouse:usafacts:4472154009",
+      "workday:caci:/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160",
+      "workday:kla:/job/Milpitas-CA/Software-Engineer-Intern_2642721-1",
+      "smartrecruiters:SyngentaGroup:744000158494415"
     ]
   }
 }

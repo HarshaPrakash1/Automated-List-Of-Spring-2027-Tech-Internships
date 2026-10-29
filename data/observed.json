@@ -650,9 +650,10 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:caci:/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368",
-      "workday:caci:/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1"
+      "workday:caci:/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1",
+      "workday:caci:/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3749,5 +3750,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T06:43:08Z"
+ "updated_at": "2026-10-29T13:59:43Z"
 }
