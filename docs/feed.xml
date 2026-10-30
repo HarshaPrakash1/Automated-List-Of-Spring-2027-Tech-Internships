@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-30T03:11:05Z</updated>
+  <updated>2026-10-30T10:07:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:axontalentcommunity:8037922003</id>
@@ -408,6 +408,14 @@
     <summary>Not stated · Hardware · Sunnyvale, CA, United States · Python, C# · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1</id>
+    <title>Allegion: Summer Intern – Software Engineering – Quality Assurance</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1"/>
+    <updated>2026-10-28T15:43:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Golden, CO · $25–$26/hr · Python, C#, AWS, Azure, Git</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1</id>
     <title>Allegion: Summer Intern - Software Systems Engineering</title>
     <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1"/>
@@ -515,9 +523,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903</id>
     <title>Northrop Grumman: 2027 Software Engineer Intern - Azusa CA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903"/>
-    <updated>2026-10-27T22:52:02Z</updated>
+    <updated>2026-10-30T09:52:24Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-California-Azusa · $21.5–$33.5/hr · Python, Java, C++, C#, JavaScript · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · United States-California-Azusa · $21.5–$33.5/hr · Python, Java, C++, C#, JavaScript · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:sonos:/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-26T17:16:11Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · Atlanta, Georgia · Python, C#, TypeScript, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:cva.fa.us1.oraclecloud.com:10369</id>
-    <title>Standard Aero: HR AI &amp; Process Innovation Intern</title>
-    <link href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10369"/>
-    <updated>2026-10-26T17:16:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Scottsdale, AZ, United States</summary>
   </entry>
 </feed>

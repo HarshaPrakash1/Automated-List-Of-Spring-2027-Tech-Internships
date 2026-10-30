@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-30T03:11:05Z",
- "data_as_of": "2026-10-30T03:11:05Z",
- "rendered_at": "2026-10-30T03:11:05Z",
+ "generated_at": "2026-10-30T10:07:46Z",
+ "data_as_of": "2026-10-30T10:07:46Z",
+ "rendered_at": "2026-10-30T10:07:46Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 535,
+ "count": 532,
  "jobs": [
   {
    "id": "greenhouse:axontalentcommunity:8037922003",
@@ -992,34 +992,6 @@
     "TypeScript",
     "JavaScript",
     "React",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
-   "company": "Northrop Grumman",
-   "title": "2027 Software Engineer Intern - Azusa CA",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "United States-California-Azusa",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
-   "posted_at": "2026-10-27T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-27T22:52:02Z",
-   "sponsorship": "citizens-only",
-   "salary": "$21.5–$33.5/hr",
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "C#",
-    "JavaScript",
     "Git"
    ],
    "source": "workday",
@@ -7764,33 +7736,6 @@
    "remote": false
   },
   {
-   "id": "workday:allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1",
-   "company": "Allegion",
-   "title": "Summer Intern - Software Engineering - Quality Assurance",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Golden, CO",
-   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1",
-   "posted_at": "2026-09-30T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-01T01:46:17Z",
-   "sponsorship": "unknown",
-   "salary": "$25–$26/hr",
-   "skills": [
-    "Python",
-    "C#",
-    "AWS",
-    "Azure",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "ashby:allen-control-systems:1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94",
    "company": "Allen Control Systems",
    "title": "Android Developer Intern, 2027",
@@ -7920,57 +7865,6 @@
    "remote": false
   },
   {
-   "id": "workday:bracco:/job/USA-Pleasanton-California-94566/Firmware-Engineering-Co-op_JR100319",
-   "company": "Bracco",
-   "title": "Firmware Engineering Co-op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "USA, Pleasanton, California, 94566",
-   "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Pleasanton-California-94566/Firmware-Engineering-Co-op_JR100319",
-   "posted_at": "2026-09-30T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-30T18:39:26Z",
-   "sponsorship": "unknown",
-   "salary": "$38–$40/hr",
-   "skills": [
-    "Python",
-    "C++"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:intel:/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
-   "company": "Intel",
-   "title": "Research Scientist Intern - Graphics, ML",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Virtual US",
-   "url": "https://intel.wd1.myworkdayjobs.com/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
-   "posted_at": "2026-09-30T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-30T18:39:26Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++",
-    "PyTorch",
-    "Computer Vision",
-    "CUDA"
-   ],
-   "source": "workday",
-   "h1b_approvals": 4758,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:kla:/job/Milpitas-CA/Software-Engineering-Intern_2641572-1",
    "company": "KLA",
    "title": "Software Engineering Intern",
@@ -7993,34 +7887,6 @@
     "JavaScript",
     "Computer Vision",
     "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": 369,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:kla:/job/Milpitas-CA/Software-Engineering-Intern_2641581-1",
-   "company": "KLA",
-   "title": "Software Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Milpitas, CA",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641581-1",
-   "posted_at": "2026-09-30T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-30T18:39:26Z",
-   "sponsorship": "unknown",
-   "salary": "$37–$49/hr",
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "C#",
-    "JavaScript",
-    "Computer Vision"
    ],
    "source": "workday",
    "h1b_approvals": 369,
@@ -12035,6 +11901,29 @@
    "remote": false
   },
   {
+   "id": "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+   "company": "Applied Materials",
+   "title": "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
+   "season": "Spring 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Santa Clara,CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+   "posted_at": "2026-09-08T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-09T19:45:14Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "C++"
+   ],
+   "source": "workday",
+   "h1b_approvals": 650,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c",
    "company": "Allen Control Systems",
    "title": "Software Engineering Intern, 2027",
@@ -12942,6 +12831,31 @@
    "skills": [],
    "source": "oracle",
    "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:brunswick:/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
+   "company": "Brunswick",
+   "title": "Mercury Marine: G3 Software Engineering Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Oshkosh, WI",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
+   "posted_at": "2026-08-25T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-02T05:26:29Z",
+   "sponsorship": "unknown",
+   "salary": "$18–$27.5/hr",
+   "skills": [
+    "Python",
+    "C++",
+    "C#"
+   ],
+   "source": "workday",
+   "h1b_approvals": 54,
    "program": "Internship",
    "remote": false
   },
