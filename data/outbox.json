@@ -1033,7 +1033,17 @@
       "greenhouse:fccincinnati:8105405003",
       "greenhouse:nyisointernships:5236084007",
       "workday:snc:/job/Folsom-CA/Firmware-Engineering-Intern_R0031219",
-      "workday:wexinc:/job/US---Remote/Software-Engineer-Intern_R22585"
+      "workday:wexinc:/job/US---Remote/Software-Engineer-Intern_R22585",
+      "workday:ferrovial:/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41339",
+      "lever:tri:f8c9ed26-4574-4ad2-954b-b7f5ec365495",
+      "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146",
+      "greenhouse:lilasciences:4469152009",
+      "greenhouse:thenewyorktimes:4748483005",
+      "workday:umiami:/job/Miami-FL/Data-Science---AI-Intern_R100102549",
+      "workday:umiami:/job/Miami-FL/Data-Science---AI-Intern_R100102144",
+      "workday:umiami:/job/Miami-FL/Data-Science---AI-Intern_R100102542",
+      "workday:umiami:/job/Miami-FL/Data-Science---AI-Intern_R100102550"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2068,7 +2078,17 @@
       "greenhouse:fccincinnati:8105405003",
       "greenhouse:nyisointernships:5236084007",
       "workday:snc:/job/Folsom-CA/Firmware-Engineering-Intern_R0031219",
-      "workday:wexinc:/job/US---Remote/Software-Engineer-Intern_R22585"
+      "workday:wexinc:/job/US---Remote/Software-Engineer-Intern_R22585",
+      "workday:ferrovial:/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990",
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41339",
+      "lever:tri:f8c9ed26-4574-4ad2-954b-b7f5ec365495",
+      "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146",
+      "greenhouse:lilasciences:4469152009",
+      "greenhouse:thenewyorktimes:4748483005",
+      "workday:umiami:/job/Miami-FL/Data-Science---AI-Intern_R100102549",
+      "workday:umiami:/job/Miami-FL/Data-Science---AI-Intern_R100102144",
+      "workday:umiami:/job/Miami-FL/Data-Science---AI-Intern_R100102542",
+      "workday:umiami:/job/Miami-FL/Data-Science---AI-Intern_R100102550"
     ]
   }
 }

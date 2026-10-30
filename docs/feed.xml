@@ -5,47 +5,79 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-30T16:58:20Z</updated>
+  <updated>2026-10-30T21:42:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:lever:stradaeducation:d8109e92-5156-48e2-879f-c9ea299e971b</id>
-    <title>Strada Education Foundation: Strada Education Foundation Internship: Clear Outcomes and Data Science Intern</title>
-    <link href="https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b"/>
-    <updated>2026-10-30T16:58:20Z</updated>
-    <category term="Summer 2026"/>
-    <summary>Summer 2026 · Data &amp; ML/AI · Washington, DC · $22.75/hr · Python, Tableau · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1</id>
-    <title>Cmu: Cyber Range Development Intern 🛂</title>
-    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1"/>
-    <updated>2026-10-30T16:58:20Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security · Pittsburgh, PA · Python, Bash, Terraform, Linux · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2</id>
-    <title>Cmu: Full-Stack Software Development Intern 🛂</title>
-    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2"/>
-    <updated>2026-10-30T16:58:20Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Pittsburgh, PA · Java, C#, TypeScript, Angular, HTML/CSS · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stripe:8333074</id>
-    <title>Stripe: Master's Machine Learning Engineer, Intern</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8333074"/>
-    <updated>2026-10-30T16:58:20Z</updated>
+    <id>urn:intern-engine:greenhouse:gardacp:6239821004</id>
+    <title>Garda Capital Partners: Infrastructure Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/gardacp/jobs/6239821004"/>
+    <updated>2026-10-30T21:42:48Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, New York City, Seattle · Python, Scala, scikit-learn, Pandas, LLMs · status: closed · H-1B track record: ~441 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Wayzata, Minnesota, United States · Python, AWS, Azure, Terraform · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workable:sophinea:B392177653</id>
-    <title>Sophinea: Mobile App Developer Intern</title>
-    <link href="https://apply.workable.com/sophinea/j/B392177653/"/>
-    <updated>2026-10-30T16:58:20Z</updated>
+    <id>urn:intern-engine:workday:vsp:/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072</id>
+    <title>VSP Vision: Internship, AI – Agentic &amp; Machine Learning Development</title>
+    <link href="https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072"/>
+    <updated>2026-10-30T21:42:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Remote US · LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ferrovial:/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990</id>
+    <title>Ferrovial: Webber - Field Engineer Intern II - Infrastructure Management</title>
+    <link href="https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990"/>
+    <updated>2026-10-30T21:42:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Manassas, Virginia, United States · TypeScript, JavaScript, Swift, Kotlin, LLMs</summary>
+    <summary>Not stated · Software · Murfreesboro, TN</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41339</id>
+    <title>Nokia: Software Engineer Co-op</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339"/>
+    <updated>2026-10-30T21:42:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tri:f8c9ed26-4574-4ad2-954b-b7f5ec365495</id>
+    <title>Toyota Research Institute: Machine Learning/Agentic AI Intern</title>
+    <link href="https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495"/>
+    <updated>2026-10-30T21:42:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Cambridge, MA · $58/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146</id>
+    <title>Hewlett Packard Enterprise: Software Engineering Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146"/>
+    <updated>2026-10-30T21:42:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Sunnyvale, California, United States of America · Python, Java, Go, TypeScript, JavaScript · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lilasciences:4469152009</id>
+    <title>Lila Sciences: Co-Op, AI-Driven Equation Discovery</title>
+    <link href="https://job-boards.greenhouse.io/lilasciences/jobs/4469152009"/>
+    <updated>2026-10-30T21:42:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Cambridge, MA USA; San Francisco, CA USA · Python, PyTorch, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thenewyorktimes:4748483005</id>
+    <title>The New York Times: Backend Engineering Intern, Wirecutter</title>
+    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005"/>
+    <updated>2026-10-30T21:42:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY · LLMs, AWS, Kubernetes, Git · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:umiami:/job/Miami-FL/Data-Science---AI-Intern_R100102144</id>
+    <title>University of Miami: Data Science &amp; AI Intern</title>
+    <link href="https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144"/>
+    <updated>2026-10-30T21:42:48Z</updated>
+    <category term="Not stated"/>
+    <summary>4 openings · Not stated · Data &amp; ML/AI · Miami, FL · Python, JavaScript, SQL, Azure, Git · H-1B track record: ~161 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4749403005</id>
@@ -80,6 +112,46 @@
     <summary>Not stated · Software · Rensselaer, New York, United States · Python, Java, C++, C#, TypeScript</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:stripe:8333074</id>
+    <title>Stripe: Master's Machine Learning Engineer, Intern</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8333074"/>
+    <updated>2026-10-30T16:58:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, New York City, Seattle · Python, Scala, scikit-learn, Pandas, LLMs · status: closed · H-1B track record: ~441 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:stradaeducation:d8109e92-5156-48e2-879f-c9ea299e971b</id>
+    <title>Strada Education Foundation: Strada Education Foundation Internship: Clear Outcomes and Data Science Intern</title>
+    <link href="https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b"/>
+    <updated>2026-10-30T16:58:20Z</updated>
+    <category term="Summer 2026"/>
+    <summary>Summer 2026 · Data &amp; ML/AI · Washington, DC · $22.75/hr · Python, Tableau · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:sophinea:B392177653</id>
+    <title>Sophinea: Mobile App Developer Intern</title>
+    <link href="https://apply.workable.com/sophinea/j/B392177653/"/>
+    <updated>2026-10-30T16:58:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Manassas, Virginia, United States · TypeScript, JavaScript, Swift, Kotlin, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1</id>
+    <title>Cmu: Cyber Range Development Intern 🛂</title>
+    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1"/>
+    <updated>2026-10-30T16:58:20Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security · Pittsburgh, PA · Python, Bash, Terraform, Linux · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2</id>
+    <title>Cmu: Full-Stack Software Development Intern 🛂</title>
+    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2"/>
+    <updated>2026-10-30T16:58:20Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Pittsburgh, PA · Java, C#, TypeScript, Angular, HTML/CSS · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:snc:/job/Folsom-CA/Firmware-Engineering-Intern_R0031219</id>
     <title>Sierra Nevada Corporation: Firmware Engineering Intern 🇺🇸</title>
     <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219"/>
@@ -99,9 +171,9 @@
     <id>urn:intern-engine:greenhouse:axontalentcommunity:8037922003</id>
     <title>Axon: 2027 US Software Engineering Internship (Dedrone)</title>
     <link href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003"/>
-    <updated>2026-10-30T03:11:05Z</updated>
+    <updated>2026-10-30T21:25:24Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Seattle, Washington, United States; Sterling, Virginia, United States · Python, Java, C#, SQL, Scala</summary>
+    <summary>Spring 2027 · Software · Seattle, Washington, United States; Sterling, Virginia, United States · Python, Java, C#, SQL, Scala · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:internrecruiting:8310712</id>
@@ -734,77 +806,5 @@
     <updated>2026-10-27T18:34:23Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · US - Ashburn, VA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1</id>
-    <title>Visa: 2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX - 2027 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1"/>
-    <updated>2026-10-27T18:34:23Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US - Austin, TX · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2</id>
-    <title>Visa: 2027 Sophomore Internship Program - Software Engineer Intern, Bellevue 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2"/>
-    <updated>2026-10-27T18:34:23Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US - Bellevue, WA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1</id>
-    <title>Visa: 2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1"/>
-    <updated>2026-10-27T18:34:23Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US - Denver, CO · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1</id>
-    <title>Visa: 2027 Sophomore Internship Program - Software Engineer Intern, Foster City 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1"/>
-    <updated>2026-10-27T18:34:23Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US - Foster City, CA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1</id>
-    <title>Visa: Software Engineer, Intern - 2027 Ashburn, VA 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1"/>
-    <updated>2026-10-27T12:54:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US - Ashburn, VA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1</id>
-    <title>Visa: Software Engineer, Intern - 2027 Austin, TX 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1"/>
-    <updated>2026-10-27T12:54:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US - Austin, TX · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1</id>
-    <title>Visa: Software Engineer, Intern - Foster City 2027 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1"/>
-    <updated>2026-10-27T12:54:29Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US - Foster City, CA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:aurora-operations-inc:475a24d7-a058-4f86-be8f-fd6be679af9c</id>
-    <title>Aurora Innovation: AI Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c"/>
-    <updated>2026-10-29T00:38:37Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mountain View, CA · $52/hr · Python, C++, AWS, GCP, Azure · status: closed · H-1B track record: ~163 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:aurora-operations-inc:a90b7522-4e66-4247-b9ec-7e2bb50b78f4</id>
-    <title>Aurora Innovation: Behavior &amp; Planning (ML Research) Intern</title>
-    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4"/>
-    <updated>2026-10-27T01:03:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Mountain View, CA · $52/hr · PyTorch · status: closed · H-1B track record: ~163 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

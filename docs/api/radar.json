@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T16:58:20Z",
- "data_as_of": "2026-10-30T16:58:20Z",
- "rendered_at": "2026-10-30T16:58:20Z",
+ "generated_at": "2026-10-30T21:42:48Z",
+ "data_as_of": "2026-10-30T21:42:48Z",
+ "rendered_at": "2026-10-30T21:42:48Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -155,25 +155,6 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-07-31"
-   }
-  },
-  {
-   "company": "Axon",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-07",
-   "days_until": -84,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-08-07"
    }
   },
   {
@@ -4126,6 +4107,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-07-31"
+   }
+  },
+  {
+   "company": "Axon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-07",
+   "days_until": -84,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-08-07"
    }
   },
   {
