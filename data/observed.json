@@ -777,6 +777,19 @@
     }
    }
   },
+  "cmu": {
+   "name": "Cmu",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "workday:cmu:/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1",
+      "workday:cmu:/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2"
+     ],
+     "count": 2
+    }
+   }
+  },
   "cno financial group": {
    "name": "CNO Financial Group",
    "cycles": {
@@ -3778,5 +3791,5 @@
    }
   }
  },
- "updated_at": "2026-10-30T10:07:46Z"
+ "updated_at": "2026-10-30T16:58:20Z"
 }

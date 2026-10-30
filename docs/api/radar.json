@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T10:07:46Z",
- "data_as_of": "2026-10-30T10:07:46Z",
- "rendered_at": "2026-10-30T10:07:46Z",
+ "generated_at": "2026-10-30T16:58:20Z",
+ "data_as_of": "2026-10-30T16:58:20Z",
+ "rendered_at": "2026-10-30T16:58:20Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -453,7 +453,7 @@
    "expected": "2026-09-01",
    "days_until": -59,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -644,25 +644,6 @@
    "days_until": -52,
    "status": "open",
    "url": "https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
-   "company": "Merck",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -52,
-   "status": "open",
-   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -967,25 +948,6 @@
    "days_until": -44,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-16"
-   }
-  },
-  {
-   "company": "Nanopath",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -44,
-   "status": "open",
-   "url": "https://nanopath.com/careers?gh_jid=4732881005",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1618,25 +1580,6 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-28"
-   }
-  },
-  {
-   "company": "Path Robotics",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-29",
-   "days_until": -1,
-   "status": "open",
-   "url": "https://boards.greenhouse.io/pathrobotics/jobs/8924241002?gh_jid=8924241002",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-10-29"
    }
   },
   {
@@ -4338,6 +4281,25 @@
    }
   },
   {
+   "company": "Merck",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -52,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "RF-SMART",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -4434,6 +4396,25 @@
   },
   {
    "company": "Itron",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -44,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-16"
+   }
+  },
+  {
+   "company": "Nanopath",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
    "precision": "day",
@@ -4678,7 +4659,45 @@
     "cycle": "Spring 2027",
     "observed_on": "2026-10-23"
    }
+  },
+  {
+   "company": "Path Robotics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-29",
+   "days_until": -1,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-29"
+   }
+  },
+  {
+   "company": "Cmu",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-30"
+   }
   }
  ],
- "count": 246
+ "count": 247
 }
