@@ -5,23 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-29T23:46:43Z</updated>
+  <updated>2026-10-30T03:11:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355</id>
-    <title>GlobalFoundries: Digital Design Backend Engineering Intern, 3D and AI Flows</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355"/>
-    <updated>2026-10-29T23:46:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · USA - California - Santa Clara · Python, SQL, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hcsc:/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508</id>
-    <title>HCSC: Early Careers - Cybersecurity Operations Intern 🛂</title>
-    <link href="https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508"/>
-    <updated>2026-10-29T23:46:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · IL - Chicago · Python · sponsorship: no-sponsorship</summary>
+    <id>urn:intern-engine:greenhouse:axontalentcommunity:8037922003</id>
+    <title>Axon: 2027 US Software Engineering Internship (Dedrone)</title>
+    <link href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003"/>
+    <updated>2026-10-30T03:11:05Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Seattle, Washington, United States; Sterling, Virginia, United States · Python, Java, C#, SQL, Scala</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:internrecruiting:8310712</id>
@@ -38,6 +30,22 @@
     <updated>2026-10-29T23:46:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Jose, California, United States · Python, C++, Rust, Bash, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalfoundries:/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355</id>
+    <title>GlobalFoundries: Digital Design Backend Engineering Intern, 3D and AI Flows</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355"/>
+    <updated>2026-10-29T23:46:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · USA - California - Santa Clara · Python, SQL, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcsc:/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508</id>
+    <title>HCSC: Early Careers - Cybersecurity Operations Intern 🛂</title>
+    <link href="https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508"/>
+    <updated>2026-10-29T23:46:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · IL - Chicago · Python · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:subtotal:3891929c-0ee6-46ea-a833-4efba2862801</id>
@@ -283,9 +291,9 @@
     <id>urn:intern-engine:ashby:webfx:3851a96a-34d2-41df-8da2-0f12ab5c396d</id>
     <title>WebFX: Web Developer Internship</title>
     <link href="https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d"/>
-    <updated>2026-10-28T20:51:40Z</updated>
+    <updated>2026-10-30T02:51:33Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Harrisburg, PA · $22/hr · HTML/CSS</summary>
+    <summary>Not stated · Software · Harrisburg, PA · $22/hr · HTML/CSS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:zus-health:985c43c5-3c2a-4174-831d-b53ef0d6308c</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-26T17:16:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Scottsdale, AZ, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amat:/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146</id>
-    <title>Applied Materials: 2027 Spring Data Scientist Co-op - Gloucester, MA</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146"/>
-    <updated>2026-10-26T17:16:11Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Gloucester,MA · $33–$50/hr · Python, MATLAB · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
