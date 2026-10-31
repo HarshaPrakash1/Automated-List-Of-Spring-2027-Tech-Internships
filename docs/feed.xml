@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-30T21:42:48Z</updated>
+  <updated>2026-10-31T01:15:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:castelioncorporation:4386047009</id>
+    <title>Castelion: Embedded Software Engineer Intern - Spring 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/castelioncorporation/jobs/4386047009"/>
+    <updated>2026-10-31T01:15:39Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Torrance, CA · C++ · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:gardacp:6239821004</id>
     <title>Garda Capital Partners: Infrastructure Engineer Intern</title>
@@ -14,46 +22,6 @@
     <updated>2026-10-30T21:42:48Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Wayzata, Minnesota, United States · Python, AWS, Azure, Terraform · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vsp:/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072</id>
-    <title>VSP Vision: Internship, AI – Agentic &amp; Machine Learning Development</title>
-    <link href="https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072"/>
-    <updated>2026-10-30T21:42:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Remote US · LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ferrovial:/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990</id>
-    <title>Ferrovial: Webber - Field Engineer Intern II - Infrastructure Management</title>
-    <link href="https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990"/>
-    <updated>2026-10-30T21:42:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Murfreesboro, TN</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41339</id>
-    <title>Nokia: Software Engineer Co-op</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339"/>
-    <updated>2026-10-30T21:42:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tri:f8c9ed26-4574-4ad2-954b-b7f5ec365495</id>
-    <title>Toyota Research Institute: Machine Learning/Agentic AI Intern</title>
-    <link href="https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495"/>
-    <updated>2026-10-30T21:42:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cambridge, MA · $58/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146</id>
-    <title>Hewlett Packard Enterprise: Software Engineering Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146"/>
-    <updated>2026-10-30T21:42:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Sunnyvale, California, United States of America · Python, Java, Go, TypeScript, JavaScript · H-1B track record: ~499 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lilasciences:4469152009</id>
@@ -72,12 +40,52 @@
     <summary>Not stated · Software · New York, NY · LLMs, AWS, Kubernetes, Git · H-1B track record: ~52 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:lever:tri:f8c9ed26-4574-4ad2-954b-b7f5ec365495</id>
+    <title>Toyota Research Institute: Machine Learning/Agentic AI Intern</title>
+    <link href="https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495"/>
+    <updated>2026-10-30T21:42:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Cambridge, MA · $58/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41339</id>
+    <title>Nokia: Software Engineer Co-op</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339"/>
+    <updated>2026-10-30T21:42:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ferrovial:/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990</id>
+    <title>Ferrovial: Webber - Field Engineer Intern II - Infrastructure Management</title>
+    <link href="https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990"/>
+    <updated>2026-10-30T21:42:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Murfreesboro, TN</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146</id>
+    <title>Hewlett Packard Enterprise: Software Engineering Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146"/>
+    <updated>2026-10-30T21:42:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Sunnyvale, California, United States of America · Python, Java, Go, TypeScript, JavaScript · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:umiami:/job/Miami-FL/Data-Science---AI-Intern_R100102144</id>
     <title>University of Miami: Data Science &amp; AI Intern</title>
     <link href="https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144"/>
     <updated>2026-10-30T21:42:48Z</updated>
     <category term="Not stated"/>
     <summary>4 openings · Not stated · Data &amp; ML/AI · Miami, FL · Python, JavaScript, SQL, Azure, Git · H-1B track record: ~161 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vsp:/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072</id>
+    <title>VSP Vision: Internship, AI – Agentic &amp; Machine Learning Development</title>
+    <link href="https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072"/>
+    <updated>2026-10-30T21:42:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Remote US · LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4749403005</id>
@@ -107,9 +115,9 @@
     <id>urn:intern-engine:greenhouse:nyisointernships:5236084007</id>
     <title>New York ISO: Intern - IT Software Development</title>
     <link href="https://job-boards.greenhouse.io/nyisointernships/jobs/5236084007"/>
-    <updated>2026-10-30T16:58:20Z</updated>
+    <updated>2026-10-31T00:59:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Rensselaer, New York, United States · Python, Java, C++, C#, TypeScript</summary>
+    <summary>Not stated · Software · Rensselaer, New York, United States · Python, Java, C++, C#, TypeScript · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:stripe:8333074</id>
@@ -227,9 +235,9 @@
     <id>urn:intern-engine:greenhouse:nyisocoops:5236034007</id>
     <title>New York ISO: Co-Op - IT - Software Engineering</title>
     <link href="https://job-boards.greenhouse.io/nyisocoops/jobs/5236034007"/>
-    <updated>2026-10-29T19:32:08Z</updated>
+    <updated>2026-10-31T00:59:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Rensselaer, New York, United States · Java, SQL, Spring, Git</summary>
+    <summary>Not stated · Software · Rensselaer, New York, United States · Java, SQL, Spring, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:pathrobotics:8924241002</id>
@@ -648,6 +656,14 @@
     <summary>Not stated · Software · San Jose, California, United States · Python, C++, Bash, Verilog</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010630</id>
+    <title>Emerson Electric: Software Engineering Intern 🛂</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010630"/>
+    <updated>2026-10-27T22:52:02Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · Austin, TX, United States · C++, Azure, Git · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:aaaie:/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002</id>
     <title>CSAA Insurance Group: Data Science Intern 🛂</title>
     <link href="https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002"/>
@@ -790,21 +806,5 @@
     <updated>2026-10-27T18:34:23Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Richardson, TX · Python, SQL, scikit-learn, Pandas, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269</id>
-    <title>Sierra Nevada Corporation: Cybersecurity Analyst Intern 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269"/>
-    <updated>2026-10-27T18:34:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Sparks, NV · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1</id>
-    <title>Visa: 2027 Sophomore Internship Program - Software Engineer Intern, Ashburn 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1"/>
-    <updated>2026-10-27T18:34:23Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US - Ashburn, VA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
