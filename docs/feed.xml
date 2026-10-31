@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-10-31T13:52:03Z</updated>
+  <updated>2026-10-31T18:13:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:fireworkhq:36722fbd-2705-4beb-83aa-1884068eaa09</id>
+    <title>Firework: Data Engineer Intern</title>
+    <link href="https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09"/>
+    <updated>2026-10-31T18:13:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Mateo, California · Python, SQL, Spark, Airflow, Snowflake</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:tevora:2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d</id>
     <title>Tevora: Cybersecurity Internship Summer2027 - Federal</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-27T18:34:23Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Florida - Deerfield Beach · SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934</id>
-    <title>Micron Technology: Intern -  AI Engineer Platform</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934"/>
-    <updated>2026-10-27T18:34:23Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Boise, ID - Main Site · Python, Java, SQL, Bash, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
