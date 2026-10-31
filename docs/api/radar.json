@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-31T01:15:39Z",
- "data_as_of": "2026-10-31T01:15:39Z",
- "rendered_at": "2026-10-31T01:15:39Z",
+ "generated_at": "2026-10-31T13:52:03Z",
+ "data_as_of": "2026-10-31T13:52:03Z",
+ "rendered_at": "2026-10-31T13:52:03Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -614,25 +614,6 @@
    }
   },
   {
-   "company": "C.H. Robinson",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -53,
-   "status": "open",
-   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
    "company": "FUTO",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -1139,25 +1120,6 @@
    "status": "open",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
    "note": "opens late summer for next year",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-10-01"
-   }
-  },
-  {
-   "company": "The Federal Reserve System",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-01",
-   "days_until": -30,
-   "status": "open",
-   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625",
-   "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Spring 2027",
@@ -4281,6 +4243,25 @@
    }
   },
   {
+   "company": "C.H. Robinson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -53,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "Devon Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -4605,6 +4586,25 @@
   },
   {
    "company": "Duke Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-01"
+   }
+  },
+  {
+   "company": "The Federal Reserve System",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
    "precision": "day",
