@@ -1047,7 +1047,21 @@
       "greenhouse:castelioncorporation:4386047009",
       "lever:tevora:2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
-      "lever:fireworkhq:36722fbd-2705-4beb-83aa-1884068eaa09"
+      "lever:fireworkhq:36722fbd-2705-4beb-83aa-1884068eaa09",
+      "workday:cbrands:/job/Rochester-New-York/Intern--Full-Stack-Engineer_R-41600",
+      "workday:entrust:/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397",
+      "greenhouse:flagshippioneeringinc:8782467002",
+      "workday:kla:/job/Totowa-NJ/Software-Engineer-Intern_2642151",
+      "workday:labcorp:/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083",
+      "workday:ngc:/job/United-States-California-Sunnyvale/Engineering-Software-and-Analysis-Intern_R10258772",
+      "workday:tiaa:/job/New-York-NY---730-Third-Avenue/XMLNAME-2027-Intern--Energy-Infrastructure-Credit_R261000336-1",
+      "greenhouse:toshibaglobalcommercesolutions:5279504007",
+      "greenhouse:toshibaglobalcommercesolutions:5281707007",
+      "greenhouse:toshibaglobalcommercesolutions:5270466007",
+      "greenhouse:toshibaglobalcommercesolutions:5276963007",
+      "greenhouse:toshibaglobalcommercesolutions:5274361007",
+      "greenhouse:trace3:8274799",
+      "workday:valmont:/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2096,7 +2110,21 @@
       "greenhouse:castelioncorporation:4386047009",
       "lever:tevora:2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
-      "lever:fireworkhq:36722fbd-2705-4beb-83aa-1884068eaa09"
+      "lever:fireworkhq:36722fbd-2705-4beb-83aa-1884068eaa09",
+      "workday:cbrands:/job/Rochester-New-York/Intern--Full-Stack-Engineer_R-41600",
+      "workday:entrust:/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397",
+      "greenhouse:flagshippioneeringinc:8782467002",
+      "workday:kla:/job/Totowa-NJ/Software-Engineer-Intern_2642151",
+      "workday:labcorp:/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083",
+      "workday:ngc:/job/United-States-California-Sunnyvale/Engineering-Software-and-Analysis-Intern_R10258772",
+      "workday:tiaa:/job/New-York-NY---730-Third-Avenue/XMLNAME-2027-Intern--Energy-Infrastructure-Credit_R261000336-1",
+      "greenhouse:toshibaglobalcommercesolutions:5279504007",
+      "greenhouse:toshibaglobalcommercesolutions:5281707007",
+      "greenhouse:toshibaglobalcommercesolutions:5270466007",
+      "greenhouse:toshibaglobalcommercesolutions:5276963007",
+      "greenhouse:toshibaglobalcommercesolutions:5274361007",
+      "greenhouse:trace3:8274799",
+      "workday:valmont:/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223"
     ]
   }
 }

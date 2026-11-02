@@ -1833,6 +1833,18 @@
     }
    }
   },
+  "labcorp": {
+   "name": "LabCorp",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-11-02",
+     "role_ids": [
+      "workday:labcorp:/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083"
+     ],
+     "count": 1
+    }
+   }
+  },
   "lego": {
    "name": "Lego",
    "cycles": {
@@ -3248,6 +3260,18 @@
     }
    }
   },
+  "tiaa": {
+   "name": "TIAA",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-11-02",
+     "role_ids": [
+      "workday:tiaa:/job/New-York-NY---730-Third-Avenue/XMLNAME-2027-Intern--Energy-Infrastructure-Credit_R261000336-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "tmeic": {
    "name": "TMEIC",
    "cycles": {
@@ -3279,6 +3303,17 @@
       "greenhouse:toshibaglobalcommercesolutions:5214224007"
      ],
      "count": 4
+    },
+    "Spring 2027": {
+     "first_posted": "2026-11-02",
+     "role_ids": [
+      "greenhouse:toshibaglobalcommercesolutions:5270466007",
+      "greenhouse:toshibaglobalcommercesolutions:5274361007",
+      "greenhouse:toshibaglobalcommercesolutions:5276963007",
+      "greenhouse:toshibaglobalcommercesolutions:5279504007",
+      "greenhouse:toshibaglobalcommercesolutions:5281707007"
+     ],
+     "count": 5
     }
    }
   },
@@ -3804,5 +3839,5 @@
    }
   }
  },
- "updated_at": "2026-11-02T10:13:24Z"
+ "updated_at": "2026-11-02T20:33:17Z"
 }

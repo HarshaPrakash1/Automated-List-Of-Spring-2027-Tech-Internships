@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-02T10:13:24Z",
- "data_as_of": "2026-11-02T10:13:24Z",
- "rendered_at": "2026-11-02T10:13:25Z",
+ "generated_at": "2026-11-02T20:33:17Z",
+ "data_as_of": "2026-11-02T20:33:17Z",
+ "rendered_at": "2026-11-02T20:33:17Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -35,7 +35,7 @@
    "expected": "2025-09-12",
    "days_until": -416,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
+   "url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
    "note": "trading cycle opens very early",
    "provenance": {
     "type": "engine-observed",
@@ -937,25 +937,6 @@
    }
   },
   {
-   "company": "Cartesian",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -47,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-16"
-   }
-  },
-  {
    "company": "Honeywell",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -1542,6 +1523,63 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-28"
+   }
+  },
+  {
+   "company": "LabCorp",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-11-02"
+   }
+  },
+  {
+   "company": "TIAA",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY---730-Third-Avenue/XMLNAME-2027-Intern--Energy-Infrastructure-Credit_R261000336-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-11-02"
+   }
+  },
+  {
+   "company": "Toshiba Global Commerce",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-11-02"
    }
   },
   {
@@ -4376,6 +4414,25 @@
    }
   },
   {
+   "company": "Cartesian",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -47,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-16"
+   }
+  },
+  {
    "company": "Itron",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -4718,5 +4775,5 @@
    }
   }
  ],
- "count": 248
+ "count": 251
 }
