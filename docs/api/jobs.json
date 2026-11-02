@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-02T02:37:35Z",
- "data_as_of": "2026-11-02T02:37:35Z",
- "rendered_at": "2026-11-02T02:37:35Z",
+ "generated_at": "2026-11-02T10:13:24Z",
+ "data_as_of": "2026-11-02T10:13:24Z",
+ "rendered_at": "2026-11-02T10:13:25Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 505,
+ "count": 504,
  "jobs": [
   {
    "id": "lever:fireworkhq:36722fbd-2705-4beb-83aa-1884068eaa09",
@@ -11944,36 +11944,6 @@
    ],
    "source": "amazon",
    "h1b_approvals": 23139,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:aoins:/job/Lansing-MI/Intern---Analytics-Web-Systems-Developer_R_14272",
-   "company": "Auto-Owners Insurance",
-   "title": "Intern - Analytics Web Systems Developer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Lansing, MI",
-   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intern---Analytics-Web-Systems-Developer_R_14272",
-   "posted_at": "2026-08-26T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-02T05:26:29Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "C++",
-    "C#",
-    "JavaScript",
-    "SQL",
-    "Angular",
-    "HTML/CSS",
-    ".NET",
-    "AWS"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
