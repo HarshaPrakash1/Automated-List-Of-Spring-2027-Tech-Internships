@@ -571,6 +571,18 @@
     }
    }
   },
+  "bose": {
+   "name": "Bose",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-11-03",
+     "role_ids": [
+      "workday:boseallaboutme:/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369"
+     ],
+     "count": 1
+    }
+   }
+  },
   "bracco": {
    "name": "Bracco",
    "cycles": {
@@ -2228,7 +2240,9 @@
       "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848",
       "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
       "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
+      "workday:ngc:/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032",
       "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
+      "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359",
@@ -2268,7 +2282,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
      ],
-     "count": 42
+     "count": 44
     }
    }
   },
@@ -3323,9 +3337,10 @@
       "greenhouse:toshibaglobalcommercesolutions:5274361007",
       "greenhouse:toshibaglobalcommercesolutions:5276963007",
       "greenhouse:toshibaglobalcommercesolutions:5279504007",
-      "greenhouse:toshibaglobalcommercesolutions:5281707007"
+      "greenhouse:toshibaglobalcommercesolutions:5281707007",
+      "greenhouse:toshibaglobalcommercesolutions:5283178007"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -3851,5 +3866,5 @@
    }
   }
  },
- "updated_at": "2026-11-03T18:01:45Z"
+ "updated_at": "2026-11-03T23:33:18Z"
 }

@@ -1076,7 +1076,13 @@
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965",
       "workday:rgare:/job/United-States-Chesterfield-MO-RGA-HQ/Summer-Intern---Data-Analyst_J29309",
       "greenhouse:samsungresearchamericainternship:8926019002",
-      "greenhouse:thenewyorktimes:4750496005"
+      "greenhouse:thenewyorktimes:4750496005",
+      "workday:asml:/job/San-Diego-CA-USA/Internship--Business-Systems-AI_J-00355737",
+      "workday:boseallaboutme:/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
+      "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057",
+      "workday:ngc:/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032",
+      "greenhouse:toshibaglobalcommercesolutions:5283178007",
+      "greenhouse:usafacts:4478239009"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2154,7 +2160,13 @@
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965",
       "workday:rgare:/job/United-States-Chesterfield-MO-RGA-HQ/Summer-Intern---Data-Analyst_J29309",
       "greenhouse:samsungresearchamericainternship:8926019002",
-      "greenhouse:thenewyorktimes:4750496005"
+      "greenhouse:thenewyorktimes:4750496005",
+      "workday:asml:/job/San-Diego-CA-USA/Internship--Business-Systems-AI_J-00355737",
+      "workday:boseallaboutme:/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
+      "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057",
+      "workday:ngc:/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032",
+      "greenhouse:toshibaglobalcommercesolutions:5283178007",
+      "greenhouse:usafacts:4478239009"
     ]
   }
 }
