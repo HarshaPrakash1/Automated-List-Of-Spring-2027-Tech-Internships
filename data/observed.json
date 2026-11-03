@@ -2249,6 +2249,7 @@
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697",
+      "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
       "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
@@ -2267,7 +2268,7 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
      ],
-     "count": 41
+     "count": 42
     }
    }
   },
@@ -2863,6 +2864,13 @@
       "greenhouse:samsungresearchamericainternship:8541339002",
       "greenhouse:samsungresearchamericainternship:8560657002"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-11-03",
+     "role_ids": [
+      "greenhouse:samsungresearchamericainternship:8926019002"
+     ],
+     "count": 1
     }
    }
   },
@@ -3843,5 +3851,5 @@
    }
   }
  },
- "updated_at": "2026-11-03T10:18:07Z"
+ "updated_at": "2026-11-03T18:01:45Z"
 }

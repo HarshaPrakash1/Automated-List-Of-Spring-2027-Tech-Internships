@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-03T10:18:07Z",
- "data_as_of": "2026-11-03T10:18:07Z",
- "rendered_at": "2026-11-03T10:18:07Z",
+ "generated_at": "2026-11-03T18:01:45Z",
+ "data_as_of": "2026-11-03T18:01:45Z",
+ "rendered_at": "2026-11-03T18:01:45Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -1580,6 +1580,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-11-02"
+   }
+  },
+  {
+   "company": "Samsung Research America",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-11-03"
    }
   },
   {
@@ -4775,5 +4794,5 @@
    }
   }
  ],
- "count": 251
+ "count": 252
 }
