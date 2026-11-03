@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-03T02:51:57Z",
- "data_as_of": "2026-11-03T02:51:57Z",
- "rendered_at": "2026-11-03T02:51:57Z",
+ "generated_at": "2026-11-03T10:18:07Z",
+ "data_as_of": "2026-11-03T10:18:07Z",
+ "rendered_at": "2026-11-03T10:18:07Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -434,7 +434,7 @@
    "expected": "2026-09-01",
    "days_until": -63,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -1536,7 +1536,7 @@
    "expected": "2026-11-02",
    "days_until": -1,
    "status": "open",
-   "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083",
+   "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",

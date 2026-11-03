@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-03T02:51:57Z</updated>
+  <updated>2026-11-03T10:18:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:InformaGroupPlc:744000159321820</id>
+    <title>Informa Group: Data Analyst Internship</title>
+    <link href="https://jobs.smartrecruiters.com/InformaGroupPlc/744000159321820"/>
+    <updated>2026-11-03T10:18:07Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Amsterdam, NH, International (NL) (Hybrid) · Python, SQL, Tableau · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:samsungsemiconductor:8163994003</id>
+    <title>Samsung: Intern, AI Application Engineer</title>
+    <link href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003"/>
+    <updated>2026-11-03T02:51:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Folsom, California, United States · Python, PyTorch, Pandas, LLMs, Kubernetes</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000159260670</id>
+    <title>Wellmark: Software Engineer Internship – AI Platform Team</title>
+    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000159260670"/>
+    <updated>2026-11-03T02:51:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Des Moines, IA, United States (Hybrid) · Python, Java, C++, C#, TypeScript · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Grad-Intern_R017101</id>
+    <title>The Aerospace Corporation: 2027 Software Engineering Grad Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Grad-Intern_R017101"/>
+    <updated>2026-11-03T02:51:57Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102</id>
+    <title>The Aerospace Corporation: 2027 Software Engineering Undergrad Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102"/>
+    <updated>2026-11-03T02:51:57Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Austin-TX/Software-Engineering-Intern_2642004-1</id>
     <title>KLA: Software Engineering Intern</title>
@@ -16,20 +56,20 @@
     <summary>Summer 2027 · Software · Austin, TX · C# · status: closed · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Arlington-VA/Data-Science-Intern_R-00196049</id>
-    <title>Leidos: Data Science Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049"/>
-    <updated>2026-11-03T02:51:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Arlington, VA · Python, Java, C++, PyTorch, TensorFlow · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1</id>
     <title>LabCorp: Co-op - Agentic AI Developer 🛂</title>
     <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1"/>
     <updated>2026-11-03T02:51:57Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · Durham NC · Python, LLMs, AWS, Azure, Kubernetes · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Arlington-VA/Data-Science-Intern_R-00196049</id>
+    <title>Leidos: Data Science Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049"/>
+    <updated>2026-11-03T02:51:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Arlington, VA · Python, Java, C++, PyTorch, TensorFlow · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/Arlington-VA/Software-Engineering-Intern_R-00195980</id>
@@ -46,38 +86,6 @@
     <updated>2026-11-03T02:51:57Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · United States-Arizona-Chandler · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:samsungsemiconductor:8163994003</id>
-    <title>Samsung: Intern, AI Application Engineer</title>
-    <link href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003"/>
-    <updated>2026-11-03T02:51:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Folsom, California, United States · Python, PyTorch, Pandas, LLMs, Kubernetes</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102</id>
-    <title>The Aerospace Corporation: 2027 Software Engineering Undergrad Intern 🇺🇸</title>
-    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102"/>
-    <updated>2026-11-03T02:51:57Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Grad-Intern_R017101</id>
-    <title>The Aerospace Corporation: 2027 Software Engineering Grad Intern 🇺🇸</title>
-    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Grad-Intern_R017101"/>
-    <updated>2026-11-03T02:51:57Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000159260670</id>
-    <title>Wellmark: Software Engineer Internship – AI Platform Team</title>
-    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000159260670"/>
-    <updated>2026-11-03T02:51:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Des Moines, IA, United States (Hybrid) · Python, Java, C++, C#, TypeScript · H-1B track record: ~15 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:flagshippioneeringinc:8782467002</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-28T20:51:40Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Boise, ID - SIG Building · Python, C++, Bash, Linux, Git · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nrel:/job/Golden-CO/Graduate-Intern----Agentic-AI-Driven-Computational-Synthesis-of-PGM-free-Fuel-Cell-Catalysts_R14571</id>
-    <title>National Laboratory of the Rockies: Graduate Intern  – Agentic AI-Driven Computational Synthesis of PGM-free Fuel Cell Catalysts</title>
-    <link href="https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern----Agentic-AI-Driven-Computational-Synthesis-of-PGM-free-Fuel-Cell-Catalysts_R14571"/>
-    <updated>2026-10-28T20:51:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Golden, CO · Python</summary>
   </entry>
 </feed>
