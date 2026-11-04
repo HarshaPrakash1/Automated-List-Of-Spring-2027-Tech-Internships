@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-04T03:29:56Z</updated>
+  <updated>2026-11-04T11:50:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177</id>
+    <title>Northrop Grumman: 2027 Cybersecurity Software Engineering Intern - Roy UT 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177"/>
+    <updated>2026-11-04T11:50:05Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · United States-Utah-Clearfield · $23–$29/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553</id>
+    <title>Northrop Grumman: 2027 S/W Embedded Engineering Intern – Sykesville MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553"/>
+    <updated>2026-11-04T11:50:05Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · United States-Maryland-Sykesville · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:roboforce:5470001008</id>
     <title>RoboForce: Machine Learning Engineer Intern, AI &amp; Robotics</title>
@@ -443,9 +459,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679</id>
     <title>Northrop Grumman: 2027 Intern Product Support – Data Scientist 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679"/>
-    <updated>2026-10-31T13:52:03Z</updated>
+    <updated>2026-11-04T11:28:44Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · United States-California-San Diego · Python, C++, SQL, PyTorch, scikit-learn · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Data &amp; ML/AI · United States-California-San Diego · Python, C++, SQL, PyTorch, scikit-learn · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:castelioncorporation:4386047009</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-29T13:59:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Milpitas, CA · Python, Java, C++, C# · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1</id>
-    <title>Sonos: Software Partner Engineering Intern (Boston) 🛂</title>
-    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1"/>
-    <updated>2026-10-29T13:59:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Boston, MA · C++, Swift, Kotlin, Git · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:usafacts:4472154009</id>
-    <title>USAFacts: AI &amp; Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/usafacts/jobs/4472154009"/>
-    <updated>2026-10-29T06:43:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bellevue, WA · $38/hr · Python, TypeScript, JavaScript, SQL</summary>
   </entry>
 </feed>
