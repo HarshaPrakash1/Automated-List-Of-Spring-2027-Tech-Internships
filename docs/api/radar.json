@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-05T00:37:31Z",
- "data_as_of": "2026-11-05T00:37:31Z",
- "rendered_at": "2026-11-05T00:37:32Z",
+ "generated_at": "2026-11-05T07:32:22Z",
+ "data_as_of": "2026-11-05T07:32:22Z",
+ "rendered_at": "2026-11-05T07:32:22Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -1545,25 +1545,6 @@
    }
   },
   {
-   "company": "TIAA",
-   "last_cycle_posted": "",
-   "posted_on": "2026-11-02",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-11-02",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY---730-Third-Avenue/XMLNAME-2027-Intern--Energy-Infrastructure-Credit_R261000336-1",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-11-02"
-   }
-  },
-  {
    "company": "Toshiba Global Commerce",
    "last_cycle_posted": "",
    "posted_on": "2026-11-02",
@@ -1593,26 +1574,7 @@
    "expected": "2026-11-03",
    "days_until": -2,
    "status": "open",
-   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-11-03"
-   }
-  },
-  {
-   "company": "Samsung Research America",
-   "last_cycle_posted": "",
-   "posted_on": "2026-11-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-11-03",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002",
+   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Co-op---Spring-2027_R29370",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4810,6 +4772,44 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-30"
+   }
+  },
+  {
+   "company": "TIAA",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-02",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-11-02"
+   }
+  },
+  {
+   "company": "Samsung Research America",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-03",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-11-03"
    }
   }
  ],
