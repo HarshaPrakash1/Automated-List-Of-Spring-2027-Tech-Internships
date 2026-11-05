@@ -5,8 +5,104 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-05T07:32:22Z</updated>
+  <updated>2026-11-05T22:11:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1809</id>
+    <title>Legrand: Firmware Engineering Intern</title>
+    <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1809"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Reno, NV, United States · Python, C++, TypeScript, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:palantir:cd64bcd4-50bb-4aeb-a135-4e0487ffd312</id>
+    <title>Palantir: Software Engineer, Internship - Sovereign AI Systems</title>
+    <link href="https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York, NY · Python, Java, C++, Rust, JavaScript · H-1B track record: ~88 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:borgwarner:/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1</id>
+    <title>BorgWarner: Software Test Intern</title>
+    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Auburn Hills - Michigan - USA · sponsorship: offers</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Embedded-Software-Co-Op_R0273960</id>
+    <title>Fresenius Medical Care: Embedded Software Co-Op</title>
+    <link href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-Software-Co-Op_R0273960"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Lawrence, MA, USA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:hearst:4466334009</id>
+    <title>Hearst: Software Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/hearst/jobs/4466334009"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Carmel, IN, United States · AWS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jmfamily:/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187</id>
+    <title>JM Family: Software Analyst Intern</title>
+    <link href="https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Florida - Deerfield Beach · Python, HTML/CSS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Cyber-Security_R9669</id>
+    <title>Little Caesars Enterprises: Intern, Cyber Security</title>
+    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Cyber-Security_R9669"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Detroit, MI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--AI-IT_R9675</id>
+    <title>Little Caesars Enterprises: Intern, AI IT</title>
+    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--AI-IT_R9675"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Detroit, MI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Cyber-IT_R9672</id>
+    <title>Little Caesars Enterprises: Intern, Cyber IT</title>
+    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Cyber-IT_R9672"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Detroit, MI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Developer-IT_R9677</id>
+    <title>Little Caesars Enterprises: Intern, Developer IT</title>
+    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Detroit, MI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Department-Cyber-IT_R9670</id>
+    <title>Little Caesars Enterprises: Intern, Department Cyber IT</title>
+    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Department-Cyber-IT_R9670"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Detroit, MI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:markelcorp:/job/Woodland-Hills-CA/Markel-AI-Automation-Intern_R0024277</id>
+    <title>Markel Group, Inc.: Markel AI Automation Intern 🛂</title>
+    <link href="https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Woodland-Hills-CA/Markel-AI-Automation-Intern_R0024277"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Woodland Hills CA · $24–$28.5/hr · Python, JavaScript, LLMs, Databricks · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:badgermeter:/job/US---WI---Milwaukee-HQ/Firmware-Test-Engineer-Intern_4675</id>
     <title>Badger Meter: Firmware Test Engineer Intern</title>
@@ -322,7 +418,7 @@
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1</id>
     <title>KLA: Machine Learning Engineer Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562"/>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1"/>
     <updated>2026-11-03T18:01:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · $49–$58/hr · Python, PyTorch · H-1B track record: ~369 approvals (FY2022–2023)</summary>
@@ -331,9 +427,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965</id>
     <title>Northrop Grumman: 2027 Engineering Software Tool Development Intern - Field Engineering - Baltimore MD 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965"/>
-    <updated>2026-11-03T18:01:45Z</updated>
+    <updated>2026-11-05T21:54:38Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rgare:/job/United-States-Chesterfield-MO-RGA-HQ/Summer-Intern---Data-Analyst_J29309</id>
@@ -641,7 +737,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:lever:tri:f8c9ed26-4574-4ad2-954b-b7f5ec365495</id>
-    <title>Toyota Research Institute: Machine Learning/Agentic AI Intern</title>
+    <title>Toyota Research Institute: Accelerated Science Intern, Machine Learning/Agentic AI</title>
     <link href="https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495"/>
     <updated>2026-10-30T21:42:48Z</updated>
     <category term="Not stated"/>
@@ -710,101 +806,5 @@
     <updated>2026-10-30T16:58:20Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Cincinnati, OH · Python, SQL, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nyisointernships:5236084007</id>
-    <title>New York ISO: Intern - IT Software Development</title>
-    <link href="https://job-boards.greenhouse.io/nyisointernships/jobs/5236084007"/>
-    <updated>2026-10-31T00:59:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Rensselaer, New York, United States · Python, Java, C++, C#, TypeScript · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stripe:8333074</id>
-    <title>Stripe: Master's Machine Learning Engineer, Intern</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8333074"/>
-    <updated>2026-10-30T16:58:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, New York City, Seattle · Python, Scala, scikit-learn, Pandas, LLMs · status: closed · H-1B track record: ~441 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:stradaeducation:d8109e92-5156-48e2-879f-c9ea299e971b</id>
-    <title>Strada Education Foundation: Strada Education Foundation Internship: Clear Outcomes and Data Science Intern</title>
-    <link href="https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b"/>
-    <updated>2026-10-30T16:58:20Z</updated>
-    <category term="Summer 2026"/>
-    <summary>Summer 2026 · Data &amp; ML/AI · Washington, DC · $22.75/hr · Python, Tableau · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:sophinea:B392177653</id>
-    <title>Sophinea: Mobile App Developer Intern</title>
-    <link href="https://apply.workable.com/sophinea/j/B392177653/"/>
-    <updated>2026-10-30T16:58:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Manassas, Virginia, United States · TypeScript, JavaScript, Swift, Kotlin, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1</id>
-    <title>Cmu: Cyber Range Development Intern 🛂</title>
-    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1"/>
-    <updated>2026-10-30T16:58:20Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security · Pittsburgh, PA · Python, Bash, Terraform, Linux · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2</id>
-    <title>Cmu: Full-Stack Software Development Intern 🛂</title>
-    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2"/>
-    <updated>2026-10-30T16:58:20Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Pittsburgh, PA · Java, C#, TypeScript, Angular, HTML/CSS · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Folsom-CA/Firmware-Engineering-Intern_R0031219</id>
-    <title>Sierra Nevada Corporation: Firmware Engineering Intern 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219"/>
-    <updated>2026-10-30T16:58:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Folsom, CA · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Software-Engineer-Intern_R22585</id>
-    <title>Wex: Software Engineer Intern</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern_R22585"/>
-    <updated>2026-11-05T00:37:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US - Remote · React, Azure · status: closed · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:axontalentcommunity:8037922003</id>
-    <title>Axon: 2027 US Software Engineering Internship (Dedrone)</title>
-    <link href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003"/>
-    <updated>2026-10-30T21:25:24Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Seattle, Washington, United States; Sterling, Virginia, United States · Python, Java, C#, SQL, Scala · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:internrecruiting:8310712</id>
-    <title>Internrecruiting: Cloud Engineer Co-op</title>
-    <link href="https://job-boards.greenhouse.io/internrecruiting/jobs/8310712"/>
-    <updated>2026-10-29T23:46:43Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Wakefield, MA (Hybrid) · SQL, AWS, Azure, Terraform</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:samsungsemiconductor:8046887003</id>
-    <title>Samsung: Intern, Systems Software Engineering</title>
-    <link href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003"/>
-    <updated>2026-10-29T23:46:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Jose, California, United States · Python, C++, Rust, Bash, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355</id>
-    <title>GlobalFoundries: Digital Design Backend Engineering Intern, 3D and AI Flows</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355"/>
-    <updated>2026-10-29T23:46:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · USA - California - Santa Clara · Python, SQL, Pandas</summary>
   </entry>
 </feed>
