@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-05T22:11:08Z</updated>
+  <updated>2026-11-06T02:34:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1809</id>
-    <title>Legrand: Firmware Engineering Intern</title>
-    <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1809"/>
+    <id>urn:intern-engine:greenhouse:hearst:4466334009</id>
+    <title>Hearst: Software Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/hearst/jobs/4466334009"/>
     <updated>2026-11-05T22:11:08Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Reno, NV, United States · Python, C++, TypeScript, Linux, Git</summary>
+    <summary>Not stated · Software · Carmel, IN, United States · AWS, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:palantir:cd64bcd4-50bb-4aeb-a135-4e0487ffd312</id>
@@ -22,6 +22,14 @@
     <updated>2026-11-05T22:11:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · New York, NY · Python, Java, C++, Rust, JavaScript · H-1B track record: ~88 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1809</id>
+    <title>Legrand: Firmware Engineering Intern</title>
+    <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1809"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Reno, NV, United States · Python, C++, TypeScript, Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:borgwarner:/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1</id>
@@ -40,30 +48,6 @@
     <summary>Not stated · Software · Lawrence, MA, USA</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:hearst:4466334009</id>
-    <title>Hearst: Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/hearst/jobs/4466334009"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Carmel, IN, United States · AWS, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jmfamily:/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187</id>
-    <title>JM Family: Software Analyst Intern</title>
-    <link href="https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Florida - Deerfield Beach · Python, HTML/CSS, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Cyber-Security_R9669</id>
-    <title>Little Caesars Enterprises: Intern, Cyber Security</title>
-    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Cyber-Security_R9669"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Detroit, MI</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--AI-IT_R9675</id>
     <title>Little Caesars Enterprises: Intern, AI IT</title>
     <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--AI-IT_R9675"/>
@@ -80,12 +64,12 @@
     <summary>Not stated · Security · Detroit, MI</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Developer-IT_R9677</id>
-    <title>Little Caesars Enterprises: Intern, Developer IT</title>
-    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677"/>
+    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Cyber-Security_R9669</id>
+    <title>Little Caesars Enterprises: Intern, Cyber Security</title>
+    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Cyber-Security_R9669"/>
     <updated>2026-11-05T22:11:08Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Detroit, MI</summary>
+    <summary>Not stated · Security · Detroit, MI</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Department-Cyber-IT_R9670</id>
@@ -94,6 +78,22 @@
     <updated>2026-11-05T22:11:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Detroit, MI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Developer-IT_R9677</id>
+    <title>Little Caesars Enterprises: Intern, Developer IT</title>
+    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Detroit, MI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jmfamily:/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187</id>
+    <title>JM Family: Software Analyst Intern</title>
+    <link href="https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187"/>
+    <updated>2026-11-05T22:11:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Florida - Deerfield Beach · Python, HTML/CSS, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:markelcorp:/job/Woodland-Hills-CA/Markel-AI-Automation-Intern_R0024277</id>
@@ -347,17 +347,17 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032</id>
     <title>Northrop Grumman: 2027 Flight Software Engineer Intern - Redondo Beach CA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032"/>
-    <updated>2026-11-03T23:33:17Z</updated>
+    <updated>2026-11-06T02:13:20Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-California-Manhattan Beach · $21.5–$33.5/hr · Python, Java, C++ · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · United States-California-Manhattan Beach · $21.5–$33.5/hr · Python, Java, C++ · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057</id>
     <title>Northrop Grumman: 2027 Ground Software Engineer Intern - Redondo Beach CA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057"/>
-    <updated>2026-11-03T23:33:17Z</updated>
+    <updated>2026-11-06T02:13:20Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-California-Redondo Beach · $21.5–$33.5/hr · Python, Java, C++, Linux · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · United States-California-Redondo Beach · $21.5–$33.5/hr · Python, Java, C++, Linux · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:trustage:/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293</id>
