@@ -1342,6 +1342,18 @@
     }
    }
   },
+  "galaxy": {
+   "name": "Galaxy",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "greenhouse:galaxydigitalservices:6250002004"
+     ],
+     "count": 1
+    }
+   }
+  },
   "gemini": {
    "name": "Gemini",
    "cycles": {
@@ -3431,6 +3443,18 @@
     }
    }
   },
+  "uhaul": {
+   "name": "Uhaul",
+   "cycles": {
+    "Spring 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "workday:uhaul:/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909"
+     ],
+     "count": 1
+    }
+   }
+  },
   "united parcel service ups": {
    "name": "United Parcel Service (UPS)",
    "cycles": {
@@ -3873,5 +3897,5 @@
    }
   }
  },
- "updated_at": "2026-11-06T10:01:08Z"
+ "updated_at": "2026-11-06T17:46:28Z"
 }
