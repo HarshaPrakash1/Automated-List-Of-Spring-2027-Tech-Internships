@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-06T02:34:07Z</updated>
+  <updated>2026-11-06T10:01:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:syntiant:468B53B345</id>
+    <title>Syntiant: Internship - DevOps Machine Learning Infrastructure</title>
+    <link href="https://apply.workable.com/syntiant/j/468B53B345/"/>
+    <updated>2026-11-06T10:01:08Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Irvine, California, United States · Python, AWS, Kubernetes, Docker, Terraform</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:hearst:4466334009</id>
     <title>Hearst: Software Engineering Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-30T16:58:20Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Melbourne, Florida, United States · Python · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:fccincinnati:8105405003</id>
-    <title>Fussball Club Cincinnati LLC (“FC Cincinnati”): Data Analyst Intern</title>
-    <link href="https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003"/>
-    <updated>2026-10-30T16:58:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cincinnati, OH · Python, SQL, Tableau</summary>
   </entry>
 </feed>
