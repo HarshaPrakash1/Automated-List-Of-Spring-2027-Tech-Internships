@@ -3003,6 +3003,13 @@
      "role_ids": [
       "greenhouse:sharkninjaoperatingllc:4669676006"
      ]
+    },
+    "Spring 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "greenhouse:sharkninjaoperatingllc:4725275006"
+     ],
+     "count": 1
     }
    }
   },
@@ -3897,5 +3904,5 @@
    }
   }
  },
- "updated_at": "2026-11-06T17:46:28Z"
+ "updated_at": "2026-11-06T22:38:01Z"
 }

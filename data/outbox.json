@@ -1120,7 +1120,11 @@
       "workday:kla:/job/Milpitas-CA/Software-Intern_2642954-1",
       "workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Customer-Support-Business-Analyst-Intern_R49501",
       "workday:uhaul:/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909",
-      "workday:godirect:/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386"
+      "workday:godirect:/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319",
+      "greenhouse:lilasciences:4480337009",
+      "workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1",
+      "greenhouse:sharkninjaoperatingllc:4725275006"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2242,7 +2246,11 @@
       "workday:kla:/job/Milpitas-CA/Software-Intern_2642954-1",
       "workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Customer-Support-Business-Analyst-Intern_R49501",
       "workday:uhaul:/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909",
-      "workday:godirect:/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386"
+      "workday:godirect:/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319",
+      "greenhouse:lilasciences:4480337009",
+      "workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1",
+      "greenhouse:sharkninjaoperatingllc:4725275006"
     ]
   }
 }

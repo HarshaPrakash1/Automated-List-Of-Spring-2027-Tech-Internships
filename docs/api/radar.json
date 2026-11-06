@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T17:46:28Z",
- "data_as_of": "2026-11-06T17:46:28Z",
- "rendered_at": "2026-11-06T17:46:28Z",
+ "generated_at": "2026-11-06T22:38:01Z",
+ "data_as_of": "2026-11-06T22:38:01Z",
+ "rendered_at": "2026-11-06T22:38:02Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -92,7 +92,7 @@
    "expected": "2026-06-11",
    "days_until": -148,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
+   "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1537,6 +1537,25 @@
    "days_until": 0,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-11-06"
+   }
+  },
+  {
+   "company": "SharkNinja",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4851,5 +4870,5 @@
    }
   }
  ],
- "count": 255
+ "count": 256
 }
