@@ -5,71 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-06T22:38:01Z</updated>
+  <updated>2026-11-07T02:36:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:invesco:/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1</id>
-    <title>Invesco: Early Career Intern - Real Estate (Data Science)</title>
-    <link href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Dallas, Texas · $40/hr · Python · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marmon:/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903</id>
-    <title>Marmon Holdings: Intern - AI Technology Solutions</title>
-    <link href="https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Chicago, IL · Python, Tableau · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751917005</id>
-    <title>The New York Times: Android Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · Kotlin, LLMs · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751973005</id>
-    <title>The New York Times: Backend Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · Python, Java, SQL, Scala, LLMs · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751909005</id>
-    <title>The New York Times: Frontend Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · LLMs, React, HTML/CSS, GraphQL · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751907005</id>
-    <title>The New York Times: Full-Stack Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · Python, Java, JavaScript, Kotlin, Scala · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751919005</id>
-    <title>The New York Times: iOS Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · Swift, LLMs · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319</id>
-    <title>Leidos: AI/Automation Development Intern - Assessment &amp; Authorization 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319"/>
-    <updated>2026-11-06T22:38:01Z</updated>
+    <id>urn:intern-engine:ashby:parspec:0a897c21-0df7-40ba-85f2-694bf6678504</id>
+    <title>Parspec: Applied AI Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504"/>
+    <updated>2026-11-07T02:36:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · 6314 Remote/Teleworker US · Python, JavaScript, SQL, Bash, PyTorch · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Hybrid - San Mateo, California</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:zoox:0168ad29-2fd8-4c91-865c-b9fff8aa30c1</id>
+    <title>Zoox: AI Workflows &amp; Safety Decision Making Intern [2027]</title>
+    <link href="https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1"/>
+    <updated>2026-11-07T02:36:47Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Foster City, CA · Python, SQL, LLMs, Flask · H-1B track record: ~280 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:caci:/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1</id>
+    <title>CACI: AI/ML Engineering Co-op - Spring 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1"/>
+    <updated>2026-11-07T02:36:47Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · King of Prussia, PA, US · Python, Java, C++, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:caci:/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665</id>
+    <title>CACI: Software Engineering Co-op - Spring 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665"/>
+    <updated>2026-11-07T02:36:47Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · King of Prussia, PA, US · Python, Java, C++, React, AWS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lilasciences:4480337009</id>
@@ -80,20 +48,84 @@
     <summary>Not stated · Data &amp; ML/AI · San Francisco, CA USA · Python, PyTorch</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1</id>
-    <title>Samsung: Samsung Care AI Data Analytic Intern 🛂</title>
-    <link href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · 6625 Excellence Way, Plano, TX, USA · Python, Java, C++, SQL, PyTorch · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4725275006</id>
     <title>SharkNinja: Spring 2027: AI/Sharks Applied AI &amp; Analytics Co-op (January to June)</title>
     <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006"/>
     <updated>2026-11-06T22:38:01Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · Miami, Florida, United States; Needham, MA, United States · Python, SQL, LLMs, AWS, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751907005</id>
+    <title>The New York Times: Full-Stack Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005"/>
+    <updated>2026-11-06T22:38:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY · $40/hr · Python, Java, JavaScript, Kotlin, Scala · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751909005</id>
+    <title>The New York Times: Frontend Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005"/>
+    <updated>2026-11-06T22:38:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY · $40/hr · LLMs, React, HTML/CSS, GraphQL · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751917005</id>
+    <title>The New York Times: Android Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005"/>
+    <updated>2026-11-06T22:38:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY · $40/hr · Kotlin, LLMs · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751919005</id>
+    <title>The New York Times: iOS Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005"/>
+    <updated>2026-11-06T22:38:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY · $40/hr · Swift, LLMs · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751973005</id>
+    <title>The New York Times: Backend Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005"/>
+    <updated>2026-11-06T22:38:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY · $40/hr · Python, Java, SQL, Scala, LLMs · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:invesco:/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1</id>
+    <title>Invesco: Early Career Intern - Real Estate (Data Science)</title>
+    <link href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1"/>
+    <updated>2026-11-06T22:38:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Dallas, Texas · $40/hr · Python · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319</id>
+    <title>Leidos: AI/Automation Development Intern - Assessment &amp; Authorization 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319"/>
+    <updated>2026-11-06T22:38:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · 6314 Remote/Teleworker US · Python, JavaScript, SQL, Bash, PyTorch · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marmon:/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903</id>
+    <title>Marmon Holdings: Intern - AI Technology Solutions</title>
+    <link href="https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903"/>
+    <updated>2026-11-06T22:38:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Chicago, IL · Python, Tableau · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1</id>
+    <title>Samsung: Samsung Care AI Data Analytic Intern 🛂</title>
+    <link href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1"/>
+    <updated>2026-11-06T22:38:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · 6625 Excellence Way, Plano, TX, USA · Python, Java, C++, SQL, PyTorch · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:niural:0daacf58-a15d-4c6f-bfa0-0fc069e4956e</id>
@@ -475,9 +507,9 @@
     <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5283178007</id>
     <title>Toshiba Global Commerce: AI Software Engineering Intern 🛂</title>
     <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5283178007"/>
-    <updated>2026-11-03T23:33:17Z</updated>
+    <updated>2026-11-07T02:36:47Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Frisco, TX · Java, JavaScript, LLMs, React, Angular · sponsorship: no-sponsorship</summary>
+    <summary>Spring 2027 · Data &amp; ML/AI · Frisco, TX · Java, JavaScript, LLMs, React, Angular · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:usafacts:4478239009</id>
@@ -747,9 +779,9 @@
     <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5274361007</id>
     <title>Toshiba Global Commerce: Software Engineering Intern 🛂</title>
     <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274361007"/>
-    <updated>2026-11-02T20:33:16Z</updated>
+    <updated>2026-11-07T02:36:47Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Durham, NC · Python, Java, C++ · sponsorship: no-sponsorship</summary>
+    <summary>Spring 2027 · Software · Durham, NC · Python, Java, C++ · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5276963007</id>
@@ -763,48 +795,16 @@
     <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5279504007</id>
     <title>Toshiba Global Commerce: Agentic Software Engineering Intern 🛂</title>
     <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007"/>
-    <updated>2026-11-02T20:33:16Z</updated>
+    <updated>2026-11-07T02:36:47Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Durham, NC · Java, C++, JavaScript, SQL, LLMs · sponsorship: no-sponsorship</summary>
+    <summary>Spring 2027 · Software · Durham, NC · Java, C++, JavaScript, SQL, LLMs · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5281707007</id>
     <title>Toshiba Global Commerce: Agentic Software Engineering Intern 🛂</title>
     <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5281707007"/>
-    <updated>2026-11-02T20:33:16Z</updated>
+    <updated>2026-11-07T02:36:47Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Frisco, TX · Java, C++, JavaScript, SQL, LLMs · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:trace3:8274799</id>
-    <title>Trace3: Workplace AI Intern</title>
-    <link href="https://job-boards.greenhouse.io/trace3/jobs/8274799"/>
-    <updated>2026-11-02T20:33:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Detroit, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:InformaGroupPlc:744000159204709</id>
-    <title>Informa Group: Data Analyst Internship</title>
-    <link href="https://jobs.smartrecruiters.com/InformaGroupPlc/744000159204709"/>
-    <updated>2026-11-02T20:33:16Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Amsterdam, NH, International (NL) · Python, SQL, Tableau · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Intuitive:744000159218439</id>
-    <title>Intuitive Surgical: AI/ML Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Intuitive/744000159218439"/>
-    <updated>2026-11-02T20:33:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, SQL, scikit-learn, LLMs, Azure · status: closed · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cbrands:/job/Rochester-New-York/Intern--Full-Stack-Engineer_R-41600</id>
-    <title>Constellation Brands: Intern, Full Stack Engineer</title>
-    <link href="https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--Full-Stack-Engineer_R-41600"/>
-    <updated>2026-11-02T20:33:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Rochester, New York · Python, Java, TypeScript, JavaScript, React</summary>
+    <summary>Spring 2027 · Software · Frisco, TX · Java, C++, JavaScript, SQL, LLMs · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
 </feed>

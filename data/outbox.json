@@ -1124,7 +1124,11 @@
       "workday:leidos:/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319",
       "greenhouse:lilasciences:4480337009",
       "workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1",
-      "greenhouse:sharkninjaoperatingllc:4725275006"
+      "greenhouse:sharkninjaoperatingllc:4725275006",
+      "ashby:parspec:0a897c21-0df7-40ba-85f2-694bf6678504",
+      "lever:zoox:0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+      "workday:caci:/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1",
+      "workday:caci:/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2250,7 +2254,11 @@
       "workday:leidos:/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319",
       "greenhouse:lilasciences:4480337009",
       "workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1",
-      "greenhouse:sharkninjaoperatingllc:4725275006"
+      "greenhouse:sharkninjaoperatingllc:4725275006",
+      "ashby:parspec:0a897c21-0df7-40ba-85f2-694bf6678504",
+      "lever:zoox:0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+      "workday:caci:/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1",
+      "workday:caci:/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665"
     ]
   }
 }
