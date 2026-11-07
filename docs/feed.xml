@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-07T02:36:47Z</updated>
+  <updated>2026-11-07T09:27:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:ashby:parspec:0a897c21-0df7-40ba-85f2-694bf6678504</id>
@@ -451,25 +451,17 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178</id>
     <title>Northrop Grumman: 2027 DevOps Software Engineering Intern - Roy UT 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178"/>
-    <updated>2026-11-04T19:03:03Z</updated>
+    <updated>2026-11-07T09:09:53Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Utah-Roy · $23–$29/hr · Kubernetes, Git · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · United States-Utah-Roy · $23–$29/hr · Kubernetes, Git · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181</id>
     <title>Northrop Grumman: 2027 Software Engineering Intern - Roy UT 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181"/>
-    <updated>2026-11-04T19:03:03Z</updated>
+    <updated>2026-11-07T09:09:53Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179</id>
-    <title>Northrop Grumman: 2027 Software Test Engineering Intern - Roy UT 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179"/>
-    <updated>2026-11-04T19:03:03Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:smithnephew:/job/Andover-MA/Intern-AI-Engineer-R-D_R92966</id>
@@ -483,17 +475,17 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553</id>
     <title>Northrop Grumman: 2027 S/W Embedded Engineering Intern – Sykesville MD 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553"/>
-    <updated>2026-11-04T11:50:05Z</updated>
+    <updated>2026-11-07T09:09:53Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Maryland-Sykesville · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · United States-Maryland-Sykesville · $20.5–$37.25/hr · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177</id>
     <title>Northrop Grumman: 2027 Cybersecurity Software Engineering Intern - Roy UT 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177"/>
-    <updated>2026-11-04T11:50:05Z</updated>
+    <updated>2026-11-07T09:09:53Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · United States-Utah-Clearfield · $23–$29/hr · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Security · United States-Utah-Clearfield · $23–$29/hr · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:roboforce:5470001008</id>
@@ -806,5 +798,13 @@
     <updated>2026-11-07T02:36:47Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · Frisco, TX · Java, C++, JavaScript, SQL, LLMs · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:trace3:8274799</id>
+    <title>Trace3: Workplace AI Intern</title>
+    <link href="https://job-boards.greenhouse.io/trace3/jobs/8274799"/>
+    <updated>2026-11-02T20:33:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Detroit, MI</summary>
   </entry>
 </feed>
