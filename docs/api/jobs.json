@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-08T06:06:32Z",
- "data_as_of": "2026-11-08T06:06:32Z",
- "rendered_at": "2026-11-08T06:06:32Z",
+ "generated_at": "2026-11-08T13:29:49Z",
+ "data_as_of": "2026-11-08T13:29:49Z",
+ "rendered_at": "2026-11-08T13:29:50Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
  "count": 490,
@@ -6458,27 +6458,6 @@
    "remote": false
   },
   {
-   "id": "workday:paloaltonetworks:/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Master-s--EG_JR-022384",
-   "company": "Paloaltonetworks",
-   "title": "Intern - Software Engineer (Master's) EG",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Office - USA - CA - Headquarters",
-   "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/hidden-private-pawn-temp-gateway-147258369/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Master-s--EG_JR-022384",
-   "posted_at": "2026-10-09T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-14T17:18:54Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:micron:/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
    "company": "Micron Technology",
    "title": "Intern - IT Software Engineer",
@@ -10841,6 +10820,34 @@
     "PyTorch"
    ],
    "source": "ashby",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:avav:/job/Melbourne-FL/Software-Engineering-Intern_8613",
+   "company": "Avav",
+   "title": "Software Engineering Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Melbourne, FL",
+   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Melbourne-FL/Software-Engineering-Intern_8613",
+   "posted_at": "2026-09-10T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-10T20:17:02Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "Bash",
+    "Linux",
+    "Git"
+   ],
+   "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
