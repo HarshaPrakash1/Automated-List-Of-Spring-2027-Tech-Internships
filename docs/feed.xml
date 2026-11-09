@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-09T09:55:38Z</updated>
+  <updated>2026-11-09T20:21:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00196546</id>
+    <title>Leidos: Cybersecurity Analyst Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00196546"/>
+    <updated>2026-11-09T20:21:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Odenton, MD · Python, Bash, Linux · sponsorship: citizens-only · status: closed · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:analogdevices:/job/US-MA-Boston/Machine-Learning-for-Computational-Sensing-Research-Intern_R268371</id>
+    <title>Analog Devices: Machine Learning for Computational Sensing Research Intern</title>
+    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Machine-Learning-for-Computational-Sensing-Research-Intern_R268371"/>
+    <updated>2026-11-09T20:21:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US, MA, Boston · Python, PyTorch, TensorFlow · H-1B track record: ~181 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lilasciences:4472540009</id>
+    <title>Lila Sciences: Co-op, Software, Applied AI Platform Engineer</title>
+    <link href="https://job-boards.greenhouse.io/lilasciences/jobs/4472540009"/>
+    <updated>2026-11-09T20:21:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Francisco, CA USA · Python, TypeScript, SQL, LLMs, Next.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:sharpelectronics:4482958009</id>
+    <title>Sharp Electronics: Summer IT AI Intern 🛂</title>
+    <link href="https://job-boards.greenhouse.io/sharpelectronics/jobs/4482958009"/>
+    <updated>2026-11-09T20:21:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Montvale, New Jersey, United States · Python, LLMs · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:uhaul:/job/Phoenix-Arizona/Software-Development-Spring-Internship_R259167</id>
+    <title>Uhaul: Software Development Spring Internship 🛂</title>
+    <link href="https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Spring-Internship_R259167"/>
+    <updated>2026-11-09T20:21:48Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Phoenix, Arizona · $17/hr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:zoetis:/job/US-Remote/AI-Acceleration-Intern---AI-Development-Lifecycle_JR00022013-2</id>
+    <title>Zoetis: AI Acceleration Intern - AI Development Lifecycle</title>
+    <link href="https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/AI-Acceleration-Intern---AI-Development-Lifecycle_JR00022013-2"/>
+    <updated>2026-11-09T20:21:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US Remote · $16/hr · Python, SQL, LLMs, AWS, Azure · H-1B track record: ~100 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996</id>
     <title>Samsung: ePro Business &amp; Data Analyst Intern 🛂</title>
@@ -758,53 +806,5 @@
     <updated>2026-11-02T20:33:16Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Cambridge, MA USA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:paretocaptiveservicesllc:4726117006</id>
-    <title>ParetoHealth: Software Engineering Summer Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006"/>
-    <updated>2026-11-02T20:33:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Philadelphia, Pennsylvania, United States · Git · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5270466007</id>
-    <title>Toshiba Global Commerce: AI Automation &amp; Revenue Ops Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5270466007"/>
-    <updated>2026-11-02T20:33:16Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Durham, NC · Python, Java, SQL, LLMs, Azure · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5274361007</id>
-    <title>Toshiba Global Commerce: Software Engineering Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274361007"/>
-    <updated>2026-11-07T02:36:47Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Durham, NC · Python, Java, C++ · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5276963007</id>
-    <title>Toshiba Global Commerce: AI Data Science &amp; Business Analytics Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007"/>
-    <updated>2026-11-02T20:33:16Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Durham, NC · Python, SQL, scikit-learn, Pandas, LLMs · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5279504007</id>
-    <title>Toshiba Global Commerce: Agentic Software Engineering Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007"/>
-    <updated>2026-11-07T02:36:47Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Durham, NC · Java, C++, JavaScript, SQL, LLMs · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5281707007</id>
-    <title>Toshiba Global Commerce: Agentic Software Engineering Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5281707007"/>
-    <updated>2026-11-07T02:36:47Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Frisco, TX · Java, C++, JavaScript, SQL, LLMs · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
 </feed>

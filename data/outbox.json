@@ -1129,7 +1129,12 @@
       "lever:zoox:0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
       "workday:caci:/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1",
       "workday:caci:/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665",
-      "workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996"
+      "workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996",
+      "workday:analogdevices:/job/US-MA-Boston/Machine-Learning-for-Computational-Sensing-Research-Intern_R268371",
+      "greenhouse:lilasciences:4472540009",
+      "greenhouse:sharpelectronics:4482958009",
+      "workday:uhaul:/job/Phoenix-Arizona/Software-Development-Spring-Internship_R259167",
+      "workday:zoetis:/job/US-Remote/AI-Acceleration-Intern---AI-Development-Lifecycle_JR00022013-2"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2260,7 +2265,12 @@
       "lever:zoox:0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
       "workday:caci:/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1",
       "workday:caci:/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665",
-      "workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996"
+      "workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996",
+      "workday:analogdevices:/job/US-MA-Boston/Machine-Learning-for-Computational-Sensing-Research-Intern_R268371",
+      "greenhouse:lilasciences:4472540009",
+      "greenhouse:sharpelectronics:4482958009",
+      "workday:uhaul:/job/Phoenix-Arizona/Software-Development-Spring-Internship_R259167",
+      "workday:zoetis:/job/US-Remote/AI-Acceleration-Intern---AI-Development-Lifecycle_JR00022013-2"
     ]
   }
 }
