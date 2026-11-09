@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-09T02:13:55Z</updated>
+  <updated>2026-11-09T09:55:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996</id>
+    <title>Samsung: ePro Business &amp; Data Analyst Intern 🛂</title>
+    <link href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996"/>
+    <updated>2026-11-09T09:55:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · 6625 Excellence Way, Plano, TX, USA · SQL, LLMs, Tableau · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:parspec:0a897c21-0df7-40ba-85f2-694bf6678504</id>
     <title>Parspec: Applied AI Engineer Intern</title>
@@ -669,7 +677,7 @@
     <link href="https://jobs.smartrecruiters.com/InformaGroupPlc/744000159321820"/>
     <updated>2026-11-03T10:18:07Z</updated>
     <category term="Winter 2027"/>
-    <summary>2 openings · Winter 2027 · Data &amp; ML/AI · Amsterdam, NH, International (NL) (Hybrid) · Python, SQL, Tableau · status: closed</summary>
+    <summary>3 openings · Winter 2027 · Data &amp; ML/AI · Amsterdam, NH, International (NL) (Hybrid) · Python, SQL, Tableau · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:samsungsemiconductor:8163994003</id>
@@ -798,13 +806,5 @@
     <updated>2026-11-07T02:36:47Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · Frisco, TX · Java, C++, JavaScript, SQL, LLMs · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:trace3:8274799</id>
-    <title>Trace3: Workplace AI Intern</title>
-    <link href="https://job-boards.greenhouse.io/trace3/jobs/8274799"/>
-    <updated>2026-11-02T20:33:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Detroit, MI</summary>
   </entry>
 </feed>

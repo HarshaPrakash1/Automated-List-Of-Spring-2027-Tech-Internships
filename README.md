@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fharshaprakash1.github.io%2FAutomated-List-Of-Spring-2027-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml)
 
-### 480 open roles (398 listed below) · 66 new this week
+### 482 open roles (398 listed below) · 67 new this week
 
-5,031 employers tracked · data as of Nov 09, 2026 at 02:13 UTC
+5,031 employers tracked · data as of Nov 09, 2026 at 09:55 UTC
 
-_175 have a cycle the employer stated · 305 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_175 have a cycle the employer stated · 307 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/)** · **[📡 RSS](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/#subscribe)**
 
@@ -89,9 +89,9 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Zoox ✓ | AI Workflows & Safety Decision Making Intern [2027] 🆕 | Data & ML/AI | Foster City, CA | Python, SQL, LLMs, Flask | Nov 07, 2026 | [Apply](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) |
-| CACI | AI/ML Engineering Co-op - Spring 2027 🆕 | Data & ML/AI | King of Prussia, PA, US | Python, Java, C++, PyTorch | Nov 06, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1) |
-| CACI | Software Engineering Co-op - Spring 2027 🆕 | Software | King of Prussia, PA, US | Python, Java, C++, React | Nov 06, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665) |
+| Zoox ✓ | AI Workflows & Safety Decision Making Intern [2027] | Data & ML/AI | Foster City, CA | Python, SQL, LLMs, Flask | Nov 07, 2026 | [Apply](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) |
+| CACI | AI/ML Engineering Co-op - Spring 2027 | Data & ML/AI | King of Prussia, PA, US | Python, Java, C++, PyTorch | Nov 06, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1) |
+| CACI | Software Engineering Co-op - Spring 2027 | Software | King of Prussia, PA, US | Python, Java, C++, React | Nov 06, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665) |
 | SharkNinja | Spring 2027: AI/Sharks Applied AI & Analytics Co-op (January to June) | Data & ML/AI | Miami +5 more | Python, SQL, LLMs, AWS | Nov 06, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006) |
 | Galaxy | 2027 Digital Infrastructure Intern - NYC | Software | New York | Python, Rust, SQL | Nov 06, 2026 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004) |
 | Uhaul | Data Analyst Spring Internship 🛂 | Data & ML/AI | Phoenix, Arizona | SQL | Nov 06, 2026 | [Apply](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909) |
@@ -237,7 +237,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Parspec | Applied AI Engineer Intern 🆕 | Data & ML/AI | Hybrid - San Mateo, California | No skills listed | Nov 06, 2026 | [Apply](https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504) |
+| Samsung | ePro Business & Data Analyst Intern 🛂 🆕 | Data & ML/AI | 6625 Excellence Way, Plano, TX, USA | SQL, LLMs, Tableau | Nov 08, 2026 | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996) |
+| Parspec | Applied AI Engineer Intern | Data & ML/AI | Hybrid - San Mateo, California | No skills listed | Nov 06, 2026 | [Apply](https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504) |
 | Lila Sciences | Co-op, AI for Protein Design | Data & ML/AI | San Francisco, CA USA | Python, PyTorch | Nov 06, 2026 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4480337009) |
 | Leidos ✓ 🆁 | AI/Automation Development Intern - Assessment & Authorization 🇺🇸 | Data & ML/AI | 6314 Remote/Teleworker US | Python, JavaScript, SQL, Bash | Nov 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319) |
 | Samsung | Samsung Care AI Data Analytic Intern 🛂 | Data & ML/AI | 6625 Excellence Way, Plano, TX, USA | Python, Java, C++, SQL | Nov 06, 2026 | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1) |
@@ -297,7 +298,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Sierra Nevada Corporation | Firmware Engineering Intern 🇺🇸 | Hardware | Folsom, CA | MATLAB | Oct 30, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219) |
 | Syntiant | Internship - DevOps Machine Learning Infrastructure | Data & ML/AI | Irvine, California, United States | Python, AWS, Kubernetes, Docker | Oct 29, 2026 | [Apply](https://apply.workable.com/syntiant/j/468B53B345/) |
 | Sophinea | Mobile App Developer Intern | Software | Manassas, Virginia, United States | TypeScript, JavaScript, Swift, Kotlin | Oct 29, 2026 | [Apply](https://apply.workable.com/sophinea/j/B392177653/) |
-| Samsung | Intern, Systems Software Engineering | Software | San Jose, California, United States | Python, C++, Rust, Bash | Oct 29, 2026 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003) |
 | GlobalFoundries | Digital Design Backend Engineering Intern, 3D and AI Flows | Data & ML/AI | USA - California - Santa Clara | Python, SQL, Pandas | Oct 29, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355) |
 | HCSC | Early Careers - Cybersecurity Operations Intern 🛂 | Security | IL - Chicago | Python | Oct 29, 2026 | [Apply](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508) |
 | Two Six Technologies | Systems Software Engineering Intern 🇺🇸 | Software | Arlington, Virginia | Python, Linux, Git | Oct 29, 2026 | [Apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004) |
@@ -565,7 +565,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,817 of 5,354 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1175.9s · 607 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,915 of 5,354 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 1114.3s · 665 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
