@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-10T11:19:51Z",
- "data_as_of": "2026-11-10T11:19:51Z",
- "rendered_at": "2026-11-10T11:19:51Z",
+ "generated_at": "2026-11-10T18:51:19Z",
+ "data_as_of": "2026-11-10T18:51:19Z",
+ "rendered_at": "2026-11-10T18:51:19Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -35,7 +35,7 @@
    "expected": "2025-09-12",
    "days_until": -424,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+   "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
    "note": "trading cycle opens very early",
    "provenance": {
     "type": "engine-observed",
@@ -909,7 +909,7 @@
    "expected": "2026-09-15",
    "days_until": -56,
    "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1029,25 +1029,6 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-24"
-   }
-  },
-  {
-   "company": "GITAI",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-28",
-   "days_until": -43,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/gitai/jobs/5437128008",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-28"
    }
   },
   {
@@ -4658,6 +4639,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-09-25"
+   }
+  },
+  {
+   "company": "GITAI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-28",
+   "days_until": -43,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-28"
    }
   },
   {
