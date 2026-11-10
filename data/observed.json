@@ -104,6 +104,7 @@
      "role_ids": [
       "workday:aero:/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949",
@@ -112,7 +113,7 @@
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -3921,5 +3922,5 @@
    }
   }
  },
- "updated_at": "2026-11-10T02:56:31Z"
+ "updated_at": "2026-11-10T11:19:51Z"
 }

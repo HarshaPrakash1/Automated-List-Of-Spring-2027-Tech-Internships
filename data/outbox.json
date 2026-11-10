@@ -1147,7 +1147,10 @@
       "workday:hypertherm:/job/Kent-WA/Graduate-Intern---Software-Security_R4136",
       "workday:ngc:/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1",
       "workday:trimble:/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171",
-      "workday:wexinc:/job/US---Remote/Software-Engineer-Intern_R22542"
+      "workday:wexinc:/job/US---Remote/Software-Engineer-Intern_R22542",
+      "greenhouse:celonis:8198760003",
+      "workday:formfactor:/job/Livermore-CA/Software-Engineer-Intern_JR101288",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2296,7 +2299,10 @@
       "workday:hypertherm:/job/Kent-WA/Graduate-Intern---Software-Security_R4136",
       "workday:ngc:/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1",
       "workday:trimble:/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171",
-      "workday:wexinc:/job/US---Remote/Software-Engineer-Intern_R22542"
+      "workday:wexinc:/job/US---Remote/Software-Engineer-Intern_R22542",
+      "greenhouse:celonis:8198760003",
+      "workday:formfactor:/job/Livermore-CA/Software-Engineer-Intern_JR101288",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106"
     ]
   }
 }

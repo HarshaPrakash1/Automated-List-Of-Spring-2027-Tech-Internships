@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-10T02:56:31Z</updated>
+  <updated>2026-11-10T11:19:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:celonis:8198760003</id>
+    <title>Celonis: Summernaut Program - AI &amp; Management Consulting (Value Engineering) Summer Intern 🛂</title>
+    <link href="https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003"/>
+    <updated>2026-11-10T11:19:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Raleigh, US, North Carolina · Python, SQL, Tableau · sponsorship: no-sponsorship · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:formfactor:/job/Livermore-CA/Software-Engineer-Intern_JR101288</id>
+    <title>FormFactor: Software Engineer Intern</title>
+    <link href="https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Software-Engineer-Intern_JR101288"/>
+    <updated>2026-11-10T11:19:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Livermore, CA · $29.03/hr · C++ · H-1B track record: ~38 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106</id>
+    <title>The Aerospace Corporation: 2027 Defensive Cyber Operations Grad Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106"/>
+    <updated>2026-11-10T11:19:51Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · El Segundo, CA · Python, Rust, Kubernetes, Docker · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:illumio:2bcba5c3-c6e7-407c-92b2-73027594789e</id>
     <title>Illumio: Engineering Intern, SRE 🛂</title>
@@ -14,38 +38,6 @@
     <updated>2026-11-10T02:56:31Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Sunnyvale, California - HQ · $37 per hour · Python, C++, AWS, Azure, Kubernetes · sponsorship: no-sponsorship · status: closed · H-1B track record: ~25 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41196</id>
-    <title>Nokia: Defense Software Test &amp; AI Co-Op 🇺🇸</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196"/>
-    <updated>2026-11-10T02:56:31Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · United States · Python, Java, C++, Kubernetes, Docker · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4752930005</id>
-    <title>The New York Times: Data Analyst Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005"/>
-    <updated>2026-11-10T02:56:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York, NY · $40/hr · Python, SQL, LLMs · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4752926005</id>
-    <title>The New York Times: ML Scientist Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005"/>
-    <updated>2026-11-10T02:56:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York, NY · $20/hr · Python, scikit-learn, LLMs, GCP · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hctz.fa.us2.oraclecloud.com:2507010</id>
-    <title>onsemi: Spring 2027 - AI &amp; Data Analytics Intern</title>
-    <link href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010"/>
-    <updated>2026-11-10T02:56:31Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Scottsdale, AZ, United States · Python, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:regent:1da518a0-9030-48d1-a58c-15d1f88f0eaa</id>
@@ -56,12 +48,52 @@
     <summary>Not stated · Software · North Kingstown, Rhode Island, USA · Python, C++, Linux, ROS</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:epicgames:6251540004</id>
+    <title>Epic Games: AI Programmer Intern</title>
+    <link href="https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004"/>
+    <updated>2026-11-10T02:56:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Cary,North Carolina,United States · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thenewyorktimes:4752926005</id>
+    <title>The New York Times: ML Scientist Intern</title>
+    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005"/>
+    <updated>2026-11-10T02:56:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · New York, NY · $20/hr · Python, scikit-learn, LLMs, GCP · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thenewyorktimes:4752930005</id>
+    <title>The New York Times: Data Analyst Intern</title>
+    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005"/>
+    <updated>2026-11-10T02:56:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · New York, NY · $40/hr · Python, SQL, LLMs · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:lever:tri:9c48b236-e6ad-4b97-9380-c675e5432415</id>
     <title>Toyota Research Institute: Automated Driving Advanced Development Intern, Machine Learning Research</title>
     <link href="https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415"/>
     <updated>2026-11-10T02:56:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Los Altos, CA · $65/hr · Python, PyTorch · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41196</id>
+    <title>Nokia: Defense Software Test &amp; AI Co-Op 🇺🇸</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196"/>
+    <updated>2026-11-10T02:56:31Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · United States · Python, Java, C++, Kubernetes, Docker · sponsorship: citizens-only · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hctz.fa.us2.oraclecloud.com:2507010</id>
+    <title>onsemi: Spring 2027 - AI &amp; Data Analytics Intern</title>
+    <link href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010"/>
+    <updated>2026-11-10T02:56:31Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Scottsdale, AZ, United States · Python, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628</id>
@@ -78,14 +110,6 @@
     <updated>2026-11-10T02:56:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Remote-CA · $18–$26/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:epicgames:6251540004</id>
-    <title>Epic Games: AI Programmer Intern</title>
-    <link href="https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004"/>
-    <updated>2026-11-10T02:56:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cary,North Carolina,United States · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hpe:/job/Spring-Texas-United-States-of-America/Strategic-Sourcing-AI---Automation-Intern_1213039</id>
@@ -782,29 +806,5 @@
     <updated>2026-11-10T02:56:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · San Francisco, CA, United States · $21.87/hr · AWS, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:samsungresearchamericainternship:8926019002</id>
-    <title>Samsung Research America: 2027 Spring/Summer Intern, Agentic AI Solutions</title>
-    <link href="https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002"/>
-    <updated>2026-11-05T07:32:22Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · 665 Clyde Avenue, Mountain View,  CA, USA · Python, Java, PyTorch, TensorFlow, LLMs · status: closed · H-1B track record: ~98 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4750496005</id>
-    <title>The New York Times: Advertising Business Data Analyst Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005"/>
-    <updated>2026-11-03T18:01:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York, NY · SQL, LLMs, Tableau · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Nexthink:744000159392102</id>
-    <title>Nexthink: Java Software Engineer (Intern)</title>
-    <link href="https://jobs.smartrecruiters.com/Nexthink/744000159392102"/>
-    <updated>2026-11-03T18:01:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Madrid, MD, International (ES) (Hybrid) · Java, Kubernetes, Kafka</summary>
   </entry>
 </feed>
