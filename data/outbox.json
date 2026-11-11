@@ -1160,7 +1160,9 @@
       "workday:amat:/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540",
       "workday:tsys:/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068",
       "greenhouse:judihealth:5477146008",
-      "workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W"
+      "workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W",
+      "ashby:regent:dfdbb28f-f289-45b9-a2e5-158d81b93524",
+      "workday:dtna:/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2322,7 +2324,9 @@
       "workday:amat:/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540",
       "workday:tsys:/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068",
       "greenhouse:judihealth:5477146008",
-      "workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W"
+      "workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W",
+      "ashby:regent:dfdbb28f-f289-45b9-a2e5-158d81b93524",
+      "workday:dtna:/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656"
     ]
   }
 }

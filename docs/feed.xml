@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-11T00:01:25Z</updated>
+  <updated>2026-11-11T06:13:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:regent:dfdbb28f-f289-45b9-a2e5-158d81b93524</id>
+    <title>REGENT: Cybersecurity &amp; IT Operations Intern (Summer)</title>
+    <link href="https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524"/>
+    <updated>2026-11-11T06:13:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · North Kingstown, Rhode Island, USA · Python, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dtna:/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656</id>
+    <title>Daimler Truck: Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656"/>
+    <updated>2026-11-11T06:13:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Detroit, MI US · $21–$29/hr · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:judihealth:5477146008</id>
+    <title>Judi Health: AI Solutions Intern</title>
+    <link href="https://job-boards.greenhouse.io/judihealth/jobs/5477146008"/>
+    <updated>2026-11-11T00:01:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York, New York, United States · Python, JavaScript, SQL, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:amat:/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540</id>
     <title>Applied Materials: 2027 Spring Software Engineer Co-op (Billerica, MA)</title>
@@ -22,14 +46,6 @@
     <updated>2026-11-11T00:01:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · COLUMBUS, GEORGIA · AWS, GCP · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:judihealth:5477146008</id>
-    <title>Judi Health: AI Solutions Intern</title>
-    <link href="https://job-boards.greenhouse.io/judihealth/jobs/5477146008"/>
-    <updated>2026-11-11T00:01:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York, New York, United States · Python, JavaScript, SQL, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W</id>
@@ -790,21 +806,5 @@
     <updated>2026-11-07T02:36:47Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · Frisco, TX · Java, JavaScript, LLMs, React, Angular · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:usafacts:4478239009</id>
-    <title>USAFacts: AI Product Intern</title>
-    <link href="https://job-boards.greenhouse.io/usafacts/jobs/4478239009"/>
-    <updated>2026-11-03T23:33:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bellevue, WA · $33/hr · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Wabtec:3743990016605126</id>
-    <title>Wabtec: Firmware Engineering Co-Op</title>
-    <link href="https://jobs.smartrecruiters.com/Wabtec/3743990016605126"/>
-    <updated>2026-11-03T23:33:17Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Hardware · Waltham, MA, United States · $25–$28/hr · Python, Java, C++, Bash, Linux · status: closed</summary>
   </entry>
 </feed>
