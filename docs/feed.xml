@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-10T18:51:19Z</updated>
+  <updated>2026-11-11T00:01:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:lever:tri:be41a03c-460e-4ff7-b817-f012aa1c4b37</id>
-    <title>Toyota Research Institute: Human-Centered AI Research Intern, Causal Reasoning Models</title>
-    <link href="https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37"/>
+    <id>urn:intern-engine:workday:amat:/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540</id>
+    <title>Applied Materials: 2027 Spring Software Engineer Co-op (Billerica, MA)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540"/>
+    <updated>2026-11-11T00:01:25Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Billerica,MA · C# · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tsys:/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068</id>
+    <title>Global Payments: CyberSecurity Intern 🛂</title>
+    <link href="https://tsys.wd1.myworkdayjobs.com/TSYS/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068"/>
+    <updated>2026-11-11T00:01:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · COLUMBUS, GEORGIA · AWS, GCP · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:judihealth:5477146008</id>
+    <title>Judi Health: AI Solutions Intern</title>
+    <link href="https://job-boards.greenhouse.io/judihealth/jobs/5477146008"/>
+    <updated>2026-11-11T00:01:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York, New York, United States · Python, JavaScript, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W</id>
+    <title>Visa: Software Engineer, Intern - 2027 Foster City, CA 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W"/>
+    <updated>2026-11-11T00:01:25Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · US - Foster City, CA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:regent:9f25824f-486e-4d3a-b444-116b474619d7</id>
+    <title>REGENT: Embedded Software Engineering Intern (Summer)</title>
+    <link href="https://jobs.ashbyhq.com/REGENT/9f25824f-486e-4d3a-b444-116b474619d7"/>
     <updated>2026-11-10T18:51:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Los Altos, CA · $65/hr · Python, PyTorch, LLMs · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · North Kingstown, Rhode Island, USA · Python, C++, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lumbermens:5474346008</id>
@@ -32,14 +64,6 @@
     <summary>Not stated · Software · New York, NY · Python, Java, TypeScript, GraphQL, Kubernetes · H-1B track record: ~88 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:palantir:eb496d6a-a960-43d3-a09b-e3843052f54e</id>
-    <title>Palantir: Software Engineer, Intern - Connectivity Platform and Product</title>
-    <link href="https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e"/>
-    <updated>2026-11-10T18:51:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Denver, CO · Python, Java, TypeScript, GraphQL, Kubernetes · H-1B track record: ~88 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:palantir:45e4617d-d658-4b30-8dc9-378ca84a027a</id>
     <title>Palantir: Software Engineer, Internship - Data Connectors</title>
     <link href="https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a"/>
@@ -48,20 +72,20 @@
     <summary>Not stated · Data &amp; ML/AI · New York, NY · Python, Java, Kubernetes, Git, Kafka · H-1B track record: ~88 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:regent:9f25824f-486e-4d3a-b444-116b474619d7</id>
-    <title>REGENT: Embedded Software Engineering Intern (Summer)</title>
-    <link href="https://jobs.ashbyhq.com/REGENT/9f25824f-486e-4d3a-b444-116b474619d7"/>
+    <id>urn:intern-engine:lever:palantir:eb496d6a-a960-43d3-a09b-e3843052f54e</id>
+    <title>Palantir: Software Engineer, Intern - Connectivity Platform and Product</title>
+    <link href="https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e"/>
     <updated>2026-11-10T18:51:19Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · North Kingstown, Rhode Island, USA · Python, C++, Git</summary>
+    <summary>Not stated · Software · Denver, CO · Python, Java, TypeScript, GraphQL, Kubernetes · H-1B track record: ~88 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:trimble:/job/US---TN-Knoxville/Software-Engineering-Intern_R58120</id>
-    <title>Trimble: Software Engineering Intern 🛂</title>
-    <link href="https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120"/>
+    <id>urn:intern-engine:lever:tri:be41a03c-460e-4ff7-b817-f012aa1c4b37</id>
+    <title>Toyota Research Institute: Human-Centered AI Research Intern, Causal Reasoning Models</title>
+    <link href="https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37"/>
     <updated>2026-11-10T18:51:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US - TN, Knoxville · Java, C++, C#, TypeScript, SQL · sponsorship: no-sponsorship · H-1B track record: ~72 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Los Altos, CA · $65/hr · Python, PyTorch, LLMs · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000160896184</id>
@@ -70,6 +94,14 @@
     <updated>2026-11-10T18:51:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Boulder, CO, United States · Python, Java, C#, SQL, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trimble:/job/US---TN-Knoxville/Software-Engineering-Intern_R58120</id>
+    <title>Trimble: Software Engineering Intern 🛂</title>
+    <link href="https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120"/>
+    <updated>2026-11-10T18:51:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US - TN, Knoxville · Java, C++, C#, TypeScript, SQL · sponsorship: no-sponsorship · H-1B track record: ~72 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:celonis:8198760003</id>
@@ -206,14 +238,6 @@
     <updated>2026-11-10T02:56:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US - OR, Lake Oswego · Java, C++, C#, TypeScript, SQL · sponsorship: no-sponsorship · H-1B track record: ~72 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Software-Engineer-Intern_R22542</id>
-    <title>Wex: Software Engineer Intern</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern_R22542"/>
-    <updated>2026-11-10T02:56:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US - Remote · Python, LLMs, AWS, Terraform, Git · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lilasciences:4472540009</id>
@@ -782,29 +806,5 @@
     <updated>2026-11-03T23:33:17Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Hardware · Waltham, MA, United States · $25–$28/hr · Python, Java, C++, Bash, Linux · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/San-Diego-CA-USA/Internship--Business-Systems-AI_J-00355737</id>
-    <title>ASML: Internship- Business Systems AI</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Business-Systems-AI_J-00355737"/>
-    <updated>2026-11-03T23:33:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Diego, CA, USA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:boseallaboutme:/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369</id>
-    <title>Bose: Software/DSP Research Engineer Co-op</title>
-    <link href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369"/>
-    <updated>2026-11-03T23:33:17Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US, MA - Framingham · $40–$51.25/hr · Python, C++, MATLAB · H-1B track record: ~61 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1</id>
-    <title>Hewlett Packard (HP): Software Engineering Intern, AIML Platform - HP IQ</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1"/>
-    <updated>2026-11-03T23:33:17Z</updated>
-    <category term="Fall 2027"/>
-    <summary>Fall 2027 · Software · San Francisco, California, United States of America · $40–$50/hr · Python, PyTorch, TensorFlow · status: closed</summary>
   </entry>
 </feed>
