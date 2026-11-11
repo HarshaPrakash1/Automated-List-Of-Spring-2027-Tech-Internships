@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T14:22:39Z",
- "data_as_of": "2026-11-11T14:22:39Z",
- "rendered_at": "2026-11-11T14:22:39Z",
+ "generated_at": "2026-11-11T21:34:00Z",
+ "data_as_of": "2026-11-11T21:34:00Z",
+ "rendered_at": "2026-11-11T21:34:01Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -1561,25 +1561,6 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-11-06"
-   }
-  },
-  {
-   "company": "Zoox",
-   "last_cycle_posted": "",
-   "posted_on": "2026-11-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-11-07",
-   "days_until": -4,
-   "status": "open",
-   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-11-07"
    }
   },
   {
@@ -4886,6 +4867,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-11-03"
+   }
+  },
+  {
+   "company": "Zoox",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-07",
+   "days_until": -4,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-11-07"
    }
   }
  ],

@@ -1162,7 +1162,16 @@
       "greenhouse:judihealth:5477146008",
       "workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W",
       "ashby:regent:dfdbb28f-f289-45b9-a2e5-158d81b93524",
-      "workday:dtna:/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656"
+      "workday:dtna:/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656",
+      "workable:bask-health-1:9D7E69054E",
+      "workable:bask-health-1:E81C7F7D3B",
+      "workable:bask-health-1:98DB106D88",
+      "lever:tri:da4b4832-36e7-4703-9841-c319efd6d495",
+      "workday:austalusa:/job/Mobile-AL/Cybersecurity-Intern_R0012221",
+      "workday:avav:/job/Lawrence-KS/Software-Engineering-Intern_9360",
+      "workday:boseallaboutme:/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
+      "workday:rockwellautomation:/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2",
+      "workday:unisys:/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2326,7 +2335,16 @@
       "greenhouse:judihealth:5477146008",
       "workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W",
       "ashby:regent:dfdbb28f-f289-45b9-a2e5-158d81b93524",
-      "workday:dtna:/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656"
+      "workday:dtna:/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656",
+      "workable:bask-health-1:9D7E69054E",
+      "workable:bask-health-1:E81C7F7D3B",
+      "workable:bask-health-1:98DB106D88",
+      "lever:tri:da4b4832-36e7-4703-9841-c319efd6d495",
+      "workday:austalusa:/job/Mobile-AL/Cybersecurity-Intern_R0012221",
+      "workday:avav:/job/Lawrence-KS/Software-Engineering-Intern_9360",
+      "workday:boseallaboutme:/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
+      "workday:rockwellautomation:/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2",
+      "workday:unisys:/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421"
     ]
   }
 }
