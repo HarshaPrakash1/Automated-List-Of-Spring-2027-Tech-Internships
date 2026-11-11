@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T06:13:11Z",
- "data_as_of": "2026-11-11T06:13:11Z",
- "rendered_at": "2026-11-11T06:13:11Z",
+ "generated_at": "2026-11-11T14:22:39Z",
+ "data_as_of": "2026-11-11T14:22:39Z",
+ "rendered_at": "2026-11-11T14:22:39Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -225,7 +225,7 @@
    "expected": "2026-08-20",
    "days_until": -83,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015679346",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015679386",
    "note": "",
    "provenance": {
     "type": "engine-observed",
