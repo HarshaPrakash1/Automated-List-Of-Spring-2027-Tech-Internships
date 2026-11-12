@@ -1179,7 +1179,11 @@
       "greenhouse:minitab:8200698003",
       "greenhouse:samsungsemiconductor:8197305003",
       "smartrecruiters:ServiceNow:744000161209600",
-      "smartrecruiters:ServiceNow:744000161204235"
+      "smartrecruiters:ServiceNow:744000161204235",
+      "workable:bask-health-1:9C2964C7CD",
+      "workday:bloomenergy:/job/San-Jose-California/Data-Science-Intern_JR-25360",
+      "workday:bloomenergy:/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361",
+      "workday:bloomenergy:/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2360,7 +2364,11 @@
       "greenhouse:minitab:8200698003",
       "greenhouse:samsungsemiconductor:8197305003",
       "smartrecruiters:ServiceNow:744000161209600",
-      "smartrecruiters:ServiceNow:744000161204235"
+      "smartrecruiters:ServiceNow:744000161204235",
+      "workable:bask-health-1:9C2964C7CD",
+      "workday:bloomenergy:/job/San-Jose-California/Data-Science-Intern_JR-25360",
+      "workday:bloomenergy:/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361",
+      "workday:bloomenergy:/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362"
     ]
   }
 }

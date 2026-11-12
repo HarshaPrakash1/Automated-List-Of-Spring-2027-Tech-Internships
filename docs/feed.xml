@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-12T02:42:11Z</updated>
+  <updated>2026-11-12T10:27:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:bask-health-1:9C2964C7CD</id>
+    <title>Bask Health: Frontend Engineering Intern</title>
+    <link href="https://apply.workable.com/bask-health-1/j/9C2964C7CD/"/>
+    <updated>2026-11-12T10:27:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States (Remote) · TypeScript, JavaScript, React, Next.js, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bloomenergy:/job/San-Jose-California/Data-Science-Intern_JR-25360</id>
+    <title>Bloom Energy: Data Science Intern 🛂</title>
+    <link href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-25360"/>
+    <updated>2026-11-12T10:27:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Jose, California · $36–$50/hr · Python, SQL, Git · sponsorship: no-sponsorship · H-1B track record: ~49 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bloomenergy:/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361</id>
+    <title>Bloom Energy: AI Solutions Engineer Intern 🛂</title>
+    <link href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361"/>
+    <updated>2026-11-12T10:27:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Jose, California · $36–$50/hr · Python, LLMs, Git · sponsorship: no-sponsorship · H-1B track record: ~49 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bloomenergy:/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362</id>
+    <title>Bloom Energy: RMCC Data Science Intern 🛂</title>
+    <link href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362"/>
+    <updated>2026-11-12T10:27:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Jose, California · $36–$50/hr · Python, SQL, Pandas, Git · sponsorship: no-sponsorship · H-1B track record: ~49 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:leland:94347c0b-273b-4c17-9987-563912629633</id>
     <title>Leland: AI Education Intern</title>
@@ -14,30 +46,6 @@
     <updated>2026-11-12T02:42:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Leland HQ - Lehi, UT</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tri:ad346610-e4a6-4cd2-a357-11d731b136a2</id>
-    <title>Toyota Research Institute: Future Product Innovation Research Intern, Human-AI Computational Design</title>
-    <link href="https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2"/>
-    <updated>2026-11-12T02:42:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Los Altos, CA · $65/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dow:/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169</id>
-    <title>Dow Chemical Company: Local College Co-op: Infrastructure Mapping &amp; Data Quality (Michigan Operations) 🛂</title>
-    <link href="https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169"/>
-    <updated>2026-11-12T02:42:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Midland (MI, USA) · sponsorship: no-sponsorship · H-1B track record: ~61 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hubinternational:/job/Chicago-IL/AI-Engineering-Intern_R0039470</id>
-    <title>HUB International: AI Engineering Intern</title>
-    <link href="https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/AI-Engineering-Intern_R0039470"/>
-    <updated>2026-11-12T02:42:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chicago, IL · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:minitab:8200698003</id>
@@ -56,12 +64,12 @@
     <summary>Not stated · Data &amp; ML/AI · San Jose, California, United States · Python, C++, PyTorch, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161209600</id>
-    <title>ServiceNow: Assoc AI Engineering (Cloud Security Automation) Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161209600"/>
+    <id>urn:intern-engine:lever:tri:ad346610-e4a6-4cd2-a357-11d731b136a2</id>
+    <title>Toyota Research Institute: Future Product Innovation Research Intern, Human-AI Computational Design</title>
+    <link href="https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2"/>
     <updated>2026-11-12T02:42:11Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Santa Clara, CALIFORNIA, United States · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Los Altos, CA · $65/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161204235</id>
@@ -70,6 +78,30 @@
     <updated>2026-11-12T02:42:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · San Diego, CALIFORNIA, United States · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161209600</id>
+    <title>ServiceNow: Assoc AI Engineering (Cloud Security Automation) Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161209600"/>
+    <updated>2026-11-12T02:42:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Santa Clara, CALIFORNIA, United States · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dow:/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169</id>
+    <title>Dow Chemical Company: Local College Co-op: Infrastructure Mapping &amp; Data Quality (Michigan Operations) 🛂</title>
+    <link href="https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169"/>
+    <updated>2026-11-12T02:42:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Midland (MI, USA) · sponsorship: no-sponsorship · H-1B track record: ~61 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hubinternational:/job/Chicago-IL/AI-Engineering-Intern_R0039470</id>
+    <title>HUB International: AI Engineering Intern</title>
+    <link href="https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/AI-Engineering-Intern_R0039470"/>
+    <updated>2026-11-12T02:42:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago, IL · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:formulary:bbc4fef5-3cff-4879-89bc-65aba1214b04</id>
@@ -493,7 +525,7 @@
     <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006"/>
     <updated>2026-11-06T22:38:01Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Miami, Florida, United States; Needham, MA, United States · Python, SQL, LLMs, AWS, Tableau</summary>
+    <summary>Spring 2027 · Data &amp; ML/AI · Needham, MA, United States · Python, SQL, LLMs, AWS, Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:thenewyorktimes:4751907005</id>
@@ -774,37 +806,5 @@
     <updated>2026-11-05T22:11:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Woodland Hills CA · $24–$28.5/hr · Python, JavaScript, LLMs, Databricks · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:badgermeter:/job/US---WI---Milwaukee-HQ/Firmware-Test-Engineer-Intern_4675</id>
-    <title>Badger Meter: Firmware Test Engineer Intern</title>
-    <link href="https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Firmware-Test-Engineer-Intern_4675"/>
-    <updated>2026-11-05T07:32:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · US - WI - Milwaukee HQ · Python, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tri:d4184c04-b963-489a-9a0b-91bc57d6267e</id>
-    <title>Toyota Research Institute: Human-Centered AI Research Intern, Human Language Models</title>
-    <link href="https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e"/>
-    <updated>2026-11-05T00:37:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Los Altos, CA · $65/hr · Python, PyTorch, LLMs · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tri:e7cc38d2-2b08-4349-b322-4d56cac9fb1b</id>
-    <title>Toyota Research Institute: Automated Driving Advanced Development Intern, Machine Learning Research</title>
-    <link href="https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b"/>
-    <updated>2026-11-05T00:37:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Los Altos, CA · $65/hr · Python, PyTorch, CUDA · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:261245</id>
-    <title>GM financial: Intern - Cloud Engineer</title>
-    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261245"/>
-    <updated>2026-11-05T00:37:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Irving, TX, United States · LLMs · status: closed</summary>
   </entry>
 </feed>
