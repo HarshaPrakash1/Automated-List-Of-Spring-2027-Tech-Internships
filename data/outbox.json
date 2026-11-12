@@ -1171,7 +1171,15 @@
       "workday:avav:/job/Lawrence-KS/Software-Engineering-Intern_9360",
       "workday:boseallaboutme:/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
       "workday:rockwellautomation:/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2",
-      "workday:unisys:/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421"
+      "workday:unisys:/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421",
+      "ashby:leland:94347c0b-273b-4c17-9987-563912629633",
+      "lever:tri:ad346610-e4a6-4cd2-a357-11d731b136a2",
+      "workday:dow:/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169",
+      "workday:hubinternational:/job/Chicago-IL/AI-Engineering-Intern_R0039470",
+      "greenhouse:minitab:8200698003",
+      "greenhouse:samsungsemiconductor:8197305003",
+      "smartrecruiters:ServiceNow:744000161209600",
+      "smartrecruiters:ServiceNow:744000161204235"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2344,7 +2352,15 @@
       "workday:avav:/job/Lawrence-KS/Software-Engineering-Intern_9360",
       "workday:boseallaboutme:/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
       "workday:rockwellautomation:/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2",
-      "workday:unisys:/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421"
+      "workday:unisys:/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421",
+      "ashby:leland:94347c0b-273b-4c17-9987-563912629633",
+      "lever:tri:ad346610-e4a6-4cd2-a357-11d731b136a2",
+      "workday:dow:/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169",
+      "workday:hubinternational:/job/Chicago-IL/AI-Engineering-Intern_R0039470",
+      "greenhouse:minitab:8200698003",
+      "greenhouse:samsungsemiconductor:8197305003",
+      "smartrecruiters:ServiceNow:744000161209600",
+      "smartrecruiters:ServiceNow:744000161204235"
     ]
   }
 }
