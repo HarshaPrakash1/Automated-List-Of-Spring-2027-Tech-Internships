@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-12T10:27:28Z</updated>
+  <updated>2026-11-12T18:54:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:jci:/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046</id>
+    <title>Johnson Controls: Computer Science/CAD Intern</title>
+    <link href="https://jci.wd5.myworkdayjobs.com/JCI/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046"/>
+    <updated>2026-11-12T18:54:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Waynesboro-Pennsylvania-United States of America · $22–$25.5/hr · Python, C++, C#, SQL, LLMs · status: closed · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:bask-health-1:F0E122E877</id>
+    <title>Bask Health: AI Engineering Intern</title>
+    <link href="https://apply.workable.com/bask-health-1/j/F0E122E877/"/>
+    <updated>2026-11-12T18:54:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States (Remote) · Python, TypeScript, JavaScript, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:bask-health-1:71AEBBCADE</id>
+    <title>Bask Health: Machine Learning Engineering Intern</title>
+    <link href="https://apply.workable.com/bask-health-1/j/71AEBBCADE/"/>
+    <updated>2026-11-12T18:54:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States (Remote) · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:argonne:/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702</id>
+    <title>Argonne National Laboratory: Intern – Business Information Systems, Enterprise Software Solutions 🇺🇸</title>
+    <link href="https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702"/>
+    <updated>2026-11-12T18:54:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Lemont, IL USA · Python, Java, C#, JavaScript, SQL · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000161339309</id>
+    <title>Bosch: AI Research Intern – Time Series Foundation Models</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000161339309"/>
+    <updated>2026-11-12T18:54:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California, United States · Python, PyTorch · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797</id>
+    <title>Fresenius Medical Care: Agentic AI Analytics Co-op</title>
+    <link href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797"/>
+    <updated>2026-11-12T18:54:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Lawrence, MA, USA · Python, Pandas, LLMs, AWS, Azure</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:bask-health-1:9C2964C7CD</id>
     <title>Bask Health: Frontend Engineering Intern</title>
@@ -16,20 +64,20 @@
     <summary>Not stated · Software · United States (Remote) · TypeScript, JavaScript, React, Next.js, HTML/CSS</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bloomenergy:/job/San-Jose-California/Data-Science-Intern_JR-25360</id>
-    <title>Bloom Energy: Data Science Intern 🛂</title>
-    <link href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-25360"/>
-    <updated>2026-11-12T10:27:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Jose, California · $36–$50/hr · Python, SQL, Git · sponsorship: no-sponsorship · H-1B track record: ~49 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:bloomenergy:/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361</id>
     <title>Bloom Energy: AI Solutions Engineer Intern 🛂</title>
     <link href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361"/>
     <updated>2026-11-12T10:27:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · San Jose, California · $36–$50/hr · Python, LLMs, Git · sponsorship: no-sponsorship · H-1B track record: ~49 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bloomenergy:/job/San-Jose-California/Data-Science-Intern_JR-25360</id>
+    <title>Bloom Energy: Data Science Intern 🛂</title>
+    <link href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-25360"/>
+    <updated>2026-11-12T10:27:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Jose, California · $36–$50/hr · Python, SQL, Git · sponsorship: no-sponsorship · H-1B track record: ~49 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bloomenergy:/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362</id>
@@ -219,9 +267,9 @@
     <id>urn:intern-engine:workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W</id>
     <title>Visa: Software Engineer, Intern - 2027 Foster City, CA 🛂</title>
     <link href="https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W"/>
-    <updated>2026-11-11T00:01:25Z</updated>
+    <updated>2026-11-12T18:32:50Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · US - Foster City, CA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
+    <summary>Spring 2027 · Software · US - Foster City, CA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:regent:9f25824f-486e-4d3a-b444-116b474619d7</id>
@@ -411,9 +459,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1</id>
     <title>Northrop Grumman: 2027 Software Testing Engineering Intern - Apopka FL 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1"/>
-    <updated>2026-11-10T02:56:31Z</updated>
+    <updated>2026-11-12T18:32:50Z</updated>
     <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States-Florida-Apopka · $18.5–$33.5/hr · C++, C# · sponsorship: citizens-only</summary>
+    <summary>Spring 2027 · Software · United States-Florida-Apopka · $18.5–$33.5/hr · C++, C# · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:trimble:/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171</id>
@@ -758,53 +806,5 @@
     <updated>2026-11-05T22:11:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Detroit, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Cyber-IT_R9672</id>
-    <title>Little Caesars Enterprises: Intern, Cyber IT</title>
-    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Cyber-IT_R9672"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Detroit, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Cyber-Security_R9669</id>
-    <title>Little Caesars Enterprises: Intern, Cyber Security</title>
-    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Cyber-Security_R9669"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Detroit, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Department-Cyber-IT_R9670</id>
-    <title>Little Caesars Enterprises: Intern, Department Cyber IT</title>
-    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Department-Cyber-IT_R9670"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Detroit, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Developer-IT_R9677</id>
-    <title>Little Caesars Enterprises: Intern, Developer IT</title>
-    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Detroit, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jmfamily:/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187</id>
-    <title>JM Family: Software Analyst Intern</title>
-    <link href="https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Florida - Deerfield Beach · Python, HTML/CSS, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:markelcorp:/job/Woodland-Hills-CA/Markel-AI-Automation-Intern_R0024277</id>
-    <title>Markel Group, Inc.: Markel AI Automation Intern 🛂</title>
-    <link href="https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Woodland-Hills-CA/Markel-AI-Automation-Intern_R0024277"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Woodland Hills CA · $24–$28.5/hr · Python, JavaScript, LLMs, Databricks · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

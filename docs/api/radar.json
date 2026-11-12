@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-12T10:27:28Z",
- "data_as_of": "2026-11-12T10:27:28Z",
- "rendered_at": "2026-11-12T10:27:28Z",
+ "generated_at": "2026-11-12T18:54:05Z",
+ "data_as_of": "2026-11-12T18:54:05Z",
+ "rendered_at": "2026-11-12T18:54:05Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -212,25 +212,6 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-08-12"
-   }
-  },
-  {
-   "company": "AbbVie",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-20",
-   "days_until": -84,
-   "status": "open",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015679386",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-08-20"
    }
   },
   {
@@ -918,25 +899,6 @@
    }
   },
   {
-   "company": "Visa",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -56,
-   "status": "open",
-   "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W",
-   "note": "late-summer opening",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-09-17"
-   }
-  },
-  {
    "company": "Cowboy Space",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -1314,25 +1276,6 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-20"
-   }
-  },
-  {
-   "company": "Philips",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-22",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-22",
-   "days_until": -21,
-   "status": "open",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-10-22"
    }
   },
   {
@@ -4148,6 +4091,25 @@
    }
   },
   {
+   "company": "AbbVie",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": -84,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-08-20"
+   }
+  },
+  {
    "company": "Phoebe",
    "last_cycle_posted": "",
    "posted_on": "2026-08-20",
@@ -4490,6 +4452,25 @@
    }
   },
   {
+   "company": "Visa",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -56,
+   "status": "dropped",
+   "url": "",
+   "note": "late-summer opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-09-17"
+   }
+  },
+  {
    "company": "MetOx International",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -4772,6 +4753,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-21"
+   }
+  },
+  {
+   "company": "Philips",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-22",
+   "days_until": -21,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-22"
    }
   },
   {
