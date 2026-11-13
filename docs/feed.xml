@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-13T00:03:58Z</updated>
+  <updated>2026-11-13T06:44:22Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:aurora-operations-inc:06daa269-c02b-43a4-88b8-b57a3ba335ef</id>
+    <title>Aurora Innovation: Software Engineer Intern, Vehicle Platforms</title>
+    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef"/>
+    <updated>2026-11-13T06:44:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mountain View, CA · $52/hr · Python, C++, Linux, ROS · status: closed · H-1B track record: ~163 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462</id>
+    <title>ASML: Internship - Data Scientist</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462"/>
+    <updated>2026-11-13T06:44:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Wilton, CT, USA · $18–$48/hr · Python, C++, MATLAB, LLMs, Computer Vision · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd</id>
+    <title>Skydio: Frontend Software Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd"/>
+    <updated>2026-11-13T06:44:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Mateo, California, United States · $47/hr · TypeScript, React, GraphQL · H-1B track record: ~26 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:samsungsemiconductor:8202902003</id>
+    <title>Samsung: Intern, Compiler Engineer</title>
+    <link href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003"/>
+    <updated>2026-11-13T06:44:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, California, United States · PyTorch, TensorFlow</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:entegris:/job/Aurora-IL/Power-Platform---Copilot-Studio-Intern---AI---Summer-Intern_REQ-15841</id>
     <title>Entegris: Power Platform / Copilot Studio Intern – AI - Summer Intern</title>
@@ -774,37 +806,5 @@
     <updated>2026-11-06T17:46:28Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · Phoenix, Arizona · $17/hr · SQL · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:syntiant:468B53B345</id>
-    <title>Syntiant: Internship - DevOps Machine Learning Infrastructure</title>
-    <link href="https://apply.workable.com/syntiant/j/468B53B345/"/>
-    <updated>2026-11-06T10:01:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Irvine, California, United States · Python, AWS, Kubernetes, Docker, Terraform</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:hearst:4466334009</id>
-    <title>Hearst: Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/hearst/jobs/4466334009"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Carmel, IN, United States · AWS, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:palantir:cd64bcd4-50bb-4aeb-a135-4e0487ffd312</id>
-    <title>Palantir: Software Engineer, Internship - Sovereign AI Systems</title>
-    <link href="https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York, NY · Python, Java, C++, Rust, JavaScript · H-1B track record: ~88 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1809</id>
-    <title>Legrand: Firmware Engineering Intern</title>
-    <link href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1809"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Reno, NV, United States · Python, C++, TypeScript, Linux, Git</summary>
   </entry>
 </feed>

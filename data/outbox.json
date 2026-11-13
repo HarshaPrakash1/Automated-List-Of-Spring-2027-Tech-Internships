@@ -1189,7 +1189,9 @@
       "workday:argonne:/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702",
       "smartrecruiters:BoschGroup:744000161339309",
       "workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797",
-      "workday:leidos:/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510"
+      "workday:leidos:/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
+      "ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
+      "greenhouse:samsungsemiconductor:8202902003"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2380,7 +2382,9 @@
       "workday:argonne:/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702",
       "smartrecruiters:BoschGroup:744000161339309",
       "workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797",
-      "workday:leidos:/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510"
+      "workday:leidos:/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
+      "ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
+      "greenhouse:samsungsemiconductor:8202902003"
     ]
   }
 }
