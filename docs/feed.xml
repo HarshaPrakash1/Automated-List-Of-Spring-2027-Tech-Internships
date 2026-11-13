@@ -5,39 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-12T18:54:05Z</updated>
+  <updated>2026-11-13T00:03:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:jci:/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046</id>
-    <title>Johnson Controls: Computer Science/CAD Intern</title>
-    <link href="https://jci.wd5.myworkdayjobs.com/JCI/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046"/>
-    <updated>2026-11-12T18:54:05Z</updated>
+    <id>urn:intern-engine:workday:entegris:/job/Aurora-IL/Power-Platform---Copilot-Studio-Intern---AI---Summer-Intern_REQ-15841</id>
+    <title>Entegris: Power Platform / Copilot Studio Intern – AI - Summer Intern</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Power-Platform---Copilot-Studio-Intern---AI---Summer-Intern_REQ-15841"/>
+    <updated>2026-11-13T00:03:58Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Waynesboro-Pennsylvania-United States of America · $22–$25.5/hr · Python, C++, C#, SQL, LLMs · status: closed · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Aurora, IL · $20–$30/hr · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workable:bask-health-1:F0E122E877</id>
-    <title>Bask Health: AI Engineering Intern</title>
-    <link href="https://apply.workable.com/bask-health-1/j/F0E122E877/"/>
-    <updated>2026-11-12T18:54:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States (Remote) · Python, TypeScript, JavaScript, SQL, LLMs</summary>
+    <id>urn:intern-engine:workday:entegris:/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870</id>
+    <title>Entegris: Embedded Software Engineering Intern</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870"/>
+    <updated>2026-11-13T00:03:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Bloomington, MN · $20–$30/hr · Python, C++, Git · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workable:bask-health-1:71AEBBCADE</id>
-    <title>Bask Health: Machine Learning Engineering Intern</title>
-    <link href="https://apply.workable.com/bask-health-1/j/71AEBBCADE/"/>
-    <updated>2026-11-12T18:54:05Z</updated>
+    <id>urn:intern-engine:workday:leidos:/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510</id>
+    <title>Leidos: Junior Software Engineer / Data Scientist Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510"/>
+    <updated>2026-11-13T00:03:58Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States (Remote) · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:argonne:/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702</id>
-    <title>Argonne National Laboratory: Intern – Business Information Systems, Enterprise Software Solutions 🇺🇸</title>
-    <link href="https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702"/>
-    <updated>2026-11-12T18:54:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Lemont, IL USA · Python, Java, C#, JavaScript, SQL · sponsorship: citizens-only</summary>
+    <summary>Not stated · Data &amp; ML/AI · Tucson, AZ · Python, Java, C++, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000161339309</id>
@@ -48,12 +40,44 @@
     <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California, United States · Python, PyTorch · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workable:bask-health-1:71AEBBCADE</id>
+    <title>Bask Health: Machine Learning Engineering Intern</title>
+    <link href="https://apply.workable.com/bask-health-1/j/71AEBBCADE/"/>
+    <updated>2026-11-12T18:54:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States (Remote) · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:bask-health-1:F0E122E877</id>
+    <title>Bask Health: AI Engineering Intern</title>
+    <link href="https://apply.workable.com/bask-health-1/j/F0E122E877/"/>
+    <updated>2026-11-12T18:54:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States (Remote) · Python, TypeScript, JavaScript, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:argonne:/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702</id>
+    <title>Argonne National Laboratory: Intern – Business Information Systems, Enterprise Software Solutions 🇺🇸</title>
+    <link href="https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702"/>
+    <updated>2026-11-12T18:54:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Lemont, IL USA · Python, Java, C#, JavaScript, SQL · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797</id>
     <title>Fresenius Medical Care: Agentic AI Analytics Co-op</title>
     <link href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797"/>
     <updated>2026-11-12T18:54:05Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Lawrence, MA, USA · Python, Pandas, LLMs, AWS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jci:/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046</id>
+    <title>Johnson Controls: Computer Science/CAD Intern</title>
+    <link href="https://jci.wd5.myworkdayjobs.com/JCI/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046"/>
+    <updated>2026-11-12T18:54:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Waynesboro-Pennsylvania-United States of America · $22–$25.5/hr · Python, C++, C#, SQL, LLMs · status: closed · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workable:bask-health-1:9C2964C7CD</id>
@@ -515,9 +539,9 @@
     <id>urn:intern-engine:workday:zoetis:/job/US-Remote/AI-Acceleration-Intern---AI-Development-Lifecycle_JR00022013-2</id>
     <title>Zoetis: AI Acceleration Intern - AI Development Lifecycle</title>
     <link href="https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/AI-Acceleration-Intern---AI-Development-Lifecycle_JR00022013-2"/>
-    <updated>2026-11-09T20:21:48Z</updated>
+    <updated>2026-11-13T00:03:58Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US Remote · $16/hr · Python, SQL, LLMs, AWS, Azure · H-1B track record: ~100 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · US Remote · $16/hr · Python, SQL, LLMs, AWS, Azure · status: closed · H-1B track record: ~100 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996</id>
@@ -782,29 +806,5 @@
     <updated>2026-11-05T22:11:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Reno, NV, United States · Python, C++, TypeScript, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:borgwarner:/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1</id>
-    <title>BorgWarner: Software Test Intern</title>
-    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Auburn Hills - Michigan - USA · sponsorship: offers</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Embedded-Software-Co-Op_R0273960</id>
-    <title>Fresenius Medical Care: Embedded Software Co-Op</title>
-    <link href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-Software-Co-Op_R0273960"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Lawrence, MA, USA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--AI-IT_R9675</id>
-    <title>Little Caesars Enterprises: Intern, AI IT</title>
-    <link href="https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--AI-IT_R9675"/>
-    <updated>2026-11-05T22:11:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Detroit, MI</summary>
   </entry>
 </feed>
