@@ -814,10 +814,12 @@
     "Spring 2027": {
      "first_posted": "2026-10-30",
      "role_ids": [
+      "workday:cmu:/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2",
       "workday:cmu:/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1",
+      "workday:cmu:/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347-1",
       "workday:cmu:/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -1950,9 +1952,10 @@
     "Spring 2027": {
      "first_posted": "2026-10-05",
      "role_ids": [
-      "workday:manulife:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121"
+      "workday:manulife:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121",
+      "workday:manulife:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3924,5 +3927,5 @@
    }
   }
  },
- "updated_at": "2026-11-13T15:12:53Z"
+ "updated_at": "2026-11-13T21:45:22Z"
 }

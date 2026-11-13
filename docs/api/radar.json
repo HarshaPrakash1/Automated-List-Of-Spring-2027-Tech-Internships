@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T15:12:53Z",
- "data_as_of": "2026-11-13T15:12:53Z",
- "rendered_at": "2026-11-13T15:12:54Z",
+ "generated_at": "2026-11-13T21:45:22Z",
+ "data_as_of": "2026-11-13T21:45:22Z",
+ "rendered_at": "2026-11-13T21:45:22Z",
  "cycle": "Spring 2027",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "companies": [
@@ -1184,25 +1184,6 @@
    }
   },
   {
-   "company": "General Motors",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-14",
-   "days_until": -30,
-   "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
-   "note": "fall opening",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-10-14"
-   }
-  },
-  {
    "company": "JPMorgan Chase",
    "last_cycle_posted": "",
    "posted_on": "2026-10-14",
@@ -1390,6 +1371,25 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-28"
+   }
+  },
+  {
+   "company": "Cmu",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": -14,
+   "status": "open",
+   "url": "https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-30"
    }
   },
   {
@@ -4680,6 +4680,25 @@
    }
   },
   {
+   "company": "General Motors",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-14",
+   "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": "fall opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Spring 2027",
+    "observed_on": "2026-10-14"
+   }
+  },
+  {
    "company": "Commonwealth Fusion Systems",
    "last_cycle_posted": "",
    "posted_on": "2026-10-15",
@@ -4810,25 +4829,6 @@
     "type": "engine-observed",
     "cycle": "Spring 2027",
     "observed_on": "2026-10-29"
-   }
-  },
-  {
-   "company": "Cmu",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-30",
-   "days_until": -14,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Spring 2027",
-    "observed_on": "2026-10-30"
    }
   },
   {

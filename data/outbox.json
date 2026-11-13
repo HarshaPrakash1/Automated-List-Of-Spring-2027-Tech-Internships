@@ -1193,7 +1193,22 @@
       "ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
       "greenhouse:samsungsemiconductor:8202902003",
       "oracle:eedu.fa.em3.oraclecloud.com:202607277",
-      "workday:valeo:/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794"
+      "workday:valeo:/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794",
+      "ashby:atalanta:52011b21-df9a-4304-81a9-005a79f55335",
+      "ashby:aurora-operations-inc:8bd8b0b9-143a-400d-97d0-b3f70d9ee868",
+      "greenhouse:arcesiumllc:5257251007",
+      "workday:asml:/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
+      "smartrecruiters:Carlisle:3743990016774046",
+      "workday:cmu:/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347-1",
+      "workday:cmu:/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2",
+      "workday:dtna:/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1",
+      "workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519",
+      "workday:manulife:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405",
+      "greenhouse:samsungsemiconductor:8202927003",
+      "greenhouse:samsungsemiconductor:8203052003",
+      "greenhouse:samsungsemiconductor:8203058003",
+      "smartrecruiters:ServiceNow:744000161550869",
+      "smartrecruiters:ServiceNow:744000161548289"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2388,7 +2403,22 @@
       "ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
       "greenhouse:samsungsemiconductor:8202902003",
       "oracle:eedu.fa.em3.oraclecloud.com:202607277",
-      "workday:valeo:/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794"
+      "workday:valeo:/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794",
+      "ashby:atalanta:52011b21-df9a-4304-81a9-005a79f55335",
+      "ashby:aurora-operations-inc:8bd8b0b9-143a-400d-97d0-b3f70d9ee868",
+      "greenhouse:arcesiumllc:5257251007",
+      "workday:asml:/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
+      "smartrecruiters:Carlisle:3743990016774046",
+      "workday:cmu:/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347-1",
+      "workday:cmu:/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2",
+      "workday:dtna:/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1",
+      "workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519",
+      "workday:manulife:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405",
+      "greenhouse:samsungsemiconductor:8202927003",
+      "greenhouse:samsungsemiconductor:8203052003",
+      "greenhouse:samsungsemiconductor:8203058003",
+      "smartrecruiters:ServiceNow:744000161550869",
+      "smartrecruiters:ServiceNow:744000161548289"
     ]
   }
 }
