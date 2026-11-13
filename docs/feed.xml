@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-13T06:44:22Z</updated>
+  <updated>2026-11-13T15:12:53Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:eedu.fa.em3.oraclecloud.com:202607277</id>
+    <title>WTW: Early Careers: Data Analyst Internship 🛂</title>
+    <link href="https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277"/>
+    <updated>2026-11-13T15:12:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York, NY, United States · $18–$20/hr · Python · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:valeo:/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794</id>
+    <title>Valeo: Software Engineer Intern (Year-Round)</title>
+    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794"/>
+    <updated>2026-11-13T15:12:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Troy, MI · Python, C++, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:aurora-operations-inc:06daa269-c02b-43a4-88b8-b57a3ba335ef</id>
     <title>Aurora Innovation: Software Engineer Intern, Vehicle Platforms</title>
@@ -14,14 +30,6 @@
     <updated>2026-11-13T06:44:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Mountain View, CA · $52/hr · Python, C++, Linux, ROS · status: closed · H-1B track record: ~163 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462</id>
-    <title>ASML: Internship - Data Scientist</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462"/>
-    <updated>2026-11-13T06:44:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Wilton, CT, USA · $18–$48/hr · Python, C++, MATLAB, LLMs, Computer Vision · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd</id>
@@ -38,6 +46,14 @@
     <updated>2026-11-13T06:44:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Jose, California, United States · PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462</id>
+    <title>ASML: Internship - Data Scientist</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462"/>
+    <updated>2026-11-13T06:44:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Wilton, CT, USA · $18–$48/hr · Python, C++, MATLAB, LLMs, Computer Vision · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:entegris:/job/Aurora-IL/Power-Platform---Copilot-Studio-Intern---AI---Summer-Intern_REQ-15841</id>
@@ -790,21 +806,5 @@
     <updated>2026-11-06T17:46:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Dallas, Texas, United States · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Customer-Support-Business-Analyst-Intern_R49501</id>
-    <title>Oshkosh: Customer Support AI Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Customer-Support-Business-Analyst-Intern_R49501"/>
-    <updated>2026-11-06T17:46:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · McConnellsburg, Pennsylvania, United States · Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:uhaul:/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909</id>
-    <title>Uhaul: Data Analyst Spring Internship 🛂</title>
-    <link href="https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909"/>
-    <updated>2026-11-06T17:46:28Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Phoenix, Arizona · $17/hr · SQL · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
