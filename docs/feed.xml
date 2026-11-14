@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-13T21:45:22Z</updated>
+  <updated>2026-11-14T15:59:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:postman:/job/San-Francisco-CA-US/AI-Engineer--Intern_JR1000055</id>
+    <title>Postman: AI Engineer, Intern</title>
+    <link href="https://postman.wd108.myworkdayjobs.com/careers/job/San-Francisco-CA-US/AI-Engineer--Intern_JR1000055"/>
+    <updated>2026-11-14T15:59:40Z</updated>
+    <category term="Summer 2026"/>
+    <summary>Summer 2026 · Data &amp; ML/AI · San Francisco, CA, US · Python, TypeScript, PyTorch, LLMs, Docker · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thealleninstitute:8293636</id>
+    <title>The Allen Institute for AI: Research Internship, AI for Neuroscience</title>
+    <link href="https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636"/>
+    <updated>2026-11-14T15:59:40Z</updated>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Data &amp; ML/AI · Seattle, WA · $94.32k/yr · Python · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:martinmarietta:/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1</id>
+    <title>Martin Marietta: Intern, Data Scientist</title>
+    <link href="https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1"/>
+    <updated>2026-11-14T15:59:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Raleigh, NC · Python, SQL, LLMs, AWS, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:martinmarietta:/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146</id>
+    <title>Martin Marietta: Intern, Software Data Integration Engineer</title>
+    <link href="https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146"/>
+    <updated>2026-11-14T15:59:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Raleigh, NC · Python, Java, C#, JavaScript, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161592679</id>
+    <title>ServiceNow: Security Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161592679"/>
+    <updated>2026-11-14T15:59:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161594249</id>
+    <title>ServiceNow: AI Identity Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161594249"/>
+    <updated>2026-11-14T15:59:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:atalanta:52011b21-df9a-4304-81a9-005a79f55335</id>
     <title>Atalanta: Software Engineer Intern 🇺🇸</title>
@@ -30,62 +78,6 @@
     <updated>2026-11-13T21:45:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · New York · LLMs · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717</id>
-    <title>ASML: Internship - EUV Data Science and Analytics</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717"/>
-    <updated>2026-11-13T21:45:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Austin, TX, USA · Python, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Carlisle:3743990016774046</id>
-    <title>Carlisle Companies: AI &amp; Data Science Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Carlisle/3743990016774046"/>
-    <updated>2026-11-13T21:45:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Carlisle, Pennsylvania, , United States · Python, PyTorch, TensorFlow, scikit-learn, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347-1</id>
-    <title>Cmu: Cybersecurity Engineer Intern (Spring 2027)</title>
-    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347-1"/>
-    <updated>2026-11-13T21:45:22Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · Pittsburgh, PA · Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2</id>
-    <title>Cmu: Cyber AI Engineering Intern (Spring 2027) 🛂</title>
-    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2"/>
-    <updated>2026-11-13T21:45:22Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Pittsburgh, PA · Python, C++, Bash · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1</id>
-    <title>Daimler Truck: IT Developer Analyst Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1"/>
-    <updated>2026-11-13T21:45:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Mount Holly, NC US · $21–$29/hr · SQL, Snowflake, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519</id>
-    <title>Fresenius Medical Care: Analytics and AI Business Analyst Co-op</title>
-    <link href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519"/>
-    <updated>2026-11-13T21:45:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Lawrence, MA, USA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:manulife:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405</id>
-    <title>Manulife Financial: Spring Co-op 2027 - Software Engineering Intern</title>
-    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405"/>
-    <updated>2026-11-13T21:45:22Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Boston, Massachusetts · Java, C#, TypeScript, JavaScript, React</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:samsungsemiconductor:8202927003</id>
@@ -112,12 +104,12 @@
     <summary>Not stated · Hardware · San Jose, California, United States · Python, C++</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161550869</id>
-    <title>ServiceNow: Information Security Analyst Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161550869"/>
+    <id>urn:intern-engine:smartrecruiters:Carlisle:3743990016774046</id>
+    <title>Carlisle Companies: AI &amp; Data Science Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Carlisle/3743990016774046"/>
     <updated>2026-11-13T21:45:22Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · San Diego, CALIFORNIA, United States · $45.79/hr · Python, Bash, Linux · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Carlisle, Pennsylvania, , United States · Python, PyTorch, TensorFlow, scikit-learn, Pandas</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161548289</id>
@@ -126,6 +118,62 @@
     <updated>2026-11-13T21:45:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · San Diego, California, United States · $62.89/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161550869</id>
+    <title>ServiceNow: Information Security Analyst Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161550869"/>
+    <updated>2026-11-13T21:45:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · San Diego, CALIFORNIA, United States · $45.79/hr · Python, Bash, Linux · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717</id>
+    <title>ASML: Internship - EUV Data Science and Analytics</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717"/>
+    <updated>2026-11-13T21:45:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Austin, TX, USA · Python, MATLAB</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2</id>
+    <title>Cmu: Cyber AI Engineering Intern (Spring 2027) 🛂</title>
+    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2"/>
+    <updated>2026-11-13T21:45:22Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Pittsburgh, PA · Python, C++, Bash · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347-1</id>
+    <title>Cmu: Cybersecurity Engineer Intern (Spring 2027)</title>
+    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347-1"/>
+    <updated>2026-11-13T21:45:22Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · Pittsburgh, PA · Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dtna:/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1</id>
+    <title>Daimler Truck: IT Developer Analyst Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1"/>
+    <updated>2026-11-13T21:45:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Mount Holly, NC US · $21–$29/hr · SQL, Snowflake, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519</id>
+    <title>Fresenius Medical Care: Analytics and AI Business Analyst Co-op</title>
+    <link href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519"/>
+    <updated>2026-11-13T21:45:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Lawrence, MA, USA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:manulife:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405</id>
+    <title>Manulife Financial: Spring Co-op 2027 - Software Engineering Intern</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405"/>
+    <updated>2026-11-13T21:45:22Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Boston, Massachusetts · Java, C#, TypeScript, JavaScript, React</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:eedu.fa.em3.oraclecloud.com:202607277</id>
@@ -758,53 +806,5 @@
     <updated>2026-11-07T02:36:47Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Software · King of Prussia, PA, US · Python, Java, C++, React, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lilasciences:4480337009</id>
-    <title>Lila Sciences: Co-op, AI for Protein Design</title>
-    <link href="https://job-boards.greenhouse.io/lilasciences/jobs/4480337009"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco, CA USA · Python, PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4725275006</id>
-    <title>SharkNinja: Spring 2027: AI/Sharks Applied AI &amp; Analytics Co-op (January to June)</title>
-    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Needham, MA, United States · Python, SQL, LLMs, AWS, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751907005</id>
-    <title>The New York Times: Full-Stack Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · Python, Java, JavaScript, Kotlin, Scala · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751909005</id>
-    <title>The New York Times: Frontend Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · LLMs, React, HTML/CSS, GraphQL · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751917005</id>
-    <title>The New York Times: Android Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · Kotlin, LLMs · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751919005</id>
-    <title>The New York Times: iOS Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005"/>
-    <updated>2026-11-06T22:38:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · Swift, LLMs · status: closed · H-1B track record: ~52 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

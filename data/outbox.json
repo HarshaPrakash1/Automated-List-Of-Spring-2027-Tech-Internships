@@ -1208,7 +1208,11 @@
       "greenhouse:samsungsemiconductor:8203052003",
       "greenhouse:samsungsemiconductor:8203058003",
       "smartrecruiters:ServiceNow:744000161550869",
-      "smartrecruiters:ServiceNow:744000161548289"
+      "smartrecruiters:ServiceNow:744000161548289",
+      "workday:martinmarietta:/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1",
+      "workday:martinmarietta:/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
+      "smartrecruiters:ServiceNow:744000161592679",
+      "smartrecruiters:ServiceNow:744000161594249"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2418,7 +2422,11 @@
       "greenhouse:samsungsemiconductor:8203052003",
       "greenhouse:samsungsemiconductor:8203058003",
       "smartrecruiters:ServiceNow:744000161550869",
-      "smartrecruiters:ServiceNow:744000161548289"
+      "smartrecruiters:ServiceNow:744000161548289",
+      "workday:martinmarietta:/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1",
+      "workday:martinmarietta:/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
+      "smartrecruiters:ServiceNow:744000161592679",
+      "smartrecruiters:ServiceNow:744000161594249"
     ]
   }
 }
