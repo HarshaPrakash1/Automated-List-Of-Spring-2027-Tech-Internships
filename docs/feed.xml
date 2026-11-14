@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-14T15:59:40Z</updated>
+  <updated>2026-11-14T20:53:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:postman:/job/San-Francisco-CA-US/AI-Engineer--Intern_JR1000055</id>
-    <title>Postman: AI Engineer, Intern</title>
-    <link href="https://postman.wd108.myworkdayjobs.com/careers/job/San-Francisco-CA-US/AI-Engineer--Intern_JR1000055"/>
-    <updated>2026-11-14T15:59:40Z</updated>
-    <category term="Summer 2026"/>
-    <summary>Summer 2026 · Data &amp; ML/AI · San Francisco, CA, US · Python, TypeScript, PyTorch, LLMs, Docker · status: closed</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:thealleninstitute:8293636</id>
     <title>The Allen Institute for AI: Research Internship, AI for Neuroscience</title>
@@ -22,6 +14,22 @@
     <updated>2026-11-14T15:59:40Z</updated>
     <category term="Winter 2026"/>
     <summary>Winter 2026 · Data &amp; ML/AI · Seattle, WA · $94.32k/yr · Python · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161592679</id>
+    <title>ServiceNow: Security Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161592679"/>
+    <updated>2026-11-14T15:59:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161594249</id>
+    <title>ServiceNow: AI Identity Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161594249"/>
+    <updated>2026-11-14T15:59:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:martinmarietta:/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1</id>
@@ -40,20 +48,12 @@
     <summary>Not stated · Data &amp; ML/AI · Raleigh, NC · Python, Java, C#, JavaScript, SQL</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161592679</id>
-    <title>ServiceNow: Security Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161592679"/>
+    <id>urn:intern-engine:workday:postman:/job/San-Francisco-CA-US/AI-Engineer--Intern_JR1000055</id>
+    <title>Postman: AI Engineer, Intern</title>
+    <link href="https://postman.wd108.myworkdayjobs.com/careers/job/San-Francisco-CA-US/AI-Engineer--Intern_JR1000055"/>
     <updated>2026-11-14T15:59:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161594249</id>
-    <title>ServiceNow: AI Identity Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161594249"/>
-    <updated>2026-11-14T15:59:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+    <category term="Summer 2026"/>
+    <summary>Summer 2026 · Data &amp; ML/AI · San Francisco, CA, US · Python, TypeScript, PyTorch, LLMs, Docker · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:atalanta:52011b21-df9a-4304-81a9-005a79f55335</id>
