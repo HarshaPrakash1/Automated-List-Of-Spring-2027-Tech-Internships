@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-15T15:00:39Z",
- "data_as_of": "2026-11-15T15:00:39Z",
- "rendered_at": "2026-11-15T15:00:39Z",
+ "generated_at": "2026-11-15T20:34:31Z",
+ "data_as_of": "2026-11-15T20:34:31Z",
+ "rendered_at": "2026-11-15T20:34:32Z",
  "source": "https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 496,
+ "count": 490,
  "jobs": [
   {
    "id": "oracle:eppr.fa.us2.oraclecloud.com:203746",
@@ -7323,60 +7323,6 @@
    "remote": false
   },
   {
-   "id": "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
-   "company": "General Motors",
-   "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Sunnyvale, California, United States of America",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
-   "posted_at": "2026-10-14T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-14T17:18:54Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "SQL",
-    "Kubernetes"
-   ],
-   "source": "workday",
-   "h1b_approvals": 928,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
-   "company": "General Motors",
-   "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Sunnyvale, California, United States of America",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
-   "posted_at": "2026-10-14T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-14T17:18:54Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "Kubernetes",
-    "Hadoop"
-   ],
-   "source": "workday",
-   "h1b_approvals": 928,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:wustl:/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1",
    "company": "Wustl",
    "title": "Data Analyst - Emergency Management Intern (PRN) - Enterprise Physical Operations",
@@ -10676,34 +10622,6 @@
    "remote": false
   },
   {
-   "id": "workday:micron:/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
-   "company": "Micron Technology",
-   "title": "Intern - IT Software Engineer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Boise, ID - Main Site",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
-   "posted_at": "2026-09-14T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-14T19:27:45Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C#",
-    "JavaScript",
-    "SQL",
-    "Snowflake",
-    "Tableau"
-   ],
-   "source": "workday",
-   "h1b_approvals": 489,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "greenhouse:klaviyocampus:7989365003",
    "company": "Klaviyo",
    "title": "Software Engineer Co-op (Spring 2027)",
@@ -10998,34 +10916,6 @@
    "remote": false
   },
   {
-   "id": "workday:avav:/job/Melbourne-FL/Software-Engineering-Intern_8613",
-   "company": "Avav",
-   "title": "Software Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Melbourne, FL",
-   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Melbourne-FL/Software-Engineering-Intern_8613",
-   "posted_at": "2026-09-10T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-10T20:17:02Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "Bash",
-    "Linux",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:sanofi:/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Bioinformatic-Digital-Data-Scientist---Global-Immunology--Waltham--MA_R2854604",
    "company": "Sanofi",
    "title": "2027 Spring Co-op Bioinformatic Digital Data Scientist - Global Immunology, Waltham, MA",
@@ -11069,32 +10959,6 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Internship / Co-op",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:rocketlab:7989724003",
-   "company": "Rocket Lab",
-   "title": "Flight Software Intern Spring 2027",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Littleton, CO",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989724003",
-   "posted_at": "2026-09-09T18:48:43-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-10T00:20:22Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++",
-    "Rust",
-    "Git"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
    "remote": false
   },
   {
@@ -11188,29 +11052,6 @@
    ],
    "source": "workable",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
-   "company": "Applied Materials",
-   "title": "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
-   "season": "Spring 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Santa Clara,CA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
-   "posted_at": "2026-09-08T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-09T19:45:14Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "C++"
-   ],
-   "source": "workday",
-   "h1b_approvals": 650,
    "program": "Internship",
    "remote": false
   },
