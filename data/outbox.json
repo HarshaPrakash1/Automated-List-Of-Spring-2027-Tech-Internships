@@ -1212,7 +1212,8 @@
       "workday:martinmarietta:/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1",
       "workday:martinmarietta:/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
       "smartrecruiters:ServiceNow:744000161592679",
-      "smartrecruiters:ServiceNow:744000161594249"
+      "smartrecruiters:ServiceNow:744000161594249",
+      "oracle:eppr.fa.us2.oraclecloud.com:203746"
     ],
     "telegram": [
       "lever:acds:01fdf41b-a835-4e00-8d01-0275677a8f08",
@@ -2426,7 +2427,8 @@
       "workday:martinmarietta:/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1",
       "workday:martinmarietta:/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
       "smartrecruiters:ServiceNow:744000161592679",
-      "smartrecruiters:ServiceNow:744000161594249"
+      "smartrecruiters:ServiceNow:744000161594249",
+      "oracle:eppr.fa.us2.oraclecloud.com:203746"
     ]
   }
 }

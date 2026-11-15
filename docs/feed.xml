@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://harshaprakash1.github.io/Automated-List-Of-Spring-2027-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships"/>
-  <updated>2026-11-15T00:29:32Z</updated>
+  <updated>2026-11-15T07:21:22Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HarshaPrakash1/Automated-List-Of-Spring-2027-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:eppr.fa.us2.oraclecloud.com:203746</id>
+    <title>Northwell Health: Emerging Technology &amp; AI Internship</title>
+    <link href="https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203746"/>
+    <updated>2026-11-15T07:21:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New Hyde Park, Nassau, United States · H-1B track record: ~149 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:thealleninstitute:8293636</id>
     <title>The Allen Institute for AI: Research Internship, AI for Neuroscience</title>
@@ -798,13 +806,5 @@
     <updated>2026-11-07T02:36:47Z</updated>
     <category term="Spring 2027"/>
     <summary>Spring 2027 · Data &amp; ML/AI · King of Prussia, PA, US · Python, Java, C++, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:caci:/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665</id>
-    <title>CACI: Software Engineering Co-op - Spring 2027</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665"/>
-    <updated>2026-11-07T02:36:47Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · King of Prussia, PA, US · Python, Java, C++, React, AWS</summary>
   </entry>
 </feed>
